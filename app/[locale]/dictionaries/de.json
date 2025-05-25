@@ -1,0 +1,1278 @@
+{
+  "navigation": {
+    "pechhulp": "Pannenhilfe",
+    "diensten": "Dienstleistungen",
+    "faq": "FAQ",
+    "contact": "Kontakt"
+  },
+  "pechhulp": {
+    "title": "Pannenhilfe Deutschland - 24/7 Mobile Hilfe bei Autopannen",
+    "description": "Zuverlässige und schnelle Pannenhilfe ohne Abonnement. Rund um die Uhr in ganz Deutschland verfügbar. Reifenpanne, leere Batterie oder Abschleppdienst benötigt? Wir sind für Sie da.",
+    "seo": {
+      "title": "Pannenhilfe & Abschleppdienst Europa - 24/7 Zuverlässige Hilfe | Mobile Hilfe",
+      "description": "Professionelle Pannenhilfe und Abschleppdienst in ganz Europa. Rund um die Uhr verfügbar, schnelle Reaktion, keine Abonnementkosten. Rufen Sie direkt für Hilfe bei Autopannen an.",
+      "keywords": "pannenhilfe europa, abschleppdienst europa, autopanne europa, 24/7 pannenhilfe, internationale pannenhilfe, auto abschleppen europa, pannenservice europa, mobile hilfe europa",
+      "imageAlt": "Pannenhilfe und Abschleppdienst Europa"
+    },
+    "hero": {
+      "badge": "Pannenhilfe & Abschleppdienst",
+      "title": {
+        "part1": "Pannenhilfe & Abschleppdienst",
+        "part2": "In ganz Europa"
+      },
+      "subtitle": "Zuverlässige 24/7 Pannenhilfe und Abschleppdienst in ganz Europa. Schnelle Reaktion, professioneller Service und transparente Preise ohne versteckte Kosten.",
+      "phone": "0852502928",
+      "cta": "085-250 29 28",
+      "whatsapp": "WhatsApp Hilfe"
+    },
+    "features": {
+      "title": "Warum unsere Pannenhilfe wählen?",
+      "subtitle": "Mit jahrelanger Erfahrung und einem Netzwerk in ganz Europa bieten wir die zuverlässigste Pannenhilfe und den besten Abschleppdienst für jede Situation.",
+      "items": [
+        {
+          "title": "24/7 verfügbar",
+          "description": "Tag und Nacht erreichbar für all Ihre Pannenhilfe-Bedürfnisse"
+        },
+        {
+          "title": "Ganz Europa",
+          "description": "Service in ganz Europa, von Deutschland bis Spanien"
+        },
+        {
+          "title": "Zuverlässig",
+          "description": "Zertifizierte Mechaniker und moderne Abschleppwagen"
+        },
+        {
+          "title": "Reparatur vor Ort",
+          "description": "Oft können wir Ihr Auto direkt vor Ort reparieren"
+        }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Komplette Pannenhilfe & Abschleppdienst",
+      "imageAlt": "Pannenhilfe und Abschleppdienst Europa",
+      "items": [
+        {
+          "title": "Pannenhilfe & Abschleppdienst Europa",
+          "description": "Pannenhilfe bietet schnelle, zuverlässige Pannenhilfe ohne Abonnements oder versteckte Kosten, mit 24/7 Service in Deutschland und Europa."
+        },
+        {
+          "title": "Bergung aus Schlamm, Sand oder Objekt",
+          "description": "Pannenhilfe bietet 24/7 professionelle Unterstützung für die sichere und effiziente Befreiung von Fahrzeugen, die in Schlamm, Sand oder an einem Objekt feststecken."
+        },
+        {
+          "title": "Batterieservice",
+          "description": "Wir bieten schnelle und zuverlässige Batteriehilfe, damit Ihr Fahrzeug im Handumdrehen wieder betriebsbereit ist, unabhängig vom Batterieproblem."
+        }
+      ]
+    },
+    "coverage": {
+      "title": "Service in ganz Europa",
+      "description": "Unsere Pannenhilfe und unser Abschleppdienst sind in allen wichtigen europäischen Ländern verfügbar. Wo immer Sie sind, wir kommen Ihnen zu Hilfe.",
+      "areas": [
+        "Deutschland",
+        "Belgien",
+        "Niederlande",
+        "Frankreich",
+        "Spanien",
+        "Italien",
+        "Österreich",
+        "Schweiz",
+        "Polen",
+        "Tschechische Republik",
+        "Dänemark",
+        "Schweden"
+      ],
+      "badge": "Servicegebiet",
+      "button": {
+        "locations": "Alle Standorte",
+        "info": "Weitere Informationen",
+        "countries": "Länder anzeigen"
+      },
+      "europe": {
+        "title": "Hilfe auch in Europa",
+        "description": "Ob Sie im Urlaub sind oder auf dem Heimweg, wir bieten auch Unterstützung in vielen europäischen Ländern.",
+        "features": [
+          "Deutschsprachige Hilfe",
+          "Schnelle Reaktionszeit",
+          "Lokale Partner"
+        ]
+      }
+    },
+    "locatiesectie": {
+      "title": "Teilen Sie Ihren Standort für schnelle Hilfe",
+      "description": "Durch das Teilen Ihres Standorts können wir Sie noch schneller finden und Ihnen helfen. Unsere Mechaniker nutzen GPS, um den kürzesten Weg zu Ihnen zu finden.",
+      "imageAlt": "Standort teilen für Pannenhilfe",
+      "button": "Standort teilen"
+    },
+    "emergency": {
+      "title": "Autopanne? Rufen Sie direkt an!",
+      "subtitle": "24/7 verfügbar für Pannenhilfe und Abschleppdienst in ganz Europa. Keine Wartezeiten, direkte Hilfe.",
+      "phone": "0852502928",
+      "phoneSubtitle": "Direkt mit unserer Einsatzzentrale verbunden",
+      "stats": [
+        {
+          "value": "< 30 min",
+          "label": "Durchschnittliche Reaktionszeit"
+        },
+        {
+          "value": "24/7",
+          "label": "Immer verfügbar"
+        },
+        {
+          "value": "€0",
+          "label": "Keine Abonnementkosten"
+        }
+      ],
+      "step": "Schritt",
+      "steps": [
+        "Rufen Sie uns über die Notrufnummer an",
+        "Teilen Sie Ihren Standort mit",
+        "Wir kommen direkt zu Ihnen",
+        "Hilfe trifft schnell vor Ort ein"
+      ]
+    },
+    "servicegrid": {
+      "title": "Unsere Pannenhilfe-Dienstleistungen",
+      "subtitle": "Wir spezialisieren uns auf direkte, mobile Hilfe bei Pannen. Von Reifenservice bis Abschleppen – wir sind 24/7 verfügbar, um Sie wieder auf die Straße zu bringen.",
+      "items": [
+        {
+          "title": "Pannenhilfe & Abschleppdienst Europa",
+          "description": "Pannenhilfe bietet schnelle, zuverlässige Pannenhilfe ohne Abonnements oder versteckte Kosten, mit 24/7 Service in Deutschland und Europa.",
+          "button": "Mehr lesen",
+          "image": "/services/1.jpg",
+          "href": "/diensten/pechhulp-en-sleepdienst-europa"
+        },
+        {
+          "title": "Bergung aus Schlamm, Sand oder Objekt",
+          "description": "Pannenhilfe bietet 24/7 professionelle Unterstützung für die sichere und effiziente Befreiung von Fahrzeugen, die in Schlamm, Sand oder an einem Objekt feststecken.",
+          "button": "Mehr lesen",
+          "image": "/services/2.jpg",
+          "href": "/diensten/uit-modder-zand-of-object-slepen"
+        },
+        {
+          "title": "Batterieservice",
+          "description": "Wir bieten schnelle und zuverlässige Batteriehilfe, damit Ihr Fahrzeug im Handumdrehen wieder betriebsbereit ist, unabhängig vom Batterieproblem.",
+          "button": "Mehr lesen",
+          "image": "/services/3.jpg",
+          "href": "/diensten/accu-service"
+        },
+        {
+          "title": "Autotransport",
+          "description": "Unser Autotransport-Service sorgt dafür, dass Ihr Fahrzeug schnell und sicher an den vereinbarten Ort geliefert wird. Lassen Sie uns für Sie sorgen.",
+          "button": "Mehr lesen",
+          "image": "/services/4.jpg",
+          "href": "/diensten/auto-transport"
+        },
+        {
+          "title": "Reifenpanne",
+          "description": "Unser Reifenpannen-Service bietet schnelle, zuverlässige und professionelle Hilfe, wo immer Sie sind – zu Hause, bei der Arbeit oder unterwegs.",
+          "button": "Mehr lesen",
+          "image": "/services/5.png",
+          "href": "/diensten/lekke-band"
+        },
+        {
+          "title": "Autoeinlagerung 24/7",
+          "description": "Unser Autoeinlagerungs- und Parkservice bietet sichere und zuverlässige Lösungen für die vorübergehende Unterbringung und Wartung Ihres Fahrzeugs nach einem Unfall oder während einer Reise.",
+          "button": "Mehr lesen",
+          "image": "/services/6.png",
+          "href": "/diensten/autoberging-247"
+        }
+      ]
+    },
+    "locatiebutton": {
+      "sendLocation": "Standort teilen",
+      "loading": "Wird geladen...",
+      "confirmSend": "Erneut klicken zum Senden",
+      "errors": {
+        "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+        "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+      }
+    },
+    "feature": {
+      "sectionLabel": "Abschleppdienst & Pannenhilfe",
+      "title": "Schnelle Pannenhilfe und zuverlässiger Abschleppdienst bei Autopannen",
+      "subtitle": "Immer verfügbar, Tag und Nacht",
+      "description": "Haben Sie eine Autopanne oder stecken Sie mit einem defekten Auto am Straßenrand fest? Unser professioneller Abschleppdienst ist 24/7 für direkte Pannenhilfe verfügbar. Mit modernen Abschleppwagen und Echtzeit-Standortverfolgung sind wir schnell vor Ort, um Ihnen sicher und effizient zu helfen. Ob leere Batterie, Reifenpanne oder schwerer Motorschaden – wir sorgen dafür, dass Sie schnell wieder auf die Straße kommen.",
+      "button": "Entdecken Sie unsere Pannenhilfe"
+    },
+    "services": {
+      "title": "Unsere Pannenhilfe-Dienstleistungen",
+      "subtitle": "Immer mobil erreichbar, wo immer Sie sind – wir lösen es.",
+      "roadside": {
+        "title": "Pannenhilfe & Abschleppdienst Europa",
+        "description": "Pannenhilfe bietet schnelle, zuverlässige Pannenhilfe ohne Abonnements oder versteckte Kosten, mit 24/7 Service in Deutschland und Europa.",
+        "features": [
+          "Kein Abonnement",
+          "Vor Ort innerhalb von 30 Minuten",
+          "24/7 verfügbar"
+        ]
+      },
+      "recovery": {
+        "title": "Bergung aus Schlamm, Sand oder Objekt",
+        "description": "Pannenhilfe bietet 24/7 professionelle Unterstützung für die sichere und effiziente Befreiung von Fahrzeugen, die in Schlamm, Sand oder an einem Objekt feststecken.",
+        "features": [
+          "Sichere Befreiung",
+          "Erfahrenes Team",
+          "Schnelle Reaktion"
+        ]
+      },
+      "battery": {
+        "title": "Batterieservice",
+        "description": "Wir bieten schnelle und zuverlässige Batteriehilfe, damit Ihr Fahrzeug im Handumdrehen wieder betriebsbereit ist, unabhängig vom Batterieproblem.",
+        "features": [
+          "Neue Batterien vor Ort",
+          "Professioneller Austausch",
+          "Schnell wieder fahren"
+        ]
+      },
+      "transport": {
+        "title": "Autotransport",
+        "description": "Unser Autotransport-Service sorgt dafür, dass Ihr Fahrzeug schnell und sicher an den vereinbarten Ort geliefert wird. Lassen Sie uns für Sie sorgen.",
+        "features": [
+          "National & international",
+          "Gesicherter Transport",
+          "Schneller Service"
+        ]
+      },
+      "tire": {
+        "title": "Reifenpanne",
+        "description": "Unser Reifenpannen-Service bietet schnelle, zuverlässige und professionelle Hilfe, wo immer Sie sind – zu Hause, bei der Arbeit oder unterwegs.",
+        "features": [
+          "Austausch vor Ort",
+          "Ersatzreifen-Installation",
+          "24/7 verfügbar"
+        ]
+      },
+      "storage": {
+        "title": "Autoeinlagerung 24/7",
+        "description": "Unser Autoeinlagerungs- und Parkservice bietet sichere und zuverlässige Lösungen für die vorübergehende Unterbringung und Wartung Ihres Fahrzeugs nach einem Unfall oder während einer Reise.",
+        "features": [
+          "Lagerung verfügbar",
+          "Gesicherte Standorte",
+          "Sicherer Transport"
+        ]
+      }
+    },
+    "process": {
+      "badge": "Wie es funktioniert",
+      "title": "Wie unser Pannenhilfe-Service funktioniert",
+      "subtitle": "In wenigen Schritten sind Sie sicher wieder unterwegs.",
+      "step1": {
+        "title": "Rufen Sie uns direkt an",
+        "description": "Kontaktieren Sie unsere Hotline 24/7."
+      },
+      "step2": {
+        "title": "Wir kommen zu Ihnen",
+        "description": "Unser Team verfolgt Ihren Standort und trifft schnell ein."
+      },
+      "step3": {
+        "title": "Schnelle Hilfe",
+        "description": "Wir lösen das Problem vor Ort oder organisieren den Transport."
+      },
+      "step4": {
+        "title": "Sicher wieder auf der Straße",
+        "description": "Sie können wieder sorgenfrei fahren."
+      }
+    },
+    "why": {
+      "badge": "Warum uns wählen",
+      "title": "Zuverlässige Hilfe, immer in der Nähe",
+      "subtitle": "Mehr als 50.000 Kunden vertrauen auf unsere Expertise und Geschwindigkeit.",
+      "reasons": [
+        {
+          "title": "24/7 Verfügbarkeit",
+          "description": "Unsere Hilfe ist Tag und Nacht verfügbar, 365 Tage im Jahr."
+        },
+        {
+          "title": "Vollversichert",
+          "description": "Alle unsere Dienstleistungen sind vollversichert für Ihre Ruhe."
+        },
+        {
+          "title": "Großes Netzwerk",
+          "description": "Wir sind in ganz Deutschland mit lokalen Partnern aktiv."
+        },
+        {
+          "title": "Erfahrenes Team",
+          "description": "Unsere Mechaniker und Fahrer sind zertifiziert und professionell."
+        }
+      ],
+      "cards": [
+        {
+          "title": "98% Zufriedenheit",
+          "subtitle": "Basierend auf Bewertungen",
+          "description": "Kunden schätzen unseren schnellen Service und klare Kommunikation."
+        },
+        {
+          "title": "Schnelle Reaktionszeit",
+          "subtitle": "Durchschnitt < 30 Min",
+          "description": "Wir sind immer in der Nähe und handeln schnell."
+        },
+        {
+          "title": "Erschwinglich",
+          "subtitle": "Ohne Abonnement",
+          "description": "Keine versteckten Kosten oder Abonnements erforderlich."
+        }
+      ]
+    },
+    "testimonials": {
+      "badge": "Bewertungen",
+      "title": "Was Kunden sagen",
+      "subtitle": "Echte Erfahrungen von zufriedenen Kunden.",
+      "reviews": [
+        {
+          "name": "Sander",
+          "location": "Amsterdam",
+          "text": "Innerhalb von 20 Minuten war der Mechaniker vor Ort. Wirklich Top-Service!"
+        },
+        {
+          "name": "Marieke",
+          "location": "Utrecht",
+          "text": "Meine Batterie war leer. Dank Pannenhilfe Deutschland konnte ich schnell wieder fahren."
+        },
+        {
+          "name": "Timo",
+          "location": "Rotterdam",
+          "text": "Gute Kommunikation, freundlicher Service und erschwinglich. Sehr empfehlenswert!"
+        }
+      ]
+    },
+    "faq": {
+      "badge": "Häufig gestellte Fragen",
+      "title": "Pannenhilfe FAQ",
+      "subtitle": "Alles, was Sie über unsere Dienstleistungen wissen möchten.",
+      "questions": [
+        {
+          "question": "Ist Pannenhilfe ohne Abonnement möglich?",
+          "answer": "Ja, wir arbeiten ohne Abonnement. Sie zahlen nur, wenn Sie unsere Hilfe benötigen."
+        },
+        {
+          "question": "Wie schnell ist Ihre Reaktionszeit?",
+          "answer": "Im Durchschnitt sind wir innerhalb von 30 Minuten vor Ort, abhängig von Ihrem Standort."
+        },
+        {
+          "question": "In welchen europäischen Ländern bieten Sie Hilfe?",
+          "answer": "Wir bieten Unterstützung unter anderem in Belgien, Deutschland, Frankreich und Luxemburg."
+        }
+      ],
+      "other": "Ist Ihre Frage nicht aufgeführt?",
+      "contact": "Kontaktieren Sie uns"
+    },
+    "cta": {
+      "title": "Benötigen Sie direkte Hilfe bei einer Panne?",
+      "subtitle": "Rufen Sie uns an oder senden Sie eine Nachricht – wir sind direkt für Sie da.",
+      "email": "Schreiben Sie uns",
+      "features": [
+        "Immer verfügbar",
+        "Versicherter Service",
+        "Höchste Kundenzufriedenheit"
+      ]
+    }
+  },
+  "modderslepen": {
+    "seo": {
+      "title": "Bergung aus Schlamm, Sand oder Objekt - 24/7 Professionelle Hilfe | Mobile Hilfe",
+      "description": "Professionelle Hilfe für Fahrzeuge, die in Schlamm, Sand oder an Objekten feststecken. 24/7 verfügbar, erfahrenes Team, sichere Techniken. Direkte Hilfe für alle Fahrzeuge.",
+      "keywords": "schlammbergung, sandbergung, festgefahrenes fahrzeug, fahrzeugbefreiung, 24/7 hilfe, abschleppdienst, professionelle hilfe, sichere bergung",
+      "imageAlt": "Professionelle Schlammbergungs-Hilfe"
+    },
+    "hero": {
+      "badge": "Fahrzeugbergung",
+      "title": {
+        "part1": "Bergung aus Schlamm, Sand",
+        "part2": "oder Objekt"
+      },
+      "subtitle": "Professionelle 24/7 Hilfe für die sichere und effiziente Befreiung von Fahrzeugen, die in Schlamm, Sand oder an Objekten feststecken. Erfahrenes Team mit spezieller Ausrüstung.",
+      "phone": "0852502928",
+      "cta": "085-250 29 28",
+      "whatsapp": "WhatsApp Hilfe"
+    },
+    "features": {
+      "title": "Warum unseren Bergungsservice?",
+      "subtitle": "Mit spezieller Ausrüstung und jahrelanger Erfahrung befreien wir sicher und effizient jedes Fahrzeug, das in Schlamm, Sand oder an Objekten feststeckt.",
+      "items": [
+        {
+          "title": "Spezielle Ausrüstung",
+          "description": "Moderne Winden, Hebezeuge und Bergungstechnik für jede Situation"
+        },
+        {
+          "title": "Sichere Techniken",
+          "description": "Professionelle Methoden, die Schäden an Ihrem Fahrzeug verhindern"
+        },
+        {
+          "title": "Erfahrene Spezialisten",
+          "description": "Zertifizierte Mechaniker mit jahrelanger Erfahrung in der Fahrzeugbergung"
+        },
+        {
+          "title": "Schnelle Reaktion",
+          "description": "Vor Ort innerhalb von 30 Minuten mit der richtigen Ausrüstung"
+        }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Professionelle Fahrzeugbergung",
+      "imageAlt": "Professionelle Fahrzeugbergung aus Schlamm",
+      "items": [
+        {
+          "title": "Schlammbergung",
+          "description": "Sichere Befreiung von Fahrzeugen, die in Schlamm oder Lehm feststecken, mit professioneller Windentechnik."
+        },
+        {
+          "title": "Sandbefreiung",
+          "description": "Spezialisierte Hilfe für Fahrzeuge, die in Sand, Strand oder weichem Boden einsinken."
+        },
+        {
+          "title": "Objektentfernung",
+          "description": "Befreiung von Fahrzeugen, die an Pfählen, Felsen oder anderen Hindernissen feststecken."
+        }
+      ]
+    },
+    "situations": {
+      "title": "Situationen, in denen wir helfen",
+      "description": "Von leichten Personenwagen bis schweren Lkw - wir haben die richtige Ausrüstung und Expertise für jede Situation, in der Ihr Fahrzeug feststeckt.",
+      "items": [
+        {
+          "title": "Im Schlamm festgefahren",
+          "description": "Autos, Transporter und Lkw, die in schlammigen Straßen oder Feldern einsinken"
+        },
+        {
+          "title": "Sand & Strand",
+          "description": "Fahrzeuge, die im Sand an Stränden, Dünen oder Baustellen feststecken"
+        },
+        {
+          "title": "Schnee & Eis",
+          "description": "Bergung aus Schnee, Eis oder gefrorenem Boden bei Winterbedingungen"
+        },
+        {
+          "title": "Gräben & Löcher",
+          "description": "Hilfe für Fahrzeuge, die in Gräben, Löchern oder anderen Vertiefungen landen"
+        },
+        {
+          "title": "Weicher Boden",
+          "description": "Befreiung von Fahrzeugen, die in Gras, Felder oder unbefestigte Straßen einsinken"
+        },
+        {
+          "title": "Hindernisse",
+          "description": "Befreiung von Fahrzeugen, die an Pfählen, Felsen oder anderen Objekten feststecken"
+        }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Teilen Sie Ihren Standort für schnelle Hilfe",
+      "description": "Stecken Sie in Schlamm, Sand oder an einem Objekt fest? Teilen Sie Ihren genauen Standort, damit unsere Spezialisten Sie so schnell wie möglich mit der richtigen Ausrüstung finden und Ihnen helfen können.",
+      "imageAlt": "Standort teilen für Bergungshilfe"
+    },
+    "emergency": {
+      "title": "Festgesteckt? Rufen Sie direkt an!",
+      "subtitle": "24/7 verfügbar für professionelle Hilfe bei festgefahrenen Fahrzeugen. Spezielle Ausrüstung und erfahrenes Team.",
+      "phone": "0852502928",
+      "phoneSubtitle": "Direkt mit unseren Spezialisten verbunden",
+      "stats": [
+        {
+          "value": "< 30 min",
+          "label": "Reaktionszeit"
+        },
+        {
+          "value": "100%",
+          "label": "Erfolgreich befreit"
+        },
+        {
+          "value": "24/7",
+          "label": "Immer verfügbar"
+        }
+      ]
+    },
+    "locatiebutton": {
+      "sendLocation": "Standort teilen",
+      "loading": "Wird geladen...",
+      "confirmSend": "Erneut klicken zum Senden",
+      "errors": {
+        "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+        "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+      }
+    }
+  },
+  "footer": {
+    "brandName": "Pannenhilfe Deutschland",
+    "description": "Ihr zuverlässiger Partner für Pannenhilfe und Abschleppdienst in ganz Europa. 24/7 verfügbar für alle Autopannen-Situationen.",
+    "rating": "4.9/5 (2,847 Bewertungen)",
+    "availability": "24/7 verfügbar",
+    "serviceArea": "Ganz Europa",
+    "email": "info@mobielehulp.nl",
+    "servicesTitle": "Unsere Dienstleistungen",
+    "contactTitle": "Kontakt & Info",
+    "services": {
+      "roadside": "Pannenhilfe",
+      "towing": "Abschleppdienst",
+      "battery": "Batterieservice",
+      "tire": "Reifenpanne",
+      "transport": "Autotransport",
+      "storage": "Autoeinlagerung"
+    },
+    "links": {
+      "privacy": "Datenschutzerklärung",
+      "terms": "Allgemeine Geschäftsbedingungen",
+      "sitemap": "Sitemap"
+    },
+    "copyright": "© 2025 Pannenhilfe Deutschland. Alle Rechte vorbehalten."
+  },
+  "services": {
+    "badge": "Was wir tun",
+    "moreInfo": "Mehr lesen"
+  },
+  "accuservice": {
+    "seo": {
+      "title": "Batterieservice - 24/7 Professionelle Batteriehilfe | Mobile Hilfe",
+      "description": "Schnelle und zuverlässige Batteriehilfe für alle Fahrzeuge. 24/7 verfügbar, neue Batterien vor Ort, professioneller Austausch. Direkte Hilfe bei leerer Batterie.",
+      "keywords": "batterieservice, leere batterie, batterieaustausch, startprobleme, batteriehilfe, 24/7 service, mobiler batterieservice, autobatterie",
+      "imageAlt": "Professioneller Batterieservice"
+    },
+    "hero": {
+      "badge": "Batterieservice",
+      "title": {
+        "part1": "Batterieservice",
+        "part2": "24/7 Batteriehilfe"
+      },
+      "subtitle": "Schnelle und zuverlässige Batteriehilfe, damit Ihr Fahrzeug im Handumdrehen wieder betriebsbereit ist. Neue Batterien vor Ort, professioneller Austausch und direkte Hilfe bei Startproblemen.",
+      "phone": "0852502928",
+      "cta": "085-250 29 28",
+      "whatsapp": "WhatsApp Hilfe"
+    },
+    "features": {
+      "title": "Warum unseren Batterieservice?",
+      "subtitle": "Mit hochwertigen Batterien und professioneller Ausrüstung sorgen wir dafür, dass Ihr Fahrzeug schnell wieder anspringt. Von der Diagnose bis zum Austausch - alles vor Ort.",
+      "items": [
+        {
+          "title": "Schnelle Diagnose",
+          "description": "Moderne Testgeräte für genaue Batterie- und Ladesystem-Überprüfung"
+        },
+        {
+          "title": "Qualitätsbatterien",
+          "description": "Hochwertige Batterien von bekannten Marken für langanhaltende Zuverlässigkeit"
+        },
+        {
+          "title": "Service vor Ort",
+          "description": "Kompletter Batterieaustausch und -einbau direkt an Ihrem Standort"
+        },
+        {
+          "title": "24/7 verfügbar",
+          "description": "Tag und Nacht verfügbar für akute Batterieprobleme"
+        }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Kompletter Batterieservice",
+      "imageAlt": "Professioneller Batterieservice",
+      "items": [
+        {
+          "title": "Batteriediagnose",
+          "description": "Professionelle Prüfung Ihrer Batterie und des Ladesystems zur Bestimmung der genauen Ursache von Startproblemen."
+        },
+        {
+          "title": "Batterieaustausch",
+          "description": "Schneller Austausch mit hochwertigen Batterien vor Ort, inklusive Entsorgung der alten Batterie."
+        },
+        {
+          "title": "Startproblem-Lösung",
+          "description": "Hilfe bei Startproblemen durch leere Batterie, defekte Lichtmaschine oder andere elektrische Ausfälle."
+        }
+      ]
+    },
+    "situations": {
+      "title": "Batterieprobleme, die wir lösen",
+      "description": "Von einer leeren Batterie bis zum kompletten Batterieaustausch - wir haben die Expertise und Ausrüstung für alle batteriebezogenen Probleme Ihres Fahrzeugs.",
+      "items": [
+        {
+          "title": "Leere Batterie",
+          "description": "Auto springt nicht mehr an wegen komplett leerer Batterie - wir bringen Ihr Fahrzeug wieder zum Laufen"
+        },
+        {
+          "title": "Alte Batterie",
+          "description": "Batterie hält keine Ladung mehr und muss ausgetauscht werden"
+        },
+        {
+          "title": "Defekte Lichtmaschine",
+          "description": "Ladesystem funktioniert nicht ordnungsgemäß, sodass die Batterie nicht geladen wird"
+        },
+        {
+          "title": "Kaltstartprobleme",
+          "description": "Fahrzeug startet im Winter schwer aufgrund geschwächter Batterieleistung"
+        },
+        {
+          "title": "Elektrische Ausfälle",
+          "description": "Probleme mit Beleuchtung, Radio oder anderen elektrischen Komponenten"
+        },
+        {
+          "title": "Batterieleckage",
+          "description": "Batterie leckt Säure oder ist beschädigt und muss sofort ausgetauscht werden"
+        }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Teilen Sie Ihren Standort für schnelle Hilfe",
+      "description": "Springt Ihr Auto nicht mehr an? Teilen Sie Ihren genauen Standort, damit unsere Batterie-Spezialisten Sie so schnell wie möglich mit der richtigen Ausrüstung und neuen Batterien finden und Ihnen helfen können.",
+      "imageAlt": "Standort teilen für Batteriehilfe"
+    },
+    "emergency": {
+      "title": "Auto springt nicht an? Rufen Sie direkt an!",
+      "subtitle": "24/7 verfügbar für professionelle Batteriehilfe. Neue Batterien vor Ort, schnelle Diagnose und direkt wieder fahren.",
+      "phone": "0852502928",
+      "phoneSubtitle": "Direkt mit unseren Batterie-Spezialisten verbunden",
+      "stats": [
+        {
+          "value": "< 20 min",
+          "label": "Durchschnittliche Reaktionszeit"
+        },
+        {
+          "value": "95%",
+          "label": "Direkt gelöst"
+        },
+        {
+          "value": "24/7",
+          "label": "Immer verfügbar"
+        }
+      ]
+    },
+    "pechservice": {
+      "items": [
+        {
+          "title": "Pannenhilfe & Abschleppdienst Europa",
+          "href": "/diensten/pechhulp-en-sleepdienst-europa"
+        },
+        {
+          "title": "Bergung aus Schlamm, Sand oder Objekt",
+          "href": "/diensten/uit-modder-zand-of-object-slepen"
+        },
+        {
+          "title": "Batterieservice",
+          "href": "/diensten/accu-service"
+        },
+        {
+          "title": "Autotransport",
+          "href": "/diensten/auto-transport"
+        },
+        {
+          "title": "Reifenpanne",
+          "href": "/diensten/lekke-band"
+        },
+        {
+          "title": "Autoeinlagerung 24/7",
+          "href": "/diensten/autoberging-247"
+        }
+      ]
+    },
+    "locatiebutton": {
+      "sendLocation": "Standort teilen",
+      "loading": "Wird geladen...",
+      "confirmSend": "Erneut klicken zum Senden",
+      "errors": {
+        "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+        "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+      }
+    }
+  },
+  "autotransport": {
+    "seo": {
+      "title": "Autotransport - 24/7 Zuverlässiger Fahrzeugtransport | Mobile Hilfe",
+      "description": "Professioneller Autotransport-Service für nationalen und internationalen Transport. Sicher, schnell und zuverlässiger Transport Ihres Fahrzeugs an jeden gewünschten Ort.",
+      "keywords": "autotransport, fahrzeugtransport, nationaler transport, internationaler transport, autoverschiffung, fahrzeugbeförderung, zuverlässiger transport",
+      "imageAlt": "Professioneller Autotransport-Service"
+    },
+    "hero": {
+      "badge": "Autotransport",
+      "title": {
+        "part1": "Autotransport",
+        "part2": "National & International"
+      },
+      "subtitle": "Unser Autotransport-Service sorgt dafür, dass Ihr Fahrzeug schnell und sicher an den vereinbarten Ort geliefert wird. Nationaler und internationaler Transport mit Vollversicherung.",
+      "phone": "0852502928",
+      "cta": "085-250 29 28",
+      "whatsapp": "WhatsApp Hilfe"
+    },
+    "features": {
+      "title": "Warum unseren Autotransport-Service?",
+      "subtitle": "Mit modernen Transportfahrzeugen und erfahrenen Fahrern sorgen wir für sicheren und zuverlässigen Transport Ihres Fahrzeugs an jeden gewünschten Bestimmungsort.",
+      "items": [
+        {
+          "title": "Vollversichert",
+          "description": "Ihr Fahrzeug ist während des Transports vollversichert gegen alle Risiken"
+        },
+        {
+          "title": "Moderne Fahrzeuge",
+          "description": "Geschlossene Transporter und moderne Ausrüstung für maximale Sicherheit"
+        },
+        {
+          "title": "Schneller Service",
+          "description": "Flexible Planung und schnelle Abwicklung Ihres Transportauftrags"
+        },
+        {
+          "title": "Erfahrenes Team",
+          "description": "Professionelle Fahrer mit jahrelanger Erfahrung im Fahrzeugtransport"
+        }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Kompletter Autotransport-Service",
+      "imageAlt": "Professioneller Autotransport-Service",
+      "items": [
+        {
+          "title": "Nationaler Transport",
+          "description": "Zuverlässiger Transport innerhalb Deutschlands von Tür zu Tür mit vollständigem Service und Betreuung."
+        },
+        {
+          "title": "Internationaler Transport",
+          "description": "Grenzüberschreitender Transport in alle europäischen Länder mit kompletter Papierabwicklung."
+        },
+        {
+          "title": "Geschlossener Transport",
+          "description": "Geschützter Transport in geschlossenen Anhängern für extra Sicherheit vor Witterungseinflüssen und Schäden."
+        }
+      ]
+    },
+    "situations": {
+      "title": "Transportmöglichkeiten",
+      "description": "Vom lokalen Transport bis zu internationalen Umzügen - wir bieten Transport für alle Arten von Fahrzeugen an jeden gewünschten Bestimmungsort.",
+      "items": [
+        {
+          "title": "Privatwagen",
+          "description": "Sicherer Transport von Personenwagen für Umzüge, Käufe oder Reparaturen"
+        },
+        {
+          "title": "Oldtimer",
+          "description": "Spezialisierter Transport für Oldtimer und klassische Fahrzeuge mit besonderer Sorgfalt"
+        },
+        {
+          "title": "Luxusfahrzeuge",
+          "description": "Premium-Transport-Service für teure und exklusive Autos mit maximaler Sicherheit"
+        },
+        {
+          "title": "Nutzfahrzeuge",
+          "description": "Transport von Transportern, Lkw und anderen Nutzfahrzeugen"
+        },
+        {
+          "title": "Motorräder",
+          "description": "Sicherer und fachkundiger Transport von Motorrädern und Rollern"
+        },
+        {
+          "title": "Defekte Fahrzeuge",
+          "description": "Transport von nicht fahrbereiten Fahrzeugen zur Werkstatt oder zum Zielort"
+        }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Abholungs- und Lieferort teilen",
+      "description": "Benötigen Sie Autotransport? Teilen Sie den Abholungs- und Lieferort mit, damit wir Ihnen ein genaues Angebot machen und den Transport planen können.",
+      "imageAlt": "Standort teilen für Autotransport"
+    },
+    "emergency": {
+      "title": "Autotransport benötigt? Rufen Sie direkt an!",
+      "subtitle": "24/7 verfügbar für Autotransport. National und international, schnell und sicher an jeden Bestimmungsort.",
+      "phone": "0852502928",
+      "phoneSubtitle": "Direkt mit unseren Transport-Spezialisten verbunden",
+      "stats": [
+        {
+          "value": "24h",
+          "label": "Schnelle Planung"
+        },
+        {
+          "value": "100%",
+          "label": "Vollversichert"
+        },
+        {
+          "value": "EU-weit",
+          "label": "International"
+        }
+      ]
+    },
+    "locatiebutton": {
+      "sendLocation": "Standort teilen",
+      "loading": "Wird geladen...",
+      "confirmSend": "Erneut klicken zum Senden",
+      "errors": {
+        "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+        "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+      }
+    }
+  },
+  "lekkeband": {
+    "seo": {
+      "title": "Reifenpanne - 24/7 Professioneller Reifenservice | Mobile Hilfe",
+      "description": "Schnelle und zuverlässige Hilfe bei Reifenpannen. 24/7 Service vor Ort, Ersatzreifen-Installation und Reifenwechsel. Direkte Hilfe wo immer Sie sind.",
+      "keywords": "reifenpanne, reifenservice, ersatzreifen, reifenwechsel, 24/7 reifenservice, mobiler reifenservice, reifenpanne",
+      "imageAlt": "Professioneller Reifenpannen-Service"
+    },
+    "hero": {
+      "badge": "Reifenpannen-Service",
+      "title": {
+        "part1": "Reifenpanne",
+        "part2": "24/7 Reifenservice"
+      },
+      "subtitle": "Unser Reifenpannen-Service bietet schnelle, zuverlässige und professionelle Hilfe, wo immer Sie sind – zu Hause, bei der Arbeit oder unterwegs. Direkt vor Ort mit Ersatzreifen.",
+      "phone": "0852502928",
+      "cta": "085-250 29 28",
+      "whatsapp": "WhatsApp Hilfe"
+    },
+    "features": {
+      "title": "Warum unseren Reifenpannen-Service?",
+      "subtitle": "Mit professionellem Reifenservice und moderner Ausrüstung sorgen wir dafür, dass Sie schnell und sicher wieder auf die Straße kommen. Vom Ersatzreifen-Einbau bis zum kompletten Reifenwechsel.",
+      "items": [
+        {
+          "title": "Schnelle Reaktion",
+          "description": "Vor Ort innerhalb von 30 Minuten mit Ersatzreifen und professionellem Werkzeug"
+        },
+        {
+          "title": "Ersatzreifen vorrätig",
+          "description": "Umfangreiches Lager an Ersatzreifen für alle gängigen Fahrzeugtypen"
+        },
+        {
+          "title": "Sichere Installation",
+          "description": "Professionelle Reifenmontage nach allen Sicherheitsstandards und Spezifikationen"
+        },
+        {
+          "title": "24/7 Service",
+          "description": "Tag und Nacht verfügbar für alle Reifenpannen- und Reifenservice-Probleme"
+        }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Kompletter Reifenservice",
+      "imageAlt": "Professioneller Reifenpannen-Service",
+      "items": [
+        {
+          "title": "Ersatzreifen-Installation",
+          "description": "Schneller Austausch Ihres platten Reifens mit Ihrem eigenen Ersatzreifen, inklusive Sicherheitsprüfung."
+        },
+        {
+          "title": "Neureifen-Lieferung",
+          "description": "Lieferung und Installation neuer Reifen vor Ort, wenn kein Ersatzreifen verfügbar ist."
+        },
+        {
+          "title": "Reifenreparatur",
+          "description": "Reparatur kleiner Löcher und Risse vor Ort, wenn möglich und sicher."
+        }
+      ]
+    },
+    "situations": {
+      "title": "Reifenprobleme, die wir lösen",
+      "description": "Von einer einfachen Reifenpanne bis zu kompletten Reifenwechseln - wir haben die Expertise und Ausrüstung für alle Reifenservice-Bedürfnisse Ihres Fahrzeugs.",
+      "items": [
+        {
+          "title": "Platter Reifen",
+          "description": "Schneller Austausch platter Reifen durch Nägel, Schrauben oder andere scharfe Gegenstände verursacht"
+        },
+        {
+          "title": "Geplatzter Reifen",
+          "description": "Hilfe bei plötzlich geplatzten Reifen während der Fahrt mit sicherem Austausch"
+        },
+        {
+          "title": "Defektes Ventil",
+          "description": "Reparatur oder Austausch defekter Ventile, die Luft entweichen lassen"
+        },
+        {
+          "title": "Seitenwandschäden",
+          "description": "Austausch von Reifen mit Seitenwandschäden, die nicht mehr sicher sind"
+        },
+        {
+          "title": "Verschleißprobleme",
+          "description": "Beratung und Austausch von Reifen mit extremem oder ungleichmäßigem Verschleiß"
+        },
+        {
+          "title": "Felgenschäden",
+          "description": "Hilfe bei Reifenproblemen durch Felgenschäden und Beratung zur weiteren Reparatur"
+        }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Teilen Sie Ihren Standort für schnelle Hilfe",
+      "description": "Haben Sie eine Reifenpanne? Teilen Sie Ihren genauen Standort, damit unsere Reifenservice-Spezialisten Sie so schnell wie möglich mit Ersatzreifen und Werkzeugen finden und Ihnen helfen können.",
+      "imageAlt": "Standort teilen für Reifenservice"
+    },
+    "emergency": {
+      "title": "Reifenpanne? Rufen Sie direkt an!",
+      "subtitle": "24/7 verfügbar für Reifenpannen-Service. Ersatzreifen vor Ort, schnelle Installation und direkt wieder fahren.",
+      "phone": "0852502928",
+      "phoneSubtitle": "Direkt mit unseren Reifenservice-Spezialisten verbunden",
+      "stats": [
+        {
+          "value": "< 30 min",
+          "label": "Vor Ort"
+        },
+        {
+          "value": "100%",
+          "label": "Sichere Installation"
+        },
+        {
+          "value": "24/7",
+          "label": "Immer verfügbar"
+        }
+      ]
+    },
+    "locatiebutton": {
+      "sendLocation": "Standort teilen",
+      "loading": "Wird geladen...",
+      "confirmSend": "Erneut klicken zum Senden",
+      "errors": {
+        "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+        "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+      }
+    }
+  },
+  "autoberging": {
+    "seo": {
+      "title": "Autoeinlagerung 24/7 - Sichere Fahrzeugeinlagerung & Parkservice | Mobile Hilfe",
+      "description": "Sichere Autoeinlagerung und Parkservice für vorübergehende Unterbringung Ihres Fahrzeugs. 24/7 gesicherte Standorte nach Unfällen oder während Reisen.",
+      "keywords": "autoeinlagerung, fahrzeugparkplatz, autoaufbewahrung, gesichertes parken, unfalleinlagerung, temporäre einlagerung, 24/7 einlagerung",
+      "imageAlt": "Professioneller Autoeinlagerungs-Service"
+    },
+    "hero": {
+      "badge": "Autoeinlagerung 24/7",
+      "title": {
+        "part1": "Autoeinlagerung",
+        "part2": "& Sicheres Parken"
+      },
+      "subtitle": "Unser Autoeinlagerungs- und Parkservice bietet sichere und zuverlässige Lösungen für die vorübergehende Unterbringung Ihres Fahrzeugs nach einem Unfall oder während einer Reise. 24/7 gesicherte Standorte.",
+      "phone": "0852502928",
+      "cta": "085-250 29 28",
+      "whatsapp": "WhatsApp Hilfe"
+    },
+    "features": {
+      "title": "Warum unseren Autoeinlagerungs-Service?",
+      "subtitle": "Mit gesicherten Parkplätzen und professioneller Betreuung sorgen wir dafür, dass Ihr Fahrzeug während Reparaturen, Reisen oder anderen Umständen sicher aufbewahrt wird.",
+      "items": [
+        {
+          "title": "Vollständig gesichert",
+          "description": "24/7 Überwachung, Kamerasysteme und Zutrittskontrolle für maximale Sicherheit"
+        },
+        {
+          "title": "Überdachtes Parken",
+          "description": "Geschützte Standorte vor Witterungseinflüssen und Vandalismus"
+        },
+        {
+          "title": "Flexible Einlagerung",
+          "description": "Kurz- und Langzeitparken möglich, angepasst an Ihre Bedürfnisse"
+        },
+        {
+          "title": "Professionelle Betreuung",
+          "description": "Erfahrenes Team, das sich um Wartung und Überwachung Ihres Fahrzeugs kümmert"
+        }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Kompletter Autoeinlagerungs-Service",
+      "imageAlt": "Professioneller Autoeinlagerungs-Service",
+      "items": [
+        {
+          "title": "Unfalleinlagerung",
+          "description": "Sichere Aufbewahrung von Fahrzeugen nach Unfällen während Untersuchung oder Reparaturverfahren."
+        },
+        {
+          "title": "Temporäres Parken",
+          "description": "Kurz- und Langzeitparken für Fahrzeuge während Urlaub, Umzügen oder Wartung."
+        },
+        {
+          "title": "Gesicherte Einlagerung",
+          "description": "24/7 überwachte Standorte mit Kamerasystemen und Zutrittskontrolle für wertvolle Fahrzeuge."
+        }
+      ]
+    },
+    "situations": {
+      "title": "Wann benötigen Sie Autoeinlagerung?",
+      "description": "Von Unfällen bis zur Urlaubseinlagerung - wir bieten sichere Aufbewahrung für alle Situationen, in denen Ihr Fahrzeug vorübergehend untergebracht werden muss.",
+      "items": [
+        {
+          "title": "Nach Unfällen",
+          "description": "Sichere Aufbewahrung während Untersuchung, Gutachterverfahren oder Wartezeit auf Reparatur"
+        },
+        {
+          "title": "Während Urlaub",
+          "description": "Gesichertes Parken Ihres Fahrzeugs während langen Reisen oder Urlauben"
+        },
+        {
+          "title": "Reparaturzeit",
+          "description": "Temporäre Einlagerung während langen Reparaturen oder beim Warten auf Ersatzteile"
+        },
+        {
+          "title": "Umzug",
+          "description": "Parken während Umzügen oder temporären Wohnortwechseln"
+        },
+        {
+          "title": "Saisonale Einlagerung",
+          "description": "Aufbewahrung von Oldtimern, Motorrädern oder Saisonfahrzeugen"
+        },
+        {
+          "title": "Rechtliche Verfahren",
+          "description": "Verwahrung von Fahrzeugen während rechtlicher Verfahren oder Untersuchungen"
+        }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Teilen Sie Ihren Standort für Einlagerung",
+      "description": "Benötigen Sie Autoeinlagerung? Teilen Sie Ihren Standort, damit wir Ihr Fahrzeug abholen und sicher in unseren gesicherten Parkplätzen unterbringen können.",
+      "imageAlt": "Standort teilen für Autoeinlagerung"
+    },
+    "emergency": {
+      "title": "Autoeinlagerung benötigt? Rufen Sie direkt an!",
+      "subtitle": "24/7 verfügbar für Autoeinlagerung und Parkservice. Sichere Aufbewahrung, schneller Service und komplette Sicherheit für Ihr Fahrzeug.",
+      "phone": "0852502928",
+      "phoneSubtitle": "Direkt mit unseren Einlagerungs-Spezialisten verbunden",
+      "stats": [
+        {
+          "value": "24/7",
+          "label": "Sicherheit"
+        },
+        {
+          "value": "100%",
+          "label": "Sicher aufbewahrt"
+        },
+        {
+          "value": "Direkt",
+          "label": "Verfügbar"
+        }
+      ]
+    },
+    "locatiebutton": {
+      "sendLocation": "Standort teilen",
+      "loading": "Wird geladen...",
+      "confirmSend": "Erneut klicken zum Senden",
+      "errors": {
+        "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+        "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+      }
+    }
+  },
+  "diensten": {
+    "seo": {
+      "title": "Unsere Dienstleistungen - 24/7 Pannenhilfe & Mobile Services | Mobile Hilfe",
+      "description": "Entdecken Sie alle Pannenhilfe-Dienstleistungen: Abschleppdienst, Batterieservice, Reifenpanne, Autotransport und mehr. 24/7 verfügbar in ganz Europa.",
+      "keywords": "pannenhilfe dienstleistungen, abschleppdienst, batterieservice, reifenpanne, autotransport, autoeinlagerung, mobile hilfe",
+      "imageAlt": "Pannenhilfe-Dienstleistungen Übersicht"
+    },
+    "hero": {
+      "badge": "Unsere Dienstleistungen",
+      "title": {
+        "part1": "24/7 Pannenhilfe",
+        "part2": "& Mobile Services"
+      },
+      "subtitle": "Entdecken Sie unser komplettes Angebot an Pannenhilfe- und mobilen Dienstleistungen. Vom Abschleppdienst bis zum Batterieaustausch - wir sind 24/7 für Sie da in ganz Europa.",
+      "phone": "0852502928",
+      "cta": "085-250 29 28",
+      "whatsapp": "WhatsApp Kontakt"
+    },
+    "services": {
+      "title": "Unsere Pannenhilfe-Dienstleistungen",
+      "subtitle": "Wir spezialisieren uns auf direkte, mobile Hilfe bei Pannen. Vom Reifenservice bis zum Abschleppen – wir sind 24/7 verfügbar, um Sie wieder auf die Straße zu bringen.",
+      "items": [
+        {
+          "title": "Pannenhilfe & Abschleppdienst Europa",
+          "description": "Pannenhilfe bietet schnelle, zuverlässige Pannenhilfe ohne Abonnements oder versteckte Kosten, mit 24/7 Service in Deutschland und Europa.",
+          "button": "Mehr lesen",
+          "image": "/services/1.jpg",
+          "href": "/diensten/pechhulp-en-sleepdienst-europa"
+        },
+        {
+          "title": "Bergung aus Schlamm, Sand oder Objekt",
+          "description": "Pannenhilfe bietet 24/7 professionelle Unterstützung für die sichere und effiziente Befreiung von Fahrzeugen, die in Schlamm, Sand oder an einem Objekt feststecken.",
+          "button": "Mehr lesen",
+          "image": "/services/2.jpg",
+          "href": "/diensten/uit-modder-zand-of-object-slepen"
+        },
+        {
+          "title": "Batterieservice",
+          "description": "Wir bieten schnelle und zuverlässige Batteriehilfe, damit Ihr Fahrzeug im Handumdrehen wieder betriebsbereit ist, unabhängig vom Batterieproblem.",
+          "button": "Mehr lesen",
+          "image": "/services/3.jpg",
+          "href": "/diensten/accu-service"
+        },
+        {
+          "title": "Autotransport",
+          "description": "Unser Autotransport-Service sorgt dafür, dass Ihr Fahrzeug schnell und sicher an den vereinbarten Ort geliefert wird. Lassen Sie uns für Sie sorgen.",
+          "button": "Mehr lesen",
+          "image": "/services/4.jpg",
+          "href": "/diensten/auto-transport"
+        },
+        {
+          "title": "Reifenpanne",
+          "description": "Unser Reifenpannen-Service bietet schnelle, zuverlässige und professionelle Hilfe, wo immer Sie sind – zu Hause, bei der Arbeit oder unterwegs.",
+          "button": "Mehr lesen",
+          "image": "/services/5.png",
+          "href": "/diensten/lekke-band"
+        },
+        {
+          "title": "Autoeinlagerung 24/7",
+          "description": "Unser Autoeinlagerungs- und Parkservice bietet sichere und zuverlässige Lösungen für die vorübergehende Unterbringung und Wartung Ihres Fahrzeugs nach einem Unfall oder während einer Reise.",
+          "button": "Mehr lesen",
+          "image": "/services/6.png",
+          "href": "/diensten/autoberging-247"
+        }
+      ]
+    },
+    "why": {
+      "title": "Warum unsere Dienstleistungen wählen?",
+      "subtitle": "Mit jahrelanger Erfahrung und einem Netzwerk in ganz Europa bieten wir die zuverlässigsten Pannenhilfe- und mobilen Dienstleistungen für jede Situation.",
+      "items": [
+        {
+          "title": "24/7 verfügbar",
+          "description": "Tag und Nacht verfügbar für alle Ihre Pannenhilfe- und Service-Bedürfnisse"
+        },
+        {
+          "title": "Vollversichert",
+          "description": "Alle unsere Dienstleistungen sind vollversichert für Ihre Ruhe"
+        },
+        {
+          "title": "Ganz Europa",
+          "description": "Service in ganz Europa, von Deutschland bis Spanien"
+        },
+        {
+          "title": "Erfahrenes Team",
+          "description": "Zertifizierte Mechaniker und Fahrer mit jahrelanger Erfahrung"
+        }
+      ]
+    },
+    "coverage": {
+      "title": "Service in ganz Europa",
+      "description": "Unsere Pannenhilfe- und mobilen Dienstleistungen sind in allen wichtigen europäischen Ländern verfügbar. Wo immer Sie sind, wir kommen Ihnen zu Hilfe."
+    },
+    "locatiesectie": {
+      "title": "Teilen Sie Ihren Standort für schnelle Hilfe",
+      "description": "Durch das Teilen Ihres Standorts können wir Sie noch schneller finden und Ihnen helfen. Unsere Mechaniker nutzen GPS, um den kürzesten Weg zu Ihnen zu finden und den richtigen Service zu bieten.",
+      "imageAlt": "Standort teilen für schnelle Hilfe"
+    },
+    "emergency": {
+      "title": "Hilfe benötigt? Rufen Sie direkt an!",
+      "subtitle": "Für alle Pannenhilfe- und mobilen Dienstleistungen - 24/7 verfügbar in ganz Europa. Keine Wartezeiten, direkte professionelle Hilfe.",
+      "phone": "0852502928",
+      "phoneSubtitle": "Direkt mit unserem Service-Center verbunden",
+      "stats": [
+        {
+          "value": "< 30 min",
+          "label": "Durchschnittliche Reaktionszeit"
+        },
+        {
+          "value": "24/7",
+          "label": "Immer verfügbar"
+        },
+        {
+          "value": "€0",
+          "label": "Keine Abonnementkosten"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "seo": {
+      "title": "Kontakt - 24/7 Pannenhilfe & Mobile Hilfe | Kontaktieren Sie uns",
+      "description": "Kontaktieren Sie uns für 24/7 Pannenhilfe und mobilen Service. Per Telefon, WhatsApp oder E-Mail. Direkt verfügbar für alle Autopannen-Situationen.",
+      "keywords": "kontakt pannenhilfe, pannenhilfe telefonnummer, whatsapp hilfe, e-mail kontakt, 24/7 verfügbar, mobile hilfe kontakt",
+      "imageAlt": "Kontakt für Pannenhilfe"
+    },
+    "hero": {
+      "badge": "Kontakt",
+      "title": {
+        "part1": "24/7 verfügbar",
+        "part2": "Für direkte Hilfe"
+      },
+      "subtitle": "Benötigen Sie Hilfe? Wir sind 24/7 für Sie da. Kontaktieren Sie uns direkt per Telefon, WhatsApp oder E-Mail für schnelle professionelle Pannenhilfe.",
+      "phone": "0852502928",
+      "cta": "085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "methods": {
+      "title": "Kontaktieren Sie uns",
+      "subtitle": "Wählen Sie die Methode, die für Sie am besten funktioniert. Wir sind immer verfügbar und reagieren schnell auf alle Ihre Fragen und Hilfeanfragen.",
+      "items": [
+        {
+          "title": "Telefon",
+          "description": "Direkt verfügbar für Notfälle und allgemeine Fragen. 24/7 besetzte Hotline.",
+          "contact": "085-250 29 28",
+          "link": "tel:0852502928",
+          "linkText": "Direkt anrufen"
+        },
+        {
+          "title": "WhatsApp",
+          "description": "Senden Sie eine Nachricht über WhatsApp für schnelle Kommunikation und Fotos Ihrer Situation.",
+          "contact": "+31 85 060 98 80",
+          "link": "https://wa.me/31850609880",
+          "linkText": "Chat starten"
+        },
+        {
+          "title": "E-Mail",
+          "description": "Für allgemeine Fragen, Kostenvoranschläge und nicht dringende Angelegenheiten können Sie uns eine E-Mail senden.",
+          "contact": "info@mobielehulp.nl",
+          "link": "mailto:info@mobielehulp.nl",
+          "linkText": "E-Mail senden"
+        }
+      ]
+    },
+    "emergency": {
+      "title": "Notfall? Rufen Sie direkt an!",
+      "subtitle": "In dringenden Situationen erreichen Sie uns direkt 24/7. Keine Wartezeiten, direkte Hilfe von unseren erfahrenen Mechanikern.",
+      "phone": "0852502928",
+      "phoneSubtitle": "24/7 Notfallhilfe - Direkt verfügbar",
+      "features": [
+        {
+          "value": "< 5 min",
+          "label": "Telefon-Reaktionszeit"
+        },
+        {
+          "value": "24/7",
+          "label": "Immer verfügbar"
+        },
+        {
+          "value": "Direkt",
+          "label": "Keine Wartezeiten"
+        }
+      ]
+    },
+    "hours": {
+      "title": "Verfügbarkeit",
+      "schedule": [
+        {
+          "day": "Montag - Freitag",
+          "hours": "24/7 verfügbar"
+        },
+        {
+          "day": "Wochenende",
+          "hours": "24/7 verfügbar"
+        },
+        {
+          "day": "Feiertage",
+          "hours": "24/7 verfügbar"
+        },
+        {
+          "day": "E-Mail-Antwort",
+          "hours": "Innerhalb von 2 Stunden"
+        }
+      ],
+      "emergency": {
+        "title": "Notfälle",
+        "description": "Für Notfälle sind wir 24/7 über unsere Notrufnummer erreichbar."
+      }
+    },
+    "info": {
+      "title": "Firmeninformationen",
+      "details": [
+        {
+          "label": "Servicegebiet",
+          "value": "Deutschland & Europa"
+        },
+        {
+          "label": "E-Mail-Adresse",
+          "value": "info@mobielehulp.nl"
+        },
+        {
+          "label": "Telefonnummer",
+          "value": "085-250 29 28"
+        },
+        {
+          "label": "Versicherung",
+          "value": "Vollversichert & zertifiziert"
+        }
+      ]
+    },
+    "location": {
+      "title": "Teilen Sie Ihren Standort",
+      "description": "Benötigen Sie Hilfe? Teilen Sie Ihren genauen Standort, damit unsere Mechaniker Sie so schnell wie möglich finden können. Das spart wertvolle Zeit in Notfallsituationen.",
+      "imageAlt": "Standort teilen für Hilfe"
+    }
+  }
+}
+          

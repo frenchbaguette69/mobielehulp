@@ -1,0 +1,1277 @@
+{
+  "navigation": {
+    "pechhulp": "Roadside Assistance",
+    "diensten": "Services",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "pechhulp": {
+    "title": "Roadside Assistance Netherlands - 24/7 Mobile Help for Car Breakdowns",
+    "description": "Reliable and fast roadside assistance without subscription. Available 24/7 throughout the Netherlands. Flat tire, dead battery or towing service needed? We're here for you.",
+    "seo": {
+      "title": "Roadside Assistance & Towing Service Europe - 24/7 Reliable Help | Mobile Help",
+      "description": "Professional roadside assistance and towing service throughout Europe. Available 24/7, fast response, no subscription costs. Call directly for help with car breakdowns.",
+      "keywords": "roadside assistance europe, towing service europe, car breakdown europe, 24/7 roadside assistance, international roadside assistance, car towing europe, breakdown service europe, mobile help europe",
+      "imageAlt": "Roadside Assistance and Towing Service Europe"
+    },
+    "hero": {
+      "badge": "Roadside Assistance & Towing",
+      "title": {
+        "part1": "Roadside Assistance & Towing",
+        "part2": "Throughout Europe"
+      },
+      "subtitle": "Reliable 24/7 roadside assistance and towing service throughout Europe. Fast response, professional service and transparent prices without hidden costs.",
+      "phone": "0852502928",
+      "cta": "085-250 29 28",
+      "whatsapp": "WhatsApp Help"
+    },
+    "features": {
+      "title": "Why Choose Our Roadside Assistance?",
+      "subtitle": "With years of experience and a network throughout Europe, we offer the most reliable roadside assistance and towing service for every situation.",
+      "items": [
+        {
+          "title": "Available 24/7",
+          "description": "Accessible day and night for all your roadside assistance needs"
+        },
+        {
+          "title": "All of Europe",
+          "description": "Service throughout Europe, from the Netherlands to Spain"
+        },
+        {
+          "title": "Reliable",
+          "description": "Certified mechanics and modern tow trucks"
+        },
+        {
+          "title": "On-Site Repair",
+          "description": "Often we can repair your car on the spot"
+        }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Complete Roadside Assistance & Towing Service",
+      "imageAlt": "Roadside Assistance and Towing Service Europe",
+      "items": [
+        {
+          "title": "Roadside Assistance & Towing Service Europe",
+          "description": "Road help provides fast, reliable roadside assistance without subscriptions or hidden costs, with 24/7 service in the Netherlands and Europe."
+        },
+        {
+          "title": "Recovery from mud, sand or object",
+          "description": "Road help provides 24/7 professional assistance for safely and efficiently releasing vehicles stuck in mud, sand or on an object."
+        },
+        {
+          "title": "Battery service",
+          "description": "We provide fast and reliable battery assistance so your vehicle is operational again in no time, regardless of the battery problem."
+        }
+      ]
+    },
+    "coverage": {
+      "title": "Service Throughout Europe",
+      "description": "Our roadside assistance and towing service is available in all major European countries. Wherever you are, we come to help you.",
+      "areas": [
+        "Netherlands",
+        "Belgium",
+        "Germany",
+        "France",
+        "Spain",
+        "Italy",
+        "Austria",
+        "Switzerland",
+        "Poland",
+        "Czech Republic",
+        "Denmark",
+        "Sweden"
+      ],
+      "badge": "Service Area",
+      "button": {
+        "locations": "All locations",
+        "info": "More information",
+        "countries": "View countries"
+      },
+      "europe": {
+        "title": "Help also in Europe",
+        "description": "Whether you're on vacation or on your way home, we also provide support in many European countries.",
+        "features": [
+          "Dutch-speaking help",
+          "Fast response time",
+          "Local partners"
+        ]
+      }
+    },
+    "locatiesectie": {
+      "title": "Share Your Location for Fast Help",
+      "description": "By sharing your location, we can find and help you even faster. Our mechanics use GPS to find the shortest route to you.",
+      "imageAlt": "Share location for roadside assistance",
+      "button": "Share location"
+    },
+    "emergency": {
+      "title": "Car Breakdown? Call Directly!",
+      "subtitle": "Available 24/7 for roadside assistance and towing service throughout Europe. No waiting times, direct help.",
+      "phone": "0852502928",
+      "phoneSubtitle": "Directly connected to our control center",
+      "stats": [
+        {
+          "value": "< 30 min",
+          "label": "Average response time"
+        },
+        {
+          "value": "24/7",
+          "label": "Always available"
+        },
+        {
+          "value": "€0",
+          "label": "No subscription costs"
+        }
+      ],
+      "step": "Step",
+      "steps": [
+        "Call us via the emergency number",
+        "Share your location",
+        "We come directly to you",
+        "Help arrives quickly on site"
+      ]
+    },
+    "servicegrid": {
+      "title": "Our Roadside Assistance Services",
+      "subtitle": "We specialize in direct, mobile help with breakdowns. From tire service to towing – we're available 24/7 to get you back on the road.",
+      "items": [
+        {
+          "title": "Roadside Assistance & Towing Service Europe",
+          "description": "Road help provides fast, reliable roadside assistance without subscriptions or hidden costs, with 24/7 service in the Netherlands and Europe.",
+          "button": "Read more",
+          "image": "/services/1.jpg",
+          "href": "/diensten/pechhulp-en-sleepdienst-europa"
+        },
+        {
+          "title": "Recovery from mud, sand or object",
+          "description": "Road help provides 24/7 professional assistance for safely and efficiently releasing vehicles stuck in mud, sand or on an object.",
+          "button": "Read more",
+          "image": "/services/2.jpg",
+          "href": "/diensten/uit-modder-zand-of-object-slepen"
+        },
+        {
+          "title": "Battery service",
+          "description": "We provide fast and reliable battery assistance so your vehicle is operational again in no time, regardless of the battery problem.",
+          "button": "Read more",
+          "image": "/services/3.jpg",
+          "href": "/diensten/accu-service"
+        },
+        {
+          "title": "Car transport",
+          "description": "Our car transport service ensures that your vehicle is delivered quickly and safely to the agreed location. Let us take care of you.",
+          "button": "Read more",
+          "image": "/services/4.jpg",
+          "href": "/diensten/auto-transport"
+        },
+        {
+          "title": "Flat tire",
+          "description": "Our flat tire service provides fast, reliable and professional help, wherever you are – at home, at work or on the road.",
+          "button": "Read more",
+          "image": "/services/5.png",
+          "href": "/diensten/lekke-band"
+        },
+        {
+          "title": "Car storage 24/7",
+          "description": "Our car storage and parking service offers safe and reliable solutions for temporarily accommodating and maintaining your vehicle, after an accident or during a trip.",
+          "button": "Read more",
+          "image": "/services/6.png",
+          "href": "/diensten/autoberging-247"
+        }
+      ]
+    },
+    "locatiebutton": {
+      "sendLocation": "Share location",
+      "loading": "Loading...",
+      "confirmSend": "Click again to send",
+      "errors": {
+        "notSupported": "Location sharing is not supported by your browser.",
+        "failed": "Could not get your location. Try again or check your settings."
+      }
+    },
+    "feature": {
+      "sectionLabel": "Towing Service & Roadside Assistance",
+      "title": "Fast Roadside Assistance and Reliable Towing Service for Car Breakdowns",
+      "subtitle": "Always available, day and night",
+      "description": "Do you have a car breakdown or are you stuck with a broken car on the side of the road? Our professional towing service is available 24/7 for direct roadside assistance. With modern tow trucks and real-time location tracking, we are quickly on site to help you safely and efficiently. Whether it's a dead battery, flat tire or serious engine failure – we ensure you get back on the road quickly.",
+      "button": "Discover our roadside assistance"
+    },
+    "services": {
+      "title": "Our Roadside Assistance Services",
+      "subtitle": "Always mobile accessible, wherever you are – we solve it.",
+      "roadside": {
+        "title": "Roadside Assistance & Towing Service Europe",
+        "description": "Road help provides fast, reliable roadside assistance without subscriptions or hidden costs, with 24/7 service in the Netherlands and Europe.",
+        "features": [
+          "No subscription",
+          "On location within 30 minutes",
+          "Available 24/7"
+        ]
+      },
+      "recovery": {
+        "title": "Recovery from mud, sand or object",
+        "description": "Road help provides 24/7 professional assistance for safely and efficiently releasing vehicles stuck in mud, sand or on an object.",
+        "features": [
+          "Safe release",
+          "Experienced team",
+          "Fast reaction"
+        ]
+      },
+      "battery": {
+        "title": "Battery service",
+        "description": "We provide fast and reliable battery assistance so your vehicle is operational again in no time, regardless of the battery problem.",
+        "features": [
+          "New batteries on site",
+          "Professional replacement",
+          "Driving again quickly"
+        ]
+      },
+      "transport": {
+        "title": "Car transport",
+        "description": "Our car transport service ensures that your vehicle is delivered quickly and safely to the agreed location. Let us take care of you.",
+        "features": [
+          "National & international",
+          "Secured transport",
+          "Fast service"
+        ]
+      },
+      "tire": {
+        "title": "Flat tire",
+        "description": "Our flat tire service provides fast, reliable and professional help, wherever you are – at home, at work or on the road.",
+        "features": [
+          "On-site replacement",
+          "Spare tire installation",
+          "Available 24/7"
+        ]
+      },
+      "storage": {
+        "title": "Car storage 24/7",
+        "description": "Our car storage and parking service offers safe and reliable solutions for temporarily accommodating and maintaining your vehicle, after an accident or during a trip.",
+        "features": [
+          "Storage available",
+          "Secured locations",
+          "Safe transport"
+        ]
+      }
+    },
+    "process": {
+      "badge": "How it works",
+      "title": "How our roadside assistance service works",
+      "subtitle": "In a few steps, you're safely back on the road.",
+      "step1": {
+        "title": "Call us directly",
+        "description": "Contact our helpline 24/7."
+      },
+      "step2": {
+        "title": "We come to you",
+        "description": "Our team tracks your location and arrives quickly."
+      },
+      "step3": {
+        "title": "Fast assistance",
+        "description": "We solve the problem on site or arrange transport."
+      },
+      "step4": {
+        "title": "Safely back on the road",
+        "description": "You can drive worry-free again."
+      }
+    },
+    "why": {
+      "badge": "Why choose us",
+      "title": "Reliable help, always nearby",
+      "subtitle": "More than 50,000 customers trust our expertise and speed.",
+      "reasons": [
+        {
+          "title": "24/7 availability",
+          "description": "Our help is available day and night, 365 days a year."
+        },
+        {
+          "title": "Fully insured",
+          "description": "All our services are fully insured for your peace of mind."
+        },
+        {
+          "title": "Large network",
+          "description": "We are active throughout the Netherlands with local partners."
+        },
+        {
+          "title": "Experienced team",
+          "description": "Our mechanics and drivers are certified and professional."
+        }
+      ],
+      "cards": [
+        {
+          "title": "98% satisfaction",
+          "subtitle": "Based on reviews",
+          "description": "Customers appreciate our fast service and clear communication."
+        },
+        {
+          "title": "Fast response time",
+          "subtitle": "Average < 30 min",
+          "description": "We are always nearby and act quickly."
+        },
+        {
+          "title": "Affordable",
+          "subtitle": "Without subscription",
+          "description": "No hidden costs or subscriptions needed."
+        }
+      ]
+    },
+    "testimonials": {
+      "badge": "Reviews",
+      "title": "What customers say",
+      "subtitle": "Real experiences from satisfied customers.",
+      "reviews": [
+        {
+          "name": "Sander",
+          "location": "Amsterdam",
+          "text": "Within 20 minutes the mechanic was on site. Really top service!"
+        },
+        {
+          "name": "Marieke",
+          "location": "Utrecht",
+          "text": "My battery was dead. Thanks to Roadside Assistance Netherlands I could drive again quickly."
+        },
+        {
+          "name": "Timo",
+          "location": "Rotterdam",
+          "text": "Good communication, friendly service and affordable. Highly recommended!"
+        }
+      ]
+    },
+    "faq": {
+      "badge": "Frequently asked questions",
+      "title": "Roadside Assistance FAQ",
+      "subtitle": "Everything you want to know about our services.",
+      "questions": [
+        {
+          "question": "Is roadside assistance without subscription possible?",
+          "answer": "Yes, we work without subscription. You only pay when you need our help."
+        },
+        {
+          "question": "How fast is your response time?",
+          "answer": "On average, we are on site within 30 minutes, depending on your location."
+        },
+        {
+          "question": "In which European countries do you provide help?",
+          "answer": "We provide support in Belgium, Germany, France and Luxembourg, among others."
+        }
+      ],
+      "other": "Is your question not listed?",
+      "contact": "Contact us"
+    },
+    "cta": {
+      "title": "Need direct help with a breakdown?",
+      "subtitle": "Call us or send a message – we're directly there for you.",
+      "email": "Email us",
+      "features": [
+        "Always available",
+        "Insured service",
+        "Highest customer satisfaction"
+      ]
+    }
+  },
+  "modderslepen": {
+    "seo": {
+      "title": "Recovery from Mud, Sand or Object - 24/7 Professional Help | Mobile Help",
+      "description": "Professional help for vehicles stuck in mud, sand or on objects. Available 24/7, experienced team, safe techniques. Direct help for all vehicles.",
+      "keywords": "mud recovery, sand recovery, stuck vehicle, vehicle liberation, 24/7 help, towing service, professional help, safe recovery",
+      "imageAlt": "Professional mud recovery help"
+    },
+    "hero": {
+      "badge": "Vehicle Recovery",
+      "title": {
+        "part1": "Recovery from Mud, Sand",
+        "part2": "or Object"
+      },
+      "subtitle": "Professional 24/7 help for safely and efficiently releasing vehicles stuck in mud, sand or on objects. Experienced team with specialized equipment.",
+      "phone": "0852502928",
+      "cta": "085-250 29 28",
+      "whatsapp": "WhatsApp Help"
+    },
+    "features": {
+      "title": "Why Our Recovery Service?",
+      "subtitle": "With specialized equipment and years of experience, we safely and efficiently release any vehicle stuck in mud, sand or on objects.",
+      "items": [
+        {
+          "title": "Specialized Equipment",
+          "description": "Modern winches, hoists and recovery technology for every situation"
+        },
+        {
+          "title": "Safe Techniques",
+          "description": "Professional methods that prevent damage to your vehicle"
+        },
+        {
+          "title": "Experienced Specialists",
+          "description": "Certified mechanics with years of experience in vehicle recovery"
+        },
+        {
+          "title": "Fast Response",
+          "description": "On site within 30 minutes with the right equipment"
+        }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Professional Vehicle Recovery",
+      "imageAlt": "Professional vehicle recovery from mud",
+      "items": [
+        {
+          "title": "Mud Recovery",
+          "description": "Safe release of vehicles stuck in mud or clay using professional winch techniques."
+        },
+        {
+          "title": "Sand Liberation",
+          "description": "Specialized help for vehicles that sink into sand, beach or soft ground."
+        },
+        {
+          "title": "Object Removal",
+          "description": "Liberation of vehicles stuck on poles, rocks or other obstacles."
+        }
+      ]
+    },
+    "situations": {
+      "title": "Situations Where We Help",
+      "description": "From light passenger cars to heavy trucks - we have the right equipment and expertise for every situation where your vehicle is stuck.",
+      "items": [
+        {
+          "title": "Stuck in Mud",
+          "description": "Cars, vans and trucks that sink into muddy roads or fields"
+        },
+        {
+          "title": "Sand & Beach",
+          "description": "Vehicles stuck in sand on beaches, dunes or construction sites"
+        },
+        {
+          "title": "Snow & Ice",
+          "description": "Recovery from snow, ice or frozen ground during winter conditions"
+        },
+        {
+          "title": "Ditches & Holes",
+          "description": "Help for vehicles that end up in ditches, holes or other depressions"
+        },
+        {
+          "title": "Soft Ground",
+          "description": "Release of vehicles that sink into grass, fields or unpaved roads"
+        },
+        {
+          "title": "Obstacles",
+          "description": "Liberation of vehicles stuck on poles, rocks or other objects"
+        }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Share Your Location for Fast Help",
+      "description": "Are you stuck in mud, sand or on an object? Share your exact location so our specialists can find and help you as quickly as possible with the right equipment.",
+      "imageAlt": "Share location for recovery help"
+    },
+    "emergency": {
+      "title": "Stuck? Call Directly!",
+      "subtitle": "Available 24/7 for professional help with stuck vehicles. Specialized equipment and experienced team.",
+      "phone": "0852502928",
+      "phoneSubtitle": "Directly connected to our specialists",
+      "stats": [
+        {
+          "value": "< 30 min",
+          "label": "Response time"
+        },
+        {
+          "value": "100%",
+          "label": "Successfully freed"
+        },
+        {
+          "value": "24/7",
+          "label": "Always available"
+        }
+      ]
+    },
+    "locatiebutton": {
+      "sendLocation": "Share location",
+      "loading": "Loading...",
+      "confirmSend": "Click again to send",
+      "errors": {
+        "notSupported": "Location sharing is not supported by your browser.",
+        "failed": "Could not get your location. Try again or check your settings."
+      }
+    }
+  },
+  "footer": {
+    "brandName": "Roadside Assistance Netherlands",
+    "description": "Your reliable partner for roadside assistance and towing service throughout Europe. Available 24/7 for all car breakdown situations.",
+    "rating": "4.9/5 (2,847 reviews)",
+    "availability": "Available 24/7",
+    "serviceArea": "All of Europe",
+    "email": "info@mobielehulp.nl",
+    "servicesTitle": "Our Services",
+    "contactTitle": "Contact & Info",
+    "services": {
+      "roadside": "Roadside assistance",
+      "towing": "Towing service",
+      "battery": "Battery service",
+      "tire": "Flat tire",
+      "transport": "Car transport",
+      "storage": "Car storage"
+    },
+    "links": {
+      "privacy": "Privacy policy",
+      "terms": "Terms and conditions",
+      "sitemap": "Sitemap"
+    },
+    "copyright": "© 2025 Roadside Assistance Netherlands. All rights reserved."
+  },
+  "services": {
+    "badge": "What we do",
+    "moreInfo": "Read more"
+  },
+  "accuservice": {
+    "seo": {
+      "title": "Battery Service - 24/7 Professional Battery Help | Mobile Help",
+      "description": "Fast and reliable battery help for all vehicles. Available 24/7, new batteries on site, professional replacement. Direct help for dead battery.",
+      "keywords": "battery service, dead battery, battery replacement, starting problems, battery help, 24/7 service, mobile battery service, car battery",
+      "imageAlt": "Professional battery service"
+    },
+    "hero": {
+      "badge": "Battery Service",
+      "title": {
+        "part1": "Battery Service",
+        "part2": "24/7 Battery Help"
+      },
+      "subtitle": "Fast and reliable battery help so your vehicle is operational again in no time. New batteries on site, professional replacement and direct help for starting problems.",
+      "phone": "0852502928",
+      "cta": "085-250 29 28",
+      "whatsapp": "WhatsApp Help"
+    },
+    "features": {
+      "title": "Why Our Battery Service?",
+      "subtitle": "With high-quality batteries and professional equipment, we ensure your vehicle starts quickly again. From diagnosis to replacement - everything on site.",
+      "items": [
+        {
+          "title": "Fast Diagnosis",
+          "description": "Modern test equipment for accurate battery and charging system check"
+        },
+        {
+          "title": "Quality Batteries",
+          "description": "High-quality batteries from well-known brands for long-lasting reliability"
+        },
+        {
+          "title": "On-Site Service",
+          "description": "Complete battery replacement and installation directly at your location"
+        },
+        {
+          "title": "Available 24/7",
+          "description": "Day and night available for acute battery problems"
+        }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Complete Battery Service",
+      "imageAlt": "Professional battery service",
+      "items": [
+        {
+          "title": "Battery Diagnosis",
+          "description": "Professional test of your battery and charging system to determine the exact cause of starting problems."
+        },
+        {
+          "title": "Battery Replacement",
+          "description": "Fast replacement with high-quality batteries on site, including disposal of the old battery."
+        },
+        {
+          "title": "Starting Problem Resolution",
+          "description": "Help with starting problems due to dead battery, defective charging system or other electrical failures."
+        }
+      ]
+    },
+    "situations": {
+      "title": "Battery Problems We Solve",
+      "description": "From a dead battery to complete battery replacement - we have the expertise and equipment for all battery-related problems of your vehicle.",
+      "items": [
+        {
+          "title": "Dead Battery",
+          "description": "Car won't start anymore due to a completely dead battery - we start your vehicle again"
+        },
+        {
+          "title": "Old Battery",
+          "description": "Battery no longer holds charge and needs to be replaced"
+        },
+        {
+          "title": "Defective Alternator",
+          "description": "Charging system doesn't work properly so the battery is not being charged"
+        },
+        {
+          "title": "Cold Start Problems",
+          "description": "Vehicle starts with difficulty in winter due to weakened battery performance"
+        },
+        {
+          "title": "Electrical Failures",
+          "description": "Problems with lighting, radio or other electrical components"
+        },
+        {
+          "title": "Battery Leakage",
+          "description": "Battery is leaking acid or is damaged and must be replaced immediately"
+        }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Share Your Location for Fast Help",
+      "description": "Won't your car start anymore? Share your exact location so our battery specialists can find and help you as quickly as possible with the right equipment and new batteries.",
+      "imageAlt": "Share location for battery help"
+    },
+    "emergency": {
+      "title": "Car Won't Start? Call Directly!",
+      "subtitle": "Available 24/7 for professional battery help. New batteries on site, fast diagnosis and driving again directly.",
+      "phone": "0852502928",
+      "phoneSubtitle": "Directly connected to our battery specialists",
+      "stats": [
+        {
+          "value": "< 20 min",
+          "label": "Average response time"
+        },
+        {
+          "value": "95%",
+          "label": "Solved directly"
+        },
+        {
+          "value": "24/7",
+          "label": "Always available"
+        }
+      ]
+    },
+    "pechservice": {
+      "items": [
+        {
+          "title": "Roadside Assistance & Towing Service Europe",
+          "href": "/diensten/pechhulp-en-sleepdienst-europa"
+        },
+        {
+          "title": "Recovery from mud, sand or object",
+          "href": "/diensten/uit-modder-zand-of-object-slepen"
+        },
+        {
+          "title": "Battery service",
+          "href": "/diensten/accu-service"
+        },
+        {
+          "title": "Car transport",
+          "href": "/diensten/auto-transport"
+        },
+        {
+          "title": "Flat tire",
+          "href": "/diensten/lekke-band"
+        },
+        {
+          "title": "Car storage 24/7",
+          "href": "/diensten/autoberging-247"
+        }
+      ]
+    },
+    "locatiebutton": {
+      "sendLocation": "Share location",
+      "loading": "Loading...",
+      "confirmSend": "Click again to send",
+      "errors": {
+        "notSupported": "Location sharing is not supported by your browser.",
+        "failed": "Could not get your location. Try again or check your settings."
+      }
+    }
+  },
+  "autotransport": {
+    "seo": {
+      "title": "Car Transport - 24/7 Reliable Vehicle Transport | Mobile Help",
+      "description": "Professional car transport service for national and international transport. Safe, fast and reliable transport of your vehicle to any desired location.",
+      "keywords": "car transport, vehicle transport, national transport, international transport, car shipping, vehicle transport, reliable transport",
+      "imageAlt": "Professional car transport service"
+    },
+    "hero": {
+      "badge": "Car Transport",
+      "title": {
+        "part1": "Car Transport",
+        "part2": "National & International"
+      },
+      "subtitle": "Our car transport service ensures that your vehicle is delivered quickly and safely to the agreed location. National and international transport with full insurance.",
+      "phone": "0852502928",
+      "cta": "085-250 29 28",
+      "whatsapp": "WhatsApp Help"
+    },
+    "features": {
+      "title": "Why Our Car Transport Service?",
+      "subtitle": "With modern transport vehicles and experienced drivers, we ensure safe and reliable transport of your vehicle to any desired destination.",
+      "items": [
+        {
+          "title": "Fully Insured",
+          "description": "Your vehicle is fully insured against all risks during transport"
+        },
+        {
+          "title": "Modern Vehicles",
+          "description": "Enclosed transporters and modern equipment for maximum safety"
+        },
+        {
+          "title": "Fast Service",
+          "description": "Flexible planning and fast handling of your transport order"
+        },
+        {
+          "title": "Experienced Team",
+          "description": "Professional drivers with years of experience in vehicle transport"
+        }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Complete Car Transport Service",
+      "imageAlt": "Professional car transport service",
+      "items": [
+        {
+          "title": "National Transport",
+          "description": "Reliable transport within the Netherlands from door to door with full service and guidance."
+        },
+        {
+          "title": "International Transport",
+          "description": "Cross-border transport to all European countries with complete paperwork handling."
+        },
+        {
+          "title": "Enclosed Transport",
+          "description": "Protected transport in enclosed trailers for extra security against weather influences and damage."
+        }
+      ]
+    },
+    "situations": {
+      "title": "Transport Possibilities",
+      "description": "From local transport to international moves - we offer transport for all types of vehicles to any desired destination.",
+      "items": [
+        {
+          "title": "Private Cars",
+          "description": "Safe transport of passenger cars for moves, purchases or repairs"
+        },
+        {
+          "title": "Classic Cars",
+          "description": "Specialized transport for vintage cars and classic vehicles with extra care"
+        },
+        {
+          "title": "Luxury Vehicles",
+          "description": "Premium transport service for expensive and exclusive cars with maximum security"
+        },
+        {
+          "title": "Commercial Vehicles",
+          "description": "Transport of vans, trucks and other commercial vehicles"
+        },
+        {
+          "title": "Motorcycles",
+          "description": "Safe and expert transport of motorcycles and scooters"
+        },
+        {
+          "title": "Defective Vehicles",
+          "description": "Transport of non-running vehicles to garage or final destination"
+        }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Share Pickup and Delivery Location",
+      "description": "Do you need car transport? Share the pickup and delivery location so we can give you an accurate quote and plan the transport.",
+      "imageAlt": "Share location for car transport"
+    },
+    "emergency": {
+      "title": "Need Car Transport? Call Directly!",
+      "subtitle": "Available 24/7 for car transport. National and international, fast and safe to any destination.",
+      "phone": "0852502928",
+      "phoneSubtitle": "Directly connected to our transport specialists",
+      "stats": [
+        {
+          "value": "24h",
+          "label": "Fast planning"
+        },
+        {
+          "value": "100%",
+          "label": "Fully insured"
+        },
+        {
+          "value": "EU-wide",
+          "label": "International"
+        }
+      ]
+    },
+    "locatiebutton": {
+      "sendLocation": "Share Location",
+      "loading": "Loading...",
+      "confirmSend": "Click again to send",
+      "errors": {
+        "notSupported": "Location sharing is not supported by your browser.",
+        "failed": "Could not get your location. Try again or check your settings."
+      }
+    }
+  },
+  "lekkeband": {
+    "seo": {
+      "title": "Flat Tire - 24/7 Professional Tire Service | Mobile Help",
+      "description": "Fast and reliable help for flat tires. 24/7 on-site service, spare tire installation and tire replacement. Direct help wherever you are.",
+      "keywords": "flat tire, tire service, spare tire, tire replacement, 24/7 tire service, mobile tire service, tire breakdown",
+      "imageAlt": "Professional flat tire service"
+    },
+    "hero": {
+      "badge": "Flat Tire Service",
+      "title": {
+        "part1": "Flat Tire",
+        "part2": "24/7 Tire Service"
+      },
+      "subtitle": "Our flat tire service provides fast, reliable and professional help, wherever you are – at home, at work or on the road. Directly on site with spare tires.",
+      "phone": "0852502928",
+      "cta": "085-250 29 28",
+      "whatsapp": "WhatsApp Help"
+    },
+    "features": {
+      "title": "Why Our Flat Tire Service?",
+      "subtitle": "With professional tire service and modern equipment, we ensure you get back on the road quickly and safely. From spare tire installation to complete tire changes.",
+      "items": [
+        {
+          "title": "Fast Response",
+          "description": "On site within 30 minutes with spare tires and professional tools"
+        },
+        {
+          "title": "Spare Tires in Stock",
+          "description": "Extensive stock of spare tires for all common vehicle types"
+        },
+        {
+          "title": "Safe Installation",
+          "description": "Professional tire installation according to all safety standards and specifications"
+        },
+        {
+          "title": "24/7 Service",
+          "description": "Day and night available for all flat tire and tire service problems"
+        }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Complete Tire Service",
+      "imageAlt": "Professional flat tire service",
+      "items": [
+        {
+          "title": "Spare Tire Installation",
+          "description": "Fast replacement of your flat tire with your own spare tire, including safety check."
+        },
+        {
+          "title": "New Tire Delivery",
+          "description": "Delivery and installation of new tires on site when no spare tire is available."
+        },
+        {
+          "title": "Tire Repair",
+          "description": "On-site repair of small holes and cracks if possible and safe."
+        }
+      ]
+    },
+    "situations": {
+      "title": "Tire Problems We Solve",
+      "description": "From a simple flat tire to complete tire changes - we have the expertise and equipment for all tire service needs of your vehicle.",
+      "items": [
+        {
+          "title": "Flat Tire",
+          "description": "Fast replacement of flat tires caused by nails, screws or other sharp objects"
+        },
+        {
+          "title": "Blown Tire",
+          "description": "Help with suddenly broken tires while driving with safe replacement"
+        },
+        {
+          "title": "Defective Valve",
+          "description": "Repair or replacement of defective valves that let air escape"
+        },
+        {
+          "title": "Sidewall Damage",
+          "description": "Replacement of tires with sidewall damage that are no longer safe"
+        },
+        {
+          "title": "Wear Problems",
+          "description": "Advice and replacement of tires with extreme or uneven wear"
+        },
+        {
+          "title": "Rim Damage",
+          "description": "Help with tire problems due to rim damage and advice on further repair"
+        }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Share Your Location for Fast Help",
+      "description": "Do you have a flat tire? Share your exact location so our tire service specialists can find and help you as quickly as possible with spare tires and tools.",
+      "imageAlt": "Share location for tire service"
+    },
+    "emergency": {
+      "title": "Flat Tire? Call Directly!",
+      "subtitle": "Available 24/7 for flat tire service. Spare tires on site, fast installation and driving again directly.",
+      "phone": "0852502928",
+      "phoneSubtitle": "Directly connected to our tire service specialists",
+      "stats": [
+        {
+          "value": "< 30 min",
+          "label": "On site"
+        },
+        {
+          "value": "100%",
+          "label": "Safe installation"
+        },
+        {
+          "value": "24/7",
+          "label": "Always available"
+        }
+      ]
+    },
+    "locatiebutton": {
+      "sendLocation": "Share Location",
+      "loading": "Loading...",
+      "confirmSend": "Click again to send",
+      "errors": {
+        "notSupported": "Location sharing is not supported by your browser.",
+        "failed": "Could not get your location. Try again or check your settings."
+      }
+    }
+  },
+  "autoberging": {
+    "seo": {
+      "title": "Car Storage 24/7 - Safe Vehicle Storage & Parking | Mobile Help",
+      "description": "Safe car storage and parking service for temporary accommodation of your vehicle. 24/7 secured locations after accidents or during travels.",
+      "keywords": "car storage, vehicle parking, car storage, secured parking, accident storage, temporary storage, 24/7 storage",
+      "imageAlt": "Professional car storage service"
+    },
+    "hero": {
+      "badge": "Car Storage 24/7",
+      "title": {
+        "part1": "Car Storage",
+        "part2": "& Safe Parking"
+      },
+      "subtitle": "Our car storage and parking service offers safe and reliable solutions for temporarily accommodating your vehicle, after an accident or during a trip. 24/7 secured locations.",
+      "phone": "0852502928",
+      "cta": "085-250 29 28",
+      "whatsapp": "WhatsApp Help"
+    },
+    "features": {
+      "title": "Why Our Car Storage Service?",
+      "subtitle": "With secured parking locations and professional care, we ensure your vehicle is safely kept during repairs, travels or other circumstances.",
+      "items": [
+        {
+          "title": "Fully Secured",
+          "description": "24/7 surveillance, camera systems and access control for maximum security"
+        },
+        {
+          "title": "Covered Parking",
+          "description": "Protected locations against weather influences and vandalism"
+        },
+        {
+          "title": "Flexible Storage",
+          "description": "Short and long-term parking possible, adapted to your needs"
+        },
+        {
+          "title": "Professional Care",
+          "description": "Experienced team that takes care of maintenance and monitoring of your vehicle"
+        }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Complete Car Storage Service",
+      "imageAlt": "Professional car storage service",
+      "items": [
+        {
+          "title": "Accident Storage",
+          "description": "Safe storage of vehicles after accidents during investigation or repair procedures."
+        },
+        {
+          "title": "Temporary Parking",
+          "description": "Short and long-term parking for vehicles during vacations, moves or maintenance."
+        },
+        {
+          "title": "Secured Storage",
+          "description": "24/7 monitored locations with camera systems and access control for valuable vehicles."
+        }
+      ]
+    },
+    "situations": {
+      "title": "When Do You Need Car Storage?",
+      "description": "From accidents to vacation storage - we offer safe storage for all situations where your vehicle needs to be temporarily accommodated.",
+      "items": [
+        {
+          "title": "After Accidents",
+          "description": "Safe storage during investigation, expert procedures or waiting for repair"
+        },
+        {
+          "title": "During Vacation",
+          "description": "Secured parking of your vehicle during long trips or vacations"
+        },
+        {
+          "title": "Repair Period",
+          "description": "Temporary storage during long repairs or waiting for parts"
+        },
+        {
+          "title": "Moving",
+          "description": "Parking during moves or temporary residence changes"
+        },
+        {
+          "title": "Seasonal Storage",
+          "description": "Storage of classic cars, motorcycles or seasonal vehicles"
+        },
+        {
+          "title": "Legal Procedures",
+          "description": "Keeping vehicles during legal procedures or investigations"
+        }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Share Your Location for Storage",
+      "description": "Do you need car storage? Share your location so we can pick up your vehicle and safely accommodate it in our secured parking locations.",
+      "imageAlt": "Share location for car storage"
+    },
+    "emergency": {
+      "title": "Need Car Storage? Call Directly!",
+      "subtitle": "Available 24/7 for car storage and parking. Safe storage, fast service and complete security for your vehicle.",
+      "phone": "0852502928",
+      "phoneSubtitle": "Directly connected to our storage specialists",
+      "stats": [
+        {
+          "value": "24/7",
+          "label": "Security"
+        },
+        {
+          "value": "100%",
+          "label": "Safely kept"
+        },
+        {
+          "value": "Direct",
+          "label": "Available"
+        }
+      ]
+    },
+    "locatiebutton": {
+      "sendLocation": "Share Location",
+      "loading": "Loading...",
+      "confirmSend": "Click again to send",
+      "errors": {
+        "notSupported": "Location sharing is not supported by your browser.",
+        "failed": "Could not get your location. Try again or check your settings."
+      }
+    }
+  },
+  "diensten": {
+    "seo": {
+      "title": "Our Services - 24/7 Roadside Assistance & Mobile Service | Mobile Help",
+      "description": "Discover all roadside assistance services: towing service, battery service, flat tire, car transport and more. Available 24/7 throughout Europe.",
+      "keywords": "roadside assistance services, towing service, battery service, flat tire, car transport, car storage, mobile help",
+      "imageAlt": "Roadside assistance services overview"
+    },
+    "hero": {
+      "badge": "Our Services",
+      "title": {
+        "part1": "24/7 Roadside Assistance",
+        "part2": "& Mobile Service"
+      },
+      "subtitle": "Discover our complete range of roadside assistance and mobile services. From towing service to battery replacement - we're there for you 24/7 throughout Europe.",
+      "phone": "0852502928",
+      "cta": "085-250 29 28",
+      "whatsapp": "WhatsApp Contact"
+    },
+    "services": {
+      "title": "Our Roadside Assistance Services",
+      "subtitle": "We specialize in direct, mobile help with breakdowns. From tire service to towing – we're available 24/7 to get you back on the road.",
+      "items": [
+        {
+          "title": "Roadside Assistance & Towing Service Europe",
+          "description": "Road help provides fast, reliable roadside assistance without subscriptions or hidden costs, with 24/7 service in the Netherlands and Europe.",
+          "button": "Read more",
+          "image": "/services/1.jpg",
+          "href": "/diensten/pechhulp-en-sleepdienst-europa"
+        },
+        {
+          "title": "Recovery from mud, sand or object",
+          "description": "Road help provides 24/7 professional assistance for safely and efficiently releasing vehicles stuck in mud, sand or on an object.",
+          "button": "Read more",
+          "image": "/services/2.jpg",
+          "href": "/diensten/uit-modder-zand-of-object-slepen"
+        },
+        {
+          "title": "Battery service",
+          "description": "We provide fast and reliable battery assistance so your vehicle is operational again in no time, regardless of the battery problem.",
+          "button": "Read more",
+          "image": "/services/3.jpg",
+          "href": "/diensten/accu-service"
+        },
+        {
+          "title": "Car transport",
+          "description": "Our car transport service ensures that your vehicle is delivered quickly and safely to the agreed location. Let us take care of you.",
+          "button": "Read more",
+          "image": "/services/4.jpg",
+          "href": "/diensten/auto-transport"
+        },
+        {
+          "title": "Flat tire",
+          "description": "Our flat tire service provides fast, reliable and professional help, wherever you are – at home, at work or on the road.",
+          "button": "Read more",
+          "image": "/services/5.png",
+          "href": "/diensten/lekke-band"
+        },
+        {
+          "title": "Car storage 24/7",
+          "description": "Our car storage and parking service offers safe and reliable solutions for temporarily accommodating and maintaining your vehicle, after an accident or during a trip.",
+          "button": "Read more",
+          "image": "/services/6.png",
+          "href": "/diensten/autoberging-247"
+        }
+      ]
+    },
+    "why": {
+      "title": "Why Choose Our Services?",
+      "subtitle": "With years of experience and a network throughout Europe, we offer the most reliable roadside assistance and mobile services for every situation.",
+      "items": [
+        {
+          "title": "Available 24/7",
+          "description": "Day and night available for all your roadside assistance and service needs"
+        },
+        {
+          "title": "Fully Insured",
+          "description": "All our services are fully insured for your peace of mind"
+        },
+        {
+          "title": "All of Europe",
+          "description": "Service throughout Europe, from the Netherlands to Spain"
+        },
+        {
+          "title": "Experienced Team",
+          "description": "Certified mechanics and drivers with years of experience"
+        }
+      ]
+    },
+    "coverage": {
+      "title": "Service Throughout Europe",
+      "description": "Our roadside assistance and mobile services are available in all major European countries. Wherever you are, we come to help you."
+    },
+    "locatiesectie": {
+      "title": "Share Your Location for Fast Help",
+      "description": "By sharing your location, we can find and help you even faster. Our mechanics use GPS to find the shortest route to you and provide the right service.",
+      "imageAlt": "Share location for fast help"
+    },
+    "emergency": {
+      "title": "Need Help? Call Directly!",
+      "subtitle": "For all roadside assistance and mobile services - available 24/7 throughout Europe. No waiting times, direct professional help.",
+      "phone": "0852502928",
+      "phoneSubtitle": "Directly connected to our service center",
+      "stats": [
+        {
+          "value": "< 30 min",
+          "label": "Average response time"
+        },
+        {
+          "value": "24/7",
+          "label": "Always available"
+        },
+        {
+          "value": "€0",
+          "label": "No subscription costs"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "seo": {
+      "title": "Contact - 24/7 Roadside Assistance & Mobile Help | Contact Us",
+      "description": "Contact us for 24/7 roadside assistance and mobile service. By phone, WhatsApp or email. Directly available for all car breakdown situations.",
+      "keywords": "contact roadside assistance, roadside assistance phone number, whatsapp help, email contact, available 24/7, mobile help contact",
+      "imageAlt": "Contact for roadside assistance"
+    },
+    "hero": {
+      "badge": "Contact",
+      "title": {
+        "part1": "Available 24/7",
+        "part2": "For Direct Help"
+      },
+      "subtitle": "Need help? We're there for you 24/7. Contact us directly by phone, WhatsApp or email for fast professional roadside assistance.",
+      "phone": "0852502928",
+      "cta": "085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "methods": {
+      "title": "Contact Us",
+      "subtitle": "Choose the method that works best for you. We are always available and respond quickly to all your questions and help requests.",
+      "items": [
+        {
+          "title": "Phone",
+          "description": "Directly available for emergencies and general questions. 24/7 staffed helpline.",
+          "contact": "085-250 29 28",
+          "link": "tel:0852502928",
+          "linkText": "Call Directly"
+        },
+        {
+          "title": "WhatsApp",
+          "description": "Send a message via WhatsApp for fast communication and photos of your situation.",
+          "contact": "+31 85 060 98 80",
+          "link": "https://wa.me/31850609880",
+          "linkText": "Start Chat"
+        },
+        {
+          "title": "Email",
+          "description": "For general questions, quotes and non-urgent matters, you can email us.",
+          "contact": "info@mobielehulp.nl",
+          "link": "mailto:info@mobielehulp.nl",
+          "linkText": "Send Email"
+        }
+      ]
+    },
+    "emergency": {
+      "title": "Emergency? Call Directly!",
+      "subtitle": "In urgent situations, you can reach us directly 24/7. No waiting times, direct help from our experienced mechanics.",
+      "phone": "0852502928",
+      "phoneSubtitle": "24/7 Emergency Help - Directly Available",
+      "features": [
+        {
+          "value": "< 5 min",
+          "label": "Phone response time"
+        },
+        {
+          "value": "24/7",
+          "label": "Always available"
+        },
+        {
+          "value": "Direct",
+          "label": "No waiting times"
+        }
+      ]
+    },
+    "hours": {
+      "title": "Availability",
+      "schedule": [
+        {
+          "day": "Monday - Friday",
+          "hours": "Available 24/7"
+        },
+        {
+          "day": "Weekend",
+          "hours": "Available 24/7"
+        },
+        {
+          "day": "Holidays",
+          "hours": "Available 24/7"
+        },
+        {
+          "day": "Email Response",
+          "hours": "Within 2 hours"
+        }
+      ],
+      "emergency": {
+        "title": "Emergencies",
+        "description": "For emergencies, we are available 24/7 via our emergency number."
+      }
+    },
+    "info": {
+      "title": "Company Information",
+      "details": [
+        {
+          "label": "Service Area",
+          "value": "Netherlands & Europe"
+        },
+        {
+          "label": "Email Address",
+          "value": "info@mobielehulp.nl"
+        },
+        {
+          "label": "Phone Number",
+          "value": "085-250 29 28"
+        },
+        {
+          "label": "Insurance",
+          "value": "Fully insured & certified"
+        }
+      ]
+    },
+    "location": {
+      "title": "Share Your Location",
+      "description": "Do you need help? Share your exact location so our mechanics can find you as quickly as possible. This saves valuable time in emergency situations.",
+      "imageAlt": "Share location for help"
+    }
+  }
+}

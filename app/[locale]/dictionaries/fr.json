@@ -1,0 +1,1277 @@
+{
+  "navigation": {
+    "pechhulp": "Dépannage",
+    "diensten": "Services",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "pechhulp": {
+    "title": "Dépannage Pays-Bas - Aide Mobile 24/7 en Cas de Panne",
+    "description": "Dépannage fiable et rapide sans abonnement. Disponible 24/7 dans tous les Pays-Bas. Pneu crevé, batterie déchargée ou service de remorquage nécessaire ? Nous sommes là pour vous.",
+    "seo": {
+      "title": "Dépannage & Service de Remorquage Europe - Aide Fiable 24/7 | Aide Mobile",
+      "description": "Dépannage professionnel et service de remorquage dans toute l'Europe. Disponible 24/7, réponse rapide, sans frais d'abonnement. Appelez directement pour une aide en cas de panne.",
+      "keywords": "dépannage europe, remorquage europe, panne auto europe, dépannage 24/7, dépannage international, remorquage auto europe, assistance routière europe, aide mobile europe",
+      "imageAlt": "Dépannage et Service de Remorquage Europe"
+    },
+    "hero": {
+      "badge": "Dépannage & Remorquage",
+      "title": {
+        "part1": "Dépannage & Remorquage",
+        "part2": "Dans Toute l'Europe"
+      },
+      "subtitle": "Dépannage fiable 24/7 et service de remorquage dans toute l'Europe. Réponse rapide, service professionnel et prix transparents sans coûts cachés.",
+      "phone": "0852502928",
+      "cta": "085-250 29 28",
+      "whatsapp": "Aide WhatsApp"
+    },
+    "features": {
+      "title": "Pourquoi Choisir Notre Dépannage ?",
+      "subtitle": "Avec des années d'expérience et un réseau dans toute l'Europe, nous offrons le dépannage et service de remorquage les plus fiables pour chaque situation.",
+      "items": [
+        {
+          "title": "Disponible 24/7",
+          "description": "Accessible jour et nuit pour tous vos besoins de dépannage"
+        },
+        {
+          "title": "Toute l'Europe",
+          "description": "Service dans toute l'Europe, des Pays-Bas à l'Espagne"
+        },
+        {
+          "title": "Fiable",
+          "description": "Mécaniciens certifiés et dépanneuses modernes"
+        },
+        {
+          "title": "Réparation sur Place",
+          "description": "Souvent nous pouvons réparer votre voiture sur place"
+        }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Dépannage & Service de Remorquage Complet",
+      "imageAlt": "Dépannage et Service de Remorquage Europe",
+      "items": [
+        {
+          "title": "Dépannage & Service de Remorquage Europe",
+          "description": "Assistance routière offre un dépannage rapide et fiable sans abonnements ni coûts cachés, avec un service 24/7 aux Pays-Bas et en Europe."
+        },
+        {
+          "title": "Sortie de boue, sable ou objet",
+          "description": "Assistance routière offre une aide professionnelle 24/7 pour dégager de manière sûre et efficace les véhicules coincés dans la boue, le sable ou sur un objet."
+        },
+        {
+          "title": "Service de batterie",
+          "description": "Nous offrons une aide rapide et fiable pour les batteries afin que votre véhicule soit à nouveau opérationnel en un rien de temps, quel que soit le problème de batterie."
+        }
+      ]
+    },
+    "coverage": {
+      "title": "Service Dans Toute l'Europe",
+      "description": "Notre dépannage et service de remorquage est disponible dans tous les pays européens importants. Où que vous soyez, nous venons vous aider.",
+      "areas": [
+        "Pays-Bas",
+        "Belgique",
+        "Allemagne",
+        "France",
+        "Espagne",
+        "Italie",
+        "Autriche",
+        "Suisse",
+        "Pologne",
+        "République tchèque",
+        "Danemark",
+        "Suède"
+      ],
+      "badge": "Zone de service",
+      "button": {
+        "locations": "Tous les emplacements",
+        "info": "Plus d'informations",
+        "countries": "Voir les pays"
+      },
+      "europe": {
+        "title": "Aide aussi en Europe",
+        "description": "Que vous soyez en vacances ou en route vers chez vous, nous offrons également un soutien dans de nombreux pays européens.",
+        "features": [
+          "Aide en néerlandais",
+          "Temps de réponse rapide",
+          "Partenaires locaux"
+        ]
+      }
+    },
+    "locatiesectie": {
+      "title": "Partagez Votre Localisation pour une Aide Rapide",
+      "description": "En partageant votre localisation, nous pouvons vous trouver et vous aider encore plus rapidement. Nos mécaniciens utilisent le GPS pour trouver le chemin le plus court vers vous.",
+      "imageAlt": "Partager la localisation pour le dépannage",
+      "button": "Partager la localisation"
+    },
+    "emergency": {
+      "title": "Panne Auto ? Appelez Directement !",
+      "subtitle": "Disponible 24/7 pour le dépannage et service de remorquage dans toute l'Europe. Pas de temps d'attente, aide directe.",
+      "phone": "0852502928",
+      "phoneSubtitle": "Directement connecté à notre centrale",
+      "stats": [
+        {
+          "value": "< 30 min",
+          "label": "Temps de réponse moyen"
+        },
+        {
+          "value": "24/7",
+          "label": "Toujours disponible"
+        },
+        {
+          "value": "€0",
+          "label": "Pas de frais d'abonnement"
+        }
+      ],
+      "step": "Étape",
+      "steps": [
+        "Appelez-nous via le numéro d'urgence",
+        "Donnez votre localisation",
+        "Nous venons directement chez vous",
+        "L'aide arrive rapidement sur place"
+      ]
+    },
+    "servicegrid": {
+      "title": "Nos Services de Dépannage",
+      "subtitle": "Nous sommes spécialisés dans l'aide mobile directe en cas de panne. Du service de pneus au remorquage – nous sommes disponibles 24/7 pour vous remettre en route.",
+      "items": [
+        {
+          "title": "Dépannage & Service de Remorquage Europe",
+          "description": "Assistance routière offre un dépannage rapide et fiable sans abonnements ni coûts cachés, avec un service 24/7 aux Pays-Bas et en Europe.",
+          "button": "Lire plus",
+          "image": "/services/1.jpg",
+          "href": "/diensten/pechhulp-en-sleepdienst-europa"
+        },
+        {
+          "title": "Sortie de boue, sable ou objet",
+          "description": "Assistance routière offre une aide professionnelle 24/7 pour dégager de manière sûre et efficace les véhicules coincés dans la boue, le sable ou sur un objet.",
+          "button": "Lire plus",
+          "image": "/services/2.jpg",
+          "href": "/diensten/uit-modder-zand-of-object-slepen"
+        },
+        {
+          "title": "Service de batterie",
+          "description": "Nous offrons une aide rapide et fiable pour les batteries afin que votre véhicule soit à nouveau opérationnel en un rien de temps, quel que soit le problème de batterie.",
+          "button": "Lire plus",
+          "image": "/services/3.jpg",
+          "href": "/diensten/accu-service"
+        },
+        {
+          "title": "Transport auto",
+          "description": "Notre service de transport automobile garantit que votre véhicule soit livré rapidement et en toute sécurité à l'emplacement convenu. Laissez-nous vous décharger.",
+          "button": "Lire plus",
+          "image": "/services/4.jpg",
+          "href": "/diensten/auto-transport"
+        },
+        {
+          "title": "Pneu crevé",
+          "description": "Notre service de pneu crevé offre une aide rapide, fiable et professionnelle, où que vous soyez – à la maison, au travail ou en route.",
+          "button": "Lire plus",
+          "image": "/services/5.png",
+          "href": "/diensten/lekke-band"
+        },
+        {
+          "title": "Stockage auto 24/7",
+          "description": "Notre service de stockage et entreposage automobile offre des solutions sûres et fiables pour l'hébergement temporaire et l'entretien de votre véhicule, après un accident ou pendant un voyage.",
+          "button": "Lire plus",
+          "image": "/services/6.png",
+          "href": "/diensten/autoberging-247"
+        }
+      ]
+    },
+    "locatiebutton": {
+      "sendLocation": "Partager la localisation",
+      "loading": "Chargement...",
+      "confirmSend": "Cliquez à nouveau pour envoyer",
+      "errors": {
+        "notSupported": "Le partage de localisation n'est pas pris en charge par votre navigateur.",
+        "failed": "Impossible d'obtenir votre localisation. Essayez à nouveau ou vérifiez vos paramètres."
+      }
+    },
+    "feature": {
+      "sectionLabel": "Service de Remorquage & Dépannage",
+      "title": "Dépannage Rapide et Service de Remorquage Fiable en Cas de Panne Auto",
+      "subtitle": "Toujours disponible, jour et nuit",
+      "description": "Vous avez une panne auto ou vous êtes avec une voiture en panne sur le bord de la route ? Notre service de remorquage professionnel est disponible 24/7 pour un dépannage direct. Avec des dépanneuses modernes et une localisation en temps réel, nous sommes rapidement sur place pour vous aider de manière sûre et efficace. Qu'il s'agisse d'une batterie déchargée, d'un pneu crevé ou d'une panne moteur sérieuse – nous nous assurons que vous repartiez rapidement.",
+      "button": "Découvrez notre dépannage"
+    },
+    "services": {
+      "title": "Nos Services de Dépannage",
+      "subtitle": "Toujours accessible en mobile, où que vous soyez – nous résolvons le problème.",
+      "roadside": {
+        "title": "Dépannage & Service de Remorquage Europe",
+        "description": "Assistance routière offre un dépannage rapide et fiable sans abonnements ni coûts cachés, avec un service 24/7 aux Pays-Bas et en Europe.",
+        "features": [
+          "Pas d'abonnement",
+          "Sur place en 30 minutes",
+          "Disponible 24/7"
+        ]
+      },
+      "recovery": {
+        "title": "Sortie de boue, sable ou objet",
+        "description": "Assistance routière offre une aide professionnelle 24/7 pour dégager de manière sûre et efficace les véhicules coincés dans la boue, le sable ou sur un objet.",
+        "features": [
+          "Dégagement sûr",
+          "Équipe expérimentée",
+          "Réaction rapide"
+        ]
+      },
+      "battery": {
+        "title": "Service de batterie",
+        "description": "Nous offrons une aide rapide et fiable pour les batteries afin que votre véhicule soit à nouveau opérationnel en un rien de temps, quel que soit le problème de batterie.",
+        "features": [
+          "Nouvelles batteries sur place",
+          "Remplacement professionnel",
+          "Rouler à nouveau rapidement"
+        ]
+      },
+      "transport": {
+        "title": "Transport auto",
+        "description": "Notre service de transport automobile garantit que votre véhicule soit livré rapidement et en toute sécurité à l'emplacement convenu. Laissez-nous vous décharger.",
+        "features": [
+          "National & international",
+          "Transport sécurisé",
+          "Service rapide"
+        ]
+      },
+      "tire": {
+        "title": "Pneu crevé",
+        "description": "Notre service de pneu crevé offre une aide rapide, fiable et professionnelle, où que vous soyez – à la maison, au travail ou en route.",
+        "features": [
+          "Remplacement sur place",
+          "Montage de roue de secours",
+          "Disponible 24/7"
+        ]
+      },
+      "storage": {
+        "title": "Stockage auto 24/7",
+        "description": "Notre service de stockage et entreposage automobile offre des solutions sûres et fiables pour l'hébergement temporaire et l'entretien de votre véhicule, après un accident ou pendant un voyage.",
+        "features": [
+          "Entreposage disponible",
+          "Emplacements sécurisés",
+          "Transport sûr"
+        ]
+      }
+    },
+    "process": {
+      "badge": "Comment ça marche",
+      "title": "Comment fonctionne notre service de dépannage",
+      "subtitle": "En quelques étapes, vous êtes à nouveau en sécurité sur la route.",
+      "step1": {
+        "title": "Appelez-nous directement",
+        "description": "Contactez notre ligne d'aide 24/7."
+      },
+      "step2": {
+        "title": "Nous venons chez vous",
+        "description": "Notre équipe trace votre localisation et arrive rapidement."
+      },
+      "step3": {
+        "title": "Assistance rapide",
+        "description": "Nous résolvons le problème sur place ou organisons le transport."
+      },
+      "step4": {
+        "title": "De nouveau en route en sécurité",
+        "description": "Vous pouvez à nouveau conduire sans souci."
+      }
+    },
+    "why": {
+      "badge": "Pourquoi nous choisir",
+      "title": "Aide fiable, toujours proche",
+      "subtitle": "Plus de 50 000 clients font confiance à notre expertise et notre rapidité.",
+      "reasons": [
+        {
+          "title": "Disponibilité 24/7",
+          "description": "Notre aide est disponible jour et nuit, 365 jours par an."
+        },
+        {
+          "title": "Entièrement assuré",
+          "description": "Tous nos services sont entièrement assurés pour votre tranquillité d'esprit."
+        },
+        {
+          "title": "Grand réseau",
+          "description": "Nous sommes actifs dans tous les Pays-Bas avec des partenaires locaux."
+        },
+        {
+          "title": "Équipe expérimentée",
+          "description": "Nos mécaniciens et chauffeurs sont certifiés et professionnels."
+        }
+      ],
+      "cards": [
+        {
+          "title": "98% de satisfaction",
+          "subtitle": "Basé sur les avis",
+          "description": "Les clients apprécient notre service rapide et notre communication claire."
+        },
+        {
+          "title": "Temps de réponse rapide",
+          "subtitle": "Moyenne < 30 min",
+          "description": "Nous sommes toujours dans les environs et agissons rapidement."
+        },
+        {
+          "title": "Abordable",
+          "subtitle": "Sans abonnement",
+          "description": "Pas de coûts cachés ou d'abonnements nécessaires."
+        }
+      ]
+    },
+    "testimonials": {
+      "badge": "Avis",
+      "title": "Ce que disent les clients",
+      "subtitle": "Expériences réelles de clients satisfaits.",
+      "reviews": [
+        {
+          "name": "Sander",
+          "location": "Amsterdam",
+          "text": "En 20 minutes, le mécanicien était sur place. Vraiment un service excellent !"
+        },
+        {
+          "name": "Marieke",
+          "location": "Utrecht",
+          "text": "Ma batterie était déchargée. Grâce à Dépannage Pays-Bas, j'ai pu rouler à nouveau rapidement."
+        },
+        {
+          "name": "Timo",
+          "location": "Rotterdam",
+          "text": "Bonne communication, service amical et abordable. À recommander !"
+        }
+      ]
+    },
+    "faq": {
+      "badge": "Questions fréquentes",
+      "title": "FAQ Dépannage",
+      "subtitle": "Tout ce que vous voulez savoir sur nos services.",
+      "questions": [
+        {
+          "question": "Le dépannage sans abonnement est-il possible ?",
+          "answer": "Oui, nous travaillons sans abonnement. Vous ne payez que lorsque vous avez besoin de notre aide."
+        },
+        {
+          "question": "Quel est votre temps de réponse ?",
+          "answer": "En moyenne, nous sommes sur place en 30 minutes, selon votre localisation."
+        },
+        {
+          "question": "Dans quels pays d'Europe offrez-vous de l'aide ?",
+          "answer": "Nous offrons un soutien notamment en Belgique, Allemagne, France et Luxembourg."
+        }
+      ],
+      "other": "Votre question n'y est pas ?",
+      "contact": "Contactez-nous"
+    },
+    "cta": {
+      "title": "Besoin d'aide directe en cas de panne ?",
+      "subtitle": "Appelez-nous ou envoyez un message – nous sommes directement là pour vous.",
+      "email": "Envoyez-nous un mail",
+      "features": [
+        "Toujours disponible",
+        "Service assuré",
+        "Satisfaction client la plus élevée"
+      ]
+    }
+  },
+  "modderslepen": {
+    "seo": {
+      "title": "Sortie de Boue, Sable ou Objet - Aide Professionnelle 24/7 | Aide Mobile",
+      "description": "Aide professionnelle pour les véhicules coincés dans la boue, le sable ou sur des objets. Disponible 24/7, équipe expérimentée, techniques sûres. Aide directe pour tous véhicules.",
+      "keywords": "sortie de boue, remorquage sable, coincé, libération véhicule, aide 24/7, service remorquage, aide professionnelle, remorquage sûr",
+      "imageAlt": "Sortie de boue aide professionnelle"
+    },
+    "hero": {
+      "badge": "Libération de Véhicule",
+      "title": {
+        "part1": "Sortie de Boue, Sable",
+        "part2": "ou Objet"
+      },
+      "subtitle": "Aide professionnelle 24/7 pour dégager de manière sûre et efficace les véhicules coincés dans la boue, le sable ou sur des objets. Équipe expérimentée avec équipement spécialisé.",
+      "phone": "0852502928",
+      "cta": "085-250 29 28",
+      "whatsapp": "Aide WhatsApp"
+    },
+    "features": {
+      "title": "Pourquoi Notre Service de Libération ?",
+      "subtitle": "Avec un équipement spécialisé et des années d'expérience, nous libérons de manière sûre et efficace tout véhicule coincé dans la boue, le sable ou sur des objets.",
+      "items": [
+        {
+          "title": "Équipement Spécialisé",
+          "description": "Treuils modernes, palans et technique de récupération pour chaque situation"
+        },
+        {
+          "title": "Techniques Sûres",
+          "description": "Méthodes professionnelles qui préviennent les dommages à votre véhicule"
+        },
+        {
+          "title": "Spécialistes Expérimentés",
+          "description": "Mécaniciens certifiés avec des années d'expérience en libération de véhicules"
+        },
+        {
+          "title": "Réponse Rapide",
+          "description": "Sur place en 30 minutes avec le bon équipement"
+        }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Libération Professionnelle de Véhicules",
+      "imageAlt": "Libération professionnelle de véhicules de la boue",
+      "items": [
+        {
+          "title": "Sortie de Boue",
+          "description": "Dégagement sûr de véhicules coincés dans la boue ou l'argile à l'aide de techniques de treuil professionnelles."
+        },
+        {
+          "title": "Libération du Sable",
+          "description": "Aide spécialisée pour les véhicules qui s'enfoncent dans le sable, la plage ou un sol mou."
+        },
+        {
+          "title": "Retrait d'Objet",
+          "description": "Libération de véhicules coincés sur des poteaux, rochers ou autres obstacles."
+        }
+      ]
+    },
+    "situations": {
+      "title": "Situations Dans Lesquelles Nous Aidons",
+      "description": "Des voitures légères aux camions lourds - nous avons l'équipement et l'expertise appropriés pour chaque situation où votre véhicule est coincé.",
+      "items": [
+        {
+          "title": "Coincé dans la Boue",
+          "description": "Voitures, fourgonnettes et camions qui s'enfoncent dans des routes boueuses ou des champs"
+        },
+        {
+          "title": "Sable & Plage",
+          "description": "Véhicules coincés dans le sable sur les plages, les dunes ou les chantiers de construction"
+        },
+        {
+          "title": "Neige & Glace",
+          "description": "Libération de la neige, de la glace ou du sol gelé dans des conditions hivernales"
+        },
+        {
+          "title": "Fossés & Trous",
+          "description": "Aide pour les véhicules qui se retrouvent dans des fossés, des trous ou d'autres dépressions"
+        },
+        {
+          "title": "Sol Mou",
+          "description": "Dégagement de véhicules qui s'enfoncent dans l'herbe, les champs ou les routes non pavées"
+        },
+        {
+          "title": "Obstacles",
+          "description": "Libération de véhicules coincés sur des poteaux, rochers ou autres objets"
+        }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Partagez Votre Localisation pour une Aide Rapide",
+      "description": "Êtes-vous coincé dans la boue, le sable ou sur un objet ? Partagez votre localisation exacte pour que nos spécialistes puissent vous trouver et vous aider le plus rapidement possible avec le bon équipement.",
+      "imageAlt": "Partager la localisation pour l'aide à la libération"
+    },
+    "emergency": {
+      "title": "Coincé ? Appelez Directement !",
+      "subtitle": "Disponible 24/7 pour une aide professionnelle aux véhicules coincés. Équipement spécialisé et équipe expérimentée.",
+      "phone": "0852502928",
+      "phoneSubtitle": "Directement connecté à nos spécialistes",
+      "stats": [
+        {
+          "value": "< 30 min",
+          "label": "Temps de réponse"
+        },
+        {
+          "value": "100%",
+          "label": "Libéré avec succès"
+        },
+        {
+          "value": "24/7",
+          "label": "Toujours disponible"
+        }
+      ]
+    },
+    "locatiebutton": {
+      "sendLocation": "Partager la localisation",
+      "loading": "Chargement...",
+      "confirmSend": "Cliquez à nouveau pour envoyer",
+      "errors": {
+        "notSupported": "Le partage de localisation n'est pas pris en charge par votre navigateur.",
+        "failed": "Impossible d'obtenir votre localisation. Essayez à nouveau ou vérifiez vos paramètres."
+      }
+    }
+  },
+  "footer": {
+    "brandName": "Dépannage Pays-Bas",
+    "description": "Votre partenaire fiable pour le dépannage et service de remorquage dans toute l'Europe. Disponible 24/7 pour toutes les situations de panne auto.",
+    "rating": "4.9/5 (2.847 avis)",
+    "availability": "Disponible 24/7",
+    "serviceArea": "Toute l'Europe",
+    "email": "info@mobielehulp.nl",
+    "servicesTitle": "Nos Services",
+    "contactTitle": "Contact & Info",
+    "services": {
+      "roadside": "Dépannage",
+      "towing": "Service de remorquage",
+      "battery": "Service de batterie",
+      "tire": "Pneu crevé",
+      "transport": "Transport auto",
+      "storage": "Stockage auto"
+    },
+    "links": {
+      "privacy": "Politique de confidentialité",
+      "terms": "Conditions générales",
+      "sitemap": "Plan du site"
+    },
+    "copyright": "© 2025 Dépannage Pays-Bas. Tous droits réservés."
+  },
+  "services": {
+    "badge": "Ce que nous faisons",
+    "moreInfo": "Lire plus"
+  },
+  "accuservice": {
+    "seo": {
+      "title": "Service de Batterie - Aide Professionnelle 24/7 pour Batterie | Aide Mobile",
+      "description": "Aide rapide et fiable pour batteries de tous véhicules. Disponible 24/7, nouvelles batteries sur place, remplacement professionnel. Aide directe pour batterie déchargée.",
+      "keywords": "service batterie, batterie déchargée, remplacer batterie, problèmes démarrage, aide batterie, service 24/7, service mobile batterie, batterie auto",
+      "imageAlt": "Service professionnel de batterie"
+    },
+    "hero": {
+      "badge": "Service de Batterie",
+      "title": {
+        "part1": "Service de Batterie",
+        "part2": "Aide Batterie 24/7"
+      },
+      "subtitle": "Aide rapide et fiable pour les batteries afin que votre véhicule soit à nouveau opérationnel en un rien de temps. Nouvelles batteries sur place, remplacement professionnel et aide directe pour problèmes de démarrage.",
+      "phone": "0852502928",
+      "cta": "085-250 29 28",
+      "whatsapp": "Aide WhatsApp"
+    },
+    "features": {
+      "title": "Pourquoi Notre Service de Batterie ?",
+      "subtitle": "Avec des batteries de haute qualité et un équipement professionnel, nous nous assurons que votre véhicule redémarre rapidement. Du diagnostic au remplacement - tout sur place.",
+      "items": [
+        {
+          "title": "Diagnostic Rapide",
+          "description": "Équipement de test moderne pour un contrôle précis de la batterie et du système de charge"
+        },
+        {
+          "title": "Batteries de Qualité",
+          "description": "Batteries de haute qualité de marques connues pour une fiabilité durable"
+        },
+        {
+          "title": "Service sur Place",
+          "description": "Remplacement et installation complète de batterie directement à votre emplacement"
+        },
+        {
+          "title": "Disponible 24/7",
+          "description": "Jour et nuit disponible pour les problèmes de batterie urgents"
+        }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Service de Batterie Complet",
+      "imageAlt": "Service professionnel de batterie",
+      "items": [
+        {
+          "title": "Diagnostic de Batterie",
+          "description": "Test professionnel de votre batterie et système de charge pour déterminer la cause exacte des problèmes de démarrage."
+        },
+        {
+          "title": "Remplacement de Batterie",
+          "description": "Remplacement rapide avec des batteries de haute qualité sur place, y compris l'élimination de l'ancienne batterie."
+        },
+        {
+          "title": "Résolution de Problèmes de Démarrage",
+          "description": "Aide pour les problèmes de démarrage dus à une batterie déchargée, un système de charge défectueux ou d'autres pannes électriques."
+        }
+      ]
+    },
+    "situations": {
+      "title": "Problèmes de Batterie Que Nous Résolvons",
+      "description": "D'une batterie déchargée au remplacement complet de batterie - nous avons l'expertise et l'équipement pour tous les problèmes liés à la batterie de votre véhicule.",
+      "items": [
+        {
+          "title": "Batterie Déchargée",
+          "description": "La voiture ne démarre plus à cause d'une batterie complètement déchargée - nous redémarrons votre véhicule"
+        },
+        {
+          "title": "Ancienne Batterie",
+          "description": "La batterie ne tient plus la charge et doit être remplacée"
+        },
+        {
+          "title": "Dynamo Défectueuse",
+          "description": "Le système de charge ne fonctionne pas bien, la batterie n'est donc pas rechargée"
+        },
+        {
+          "title": "Problèmes de Démarrage à Froid",
+          "description": "Le véhicule démarre difficilement en hiver à cause de performances de batterie affaiblies"
+        },
+        {
+          "title": "Pannes Électriques",
+          "description": "Problèmes avec l'éclairage, la radio ou d'autres composants électriques"
+        },
+        {
+          "title": "Fuite de Batterie",
+          "description": "La batterie fuit de l'acide ou est endommagée et doit être remplacée immédiatement"
+        }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Partagez Votre Localisation pour une Aide Rapide",
+      "description": "Votre voiture ne démarre plus ? Partagez votre localisation exacte pour que nos spécialistes en batteries puissent vous trouver et vous aider le plus rapidement possible avec le bon équipement et de nouvelles batteries.",
+      "imageAlt": "Partager la localisation pour l'aide batterie"
+    },
+    "emergency": {
+      "title": "La Voiture Ne Démarre Pas ? Appelez Directement !",
+      "subtitle": "Disponible 24/7 pour une aide professionnelle aux batteries. Nouvelles batteries sur place, diagnostic rapide et rouler à nouveau directement.",
+      "phone": "0852502928",
+      "phoneSubtitle": "Directement connecté à nos spécialistes en batteries",
+      "stats": [
+        {
+          "value": "< 20 min",
+          "label": "Temps de réponse moyen"
+        },
+        {
+          "value": "95%",
+          "label": "Résolu directement"
+        },
+        {
+          "value": "24/7",
+          "label": "Toujours disponible"
+        }
+      ]
+    },
+    "pechservice": {
+      "items": [
+        {
+          "title": "Dépannage & Service de Remorquage Europe",
+          "href": "/diensten/pechhulp-en-sleepdienst-europa"
+        },
+        {
+          "title": "Sortie de boue, sable ou objet",
+          "href": "/diensten/uit-modder-zand-of-object-slepen"
+        },
+        {
+          "title": "Service de batterie",
+          "href": "/diensten/accu-service"
+        },
+        {
+          "title": "Transport auto",
+          "href": "/diensten/auto-transport"
+        },
+        {
+          "title": "Pneu crevé",
+          "href": "/diensten/lekke-band"
+        },
+        {
+          "title": "Stockage auto 24/7",
+          "href": "/diensten/autoberging-247"
+        }
+      ]
+    },
+    "locatiebutton": {
+      "sendLocation": "Partager la localisation",
+      "loading": "Chargement...",
+      "confirmSend": "Cliquez à nouveau pour envoyer",
+      "errors": {
+        "notSupported": "Le partage de localisation n'est pas pris en charge par votre navigateur.",
+        "failed": "Impossible d'obtenir votre localisation. Essayez à nouveau ou vérifiez vos paramètres."
+      }
+    }
+  },
+  "autotransport": {
+    "seo": {
+      "title": "Transport Auto - Transport de Véhicule Fiable 24/7 | Aide Mobile",
+      "description": "Service professionnel de transport automobile pour transport national et international. Transport sûr, rapide et fiable de votre véhicule vers n'importe quelle destination souhaitée.",
+      "keywords": "transport auto, transport véhicule, transport national, transport international, expédition auto, transport véhicule, transport fiable",
+      "imageAlt": "Service professionnel de transport auto"
+    },
+    "hero": {
+      "badge": "Transport Auto",
+      "title": {
+        "part1": "Transport Auto",
+        "part2": "National & International"
+      },
+      "subtitle": "Notre service de transport automobile garantit que votre véhicule soit livré rapidement et en toute sécurité à l'emplacement convenu. Transport national et international avec assurance complète.",
+      "phone": "0852502928",
+      "cta": "085-250 29 28",
+      "whatsapp": "Aide WhatsApp"
+    },
+    "features": {
+      "title": "Pourquoi Notre Service de Transport Auto ?",
+      "subtitle": "Avec des véhicules de transport modernes et des chauffeurs expérimentés, nous assurons un transport sûr et fiable de votre véhicule vers n'importe quelle destination souhaitée.",
+      "items": [
+        {
+          "title": "Entièrement Assuré",
+          "description": "Votre véhicule est entièrement assuré contre tous les risques pendant le transport"
+        },
+        {
+          "title": "Véhicules Modernes",
+          "description": "Transporteurs fermés et équipement moderne pour une sécurité maximale"
+        },
+        {
+          "title": "Service Rapide",
+          "description": "Planification flexible et traitement rapide de votre commande de transport"
+        },
+        {
+          "title": "Équipe Expérimentée",
+          "description": "Chauffeurs professionnels avec des années d'expérience en transport de véhicules"
+        }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Service de Transport Auto Complet",
+      "imageAlt": "Service professionnel de transport auto",
+      "items": [
+        {
+          "title": "Transport National",
+          "description": "Transport fiable aux Pays-Bas de porte à porte avec service complet et accompagnement."
+        },
+        {
+          "title": "Transport International",
+          "description": "Transport transfrontalier vers tous les pays européens avec traitement complet des papiers."
+        },
+        {
+          "title": "Transport Fermé",
+          "description": "Transport protégé dans des remorques fermées pour une sécurité supplémentaire contre les intempéries et les dommages."
+        }
+      ]
+    },
+    "situations": {
+      "title": "Possibilités de Transport",
+      "description": "Du transport local aux déménagements internationaux - nous offrons le transport pour tous types de véhicules vers n'importe quelle destination souhaitée.",
+      "items": [
+        {
+          "title": "Voitures Particulières",
+          "description": "Transport sûr de voitures particulières pour déménagements, achats ou réparations"
+        },
+        {
+          "title": "Voitures Classiques",
+          "description": "Transport spécialisé pour oldtimers et véhicules classiques avec un soin supplémentaire"
+        },
+        {
+          "title": "Véhicules de Luxe",
+          "description": "Service de transport premium pour voitures chères et exclusives avec sécurité maximale"
+        },
+        {
+          "title": "Véhicules d'Entreprise",
+          "description": "Transport de fourgonnettes, camions et autres véhicules d'entreprise"
+        },
+        {
+          "title": "Motos",
+          "description": "Transport sûr et expert de motos et scooters"
+        },
+        {
+          "title": "Véhicules Défectueux",
+          "description": "Transport de véhicules non roulants vers le garage ou la destination finale"
+        }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Partagez les Lieux de Prise en Charge et de Livraison",
+      "description": "Avez-vous besoin de transport auto ? Partagez les lieux de prise en charge et de livraison pour que nous puissions vous donner un devis précis et planifier le transport.",
+      "imageAlt": "Partager la localisation pour le transport auto"
+    },
+    "emergency": {
+      "title": "Besoin de Transport Auto ? Appelez Directement !",
+      "subtitle": "Disponible 24/7 pour le transport auto. National et international, rapide et sûr vers n'importe quelle destination.",
+      "phone": "0852502928",
+      "phoneSubtitle": "Directement connecté à nos spécialistes en transport",
+      "stats": [
+        {
+          "value": "24h",
+          "label": "Planification rapide"
+        },
+        {
+          "value": "100%",
+          "label": "Entièrement assuré"
+        },
+        {
+          "value": "UE-large",
+          "label": "International"
+        }
+      ]
+    },
+    "locatiebutton": {
+      "sendLocation": "Partager la Localisation",
+      "loading": "Chargement...",
+      "confirmSend": "Cliquez à nouveau pour envoyer",
+      "errors": {
+        "notSupported": "Le partage de localisation n'est pas pris en charge par votre navigateur.",
+        "failed": "Impossible d'obtenir votre localisation. Essayez à nouveau ou vérifiez vos paramètres."
+      }
+    }
+  },
+  "lekkeband": {
+    "seo": {
+      "title": "Pneu Crevé - Service Professionnel de Pneus 24/7 | Aide Mobile",
+      "description": "Aide rapide et fiable pour pneus crevés. Service sur place 24/7, montage de roue de secours et remplacement de pneus. Aide directe où que vous soyez.",
+      "keywords": "pneu crevé, service pneus, roue de secours, remplacer pneu, service pneus 24/7, service mobile pneus, panne pneu",
+      "imageAlt": "Service professionnel de pneu crevé"
+    },
+    "hero": {
+      "badge": "Service Pneu Crevé",
+      "title": {
+        "part1": "Pneu Crevé",
+        "part2": "Service Pneus 24/7"
+      },
+      "subtitle": "Notre service de pneu crevé offre une aide rapide, fiable et professionnelle, où que vous soyez – à la maison, au travail ou en route. Directement sur place avec roues de secours.",
+      "phone": "0852502928",
+      "cta": "085-250 29 28",
+      "whatsapp": "Aide WhatsApp"
+    },
+    "features": {
+      "title": "Pourquoi Notre Service de Pneu Crevé ?",
+      "subtitle": "Avec un service professionnel de pneus et un équipement moderne, nous nous assurons que vous repartiez rapidement et en sécurité. Du montage de roue de secours aux changements complets de pneus.",
+      "items": [
+        {
+          "title": "Réponse Rapide",
+          "description": "Sur place en 30 minutes avec roues de secours et outils professionnels"
+        },
+        {
+          "title": "Roues de Secours en Stock",
+          "description": "Stock étendu de roues de secours pour tous les types de véhicules courants"
+        },
+        {
+          "title": "Montage Sûr",
+          "description": "Montage professionnel de pneus selon toutes les normes de sécurité et spécifications"
+        },
+        {
+          "title": "Service 24/7",
+          "description": "Jour et nuit disponible pour tous les problèmes de pneu crevé et service pneus"
+        }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Service de Pneus Complet",
+      "imageAlt": "Service professionnel de pneu crevé",
+      "items": [
+        {
+          "title": "Montage de Roue de Secours",
+          "description": "Remplacement rapide de votre pneu crevé par votre propre roue de secours, y compris contrôle de sécurité."
+        },
+        {
+          "title": "Livraison de Nouveau Pneu",
+          "description": "Livraison et montage de nouveaux pneus sur place quand aucune roue de secours n'est disponible."
+        },
+        {
+          "title": "Réparation de Pneu",
+          "description": "Réparation sur place de petits trous et fissures si possible et sûr."
+        }
+      ]
+    },
+    "situations": {
+      "title": "Problèmes de Pneus Que Nous Résolvons",
+      "description": "D'un simple pneu crevé aux changements complets de pneus - nous avons l'expertise et l'équipement pour tous les besoins de service pneus de votre véhicule.",
+      "items": [
+        {
+          "title": "Pneu Crevé",
+          "description": "Remplacement rapide de pneus crevés par clous, vis ou autres objets pointus"
+        },
+        {
+          "title": "Pneu Éclaté",
+          "description": "Aide pour pneus soudainement cassés pendant la conduite avec remplacement sûr"
+        },
+        {
+          "title": "Valve Défectueuse",
+          "description": "Réparation ou remplacement de valves défectueuses qui laissent échapper l'air"
+        },
+        {
+          "title": "Dommage au Flanc",
+          "description": "Remplacement de pneus avec dommage au flanc qui ne sont plus sûrs"
+        },
+        {
+          "title": "Problèmes d'Usure",
+          "description": "Conseil et remplacement de pneus avec usure extrême ou inégale"
+        },
+        {
+          "title": "Dommage à la Jante",
+          "description": "Aide pour problèmes de pneus dus aux dommages de jante et conseil sur réparation ultérieure"
+        }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Partagez Votre Localisation pour une Aide Rapide",
+      "description": "Avez-vous un pneu crevé ? Partagez votre localisation exacte pour que nos spécialistes en service pneus puissent vous trouver et vous aider le plus rapidement possible avec roues de secours et outils.",
+      "imageAlt": "Partager la localisation pour le service pneus"
+    },
+    "emergency": {
+      "title": "Pneu Crevé ? Appelez Directement !",
+      "subtitle": "Disponible 24/7 pour service de pneu crevé. Roues de secours sur place, montage rapide et rouler à nouveau directement.",
+      "phone": "0852502928",
+      "phoneSubtitle": "Directement connecté à nos spécialistes en service pneus",
+      "stats": [
+        {
+          "value": "< 30 min",
+          "label": "Sur place"
+        },
+        {
+          "value": "100%",
+          "label": "Montage sûr"
+        },
+        {
+          "value": "24/7",
+          "label": "Toujours disponible"
+        }
+      ]
+    },
+    "locatiebutton": {
+      "sendLocation": "Partager la Localisation",
+      "loading": "Chargement...",
+      "confirmSend": "Cliquez à nouveau pour envoyer",
+      "errors": {
+        "notSupported": "Le partage de localisation n'est pas pris en charge par votre navigateur.",
+        "failed": "Impossible d'obtenir votre localisation. Essayez à nouveau ou vérifiez vos paramètres."
+      }
+    }
+  },
+  "autoberging": {
+    "seo": {
+      "title": "Remisage Auto 24/7 - Entreposage Sûr de Véhicules & Remisage | Aide Mobile",
+      "description": "Service sûr de remisage et entreposage auto pour hébergement temporaire de votre véhicule. Emplacements sécurisés 24/7 après accidents ou pendant voyages.",
+      "keywords": "remisage auto, entreposage véhicule, stockage auto, entreposage sécurisé, remisage accident, stockage temporaire, remisage 24/7",
+      "imageAlt": "Service professionnel de remisage auto"
+    },
+    "hero": {
+      "badge": "Remisage Auto 24/7",
+      "title": {
+        "part1": "Remisage Auto",
+        "part2": "& Entreposage Sûr"
+      },
+      "subtitle": "Notre service de remisage et entreposage auto offre des solutions sûres et fiables pour l'hébergement temporaire de votre véhicule, après un accident ou pendant un voyage. Emplacements sécurisés 24/7.",
+      "phone": "0852502928",
+      "cta": "085-250 29 28",
+      "whatsapp": "Aide WhatsApp"
+    },
+    "features": {
+      "title": "Pourquoi Notre Service de Remisage Auto ?",
+      "subtitle": "Avec des emplacements d'entreposage sécurisés et des soins professionnels, nous nous assurons que votre véhicule soit gardé en sécurité pendant les réparations, voyages ou autres circonstances.",
+      "items": [
+        {
+          "title": "Entièrement Sécurisé",
+          "description": "Surveillance 24/7, systèmes de caméras et contrôle d'accès pour une sécurité maximale"
+        },
+        {
+          "title": "Entreposage Couvert",
+          "description": "Emplacements protégés contre les intempéries et le vandalisme"
+        },
+        {
+          "title": "Stockage Flexible",
+          "description": "Entreposage à court et long terme possible, adapté à vos besoins"
+        },
+        {
+          "title": "Soins Professionnels",
+          "description": "Équipe expérimentée qui s'occupe de l'entretien et de la surveillance de votre véhicule"
+        }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Service de Remisage Auto Complet",
+      "imageAlt": "Service professionnel de remisage auto",
+      "items": [
+        {
+          "title": "Remisage d'Accident",
+          "description": "Stockage sûr de véhicules après accidents pendant enquête ou procédures de réparation."
+        },
+        {
+          "title": "Entreposage Temporaire",
+          "description": "Entreposage à court et long terme pour véhicules pendant vacances, déménagements ou entretien."
+        },
+        {
+          "title": "Stockage Sécurisé",
+          "description": "Emplacements surveillés 24/7 avec systèmes de caméras et contrôle d'accès pour véhicules de valeur."
+        }
+      ]
+    },
+    "situations": {
+      "title": "Quand Avez-Vous Besoin de Remisage Auto ?",
+      "description": "Des accidents au stockage de vacances - nous offrons un remisage sûr pour toutes les situations où votre véhicule doit être hébergé temporairement.",
+      "items": [
+        {
+          "title": "Après Accidents",
+          "description": "Stockage sûr pendant enquête, procédures d'expertise ou attente de réparation"
+        },
+        {
+          "title": "Pendant Vacances",
+          "description": "Entreposage sécurisé de votre véhicule pendant longs voyages ou vacances"
+        },
+        {
+          "title": "Période de Réparation",
+          "description": "Stockage temporaire pendant longues réparations ou attente de pièces"
+        },
+        {
+          "title": "Déménagement",
+          "description": "Entreposage pendant déménagements ou changements de résidence temporaires"
+        },
+        {
+          "title": "Stockage Saisonnier",
+          "description": "Stockage de voitures classiques, motos ou véhicules saisonniers"
+        },
+        {
+          "title": "Procédures Juridiques",
+          "description": "Conservation de véhicules pendant procédures juridiques ou enquêtes"
+        }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Partagez Votre Localisation pour Remisage",
+      "description": "Avez-vous besoin de remisage auto ? Partagez votre localisation pour que nous puissions récupérer votre véhicule et l'héberger en sécurité dans nos emplacements d'entreposage sécurisés.",
+      "imageAlt": "Partager la localisation pour remisage auto"
+    },
+    "emergency": {
+      "title": "Besoin de Remisage Auto ? Appelez Directement !",
+      "subtitle": "Disponible 24/7 pour remisage et entreposage auto. Stockage sûr, service rapide et sécurité complète pour votre véhicule.",
+      "phone": "0852502928",
+      "phoneSubtitle": "Directement connecté à nos spécialistes en remisage",
+      "stats": [
+        {
+          "value": "24/7",
+          "label": "Sécurité"
+        },
+        {
+          "value": "100%",
+          "label": "Gardé en sécurité"
+        },
+        {
+          "value": "Direct",
+          "label": "Disponible"
+        }
+      ]
+    },
+    "locatiebutton": {
+      "sendLocation": "Partager la Localisation",
+      "loading": "Chargement...",
+      "confirmSend": "Cliquez à nouveau pour envoyer",
+      "errors": {
+        "notSupported": "Le partage de localisation n'est pas pris en charge par votre navigateur.",
+        "failed": "Impossible d'obtenir votre localisation. Essayez à nouveau ou vérifiez vos paramètres."
+      }
+    }
+  },
+  "diensten": {
+    "seo": {
+      "title": "Nos Services - Dépannage 24/7 & Service Mobile | Aide Mobile",
+      "description": "Découvrez tous les services de dépannage : service de remorquage, service batterie, pneu crevé, transport auto et plus. Disponible 24/7 dans toute l'Europe.",
+      "keywords": "services dépannage, service remorquage, service batterie, pneu crevé, transport auto, remisage auto, aide mobile",
+      "imageAlt": "Aperçu des services de dépannage"
+    },
+    "hero": {
+      "badge": "Nos Services",
+      "title": {
+        "part1": "Dépannage 24/7",
+        "part2": "& Service Mobile"
+      },
+      "subtitle": "Découvrez notre gamme complète de dépannage et services mobiles. Du service de remorquage au remplacement de batterie - nous sommes là pour vous 24/7 dans toute l'Europe.",
+      "phone": "0852502928",
+      "cta": "085-250 29 28",
+      "whatsapp": "Contact WhatsApp"
+    },
+    "services": {
+      "title": "Nos Services de Dépannage",
+      "subtitle": "Nous sommes spécialisés dans l'aide mobile directe en cas de panne. Du service de pneus au remorquage – nous sommes disponibles 24/7 pour vous remettre en route.",
+      "items": [
+        {
+          "title": "Dépannage & Service de Remorquage Europe",
+          "description": "Assistance routière offre un dépannage rapide et fiable sans abonnements ni coûts cachés, avec un service 24/7 aux Pays-Bas et en Europe.",
+          "button": "Lire plus",
+          "image": "/services/1.jpg",
+          "href": "/diensten/pechhulp-en-sleepdienst-europa"
+        },
+        {
+          "title": "Sortie de boue, sable ou objet",
+          "description": "Assistance routière offre une aide professionnelle 24/7 pour dégager de manière sûre et efficace les véhicules coincés dans la boue, le sable ou sur un objet.",
+          "button": "Lire plus",
+          "image": "/services/2.jpg",
+          "href": "/diensten/uit-modder-zand-of-object-slepen"
+        },
+        {
+          "title": "Service de batterie",
+          "description": "Nous offrons une aide rapide et fiable pour les batteries afin que votre véhicule soit à nouveau opérationnel en un rien de temps, quel que soit le problème de batterie.",
+          "button": "Lire plus",
+          "image": "/services/3.jpg",
+          "href": "/diensten/accu-service"
+        },
+        {
+          "title": "Transport auto",
+          "description": "Notre service de transport automobile garantit que votre véhicule soit livré rapidement et en toute sécurité à l'emplacement convenu. Laissez-nous vous décharger.",
+          "button": "Lire plus",
+          "image": "/services/4.jpg",
+          "href": "/diensten/auto-transport"
+        },
+        {
+          "title": "Pneu crevé",
+          "description": "Notre service de pneu crevé offre une aide rapide, fiable et professionnelle, où que vous soyez – à la maison, au travail ou en route.",
+          "button": "Lire plus",
+          "image": "/services/5.png",
+          "href": "/diensten/lekke-band"
+        },
+        {
+          "title": "Remisage auto 24/7",
+          "description": "Notre service de remisage et entreposage automobile offre des solutions sûres et fiables pour l'hébergement temporaire et l'entretien de votre véhicule, après un accident ou pendant un voyage.",
+          "button": "Lire plus",
+          "image": "/services/6.png",
+          "href": "/diensten/autoberging-247"
+        }
+      ]
+    },
+    "why": {
+      "title": "Pourquoi Choisir Nos Services ?",
+      "subtitle": "Avec des années d'expérience et un réseau dans toute l'Europe, nous offrons le dépannage et services mobiles les plus fiables pour chaque situation.",
+      "items": [
+        {
+          "title": "Disponible 24/7",
+          "description": "Jour et nuit disponible pour tous vos besoins de dépannage et service"
+        },
+        {
+          "title": "Entièrement Assuré",
+          "description": "Tous nos services sont entièrement assurés pour votre tranquillité d'esprit"
+        },
+        {
+          "title": "Toute l'Europe",
+          "description": "Service dans toute l'Europe, des Pays-Bas à l'Espagne"
+        },
+        {
+          "title": "Équipe Expérimentée",
+          "description": "Mécaniciens et chauffeurs certifiés avec des années d'expérience"
+        }
+      ]
+    },
+    "coverage": {
+      "title": "Service Dans Toute l'Europe",
+      "description": "Notre dépannage et services mobiles sont disponibles dans tous les pays européens importants. Où que vous soyez, nous venons vous aider."
+    },
+    "locatiesectie": {
+      "title": "Partagez Votre Localisation pour une Aide Rapide",
+      "description": "En partageant votre localisation, nous pouvons vous trouver et vous aider encore plus rapidement. Nos mécaniciens utilisent le GPS pour trouver le chemin le plus court vers vous et fournir le bon service.",
+      "imageAlt": "Partager la localisation pour une aide rapide"
+    },
+    "emergency": {
+      "title": "Besoin d'Aide ? Appelez Directement !",
+      "subtitle": "Pour tous les dépannages et services mobiles - disponible 24/7 dans toute l'Europe. Pas de temps d'attente, aide professionnelle directe.",
+      "phone": "0852502928",
+      "phoneSubtitle": "Directement connecté à notre centrale de service",
+      "stats": [
+        {
+          "value": "< 30 min",
+          "label": "Temps de réponse moyen"
+        },
+        {
+          "value": "24/7",
+          "label": "Toujours disponible"
+        },
+        {
+          "value": "€0",
+          "label": "Pas de frais d'abonnement"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "seo": {
+      "title": "Contact - Dépannage 24/7 & Aide Mobile | Contactez-Nous",
+      "description": "Contactez-nous pour dépannage 24/7 et service mobile. Par téléphone, WhatsApp ou email. Directement disponible pour toutes situations de panne auto.",
+      "keywords": "contact dépannage, numéro téléphone dépannage, aide whatsapp, contact email, disponible 24/7, contact aide mobile",
+      "imageAlt": "Contacter pour dépannage"
+    },
+    "hero": {
+      "badge": "Contact",
+      "title": {
+        "part1": "Disponible 24/7",
+        "part2": "Pour Aide Directe"
+      },
+      "subtitle": "Besoin d'aide ? Nous sommes là pour vous 24/7. Contactez-nous directement par téléphone, WhatsApp ou email pour un dépannage professionnel rapide.",
+      "phone": "0852502928",
+      "cta": "085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "methods": {
+      "title": "Contactez-Nous",
+      "subtitle": "Choisissez la méthode qui vous convient le mieux. Nous sommes toujours disponibles et répondons rapidement à toutes vos questions et demandes d'aide.",
+      "items": [
+        {
+          "title": "Téléphone",
+          "description": "Directement disponible pour urgences et questions générales. Ligne d'aide avec personnel 24/7.",
+          "contact": "085-250 29 28",
+          "link": "tel:0852502928",
+          "linkText": "Appelez Directement"
+        },
+        {
+          "title": "WhatsApp",
+          "description": "Envoyez un message via WhatsApp pour communication rapide et photos de votre situation.",
+          "contact": "+31 85 060 98 80",
+          "link": "https://wa.me/31850609880",
+          "linkText": "Démarrer Chat"
+        },
+        {
+          "title": "Email",
+          "description": "Pour questions générales, devis et affaires non urgentes, vous pouvez nous envoyer un email.",
+          "contact": "info@mobielehulp.nl",
+          "link": "mailto:info@mobielehulp.nl",
+          "linkText": "Envoyer Email"
+        }
+      ]
+    },
+    "emergency": {
+      "title": "Urgence ? Appelez Directement !",
+      "subtitle": "En cas de situations urgentes, vous pouvez nous joindre directement 24/7. Pas de temps d'attente, aide directe de nos mécaniciens expérimentés.",
+      "phone": "0852502928",
+      "phoneSubtitle": "Aide d'Urgence 24/7 - Directement Disponible",
+      "features": [
+        {
+          "value": "< 5 min",
+          "label": "Temps de réaction téléphone"
+        },
+        {
+          "value": "24/7",
+          "label": "Toujours disponible"
+        },
+        {
+          "value": "Direct",
+          "label": "Pas de temps d'attente"
+        }
+      ]
+    },
+    "hours": {
+      "title": "Disponibilité",
+      "schedule": [
+        {
+          "day": "Lundi - Vendredi",
+          "hours": "Disponible 24/7"
+        },
+        {
+          "day": "Week-end",
+          "hours": "Disponible 24/7"
+        },
+        {
+          "day": "Jours fériés",
+          "hours": "Disponible 24/7"
+        },
+        {
+          "day": "Réponse Email",
+          "hours": "En 2 heures"
+        }
+      ],
+      "emergency": {
+        "title": "Urgences",
+        "description": "Pour les urgences, nous sommes disponibles 24/7 via notre numéro d'urgence."
+      }
+    },
+    "info": {
+      "title": "Données de l'Entreprise",
+      "details": [
+        {
+          "label": "Zone de service",
+          "value": "Pays-Bas & Europe"
+        },
+        {
+          "label": "Adresse Email",
+          "value": "info@mobielehulp.nl"
+        },
+        {
+          "label": "Numéro de Téléphone",
+          "value": "085-250 29 28"
+        },
+        {
+          "label": "Assurance",
+          "value": "Entièrement assuré & certifié"
+        }
+      ]
+    },
+    "location": {
+      "title": "Partagez Votre Localisation",
+      "description": "Avez-vous besoin d'aide ? Partagez votre localisation exacte pour que nos mécaniciens puissent vous trouver le plus rapidement possible. Cela fait gagner un temps précieux en situations d'urgence.",
+      "imageAlt": "Partager la localisation pour aide"
+    }
+  }
+}

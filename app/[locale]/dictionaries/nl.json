@@ -1,0 +1,1278 @@
+{
+  "navigation": {
+    "pechhulp": "Pechhulp",
+    "diensten": "Diensten",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "pechhulp": {
+    "title": "Pechhulp Nederland - 24/7 Mobiele Hulp bij Autopech",
+    "description": "Betrouwbare en snelle pechhulp zonder abonnement. 24/7 beschikbaar in heel Nederland. Lekke band, lege accu of sleepdienst nodig? Wij staan voor je klaar.",
+    "seo": {
+      "title": "Pechhulp & Sleepdienst Europa - 24/7 Betrouwbare Hulp | Mobiele Hulp",
+      "description": "Professionele pechhulp en sleepdienst door heel Europa. 24/7 bereikbaar, snelle respons, geen abonnementskosten. Bel direct voor hulp bij autopech.",
+      "keywords": "pechhulp europa, sleepdienst europa, autopech europa, 24/7 pechhulp, internationale pechhulp, auto slepen europa, wegenwacht europa, mobiele hulp europa",
+      "imageAlt": "Pechhulp en Sleepdienst Europa"
+    },
+    "hero": {
+      "badge": "Pechhulp & Sleepdienst",
+      "title": {
+        "part1": "Pechhulp & Sleepdienst",
+        "part2": "Door Heel Europa"
+      },
+      "subtitle": "Betrouwbare 24/7 pechhulp en sleepdienst door heel Europa. Snelle respons, professionele service en transparante prijzen zonder verborgen kosten.",
+      "phone": "0852502928",
+      "cta": "085-250 29 28",
+      "whatsapp": "WhatsApp Hulp"
+    },
+    "features": {
+      "title": "Waarom Kiezen Voor Onze Pechhulp?",
+      "subtitle": "Met jarenlange ervaring en een netwerk door heel Europa bieden wij de meest betrouwbare pechhulp en sleepdienst voor elke situatie.",
+      "items": [
+        {
+          "title": "24/7 Beschikbaar",
+          "description": "Dag en nacht bereikbaar voor al uw pechhulp behoeften"
+        },
+        {
+          "title": "Heel Europa",
+          "description": "Service door heel Europa, van Nederland tot Spanje"
+        },
+        {
+          "title": "Betrouwbaar",
+          "description": "Gecertificeerde monteurs en moderne sleepwagens"
+        },
+        {
+          "title": "Ter Plaatse Reparatie",
+          "description": "Vaak kunnen we uw auto ter plaatse repareren"
+        }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Complete Pechhulp & Sleepdienst",
+      "imageAlt": "Pechhulp en Sleepdienst Europa",
+      "items": [
+        {
+          "title": "Pechhulp & Sleepdienst Europa",
+          "description": "Weghulp biedt snelle, betrouwbare pechhulp zonder abonnementen of verborgen kosten, met 24/7 service in Nederland en Europa."
+        },
+        {
+          "title": "Uit modder, zand of object slepen",
+          "description": "Weghulp biedt 24/7 professionele hulp bij het veilig en efficiënt losmaken van voertuigen die vastzitten in modder, zand of op een object."
+        },
+        {
+          "title": "Accu service",
+          "description": "Wij bieden snelle en betrouwbare accuhulp zodat je voertuig in no-time weer operationeel is, ongeacht het accu probleem."
+        }
+      ]
+    },
+    "coverage": {
+      "title": "Service Door Heel Europa",
+      "description": "Onze pechhulp en sleepdienst is beschikbaar in alle belangrijke Europese landen. Waar u ook bent, wij komen u helpen.",
+      "areas": [
+        "Nederland",
+        "België",
+        "Duitsland",
+        "Frankrijk",
+        "Spanje",
+        "Italië",
+        "Oostenrijk",
+        "Zwitserland",
+        "Polen",
+        "Tsjechië",
+        "Denemarken",
+        "Zweden"
+      ],
+      "badge": "Werkgebied",
+      "button": {
+        "locations": "Alle locaties",
+        "info": "Meer informatie",
+        "countries": "Landen bekijken"
+      },
+      "europe": {
+        "title": "Ook hulp in Europa",
+        "description": "Of je nu op vakantie bent of onderweg naar huis, wij bieden ook ondersteuning in veel Europese landen.",
+        "features": [
+          "Nederlandstalige hulp",
+          "Snelle responstijd",
+          "Lokale partners"
+        ]
+      }
+    },
+    "locatiesectie": {
+      "title": "Deel Uw Locatie Voor Snelle Hulp",
+      "description": "Door uw locatie te delen kunnen wij u nog sneller vinden en helpen. Onze monteurs gebruiken GPS om de kortste route naar u toe te vinden.",
+      "imageAlt": "Locatie delen voor pechhulp",
+      "button": "Locatie delen"
+    },
+    "emergency": {
+      "title": "Autopech? Bel Direct!",
+      "subtitle": "24/7 bereikbaar voor pechhulp en sleepdienst door heel Europa. Geen wachttijden, directe hulp.",
+      "phone": "0852502928",
+      "phoneSubtitle": "Direct verbonden met onze centrale",
+      "stats": [
+        {
+          "value": "< 30 min",
+          "label": "Gemiddelde responstijd"
+        },
+        {
+          "value": "24/7",
+          "label": "Altijd bereikbaar"
+        },
+        {
+          "value": "€0",
+          "label": "Geen abonnementskosten"
+        }
+      ],
+      "step": "Stap",
+      "steps": [
+        "Bel ons via het noodnummer",
+        "Geef je locatie door",
+        "We komen direct naar je toe",
+        "Hulp is snel ter plaatse"
+      ]
+    },
+    "servicegrid": {
+      "title": "Onze Pechhulpdiensten",
+      "subtitle": "We zijn gespecialiseerd in directe, mobiele hulp bij pech. Van bandenservice tot sleepdienst – wij staan 24/7 klaar om je weer op weg te helpen.",
+      "items": [
+        {
+          "title": "Pechhulp & Sleepdienst Europa",
+          "description": "Weghulp biedt snelle, betrouwbare pechhulp zonder abonnementen of verborgen kosten, met 24/7 service in Nederland en Europa.",
+          "button": "Lees meer",
+          "image": "/services/1.jpg",
+          "href": "/diensten/pechhulp-en-sleepdienst-europa"
+        },
+        {
+          "title": "Uit modder, zand of object slepen",
+          "description": "Weghulp biedt 24/7 professionele hulp bij het veilig en efficiënt losmaken van voertuigen die vastzitten in modder, zand of op een object.",
+          "button": "Lees meer",
+          "image": "/services/2.jpg",
+          "href": "/diensten/uit-modder-zand-of-object-slepen"
+        },
+        {
+          "title": "Accu service",
+          "description": "Wij bieden snelle en betrouwbare accuhulp zodat je voertuig in no-time weer operationeel is, ongeacht het accu probleem.",
+          "button": "Lees meer",
+          "image": "/services/3.jpg",
+          "href": "/diensten/accu-service"
+        },
+        {
+          "title": "Auto transport",
+          "description": "Onze autotransportservice zorgt ervoor dat uw voertuig snel en veilig op de afgesproken locatie wordt afgeleverd. Laat ons u ontzorgen.",
+          "button": "Lees meer",
+          "image": "/services/4.jpg",
+          "href": "/diensten/auto-transport"
+        },
+        {
+          "title": "Lekke band",
+          "description": "Onze lekke band service biedt snelle, betrouwbare en professionele hulp, ongeacht waar u zich bevindt – thuis, op het werk of onderweg.",
+          "button": "Lees meer",
+          "image": "/services/5.png",
+          "href": "/diensten/lekke-band"
+        },
+        {
+          "title": "Autoberging 24/7",
+          "description": "Onze autoberging en stalling service biedt veilige en betrouwbare oplossingen voor het tijdelijk onderbrengen en onderhouden van uw voertuig, na een ongeval of tijdens een reis.",
+          "button": "Lees meer",
+          "image": "/services/6.png",
+          "href": "/diensten/autoberging-247"
+        }
+      ]
+    },
+    "locatiebutton": {
+      "sendLocation": "Locatie delen",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "feature": {
+  "sectionLabel": "Sleepdienst & Pechhulp",
+  "title": "Snelle Pechhulp en Betrouwbare Sleepdienst bij Autopech",
+  "subtitle": "Altijd bereikbaar, dag en nacht",
+  "description": "Heb je autopech of sta je met een kapotte auto langs de weg? Onze professionele sleepdienst is 24/7 beschikbaar voor directe pechhulp. Met moderne sleepwagens en realtime locatiebepaling zijn wij snel ter plaatse om je veilig en efficiënt te helpen. Of het nu gaat om een lege accu, lekke band of een serieuze motorstoring – wij zorgen dat je snel weer op weg bent.",
+  "button": "Ontdek onze pechhulp"
+},
+    "services": {
+      "title": "Onze Pechhulpdiensten",
+      "subtitle": "Altijd mobiel bereikbaar, waar je ook staat – wij lossen het op.",
+      "roadside": {
+        "title": "Pechhulp & Sleepdienst Europa",
+        "description": "Weghulp biedt snelle, betrouwbare pechhulp zonder abonnementen of verborgen kosten, met 24/7 service in Nederland en Europa.",
+        "features": [
+          "Geen abonnement",
+          "Binnen 30 minuten op locatie",
+          "24/7 bereikbaar"
+        ]
+      },
+      "recovery": {
+        "title": "Uit modder, zand of object slepen",
+        "description": "Weghulp biedt 24/7 professionele hulp bij het veilig en efficiënt losmaken van voertuigen die vastzitten in modder, zand of op een object.",
+        "features": [
+          "Veilig losmaken",
+          "Ervaren team",
+          "Snelle reactie"
+        ]
+      },
+      "battery": {
+        "title": "Accu service",
+        "description": "Wij bieden snelle en betrouwbare accuhulp zodat je voertuig in no-time weer operationeel is, ongeacht het accu probleem.",
+        "features": [
+          "Nieuwe accu's ter plekke",
+          "Professionele vervanging",
+          "Snel weer rijden"
+        ]
+      },
+      "transport": {
+        "title": "Auto transport",
+        "description": "Onze autotransportservice zorgt ervoor dat uw voertuig snel en veilig op de afgesproken locatie wordt afgeleverd. Laat ons u ontzorgen.",
+        "features": [
+          "Nationaal & internationaal",
+          "Beveiligd vervoer",
+          "Snelle service"
+        ]
+      },
+      "tire": {
+        "title": "Lekke band",
+        "description": "Onze lekke band service biedt snelle, betrouwbare en professionele hulp, ongeacht waar u zich bevindt – thuis, op het werk of onderweg.",
+        "features": [
+          "Ter plaatse vervangen",
+          "Reserveband montage",
+          "24/7 bereikbaar"
+        ]
+      },
+      "storage": {
+        "title": "Autoberging 24/7",
+        "description": "Onze autoberging en stalling service biedt veilige en betrouwbare oplossingen voor het tijdelijk onderbrengen en onderhouden van uw voertuig, na een ongeval of tijdens een reis.",
+        "features": [
+          "Stalling beschikbaar",
+          "Beveiligde locaties",
+          "Veilig vervoer"
+        ]
+      }
+    },
+    "process": {
+      "badge": "Hoe werkt het",
+      "title": "Zo werkt onze pechhulpservice",
+      "subtitle": "Binnen enkele stappen sta jij weer veilig langs de weg.",
+      "step1": {
+        "title": "Bel ons direct",
+        "description": "Neem 24/7 contact op met onze hulplijn."
+      },
+      "step2": {
+        "title": "We komen naar je toe",
+        "description": "Ons team traceert je locatie en komt er snel aan."
+      },
+      "step3": {
+        "title": "Snelle assistentie",
+        "description": "Wij lossen het probleem ter plekke op of zorgen voor vervoer."
+      },
+      "step4": {
+        "title": "Weer veilig onderweg",
+        "description": "Je kunt weer zorgeloos verder rijden."
+      }
+    },
+    "why": {
+      "badge": "Waarom kiezen voor ons",
+      "title": "Betrouwbare hulp, altijd dichtbij",
+      "subtitle": "Meer dan 50.000 klanten vertrouwen op onze expertise en snelheid.",
+      "reasons": [
+        {
+          "title": "24/7 beschikbaarheid",
+          "description": "Onze hulp is dag en nacht bereikbaar, 365 dagen per jaar."
+        },
+        {
+          "title": "Volledig verzekerd",
+          "description": "Al onze diensten zijn volledig verzekerd voor jouw gemoedsrust."
+        },
+        {
+          "title": "Groot netwerk",
+          "description": "Wij zijn actief in heel Nederland met lokale partners."
+        },
+        {
+          "title": "Ervaren team",
+          "description": "Onze monteurs en chauffeurs zijn gecertificeerd en professioneel."
+        }
+      ],
+      "cards": [
+        {
+          "title": "98% tevredenheid",
+          "subtitle": "Gebaseerd op reviews",
+          "description": "Klanten waarderen onze snelle service en duidelijke communicatie."
+        },
+        {
+          "title": "Snelle responstijd",
+          "subtitle": "Gemiddeld < 30 min",
+          "description": "We zijn altijd in de buurt en handelen snel."
+        },
+        {
+          "title": "Betaalbaar",
+          "subtitle": "Zonder abonnement",
+          "description": "Geen verborgen kosten of abonnementen nodig."
+        }
+      ]
+    },
+    "testimonials": {
+      "badge": "Reviews",
+      "title": "Wat klanten zeggen",
+      "subtitle": "Echte ervaringen van tevreden klanten.",
+      "reviews": [
+        {
+          "name": "Sander",
+          "location": "Amsterdam",
+          "text": "Binnen 20 minuten was de monteur ter plaatse. Echt topservice!"
+        },
+        {
+          "name": "Marieke",
+          "location": "Utrecht",
+          "text": "Mijn accu was leeg. Dankzij Pechhulp Nederland kon ik snel weer rijden."
+        },
+        {
+          "name": "Timo",
+          "location": "Rotterdam",
+          "text": "Goede communicatie, vriendelijke service en betaalbaar. Aanrader!"
+        }
+      ]
+    },
+    "faq": {
+      "badge": "Veelgestelde vragen",
+      "title": "Pechhulp FAQ",
+      "subtitle": "Alles wat je wilt weten over onze diensten.",
+      "questions": [
+        {
+          "question": "Is pechhulp zonder abonnement mogelijk?",
+          "answer": "Ja, wij werken zonder abonnement. Je betaalt alleen als je onze hulp nodig hebt."
+        },
+        {
+          "question": "Hoe snel is jullie responstijd?",
+          "answer": "Gemiddeld zijn wij binnen 30 minuten ter plaatse, afhankelijk van je locatie."
+        },
+        {
+          "question": "In welke landen in Europa bieden jullie hulp?",
+          "answer": "We bieden ondersteuning in o.a. België, Duitsland, Frankrijk en Luxemburg."
+        }
+      ],
+      "other": "Staat je vraag er niet bij?",
+      "contact": "Neem contact op"
+    },
+    "cta": {
+      "title": "Direct hulp nodig bij pech?",
+      "subtitle": "Bel ons of stuur een bericht – wij staan direct voor je klaar.",
+      "email": "Mail ons",
+      "features": [
+        "Altijd bereikbaar",
+        "Verzekerde service",
+        "Hoogste klanttevredenheid"
+      ]
+    }
+  },
+  "modderslepen": {
+    "seo": {
+      "title": "Uit Modder, Zand of Object Slepen - 24/7 Professionele Hulp | Mobiele Hulp",
+      "description": "Professionele hulp bij vastzitten in modder, zand of op objecten. 24/7 bereikbaar, ervaren team, veilige technieken. Direct hulp voor alle voertuigen.",
+      "keywords": "uit modder slepen, zand slepen, vastzitten, voertuig bevrijden, 24/7 hulp, sleepservice, professionele hulp, veilig slepen",
+      "imageAlt": "Uit modder slepen professionele hulp"
+    },
+    "hero": {
+      "badge": "Voertuig Bevrijding",
+      "title": {
+        "part1": "Uit Modder, Zand",
+        "part2": "of Object Slepen"
+      },
+      "subtitle": "Professionele 24/7 hulp bij het veilig en efficiënt losmaken van voertuigen die vastzitten in modder, zand of op objecten. Ervaren team met gespecialiseerde apparatuur.",
+      "phone": "0852502928",
+      "cta": "085-250 29 28",
+      "whatsapp": "WhatsApp Hulp"
+    },
+    "features": {
+      "title": "Waarom Onze Bevrijdingsservice?",
+      "subtitle": "Met gespecialiseerde apparatuur en jarenlange ervaring bevrijden wij veilig en efficiënt elk voertuig dat vastzit in modder, zand of op objecten.",
+      "items": [
+        {
+          "title": "Gespecialiseerde Apparatuur",
+          "description": "Moderne lieren, takels en bergingtechniek voor elke situatie"
+        },
+        {
+          "title": "Veilige Technieken",
+          "description": "Professionele methoden die schade aan uw voertuig voorkomen"
+        },
+        {
+          "title": "Ervaren Specialisten",
+          "description": "Gecertificeerde monteurs met jarenlange ervaring in voertuigbevrij­ding"
+        },
+        {
+          "title": "Snelle Respons",
+          "description": "Binnen 30 minuten ter plaatse met de juiste apparatuur"
+        }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Professionele Voertuigbevrijding",
+      "imageAlt": "Professionele voertuigbevrijding uit modder",
+      "items": [
+        {
+          "title": "Uit Modder Slepen",
+          "description": "Veilig losmaken van voertuigen die vastzitten in modder of klei met behulp van professionele liertechniek."
+        },
+        {
+          "title": "Zand Bevrijding",
+          "description": "Gespecialiseerde hulp voor voertuigen die wegzakken in zand, strand of zachte ondergrond."
+        },
+        {
+          "title": "Object Verwijdering",
+          "description": "Bevrijding van voertuigen die vast zitten op palen, rotsen of andere obstakels."
+        }
+      ]
+    },
+    "situations": {
+      "title": "Situaties Waarin Wij Helpen",
+      "description": "Van lichte personenauto's tot zware vrachtwagens - wij hebben de juiste apparatuur en expertise voor elke situatie waarin uw voertuig vastzit.",
+      "items": [
+        {
+          "title": "Vastzitten in Modder",
+          "description": "Auto's, bestelwagens en vrachtwagens die wegzakken in modderige wegen of velden"
+        },
+        {
+          "title": "Zand & Strand",
+          "description": "Voertuigen die vastzitten in zand op stranden, duinen of bouwterreinen"
+        },
+        {
+          "title": "Sneeuw & IJs",
+          "description": "Bevrijding uit sneeuw, ijs of bevroren ondergrond tijdens winterse omstandigheden"
+        },
+        {
+          "title": "Greppels & Kuilen",
+          "description": "Hulp bij voertuigen die in greppels, kuilen of andere verdiepingen terecht zijn gekomen"
+        },
+        {
+          "title": "Zachte Ondergrond",
+          "description": "Losmaken van voertuigen die wegzakken in gras, velden of onverharde wegen"
+        },
+        {
+          "title": "Obstakels",
+          "description": "Bevrijding van voertuigen die vastzitten op palen, rotsen of andere objecten"
+        }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel Uw Locatie Voor Snelle Hulp",
+      "description": "Zit u vast in modder, zand of op een object? Deel uw exacte locatie zodat onze specialisten u zo snel mogelijk kunnen vinden en helpen met de juiste apparatuur.",
+      "imageAlt": "Locatie delen voor bevrijdingshulp"
+    },
+    "emergency": {
+      "title": "Vastzittend? Bel Direct!",
+      "subtitle": "24/7 bereikbaar voor professionele hulp bij voertuigen die vastzitten. Gespecialiseerde apparatuur en ervaren team.",
+      "phone": "0852502928",
+      "phoneSubtitle": "Direct verbonden met onze specialisten",
+      "stats": [
+        {
+          "value": "< 30 min",
+          "label": "Responstijd"
+        },
+        {
+          "value": "100%",
+          "label": "Succesvol bevrijd"
+        },
+        {
+          "value": "24/7",
+          "label": "Altijd bereikbaar"
+        }
+      ]
+    },
+    "locatiebutton": {
+      "sendLocation": "Locatie delen",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    }
+    
+  },
+  "footer": {
+    "brandName": "Pechhulp Nederland",
+    "description": "Uw betrouwbare partner voor pechhulp en sleepdienst door heel Europa. 24/7 bereikbaar voor alle autopech situaties.",
+    "rating": "4.9/5 (2.847 reviews)",
+    "availability": "24/7 bereikbaar",
+    "serviceArea": "Heel Europa",
+    "email": "info@mobielehulp.nl",
+    "servicesTitle": "Onze Diensten",
+    "contactTitle": "Contact & Info",
+    "services": {
+      "roadside": "Pechhulp",
+      "towing": "Sleepdienst",
+      "battery": "Accu service",
+      "tire": "Lekke band",
+      "transport": "Auto transport",
+      "storage": "Autoberging"
+    },
+    "links": {
+      "privacy": "Privacybeleid",
+      "terms": "Algemene voorwaarden",
+      "sitemap": "Sitemap"
+    },
+    "copyright": "© 2025 Pechhulp Nederland. Alle rechten voorbehouden."
+  },
+  "services": {
+    "badge": "Wat we doen",
+    "moreInfo": "Lees meer"
+  },
+  "accuservice": {
+  "seo": {
+    "title": "Accu Service - 24/7 Professionele Accuhulp | Mobiele Hulp",
+    "description": "Snelle en betrouwbare accuhulp voor alle voertuigen. 24/7 bereikbaar, nieuwe accu's ter plekke, professionele vervanging. Direct hulp bij lege accu.",
+    "keywords": "accu service, lege accu, accu vervangen, startproblemen, accuhulp, 24/7 service, mobiele accu service, auto accu",
+    "imageAlt": "Professionele accu service"
+  },
+  "hero": {
+    "badge": "Accu Service",
+    "title": {
+      "part1": "Accu Service",
+      "part2": "24/7 Accuhulp"
+    },
+    "subtitle": "Snelle en betrouwbare accuhulp zodat je voertuig in no-time weer operationeel is. Nieuwe accu's ter plekke, professionele vervanging en direct hulp bij startproblemen.",
+    "phone": "0852502928",
+    "cta": "085-250 29 28",
+    "whatsapp": "WhatsApp Hulp"
+  },
+  "features": {
+    "title": "Waarom Onze Accu Service?",
+    "subtitle": "Met hoogwaardige accu's en professionele apparatuur zorgen wij ervoor dat uw voertuig snel weer start. Van diagnose tot vervanging - alles ter plekke.",
+    "items": [
+      {
+        "title": "Snelle Diagnose",
+        "description": "Moderne testapparatuur voor accurate accu en laadsysteem controle"
+      },
+      {
+        "title": "Kwaliteit Accu's",
+        "description": "Hoogwaardige accu's van bekende merken voor langdurige betrouwbaarheid"
+      },
+      {
+        "title": "Ter Plekke Service",
+        "description": "Complete accu vervanging en installatie direct op uw locatie"
+      },
+      {
+        "title": "24/7 Beschikbaar",
+        "description": "Dag en nacht bereikbaar voor acute accu problemen"
+      }
+    ]
+  },
+  "serviceDetails": {
+    "title": "Complete Accu Service",
+    "imageAlt": "Professionele accu service",
+    "items": [
+      {
+        "title": "Accu Diagnose",
+        "description": "Professionele test van uw accu en laadsysteem om de exacte oorzaak van startproblemen te bepalen."
+      },
+      {
+        "title": "Accu Vervanging",
+        "description": "Snelle vervanging met hoogwaardige accu's ter plekke, inclusief afvoer van de oude accu."
+      },
+      {
+        "title": "Startproblemen Oplossen",
+        "description": "Hulp bij startproblemen door lege accu, defect laadsysteem of andere elektrische storingen."
+      }
+    ]
+  },
+  "situations": {
+    "title": "Accu Problemen Die Wij Oplossen",
+    "description": "Van een lege accu tot complete accu vervanging - wij hebben de expertise en apparatuur voor alle accu gerelateerde problemen van uw voertuig.",
+    "items": [
+      {
+        "title": "Lege Accu",
+        "description": "Auto start niet meer door een volledig lege accu - wij starten uw voertuig weer op"
+      },
+      {
+        "title": "Oude Accu",
+        "description": "Accu houdt geen lading meer vast en moet vervangen worden"
+      },
+      {
+        "title": "Defecte Dynamo",
+        "description": "Laadsysteem werkt niet goed waardoor de accu niet wordt opgeladen"
+      },
+      {
+        "title": "Koude Start Problemen",
+        "description": "Voertuig start moeilijk in de winter door verzwakte accu prestaties"
+      },
+      {
+        "title": "Elektrische Storingen",
+        "description": "Problemen met verlichting, radio of andere elektrische componenten"
+      },
+      {
+        "title": "Accu Lekkage",
+        "description": "Accu lekt zuur of is beschadigd en moet direct vervangen worden"
+      }
+    ]
+  },
+  "locatiesectie": {
+    "title": "Deel Uw Locatie Voor Snelle Hulp",
+    "description": "Start uw auto niet meer? Deel uw exacte locatie zodat onze accu specialisten u zo snel mogelijk kunnen vinden en helpen met de juiste apparatuur en nieuwe accu's.",
+    "imageAlt": "Locatie delen voor accu hulp"
+  },
+  "emergency": {
+    "title": "Auto Start Niet? Bel Direct!",
+    "subtitle": "24/7 bereikbaar voor professionele accuhulp. Nieuwe accu's ter plekke, snelle diagnose en direct weer rijden.",
+    "phone": "0852502928",
+    "phoneSubtitle": "Direct verbonden met onze accu specialisten",
+    "stats": [
+      {
+        "value": "< 20 min",
+        "label": "Gemiddelde responstijd"
+      },
+      {
+        "value": "95%",
+        "label": "Direct opgelost"
+      },
+      {
+        "value": "24/7",
+        "label": "Altijd bereikbaar"
+      }
+    ]
+  },
+  "pechservice": {
+  "items": [
+    {
+      "title": "Pechhulp & Sleepdienst Europa",
+      "href": "/diensten/pechhulp-en-sleepdienst-europa"
+    },
+    {
+      "title": "Uit modder, zand of object slepen",
+      "href": "/diensten/uit-modder-zand-of-object-slepen"
+    },
+    {
+      "title": "Accu service",
+      "href": "/diensten/accu-service"
+    },
+    {
+      "title": "Auto transport",
+      "href": "/diensten/auto-transport"
+    },
+    {
+      "title": "Lekke band",
+      "href": "/diensten/lekke-band"
+    },
+    {
+      "title": "Autoberging 24/7",
+      "href": "/diensten/autoberging-247"
+    }
+  ]
+},
+  "locatiebutton": {
+    "sendLocation": "Locatie delen",
+    "loading": "Laden...",
+    "confirmSend": "Klik nogmaals om te versturen",
+    "errors": {
+      "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+      "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+    }
+  }
+},
+"autotransport": {
+  "seo": {
+    "title": "Auto Transport - 24/7 Betrouwbare Voertuig Transport | Mobiele Hulp",
+    "description": "Professionele autotransportservice voor nationaal en internationaal vervoer. Veilig, snel en betrouwbaar transport van uw voertuig naar elke gewenste locatie.",
+    "keywords": "auto transport, voertuig vervoer, nationaal transport, internationaal transport, auto verschepen, voertuig transport, betrouwbaar transport",
+    "imageAlt": "Professionele auto transport service"
+  },
+  "hero": {
+    "badge": "Auto Transport",
+    "title": {
+      "part1": "Auto Transport",
+      "part2": "Nationaal & Internationaal"
+    },
+    "subtitle": "Onze autotransportservice zorgt ervoor dat uw voertuig snel en veilig op de afgesproken locatie wordt afgeleverd. Nationaal en internationaal transport met volledige verzekering.",
+    "phone": "0852502928",
+    "cta": "085-250 29 28",
+    "whatsapp": "WhatsApp Hulp"
+  },
+  "features": {
+    "title": "Waarom Onze Auto Transport Service?",
+    "subtitle": "Met moderne transportvoertuigen en ervaren chauffeurs zorgen wij voor veilig en betrouwbaar transport van uw voertuig naar elke gewenste bestemming.",
+    "items": [
+      {
+        "title": "Volledig Verzekerd",
+        "description": "Uw voertuig is tijdens transport volledig verzekerd tegen alle risico's"
+      },
+      {
+        "title": "Moderne Voertuigen",
+        "description": "Gesloten transporters en moderne apparatuur voor maximale veiligheid"
+      },
+      {
+        "title": "Snelle Service",
+        "description": "Flexibele planning en snelle afhandeling van uw transportopdracht"
+      },
+      {
+        "title": "Ervaren Team",
+        "description": "Professionele chauffeurs met jarenlange ervaring in voertuigtransport"
+      }
+    ]
+  },
+  "serviceDetails": {
+    "title": "Complete Auto Transport Service",
+    "imageAlt": "Professionele auto transport service",
+    "items": [
+      {
+        "title": "Nationaal Transport",
+        "description": "Betrouwbaar transport binnen Nederland van deur tot deur met volledige service en begeleiding."
+      },
+      {
+        "title": "Internationaal Transport",
+        "description": "Grensoverschrijdend transport naar alle Europese landen met volledige papierwerk afhandeling."
+      },
+      {
+        "title": "Gesloten Transport",
+        "description": "Beschermd transport in gesloten trailers voor extra beveiliging tegen weersinvloeden en schade."
+      }
+    ]
+  },
+  "situations": {
+    "title": "Transport Mogelijkheden",
+    "description": "Van lokaal transport tot internationale verhuizingen - wij bieden transport voor alle soorten voertuigen naar elke gewenste bestemming.",
+    "items": [
+      {
+        "title": "Particuliere Auto's",
+        "description": "Veilig transport van personenauto's voor verhuizingen, aankopen of reparaties"
+      },
+      {
+        "title": "Klassieke Auto's",
+        "description": "Gespecialiseerd transport voor oldtimers en klassieke voertuigen met extra zorg"
+      },
+      {
+        "title": "Luxe Voertuigen",
+        "description": "Premium transport service voor dure en exclusieve auto's met maximale beveiliging"
+      },
+      {
+        "title": "Bedrijfswagens",
+        "description": "Transport van bestelwagens, vrachtwagens en andere bedrijfsvoertuigen"
+      },
+      {
+        "title": "Motorfietsen",
+        "description": "Veilig en vakkundig transport van motorfietsen en scooters"
+      },
+      {
+        "title": "Defecte Voertuigen",
+        "description": "Transport van niet-rijdende voertuigen naar garage of eindbestemming"
+      }
+    ]
+  },
+  "locatiesectie": {
+    "title": "Deel Ophaal- en Afleverlocatie",
+    "description": "Heeft u auto transport nodig? Deel de ophaal- en afleverlocatie zodat wij u een accurate offerte kunnen geven en het transport kunnen plannen.",
+    "imageAlt": "Locatie delen voor auto transport"
+  },
+  "emergency": {
+    "title": "Auto Transport Nodig? Bel Direct!",
+    "subtitle": "24/7 bereikbaar voor auto transport. Nationaal en internationaal, snel en veilig naar elke bestemming.",
+    "phone": "0852502928",
+    "phoneSubtitle": "Direct verbonden met onze transport specialisten",
+    "stats": [
+      {
+        "value": "24u",
+        "label": "Snelle planning"
+      },
+      {
+        "value": "100%",
+        "label": "Volledig verzekerd"
+      },
+      {
+        "value": "EU-wijd",
+        "label": "Internationaal"
+      }
+    ]
+  },
+  "locatiebutton": {
+    "sendLocation": "Deel Locatie",
+    "loading": "Laden...",
+    "confirmSend": "Klik nogmaals om te versturen",
+    "errors": {
+      "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+      "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+    }
+  }
+},
+"lekkeband": {
+  "seo": {
+    "title": "Lekke Band - 24/7 Professionele Bandenservice | Mobiele Hulp",
+    "description": "Snelle en betrouwbare hulp bij lekke banden. 24/7 ter plaatse service, reserveband montage en bandenvervaning. Direct hulp waar u ook bent.",
+    "keywords": "lekke band, bandenservice, reserveband, band vervangen, 24/7 bandenservice, mobiele bandenservice, bandenpech",
+    "imageAlt": "Professionele lekke band service"
+  },
+  "hero": {
+    "badge": "Lekke Band Service",
+    "title": {
+      "part1": "Lekke Band",
+      "part2": "24/7 Bandenservice"
+    },
+    "subtitle": "Onze lekke band service biedt snelle, betrouwbare en professionele hulp, ongeacht waar u zich bevindt – thuis, op het werk of onderweg. Direct ter plaatse met reservebanden.",
+    "phone": "0852502928",
+    "cta": "085-250 29 28",
+    "whatsapp": "WhatsApp Hulp"
+  },
+  "features": {
+    "title": "Waarom Onze Lekke Band Service?",
+    "subtitle": "Met professionele bandenservice en moderne apparatuur zorgen wij ervoor dat u snel weer veilig onderweg bent. Van reserveband montage tot complete bandenwissels.",
+    "items": [
+      {
+        "title": "Snelle Respons",
+        "description": "Binnen 30 minuten ter plaatse met reservebanden en professioneel gereedschap"
+      },
+      {
+        "title": "Reservebanden Voorradig",
+        "description": "Uitgebreide voorraad reservebanden voor alle gangbare voertuigtypes"
+      },
+      {
+        "title": "Veilige Montage",
+        "description": "Professionele bandenmontage volgens alle veiligheidsnormen en specificaties"
+      },
+      {
+        "title": "24/7 Service",
+        "description": "Dag en nacht bereikbaar voor alle lekke band en bandenservice problemen"
+      }
+    ]
+  },
+  "serviceDetails": {
+    "title": "Complete Bandenservice",
+    "imageAlt": "Professionele lekke band service",
+    "items": [
+      {
+        "title": "Reserveband Montage",
+        "description": "Snelle vervanging van uw lekke band door uw eigen reserveband, inclusief veiligheidscontrole."
+      },
+      {
+        "title": "Nieuwe Band Levering",
+        "description": "Levering en montage van nieuwe banden ter plaatse wanneer geen reserveband beschikbaar is."
+      },
+      {
+        "title": "Band Reparatie",
+        "description": "Ter plaatse reparatie van kleine gaatjes en scheuren indien mogelijk en veilig."
+      }
+    ]
+  },
+  "situations": {
+    "title": "Bandenproblemen Die Wij Oplossen",
+    "description": "Van een simpele lekke band tot complete bandenwissels - wij hebben de expertise en apparatuur voor alle bandenservice behoeften van uw voertuig.",
+    "items": [
+      {
+        "title": "Lekke Band",
+        "description": "Snelle vervanging van lekke banden door spijkers, schroeven of andere scherpe voorwerpen"
+      },
+      {
+        "title": "Klapband",
+        "description": "Hulp bij plotseling kapotte banden tijdens het rijden met veilige vervanging"
+      },
+      {
+        "title": "Defecte Ventiel",
+        "description": "Reparatie of vervanging van defecte ventielen die lucht laten ontsnappen"
+      },
+      {
+        "title": "Zijwand Schade",
+        "description": "Vervanging van banden met zijwand beschadiging die niet meer veilig zijn"
+      },
+      {
+        "title": "Slijtage Problemen",
+        "description": "Advies en vervanging van banden met extreme of ongelijkmatige slijtage"
+      },
+      {
+        "title": "Velg Schade",
+        "description": "Hulp bij bandenproblemen door velgschade en advies over verdere reparatie"
+      }
+    ]
+  },
+  "locatiesectie": {
+    "title": "Deel Uw Locatie Voor Snelle Hulp",
+    "description": "Heeft u een lekke band? Deel uw exacte locatie zodat onze bandenservice specialisten u zo snel mogelijk kunnen vinden en helpen met reservebanden en gereedschap.",
+    "imageAlt": "Locatie delen voor bandenservice"
+  },
+  "emergency": {
+    "title": "Lekke Band? Bel Direct!",
+    "subtitle": "24/7 bereikbaar voor lekke band service. Reservebanden ter plekke, snelle montage en direct weer rijden.",
+    "phone": "0852502928",
+    "phoneSubtitle": "Direct verbonden met onze bandenservice specialisten",
+    "stats": [
+      {
+        "value": "< 30 min",
+        "label": "Ter plaatse"
+      },
+      {
+        "value": "100%",
+        "label": "Veilige montage"
+      },
+      {
+        "value": "24/7",
+        "label": "Altijd bereikbaar"
+      }
+    ]
+  },
+  "locatiebutton": {
+    "sendLocation": "Deel Locatie",
+    "loading": "Laden...",
+    "confirmSend": "Klik nogmaals om te versturen",
+    "errors": {
+      "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+      "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+    }
+  }
+},
+"autoberging": {
+  "seo": {
+    "title": "Autoberging 24/7 - Veilige Voertuig Stalling & Berging | Mobiele Hulp",
+    "description": "Veilige autoberging en stalling service voor tijdelijk onderbrengen van uw voertuig. 24/7 beveiligde locaties na ongevallen of tijdens reizen.",
+    "keywords": "autoberging, voertuig stalling, auto opslag, beveiligde stalling, ongeval berging, tijdelijke opslag, 24/7 berging",
+    "imageAlt": "Professionele autoberging service"
+  },
+  "hero": {
+    "badge": "Autoberging 24/7",
+    "title": {
+      "part1": "Autoberging",
+      "part2": "& Veilige Stalling"
+    },
+    "subtitle": "Onze autoberging en stalling service biedt veilige en betrouwbare oplossingen voor het tijdelijk onderbrengen van uw voertuig, na een ongeval of tijdens een reis. 24/7 beveiligde locaties.",
+    "phone": "0852502928",
+    "cta": "085-250 29 28",
+    "whatsapp": "WhatsApp Hulp"
+  },
+  "features": {
+    "title": "Waarom Onze Autoberging Service?",
+    "subtitle": "Met beveiligde stallingslocaties en professionele zorg zorgen wij ervoor dat uw voertuig veilig wordt bewaard tijdens reparaties, reizen of andere omstandigheden.",
+    "items": [
+      {
+        "title": "Volledig Beveiligd",
+        "description": "24/7 bewaking, camerasystemen en toegangscontrole voor maximale veiligheid"
+      },
+      {
+        "title": "Overdekte Stalling",
+        "description": "Beschermde locaties tegen weersinvloeden en vandalisme"
+      },
+      {
+        "title": "Flexibele Opslag",
+        "description": "Korte en lange termijn stalling mogelijk, aangepast aan uw behoeften"
+      },
+      {
+        "title": "Professionele Zorg",
+        "description": "Ervaren team dat zorgt voor het onderhoud en bewaking van uw voertuig"
+      }
+    ]
+  },
+  "serviceDetails": {
+    "title": "Complete Autoberging Service",
+    "imageAlt": "Professionele autoberging service",
+    "items": [
+      {
+        "title": "Ongeval Berging",
+        "description": "Veilige opslag van voertuigen na ongevallen tijdens onderzoek of reparatie procedures."
+      },
+      {
+        "title": "Tijdelijke Stalling",
+        "description": "Korte en lange termijn stalling voor voertuigen tijdens vakanties, verhuizingen of onderhoud."
+      },
+      {
+        "title": "Beveiligde Opslag",
+        "description": "24/7 bewaakte locaties met camerasystemen en toegangscontrole voor waardevolle voertuigen."
+      }
+    ]
+  },
+  "situations": {
+    "title": "Wanneer Heeft U Autoberging Nodig?",
+    "description": "Van ongevallen tot vakantie-opslag - wij bieden veilige berging voor alle situaties waarin uw voertuig tijdelijk ondergebracht moet worden.",
+    "items": [
+      {
+        "title": "Na Ongevallen",
+        "description": "Veilige opslag tijdens onderzoek, expertiseprocedures of wachten op reparatie"
+      },
+      {
+        "title": "Tijdens Vakantie",
+        "description": "Beveiligde stalling van uw voertuig tijdens lange reizen of vakanties"
+      },
+      {
+        "title": "Reparatie Periode",
+        "description": "Tijdelijke opslag tijdens lange reparaties of wachten op onderdelen"
+      },
+      {
+        "title": "Verhuizing",
+        "description": "Stalling tijdens verhuizingen of tijdelijke woonwisselingen"
+      },
+      {
+        "title": "Seizoensopslag",
+        "description": "Opslag van klassieke auto's, motoren of seizoensvoertuigen"
+      },
+      {
+        "title": "Juridische Procedures",
+        "description": "Bewaring van voertuigen tijdens juridische procedures of onderzoeken"
+      }
+    ]
+  },
+  "locatiesectie": {
+    "title": "Deel Uw Locatie Voor Berging",
+    "description": "Heeft u autoberging nodig? Deel uw locatie zodat wij uw voertuig kunnen ophalen en veilig kunnen onderbrengen in onze beveiligde stallingslocaties.",
+    "imageAlt": "Locatie delen voor autoberging"
+  },
+  "emergency": {
+    "title": "Autoberging Nodig? Bel Direct!",
+    "subtitle": "24/7 bereikbaar voor autoberging en stalling. Veilige opslag, snelle service en volledige beveiliging voor uw voertuig.",
+    "phone": "0852502928",
+    "phoneSubtitle": "Direct verbonden met onze berging specialisten",
+    "stats": [
+      {
+        "value": "24/7",
+        "label": "Beveiliging"
+      },
+      {
+        "value": "100%",
+        "label": "Veilig bewaard"
+      },
+      {
+        "value": "Direct",
+        "label": "Beschikbaar"
+      }
+    ]
+  },
+  "locatiebutton": {
+    "sendLocation": "Deel Locatie",
+    "loading": "Laden...",
+    "confirmSend": "Klik nogmaals om te versturen",
+    "errors": {
+      "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+      "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+    }
+  }
+},
+"diensten": {
+  "seo": {
+    "title": "Onze Diensten - 24/7 Pechhulp & Mobiele Service | Mobiele Hulp",
+    "description": "Ontdek alle pechhulp diensten: sleepdienst, accu service, lekke band, auto transport en meer. 24/7 bereikbaar door heel Europa.",
+    "keywords": "pechhulp diensten, sleepdienst, accu service, lekke band, auto transport, autoberging, mobiele hulp",
+    "imageAlt": "Pechhulp diensten overzicht"
+  },
+  "hero": {
+    "badge": "Onze Diensten",
+    "title": {
+      "part1": "24/7 Pechhulp",
+      "part2": "& Mobiele Service"
+    },
+    "subtitle": "Ontdek onze complete range van pechhulp en mobiele services. Van sleepdienst tot accu vervanging - wij staan 24/7 voor u klaar door heel Europa.",
+    "phone": "0852502928",
+    "cta": "085-250 29 28",
+    "whatsapp": "WhatsApp Contact"
+  },
+  "services": {
+    "title": "Onze Pechhulp Diensten",
+    "subtitle": "We zijn gespecialiseerd in directe, mobiele hulp bij pech. Van bandenservice tot sleepdienst – wij staan 24/7 klaar om je weer op weg te helpen.",
+    "items": [
+      {
+        "title": "Pechhulp & Sleepdienst Europa",
+        "description": "Weghulp biedt snelle, betrouwbare pechhulp zonder abonnementen of verborgen kosten, met 24/7 service in Nederland en Europa.",
+        "button": "Lees meer",
+        "image": "/services/1.jpg",
+        "href": "/diensten/pechhulp-en-sleepdienst-europa"
+      },
+      {
+        "title": "Uit modder, zand of object slepen",
+        "description": "Weghulp biedt 24/7 professionele hulp bij het veilig en efficiënt losmaken van voertuigen die vastzitten in modder, zand of op een object.",
+        "button": "Lees meer",
+        "image": "/services/2.jpg",
+        "href": "/diensten/uit-modder-zand-of-object-slepen"
+      },
+      {
+        "title": "Accu service",
+        "description": "Wij bieden snelle en betrouwbare accuhulp zodat je voertuig in no-time weer operationeel is, ongeacht het accu probleem.",
+        "button": "Lees meer",
+        "image": "/services/3.jpg",
+        "href": "/diensten/accu-service"
+      },
+      {
+        "title": "Auto transport",
+        "description": "Onze autotransportservice zorgt ervoor dat uw voertuig snel en veilig op de afgesproken locatie wordt afgeleverd. Laat ons u ontzorgen.",
+        "button": "Lees meer",
+        "image": "/services/4.jpg",
+        "href": "/diensten/auto-transport"
+      },
+      {
+        "title": "Lekke band",
+        "description": "Onze lekke band service biedt snelle, betrouwbare en professionele hulp, ongeacht waar u zich bevindt – thuis, op het werk of onderweg.",
+        "button": "Lees meer",
+        "image": "/services/5.png",
+        "href": "/diensten/lekke-band"
+      },
+      {
+        "title": "Autoberging 24/7",
+        "description": "Onze autoberging en stalling service biedt veilige en betrouwbare oplossingen voor het tijdelijk onderbrengen en onderhouden van uw voertuig, na een ongeval of tijdens een reis.",
+        "button": "Lees meer",
+        "image": "/services/6.png",
+        "href": "/diensten/autoberging-247"
+      }
+    ]
+  },
+  "why": {
+    "title": "Waarom Kiezen Voor Onze Diensten?",
+    "subtitle": "Met jarenlange ervaring en een netwerk door heel Europa bieden wij de meest betrouwbare pechhulp en mobiele services voor elke situatie.",
+    "items": [
+      {
+        "title": "24/7 Beschikbaar",
+        "description": "Dag en nacht bereikbaar voor al uw pechhulp en service behoeften"
+      },
+      {
+        "title": "Volledig Verzekerd",
+        "description": "Al onze diensten zijn volledig verzekerd voor uw gemoedsrust"
+      },
+      {
+        "title": "Heel Europa",
+        "description": "Service door heel Europa, van Nederland tot Spanje"
+      },
+      {
+        "title": "Ervaren Team",
+        "description": "Gecertificeerde monteurs en chauffeurs met jarenlange ervaring"
+      }
+    ]
+  },
+  "coverage": {
+    "title": "Service Door Heel Europa",
+    "description": "Onze pechhulp en mobiele services zijn beschikbaar in alle belangrijke Europese landen. Waar u ook bent, wij komen u helpen."
+  },
+  "locatiesectie": {
+    "title": "Deel Uw Locatie Voor Snelle Hulp",
+    "description": "Door uw locatie te delen kunnen wij u nog sneller vinden en helpen. Onze monteurs gebruiken GPS om de kortste route naar u toe te vinden en de juiste service te leveren.",
+    "imageAlt": "Locatie delen voor snelle hulp"
+  },
+  "emergency": {
+    "title": "Hulp Nodig? Bel Direct!",
+    "subtitle": "Voor alle pechhulp en mobiele services - 24/7 bereikbaar door heel Europa. Geen wachttijden, directe professionele hulp.",
+    "phone": "0852502928",
+    "phoneSubtitle": "Direct verbonden met onze servicecentrale",
+    "stats": [
+      {
+        "value": "< 30 min",
+        "label": "Gemiddelde responstijd"
+      },
+      {
+        "value": "24/7",
+        "label": "Altijd bereikbaar"
+      },
+      {
+        "value": "€0",
+        "label": "Geen abonnementskosten"
+      }
+    ]
+  }
+},
+"contact": {
+  "seo": {
+    "title": "Contact - 24/7 Pechhulp & Mobiele Hulp | Neem Contact Op",
+    "description": "Neem contact op voor 24/7 pechhulp en mobiele service. Telefonisch, WhatsApp of email. Direct bereikbaar voor alle autopech situaties.",
+    "keywords": "contact pechhulp, telefoonnummer pechhulp, whatsapp hulp, email contact, 24/7 bereikbaar, mobiele hulp contact",
+    "imageAlt": "Contact opnemen voor pechhulp"
+  },
+  "hero": {
+    "badge": "Contact",
+    "title": {
+      "part1": "24/7 Bereikbaar",
+      "part2": "Voor Directe Hulp"
+    },
+    "subtitle": "Hulp nodig? Wij staan 24/7 voor u klaar. Neem direct contact op via telefoon, WhatsApp of email voor snelle professionele pechhulp.",
+    "phone": "0852502928",
+    "cta": "085-250 29 28",
+    "whatsapp": "WhatsApp"
+  },
+  "methods": {
+    "title": "Neem Contact Op",
+    "subtitle": "Kies de manier die voor u het beste uitkomt. Wij zijn altijd bereikbaar en reageren snel op al uw vragen en hulpverzoeken.",
+    "items": [
+      {
+        "title": "Telefoon",
+        "description": "Direct bereikbaar voor spoedgevallen en algemene vragen. 24/7 bemande hulplijn.",
+        "contact": "085-250 29 28",
+        "link": "tel:0852502928",
+        "linkText": "Bel Direct"
+      },
+      {
+        "title": "WhatsApp",
+        "description": "Stuur een bericht via WhatsApp voor snelle communicatie en foto's van uw situatie.",
+        "contact": "+31 85 060 98 80",
+        "link": "https://wa.me/31850609880",
+        "linkText": "Start Chat"
+      },
+      {
+        "title": "Email",
+        "description": "Voor algemene vragen, offertes en niet-spoedeisende zaken kunt u ons mailen.",
+        "contact": "info@mobielehulp.nl",
+        "link": "mailto:info@mobielehulp.nl",
+        "linkText": "Stuur Email"
+      }
+    ]
+  },
+  "emergency": {
+    "title": "Noodgeval? Direct Bellen!",
+    "subtitle": "Bij spoedeisende situaties kunt u ons 24/7 direct bereiken. Geen wachttijden, directe hulp van onze ervaren monteurs.",
+    "phone": "0852502928",
+    "phoneSubtitle": "24/7 Spoedhulp - Direct Bereikbaar",
+    "features": [
+      {
+        "value": "< 5 min",
+        "label": "Reactietijd telefoon"
+      },
+      {
+        "value": "24/7",
+        "label": "Altijd bereikbaar"
+      },
+      {
+        "value": "Direct",
+        "label": "Geen wachttijden"
+      }
+    ]
+  },
+  "hours": {
+    "title": "Bereikbaarheid",
+    "schedule": [
+      {
+        "day": "Maandag - Vrijdag",
+        "hours": "24/7 Bereikbaar"
+      },
+      {
+        "day": "Weekend",
+        "hours": "24/7 Bereikbaar"
+      },
+      {
+        "day": "Feestdagen",
+        "hours": "24/7 Bereikbaar"
+      },
+      {
+        "day": "Email Respons",
+        "hours": "Binnen 2 uur"
+      }
+    ],
+    "emergency": {
+      "title": "Spoedgevallen",
+      "description": "Voor spoedgevallen zijn wij 24/7 bereikbaar via ons noodnummer."
+    }
+  },
+  "info": {
+    "title": "Bedrijfsgegevens",
+    "details": [
+      {
+        "label": "Servicegebied",
+        "value": "Nederland & Europa"
+      },
+      {
+        "label": "Email Adres",
+        "value": "info@mobielehulp.nl"
+      },
+      {
+        "label": "Telefoonnummer",
+        "value": "085-250 29 28"
+      },
+      {
+        "label": "Verzekering",
+        "value": "Volledig verzekerd & gecertificeerd"
+      }
+    ]
+  },
+  "location": {
+    "title": "Deel Uw Locatie",
+    "description": "Heeft u hulp nodig? Deel uw exacte locatie zodat onze monteurs u zo snel mogelijk kunnen vinden. Dit bespaart kostbare tijd in noodsituaties.",
+    "imageAlt": "Locatie delen voor hulp"
+  }
+}
+}
