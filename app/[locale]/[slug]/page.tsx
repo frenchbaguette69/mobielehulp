@@ -91,7 +91,6 @@ function getServiceContent(slug: string) {
       features: ['Aan huis service', 'Kwaliteitsaccu\'s', 'Direct gemonteerd', 'Garantie inbegrepen'],
       image: '/band.png'
     },
-    // Add more specific content for other keywords...
   };
 
   return serviceMap[slug] || {
