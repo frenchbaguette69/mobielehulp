@@ -66,6 +66,23 @@ export default async function HomePage({
                 <p className="text-sm md:text-md text-gray-200 leading-relaxed max-w-2xl">
                   {dict.pechhulp.hero.subtitle}
                 </p>
+                 <p className="text-xl md:text-md text-gray-200 leading-relaxed max-w-2xl">
+                  {dict.pechhulp.hero.title.part3}
+                </p>
+                <div className="flex items-center gap-3 text-[#c8eb67]">
+              {[...Array(5)].map((_, i) => (
+                <svg
+                  key={i}
+                  className="w-5 h-5 fill-current"
+                  viewBox="0 0 24 24"
+                >
+                  <path d="M12 .587l3.668 7.431 8.2 1.193-5.934 5.782 1.4 8.168L12 18.897l-7.334 3.864 1.4-8.168L.132 9.211l8.2-1.193z" />
+                </svg>
+              ))}
+              <span className="text-white ml-2 text-sm">
+                4.9/5 (2.847 reviews)
+              </span>
+            </div>
               </div>
 
               <div className="flex flex-col sm:flex-row gap-4 sm:gap-6">
@@ -104,7 +121,7 @@ export default async function HomePage({
           {/* Image section */}
           <div className="relative w-full h-[400px] md:h-[500px] rounded-3xl overflow-hidden shadow-xl">
             <Image
-              src="/band.png"
+              src="/busje.jpg"
               alt="Sleepdienst Pechhulp"
               layout="fill"
               objectFit="cover"

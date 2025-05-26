@@ -7,27 +7,28 @@
   },
   "pechhulp": {
     "title": "Pechhulp Nederland - 24/7 Mobiele Hulp bij Autopech",
-    "description": "Betrouwbare en snelle pechhulp zonder abonnement. 24/7 beschikbaar in heel Nederland. Lekke band, lege accu of sleepdienst nodig? Wij staan voor je klaar.",
+    "description": "Betrouwbare en snelle pechhulp zonder abonnement. 24/7 beschikbaar in heel Nederland. Lekke band, lege accu of andere autopech? Wij staan voor je klaar.",
     "seo": {
-      "title": "Pechhulp & Sleepdienst Europa - 24/7 Betrouwbare Hulp | Mobiele Hulp",
-      "description": "Professionele pechhulp en sleepdienst door heel Europa. 24/7 bereikbaar, snelle respons, geen abonnementskosten. Bel direct voor hulp bij autopech.",
-      "keywords": "pechhulp europa, sleepdienst europa, autopech europa, 24/7 pechhulp, internationale pechhulp, auto slepen europa, wegenwacht europa, mobiele hulp europa",
-      "imageAlt": "Pechhulp en Sleepdienst Europa"
+      "title": "Pechhulp & Wegenwacht Europa - 24/7 Betrouwbare Hulp | Mobiele Pechhulp",
+      "description": "Professionele pechhulp door heel Europa. 24/7 bereikbaar, snelle respons, geen abonnementskosten. Van lekke band tot accu service - wij helpen direct.",
+      "keywords": "pechhulp europa, wegenwacht europa, autopech europa, 24/7 pechhulp, internationale pechhulp, mobiele pechhulp europa, lekke band hulp, accu service europa",
+      "imageAlt": "Pechhulp en Wegenwacht Europa"
     },
     "hero": {
-      "badge": "Pechhulp & Sleepdienst",
+      "badge": "Pechhulp & Wegenwacht",
       "title": {
-        "part1": "Pechhulp & Sleepdienst",
-        "part2": "Door Heel Europa"
+        "part1": "Pechhulp & Wegenwacht",
+        "part2": "Door Heel Europa",
+        "part3": "binnen 30 min ter plaatse"
       },
-      "subtitle": "Betrouwbare 24/7 pechhulp en sleepdienst door heel Europa. Snelle respons, professionele service en transparante prijzen zonder verborgen kosten.",
+      "subtitle": "Betrouwbare 24/7 pechhulp door heel Europa. Van lekke band tot accu service - snelle respons, professionele hulp en transparante prijzen zonder verborgen kosten.",
       "phone": "0852502928",
       "cta": "085-250 29 28",
       "whatsapp": "WhatsApp Hulp"
     },
     "features": {
       "title": "Waarom Kiezen Voor Onze Pechhulp?",
-      "subtitle": "Met jarenlange ervaring en een netwerk door heel Europa bieden wij de meest betrouwbare pechhulp en sleepdienst voor elke situatie.",
+      "subtitle": "Met jarenlange ervaring en een netwerk door heel Europa bieden wij de meest betrouwbare pechhulp voor elke situatie op de weg.",
       "items": [
         {
           "title": "24/7 Beschikbaar",
@@ -35,24 +36,24 @@
         },
         {
           "title": "Heel Europa",
-          "description": "Service door heel Europa, van Nederland tot Spanje"
+          "description": "Pechhulp door heel Europa, van Nederland tot Spanje"
         },
         {
           "title": "Betrouwbaar",
-          "description": "Gecertificeerde monteurs en moderne sleepwagens"
+          "description": "Gecertificeerde monteurs en professionele pechhulp"
         },
         {
           "title": "Ter Plaatse Reparatie",
-          "description": "Vaak kunnen we uw auto ter plaatse repareren"
+          "description": "Vaak kunnen we uw autopech ter plaatse oplossen"
         }
       ]
     },
     "serviceDetails": {
-      "title": "Complete Pechhulp & Sleepdienst",
-      "imageAlt": "Pechhulp en Sleepdienst Europa",
+      "title": "Complete Pechhulp & Wegenwacht Service",
+      "imageAlt": "Pechhulp en Wegenwacht Europa",
       "items": [
         {
-          "title": "Pechhulp & Sleepdienst Europa",
+          "title": "Pechhulp & Wegenwacht Europa",
           "description": "Weghulp biedt snelle, betrouwbare pechhulp zonder abonnementen of verborgen kosten, met 24/7 service in Nederland en Europa."
         },
         {
@@ -66,8 +67,8 @@
       ]
     },
     "coverage": {
-      "title": "Service Door Heel Europa",
-      "description": "Onze pechhulp en sleepdienst is beschikbaar in alle belangrijke Europese landen. Waar u ook bent, wij komen u helpen.",
+      "title": "Pechhulp Door Heel Europa",
+      "description": "Onze pechhulp is beschikbaar in alle belangrijke Europese landen. Waar u ook bent met autopech, wij komen u helpen.",
       "areas": [
         "Nederland",
         "België",
@@ -89,8 +90,8 @@
         "countries": "Landen bekijken"
       },
       "europe": {
-        "title": "Ook hulp in Europa",
-        "description": "Of je nu op vakantie bent of onderweg naar huis, wij bieden ook ondersteuning in veel Europese landen.",
+        "title": "Ook pechhulp in Europa",
+        "description": "Of je nu op vakantie bent of onderweg naar huis, wij bieden ook pechhulp in veel Europese landen.",
         "features": [
           "Nederlandstalige hulp",
           "Snelle responstijd",
@@ -99,14 +100,14 @@
       }
     },
     "locatiesectie": {
-      "title": "Deel Uw Locatie Voor Snelle Hulp",
-      "description": "Door uw locatie te delen kunnen wij u nog sneller vinden en helpen. Onze monteurs gebruiken GPS om de kortste route naar u toe te vinden.",
+      "title": "Deel Uw Locatie Voor Snelle Pechhulp",
+      "description": "Door uw locatie te delen kunnen wij u nog sneller vinden en helpen bij uw autopech. Onze monteurs gebruiken GPS om de kortste route naar u toe te vinden.",
       "imageAlt": "Locatie delen voor pechhulp",
       "button": "Locatie delen"
     },
     "emergency": {
       "title": "Autopech? Bel Direct!",
-      "subtitle": "24/7 bereikbaar voor pechhulp en sleepdienst door heel Europa. Geen wachttijden, directe hulp.",
+      "subtitle": "24/7 bereikbaar voor pechhulp door heel Europa. Geen wachttijden, directe hulp bij alle soorten autopech.",
       "phone": "0852502928",
       "phoneSubtitle": "Direct verbonden met onze centrale",
       "stats": [
@@ -128,15 +129,15 @@
         "Bel ons via het noodnummer",
         "Geef je locatie door",
         "We komen direct naar je toe",
-        "Hulp is snel ter plaatse"
+        "Pechhulp is snel ter plaatse"
       ]
     },
     "servicegrid": {
       "title": "Onze Pechhulpdiensten",
-      "subtitle": "We zijn gespecialiseerd in directe, mobiele hulp bij pech. Van bandenservice tot sleepdienst – wij staan 24/7 klaar om je weer op weg te helpen.",
+      "subtitle": "We zijn gespecialiseerd in directe, mobiele hulp bij autopech. Van bandenservice tot bergen - wij staan 24/7 klaar om je weer op weg te helpen.",
       "items": [
         {
-          "title": "Pechhulp & Sleepdienst Europa",
+          "title": "Pechhulp & Wegenwacht Europa",
           "description": "Weghulp biedt snelle, betrouwbare pechhulp zonder abonnementen of verborgen kosten, met 24/7 service in Nederland en Europa.",
           "button": "Lees meer",
           "image": "/services/1.jpg",
@@ -189,17 +190,17 @@
       }
     },
     "feature": {
-  "sectionLabel": "Sleepdienst & Pechhulp",
-  "title": "Snelle Pechhulp en Betrouwbare Sleepdienst bij Autopech",
-  "subtitle": "Altijd bereikbaar, dag en nacht",
-  "description": "Heb je autopech of sta je met een kapotte auto langs de weg? Onze professionele sleepdienst is 24/7 beschikbaar voor directe pechhulp. Met moderne sleepwagens en realtime locatiebepaling zijn wij snel ter plaatse om je veilig en efficiënt te helpen. Of het nu gaat om een lege accu, lekke band of een serieuze motorstoring – wij zorgen dat je snel weer op weg bent.",
-  "button": "Ontdek onze pechhulp"
-},
+      "sectionLabel": "Pechhulp & Wegenwacht",
+      "title": "Snelle Pechhulp en Betrouwbare Wegenwacht bij Autopech",
+      "subtitle": "Altijd bereikbaar, dag en nacht",
+      "description": "Heb je autopech of sta je met een kapotte auto langs de weg? Onze professionele pechhulp is 24/7 beschikbaar voor directe hulp. Van lekke banden en lege accu's tot complexe reparaties - met moderne apparatuur en realtime locatiebepaling zijn wij snel ter plaatse om je veilig en efficiënt te helpen. Of het nu gaat om simpele pech of een serieuze storing - wij zorgen dat je snel weer op weg bent.",
+      "button": "Ontdek onze pechhulp"
+    },
     "services": {
       "title": "Onze Pechhulpdiensten",
-      "subtitle": "Altijd mobiel bereikbaar, waar je ook staat – wij lossen het op.",
+      "subtitle": "Altijd mobiel bereikbaar, waar je ook staat met autopech – wij lossen het op.",
       "roadside": {
-        "title": "Pechhulp & Sleepdienst Europa",
+        "title": "Pechhulp & Wegenwacht Europa",
         "description": "Weghulp biedt snelle, betrouwbare pechhulp zonder abonnementen of verborgen kosten, met 24/7 service in Nederland en Europa.",
         "features": [
           "Geen abonnement",
@@ -259,7 +260,7 @@
       "subtitle": "Binnen enkele stappen sta jij weer veilig langs de weg.",
       "step1": {
         "title": "Bel ons direct",
-        "description": "Neem 24/7 contact op met onze hulplijn."
+        "description": "Neem 24/7 contact op met onze hulplijn bij autopech."
       },
       "step2": {
         "title": "We komen naar je toe",
@@ -267,7 +268,7 @@
       },
       "step3": {
         "title": "Snelle assistentie",
-        "description": "Wij lossen het probleem ter plekke op of zorgen voor vervoer."
+        "description": "Wij lossen de autopech ter plekke op of zorgen voor vervoer."
       },
       "step4": {
         "title": "Weer veilig onderweg",
@@ -276,63 +277,63 @@
     },
     "why": {
       "badge": "Waarom kiezen voor ons",
-      "title": "Betrouwbare hulp, altijd dichtbij",
-      "subtitle": "Meer dan 50.000 klanten vertrouwen op onze expertise en snelheid.",
+      "title": "Betrouwbare pechhulp, altijd dichtbij",
+      "subtitle": "Meer dan 50.000 klanten vertrouwen op onze expertise en snelheid bij autopech.",
       "reasons": [
         {
           "title": "24/7 beschikbaarheid",
-          "description": "Onze hulp is dag en nacht bereikbaar, 365 dagen per jaar."
+          "description": "Onze pechhulp is dag en nacht bereikbaar, 365 dagen per jaar."
         },
         {
           "title": "Volledig verzekerd",
-          "description": "Al onze diensten zijn volledig verzekerd voor jouw gemoedsrust."
+          "description": "Al onze pechhulpdiensten zijn volledig verzekerd voor jouw gemoedsrust."
         },
         {
           "title": "Groot netwerk",
-          "description": "Wij zijn actief in heel Nederland met lokale partners."
+          "description": "Wij zijn actief in heel Nederland met lokale pechhulp partners."
         },
         {
           "title": "Ervaren team",
-          "description": "Onze monteurs en chauffeurs zijn gecertificeerd en professioneel."
+          "description": "Onze monteurs zijn gecertificeerd en professioneel in alle pechhulp situaties."
         }
       ],
       "cards": [
         {
           "title": "98% tevredenheid",
           "subtitle": "Gebaseerd op reviews",
-          "description": "Klanten waarderen onze snelle service en duidelijke communicatie."
+          "description": "Klanten waarderen onze snelle pechhulp en duidelijke communicatie."
         },
         {
           "title": "Snelle responstijd",
           "subtitle": "Gemiddeld < 30 min",
-          "description": "We zijn altijd in de buurt en handelen snel."
+          "description": "We zijn altijd in de buurt voor snelle pechhulp."
         },
         {
           "title": "Betaalbaar",
           "subtitle": "Zonder abonnement",
-          "description": "Geen verborgen kosten of abonnementen nodig."
+          "description": "Geen verborgen kosten of abonnementen voor pechhulp nodig."
         }
       ]
     },
     "testimonials": {
       "badge": "Reviews",
       "title": "Wat klanten zeggen",
-      "subtitle": "Echte ervaringen van tevreden klanten.",
+      "subtitle": "Echte ervaringen van tevreden klanten over onze pechhulp.",
       "reviews": [
         {
           "name": "Sander",
           "location": "Amsterdam",
-          "text": "Binnen 20 minuten was de monteur ter plaatse. Echt topservice!"
+          "text": "Binnen 20 minuten was de monteur ter plaatse voor mijn lekke band. Echt toppechhulp!"
         },
         {
           "name": "Marieke",
           "location": "Utrecht",
-          "text": "Mijn accu was leeg. Dankzij Pechhulp Nederland kon ik snel weer rijden."
+          "text": "Mijn accu was leeg. Dankzij Weghulp kon ik snel weer rijden na hun snelle pechhulp."
         },
         {
           "name": "Timo",
           "location": "Rotterdam",
-          "text": "Goede communicatie, vriendelijke service en betaalbaar. Aanrader!"
+          "text": "Goede communicatie, vriendelijke pechhulp en betaalbaar. Aanrader voor autopech!"
         }
       ]
     },
