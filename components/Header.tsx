@@ -1,56 +1,78 @@
-import { Car, Phone } from "lucide-react";
+"use client";
+
+import { Phone, Menu } from "lucide-react";
+import {
+  Sheet,
+  SheetContent,
+  SheetHeader,
+  SheetTitle,
+  SheetTrigger,
+} from "@/components/ui/sheet";
 import Link from "next/link";
 import LanguageSwitcher from "@/components/langauge-switcher";
+import Image from "next/image";
 
 export default function Header({ locale, dict }: { locale: string; dict: any }) {
   return (
     <header className="bg-white shadow-sm border-b border-gray-200 sticky top-0 z-50">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-4">
         <div className="flex justify-between items-center">
-          <Link href='/'>
-          <div className="flex items-center gap-3">
-            <div className="p-2 bg-[#c8eb67] rounded-lg">
-              <Car className="h-8 w-8 bg-[#c8eb67] text-black" />
+          {/* Logo */}
+          <Link href="/">
+            <div className="flex items-center gap-3">
+              <Image
+                src="/Mobielehulp.png"
+                alt="Mobiele Hulp Logo"
+                width={150}
+                height={50}
+                className="h-12 w-auto"
+              />
             </div>
-            <div>
-              <h2 className="text-2xl font-bold text-black ">
-                {locale === "nl" ? "Pechhulp Nederland" : dict?.navigation?.pechhulp ?? "Pechhulp"}
-              </h2>
-              <p className="text-sm text-black">24/7 Mobiele Hulp</p>
-            </div>
-          </div>
-        </Link>
+          </Link>
+
           {/* Desktop Menu */}
           <div className="hidden md:flex items-center gap-6 text-black font-semibold">
-            <Link href="/diensten" className="">{dict?.navigation?.diensten ?? "Diensten"}</Link>
-<Link href="/contact" className="">{dict?.navigation?.contact ?? "Contact"}</Link>
-
+            <Link href="/diensten">{dict?.navigation?.diensten ?? "Diensten"}</Link>
+            <Link href="/contact">{dict?.navigation?.contact ?? "Contact"}</Link>
             <a href="tel:0852502928" className="flex items-center gap-2">
-  <Phone className="h-4 w-4" />
-  <span>085 250 2928</span>
-</a>
-
+              <Phone className="h-4 w-4" />
+              <span>085 250 2928</span>
+            </a>
             <LanguageSwitcher currentLocale={locale} />
           </div>
 
-          {/* Mobiel Menu zonder JS */}
-          <details className="md:hidden relative">
-            <summary className="cursor-pointer text-blue-900 font-semibold list-none text-3xl">
-              ☰
-            </summary>
-            <div className="absolute right-0 mt-2 w-48 bg-white border border-gray-200 shadow-md rounded-md py-2 px-4 z-50">
-              <nav className="flex flex-col gap-3 text-blue-900">
-                <Link href="/diensten" className="hover:text-blue-700">{dict?.navigation?.diensten ?? "Diensten"}</Link>
-<Link href="/contact" className="hover:text-blue-700">{dict?.navigation?.contact ?? "Contact"}</Link>
+          {/* Mobiele navigatie */}
+          <div className="flex items-center gap-4 md:hidden">
+            <LanguageSwitcher currentLocale={locale} />
 
-                <div className="flex items-center gap-2 mt-2">
-                  <Phone className="h-4 w-4" />
-                  <span>085 060 9880</span>
-                </div>
-                <LanguageSwitcher currentLocale={locale} />
-              </nav>
-            </div>
-          </details>
+            <Sheet>
+              <SheetTrigger asChild>
+                <button className="text-black">
+                  <Menu className="h-6 w-6" />
+                </button>
+              </SheetTrigger>
+              <SheetContent side="right" className="w-72 bg-white">
+                <SheetHeader>
+                  <SheetTitle className="sr-only">Mobiel menu</SheetTitle>
+                  <Image
+                    src="/Mobielehulp.png"
+                    alt="Mobiele Hulp Logo"
+                    width={130}
+                    height={40}
+                    className="h-10 w-auto mb-4"
+                  />
+                </SheetHeader>
+                <nav className="flex flex-col gap-4 mt-4 font-medium text-black">
+                  <Link href="/diensten">{dict?.navigation?.diensten ?? "Diensten"}</Link>
+                  <Link href="/contact">{dict?.navigation?.contact ?? "Contact"}</Link>
+                  <a href="tel:0852502928" className="flex items-center gap-2">
+                    <Phone className="h-4 w-4" />
+                    <span>085 250 2928</span>
+                  </a>
+                </nav>
+              </SheetContent>
+            </Sheet>
+          </div>
         </div>
       </div>
     </header>
