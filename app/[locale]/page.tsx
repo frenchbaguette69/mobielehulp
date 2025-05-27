@@ -145,10 +145,12 @@ export default async function HomePage({
             <p className="text-gray-600 text-base leading-relaxed mb-6">
               {dict.pechhulp.feature.description}
             </p>
+            <Link href='/diensten'>
             <Button className="bg-black text-white px-6 py-3 rounded-full inline-flex items-center gap-2 hover:bg-gray-900">
               {dict.pechhulp.feature.button}
               <ArrowRight className="w-4 h-4" />
             </Button>
+              </Link>
           </div>
         </div>
       </section>
