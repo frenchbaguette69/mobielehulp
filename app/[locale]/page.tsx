@@ -49,7 +49,7 @@ export default async function HomePage({
           backgroundImage: "url(/herobgcar.jpg)",
           backgroundSize: "cover",
           backgroundPosition: "center",
-          height: "60vh",
+          height: "90vh",
         }}
       >
         <div className="absolute inset-0 bg-black/60"></div>
