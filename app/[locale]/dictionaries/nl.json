@@ -1274,5 +1274,307 @@
     "description": "Heeft u hulp nodig? Deel uw exacte locatie zodat onze monteurs u zo snel mogelijk kunnen vinden. Dit bespaart kostbare tijd in noodsituaties.",
     "imageAlt": "Locatie delen voor hulp"
   }
-}
+},
+  "service": {
+    "car-transport": {
+      "title": "Auto Transport Service",
+      "subtitle": "Veilig autotransport door heel Europa",
+      "description": "Professioneel autotransport voor particulieren en bedrijven. Uw voertuig wordt veilig en verzekerd vervoerd naar elke gewenste bestemming.",
+      "features": ["Verzekerd transport", "Door heel Europa", "Voor alle voertuigtypes", "Tracking mogelijk"]
+    },
+    "auto-pech": {
+      "title": "Auto Pech Service 24/7",
+      "subtitle": "Direct hulp bij autopech, waar u ook bent",
+      "description": "Wanneer uw auto het begeeft, zijn wij er om u te helpen. Onze ervaren monteurs komen snel ter plaatse om uw voertuig weer aan de praat te krijgen.",
+      "features": ["24/7 beschikbaar", "Binnen 30 minuten ter plaatse", "Gecertificeerde monteurs", "Transparante prijzen"]
+    },
+    "pechhulp": {
+      "title": "Pechhulp Service Nederland",
+      "subtitle": "Snelle hulp bij autopech overal in Nederland",
+      "description": "Onze pechhulp service staat 24/7 voor u klaar. Van kleine reparaties tot complete bergingen, wij helpen u verder.",
+      "features": ["24/7 bereikbaar", "Snelle responstijd", "Ervaren monteurs", "Heel Nederland"]
+    },
+    "sleepdienst-auto": {
+      "title": "Sleepdienst Auto Nederland",
+      "subtitle": "Professionele sleepdienst door heel Nederland",
+      "description": "Onze moderne sleepwagens kunnen elk type voertuig veilig transporteren. Van personenauto tot bestelwagen, wij regelen het transport.",
+      "features": ["Moderne sleepwagens", "Verzekerde transporten", "Heel Nederland", "Snelle service"]
+    },
+    "slepen-auto": {
+      "title": "Auto Slepen Service",
+      "subtitle": "Professionele sleepservice 24/7",
+      "description": "Wanneer uw auto niet meer rijdt, zorgen wij voor veilig transport naar uw gewenste bestemming. Moderne sleepwagens en ervaren chauffeurs.",
+      "features": ["Moderne sleepwagens", "Ervaren chauffeurs", "Verzekerd transport", "Heel Nederland"]
+    },
+    "sleepbedrijf": {
+      "title": "Professioneel Sleepbedrijf",
+      "subtitle": "Uw betrouwbare partner voor sleepwerk",
+      "description": "Als ervaren sleepbedrijf staan wij dag en nacht klaar voor al uw sleepwerk. Van personenauto tot vrachtwagen.",
+      "features": ["24/7 beschikbaar", "Alle voertuigtypes", "Gecertificeerd bedrijf", "Concurrerende prijzen"]
+    },
+    "auto-weg-laten-slepen": {
+      "title": "Auto Weg Laten Slepen",
+      "subtitle": "Snel en veilig uw auto laten wegslepen",
+      "description": "Moet uw auto weggesleept worden? Wij zorgen voor professionele afhandeling en veilig transport naar de gewenste locatie.",
+      "features": ["Snelle afhandeling", "Veilig transport", "Transparante kosten", "Professionele service"]
+    },
+    "sleepdienst": {
+      "title": "Sleepdienst 24/7",
+      "subtitle": "Betrouwbare sleepdienst dag en nacht",
+      "description": "Onze sleepdienst is 24 uur per dag, 7 dagen per week beschikbaar voor al uw sleepbehoeften. Professioneel en betrouwbaar.",
+      "features": ["24/7 service", "Moderne apparatuur", "Ervaren chauffeurs", "Snelle respons"]
+    },
+    "sleepwagen": {
+      "title": "Sleepwagen Service",
+      "subtitle": "Moderne sleepwagens voor elk transport",
+      "description": "Onze vloot moderne sleepwagens kan elk type voertuig veilig transporteren. Van kleine auto tot grote bestelwagens.",
+      "features": ["Moderne vloot", "Alle voertuigtypes", "Veilig transport", "Professionele chauffeurs"]
+    },
+    "auto-berging": {
+      "title": "Auto Berging Service",
+      "subtitle": "Professionele autoberging na ongevallen",
+      "description": "Na een ongeval zorgen wij voor veilige berging van uw voertuig. Onze gespecialiseerde bergingswagens kunnen elk type auto bergen.",
+      "features": ["24/7 bergingsdienst", "Gespecialiseerde apparatuur", "Verzekerde berging", "Snelle responstijd"]
+    },
+    "takelbedrijf": {
+      "title": "Takelbedrijf Nederland",
+      "subtitle": "Professioneel takelbedrijf voor alle situaties",
+      "description": "Ons takelbedrijf is gespecialiseerd in het bergen en takelen van voertuigen in alle omstandigheden. Ervaren en betrouwbaar.",
+      "features": ["Gespecialiseerde apparatuur", "Ervaren operators", "Alle situaties", "24/7 beschikbaar"]
+    },
+    "takelwagen": {
+      "title": "Takelwagen Service",
+      "subtitle": "Professionele takelwagens voor zware berging",
+      "description": "Onze takelwagens zijn uitgerust voor zware bergingen en complexe takelsituaties. Professioneel uitgevoerd door ervaren operators.",
+      "features": ["Zware takelcapaciteit", "Ervaren operators", "Gespecialiseerde uitrusting", "Veilige uitvoering"]
+    },
+    "wat-te-doen-als-je-auto-vast-zit-in-de-modder": {
+      "title": "Wat Te Doen Als Auto Vast Zit In Modder",
+      "subtitle": "Directe hulp en advies bij vastgereden voertuigen",
+      "description": "Auto vastgereden in de modder? Wij geven u direct advies en komen ter plaatse om uw voertuig professioneel te bevrijden.",
+      "features": ["Direct advies", "Professionele bevrijding", "Gespecialiseerde apparatuur", "Geen voertuigschade"]
+    },
+    "auto-uit-modder-slepen": {
+      "title": "Auto Uit Modder Slepen",
+      "subtitle": "Gespecialiseerd in het bevrijden van vastgereden voertuigen",
+      "description": "Zit uw auto vast in de modder, zand of sneeuw? Onze gespecialiseerde takeldienst heeft de juiste apparatuur om uw voertuig veilig te bevrijden.",
+      "features": ["Gespecialiseerde lieren", "Ervaren operators", "Geen schade aan voertuig", "Alle terreintypes"]
+    },
+    "vast-in-modder-auto": {
+      "title": "Auto Vast In Modder - Direct Hulp",
+      "subtitle": "Snelle hulp bij vastgereden voertuigen",
+      "description": "Staat uw auto vast in de modder? Onze specialisten komen direct ter plaatse om uw voertuig veilig te bevrijden zonder schade.",
+      "features": ["Direct ter plaatse", "Professionele lieren", "Veilige bevrijding", "Geen voertuigschade"]
+    },
+    "auto-vast-in-modder": {
+      "title": "Hulp Bij Auto Vast In Modder",
+      "subtitle": "Directe hulp wanneer u vastgereden bent",
+      "description": "Vastgereden in modderige omstandigheden? Wij helpen u er snel en veilig uit met onze professionele takeldienst.",
+      "features": ["Direct ter plaatse", "Professionele lieren", "Veilige bevrijding", "Geen voertuigschade"]
+    },
+    "auto-uit-de-modder-halen": {
+      "title": "Auto Uit De Modder Halen",
+      "subtitle": "Professionele bevrijding uit modder",
+      "description": "Gespecialiseerd in het uit de modder halen van voertuigen. Met de juiste apparatuur en ervaring bevrijden wij uw auto veilig.",
+      "features": ["Gespecialiseerde technieken", "Veilige bevrijding", "Minimale schade", "Snelle service"]
+    },
+    "auto-vastgereden-in-modder": {
+      "title": "Auto Vastgereden In Modder Service",
+      "subtitle": "Hulp bij vastgereden voertuigen",
+      "description": "Is uw auto vastgereden in de modder? Onze ervaren bergingsteam bevrijdt uw voertuig professioneel en veilig.",
+      "features": ["Ervaren bergingsteam", "Professionele uitvoering", "Veilige bevrijding", "Direct beschikbaar"]
+    },
+    "vast-in-de-modder": {
+      "title": "Vast In De Modder - Hulpservice",
+      "subtitle": "Directe hulp bij modderproblematiek",
+      "description": "Zit u vast in de modder met uw voertuig? Onze gespecialiseerde hulpservice komt direct ter plaatse voor professionele bevrijding.",
+      "features": ["Directe hulp", "Gespecialiseerde service", "Professionele bevrijding", "Ervaren team"]
+    },
+    "auto-zit-vast-in-modder": {
+      "title": "Auto Zit Vast In Modder - Hulp",
+      "subtitle": "Onmiddellijke hulp bij vastzitten",
+      "description": "Zit uw auto vast in de modder? Geen paniek! Onze professionele bergingsdienst bevrijdt uw voertuig snel en veilig.",
+      "features": ["Onmiddellijke hulp", "Professionele berging", "Veilige technieken", "Snelle respons"]
+    },
+    "hoe-krijg-je-een-auto-uit-de-modder": {
+      "title": "Hoe Krijg Je Een Auto Uit De Modder",
+      "subtitle": "Expert advies en professionele hulp",
+      "description": "Weet u niet hoe u uw auto uit de modder krijgt? Onze experts geven advies en bieden professionele hulp voor veilige bevrijding.",
+      "features": ["Expert advies", "Professionele technieken", "Veilige methoden", "Bewezen resultaten"]
+    },
+    "vast-in-de-modder-met-auto": {
+      "title": "Vast In De Modder Met Auto",
+      "subtitle": "Gespecialiseerde hulp voor modder situaties",
+      "description": "Met uw auto vast in de modder? Onze gespecialiseerde hulpdienst heeft ervaring met alle modder situaties en bevrijdt u professioneel.",
+      "features": ["Gespecialiseerde hulp", "Alle modder situaties", "Professionele bevrijding", "Ervaren team"]
+    },
+    "auto-in-de-modder": {
+      "title": "Auto In De Modder - Bergingsdienst",
+      "subtitle": "Professionele bergingsdienst voor modder",
+      "description": "Auto in de modder beland? Onze professionele bergingsdienst heeft de expertise om uw voertuig veilig en zonder schade te bevrijden.",
+      "features": ["Professionele berging", "Modder expertise", "Veilige bevrijding", "Geen schade"]
+    },
+    "auto-staat-vast-in-de-modder": {
+      "title": "Auto Staat Vast In De Modder",
+      "subtitle": "Directe interventie bij vaststaande auto",
+      "description": "Staat uw auto vast in de modder? Wij interveniëren direct met professionele apparatuur om uw voertuig te bevrijden.",
+      "features": ["Directe interventie", "Professionele apparatuur", "Snelle bevrijding", "Ervaren operators"]
+    },
+    "vast-in-sneeuw-auto": {
+      "title": "Auto Vast In Sneeuw - Winterhulp",
+      "subtitle": "Gespecialiseerde winterhulp service",
+      "description": "Auto vast in de sneeuw? Onze winterspecialisten komen ter plaatse met de juiste apparatuur om uw voertuig te bevrijden.",
+      "features": ["Winterspecialisten", "Sneeuwkettingen service", "Veilige bevrijding", "24/7 winterhulp"]
+    },
+    "auto-vast-in-sneeuw": {
+      "title": "Auto Vast In Sneeuw Service",
+      "subtitle": "Winterhulp voor vastgereden voertuigen",
+      "description": "Sneeuw en ijs kunnen uw auto doen vastlopen. Onze winterspecialisten bevrijden uw voertuig snel en veilig.",
+      "features": ["Winterspecialisten", "Sneeuwkettingen service", "Veilige bevrijding", "24/7 winterhulp"]
+    },
+    "auto-vast-in-zand": {
+      "title": "Auto Vast In Zand - Bevrijdingsdienst",
+      "subtitle": "Gespecialiseerd in zandbevrijding",
+      "description": "Auto vast in het zand? Onze gespecialiseerde bevrijdingsdienst heeft ervaring met alle zandtypes en bevrijdt uw voertuig professioneel.",
+      "features": ["Zand specialisten", "Alle zandtypes", "Professionele bevrijding", "Speciale technieken"]
+    },
+    "auto-in-de-sloot-vandaag": {
+      "title": "Auto In Sloot Vandaag - Spoed Berging",
+      "subtitle": "Spoedberging uit sloten",
+      "description": "Auto vandaag in de sloot beland? Onze spoedbergingsdienst komt direct ter plaatse voor professionele waterberging.",
+      "features": ["Spoedberging", "Waterberging expertise", "Direct ter plaatse", "Gespecialiseerde kranen"]
+    },
+    "auto-belandt-in-sloot": {
+      "title": "Auto Belandt In Sloot - Noodberging",
+      "subtitle": "Noodberging uit waterpartijen",
+      "description": "Is uw auto in een sloot beland? Onze noodbergingsdienst heeft de expertise voor veilige berging uit waterpartijen.",
+      "features": ["Noodberging 24/7", "Waterpartij expertise", "Veilige berging", "Gespecialiseerde apparatuur"]
+    },
+    "auto-in-sloot-vandaag": {
+      "title": "Auto In Sloot Vandaag - Directe Hulp",
+      "subtitle": "Directe hulp bij slootberging",
+      "description": "Vandaag auto in sloot? Geen paniek! Onze directe hulpdienst komt ter plaatse voor professionele en veilige berging.",
+      "features": ["Directe hulp", "Vandaag beschikbaar", "Professionele berging", "Sloot specialisten"]
+    },
+    "auto-in-de-sloot": {
+      "title": "Auto In De Sloot - Berging",
+      "subtitle": "Gespecialiseerde berging uit sloten en greppels",
+      "description": "Auto in de sloot beland? Onze gespecialiseerde bergingsteams hebben de expertise en apparatuur om uw voertuig veilig te bergen.",
+      "features": ["Gespecialiseerde kranen", "Waterberging expertise", "Minimale schade", "Snelle respons"]
+    },
+    "auto-in-sloot": {
+      "title": "Auto In Sloot Berging",
+      "subtitle": "Professionele berging uit water",
+      "description": "Specialistische berging van voertuigen die in sloten of andere waterpartijen zijn beland. Veilig en professioneel uitgevoerd.",
+      "features": ["Waterberging specialist", "Kraan en lier service", "Milieuverantwoord", "Directe hulp"]
+    },
+    "auto-in-de-greppel": {
+      "title": "Auto In De Greppel - Bergingsdienst",
+      "subtitle": "Specialistische greppelberging",
+      "description": "Auto in de greppel beland? Onze specialistische bergingsdienst heeft ervaring met greppel- en dijkbergingen.",
+      "features": ["Greppel specialisten", "Dijkberging ervaring", "Veilige technieken", "Minimale schade"]
+    },
+    "auto-in-de-berm": {
+      "title": "Auto In De Berm - Bergingshulp",
+      "subtitle": "Professionele bermberging",
+      "description": "Auto in de berm beland? Onze bergingshulp komt ter plaatse voor veilige en professionele berging uit de wegberm.",
+      "features": ["Bermberging expertise", "Verkeersveilige berging", "Snelle afhandeling", "Professioneel team"]
+    },
+    "auto-vast-in-gras": {
+      "title": "Auto Vast In Gras - Terreinberging",
+      "subtitle": "Gespecialiseerde terreinberging",
+      "description": "Auto vast in gras of zachte ondergrond? Onze terreinspecialisten bevrijden uw voertuig zonder schade aan gras of voertuig.",
+      "features": ["Terrein specialisten", "Gras vriendelijk", "Zachte ondergrond", "Geen terreinschade"]
+    },
+    "car-stuck-in-the-mud": {
+      "title": "Auto Vast In Modder - Bergingsdienst",
+      "subtitle": "Professionele modder bergingsdienst",
+      "description": "Auto vast in de modder? Onze professionele bergingsdienst heeft de expertise en apparatuur om uw voertuig veilig te bevrijden.",
+      "features": ["Professionele berging", "Gespecialiseerde apparatuur", "Veilige bevrijding", "Geen voertuigschade"]
+    },
+    "accu-service-aan-huis": {
+      "title": "Accu Service Aan Huis",
+      "subtitle": "Nieuwe accu geleverd en gemonteerd bij u thuis",
+      "description": "Lege accu? Geen probleem! Wij leveren en monteren een nieuwe accu bij u aan huis. Kwaliteitsaccu's met garantie.",
+      "features": ["Aan huis service", "Kwaliteitsaccu's", "Direct gemonteerd", "Garantie inbegrepen"]
+    },
+    "accu-auto-leeg": {
+      "title": "Lege Auto Accu Service",
+      "subtitle": "Startproblemen? Wij helpen direct",
+      "description": "Lege accu en komt uw auto niet meer aan de praat? Onze monteurs komen ter plaatse voor starthulp of accuvervanging.",
+      "features": ["Directe starthulp", "Nieuwe accu beschikbaar", "Ter plaatse montage", "Alle automerken"]
+    },
+    "auto-accu-leeg-wat-nu": {
+      "title": "Auto Accu Leeg Wat Nu - Hulp",
+      "subtitle": "Directe hulp bij lege accu",
+      "description": "Auto accu leeg en weet niet wat nu? Wij helpen direct met starthulp of leveren een nieuwe accu aan huis.",
+      "features": ["Directe hulp", "Starthulp service", "Nieuwe accu levering", "Expert advies"]
+    },
+    "service-accu": {
+      "title": "Service Accu Nederland",
+      "subtitle": "Volledige accuservice voor uw auto",
+      "description": "Onze volledige accuservice omvat het testen, vervangen en onderhouden van auto accu's. Professioneel en betrouwbaar.",
+      "features": ["Volledige accuservice", "Testen en vervangen", "Professioneel onderhoud", "Alle automerken"]
+    },
+    "accu-vervangen-aan-huis": {
+      "title": "Accu Vervangen Aan Huis",
+      "subtitle": "Nieuwe accu geleverd en gemonteerd",
+      "description": "Heeft u een nieuwe accu nodig? Wij leveren en monteren deze bij u aan huis. Kwaliteitsaccu's met volledige garantie.",
+      "features": ["Aan huis levering", "Direct gemonteerd", "Garantie inbegrepen", "Alle voertuigtypes"]
+    },
+    "accuservice": {
+      "title": "Accuservice Nederland",
+      "subtitle": "Complete accuservice voor alle voertuigen",
+      "description": "Onze complete accuservice biedt alles van starthulp tot nieuwe accu's. Voor alle voertuigtypes met professionele montage.",
+      "features": ["Complete service", "Alle voertuigtypes", "Professionele montage", "Kwaliteitsgarantie"]
+    },
+    "vervangen-accu-auto": {
+      "title": "Vervangen Accu Auto Service",
+      "subtitle": "Professionele accuvervanging",
+      "description": "Moet uw auto accu vervangen worden? Onze service zorgt voor snelle en professionele vervanging met kwaliteitsaccu's.",
+      "features": ["Snelle vervanging", "Kwaliteitsaccu's", "Professionele montage", "Garantie service"]
+    },
+    "accu-vervangen-auto": {
+      "title": "Accu Vervangen Auto",
+      "subtitle": "Auto accu vervangen door professionals",
+      "description": "Laat uw auto accu vervangen door onze professionals. Wij zorgen voor de juiste accu en professionele montage.",
+      "features": ["Professionele vervanging", "Juiste accu keuze", "Expert montage", "Betrouwbare service"]
+    },
+    "auto-accu-vervangen-aan-huis": {
+      "title": "Auto Accu Vervangen Aan Huis",
+      "subtitle": "Accuvervanging bij u thuis",
+      "description": "Wij vervangen uw auto accu bij u aan huis. Geen gedoe met naar de garage, wij komen naar u toe.",
+      "features": ["Aan huis service", "Geen garage bezoek", "Direct gemonteerd", "Gemakkelijk en snel"]
+    },
+    "accu-auto-vervangen": {
+      "title": "Accu Auto Vervangen Service",
+      "subtitle": "Betrouwbare accuvervanging",
+      "description": "Betrouwbare vervanging van uw auto accu door ervaren monteurs. Kwaliteitsaccu's tegen scherpe prijzen.",
+      "features": ["Betrouwbare service", "Ervaren monteurs", "Kwaliteitsaccu's", "Scherpe prijzen"]
+    },
+    "accu-laten-vervangen-aan-huis": {
+      "title": "Accu Laten Vervangen Aan Huis",
+      "subtitle": "Laat uw accu thuis vervangen",
+      "description": "Laat uw accu gemakkelijk aan huis vervangen. Onze mobiele service komt naar u toe voor professionele vervanging.",
+      "features": ["Mobiele service", "Aan huis vervanging", "Professioneel uitgevoerd", "Geen reistijd"]
+    },
+    "auto-accu-vervangen": {
+      "title": "Auto Accu Vervangen",
+      "subtitle": "Snelle auto accu vervanging",
+      "description": "Snelle en professionele vervanging van uw auto accu. Wij zorgen ervoor dat u weer snel op weg kunt.",
+      "features": ["Snelle vervanging", "Professionele uitvoering", "Snel weer op weg", "Betrouwbare service"]
+    },
+    "accu-laten-vervangen": {
+      "title": "Accu Laten Vervangen",
+      "subtitle": "Professionele accuvervanging service",
+      "description": "Laat uw accu professioneel vervangen door onze ervaren monteurs. Kwaliteit en service gegarandeerd.",
+      "features": ["Professionele vervanging", "Ervaren monteurs", "Kwaliteit gegarandeerd", "Service verzekerd"]
+    },
+    "default": {
+      "title": "Mobiele Hulp Service",
+      "subtitle": "Professionele hulpdienst 24/7",
+      "description": "Onze ervaren professionals staan 24/7 voor u klaar met professionele hulp.",
+      "features": ["24/7 Beschikbaar", "Snelle responstijd", "Professioneel team", "Transparante prijzen"]
+    }
+  }
 }

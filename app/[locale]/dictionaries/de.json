@@ -1273,6 +1273,308 @@
       "description": "Benötigen Sie Hilfe? Teilen Sie Ihren genauen Standort, damit unsere Mechaniker Sie so schnell wie möglich finden können. Das spart wertvolle Zeit in Notfallsituationen.",
       "imageAlt": "Standort teilen für Hilfe"
     }
-  }
+  },
+    "service": {
+      "car-transport": {
+        "title": "Autotransport Service",
+        "subtitle": "Sicherer Autotransport durch ganz Europa",
+        "description": "Professioneller Autotransport für Privatpersonen und Unternehmen. Ihr Fahrzeug wird sicher und versichert zu jedem gewünschten Ziel transportiert.",
+        "features": ["Versicherter Transport", "Durch ganz Europa", "Für alle Fahrzeugtypen", "Verfolgung möglich"]
+      },
+      "auto-pech": {
+        "title": "Auto Panne Service 24/7",
+        "subtitle": "Sofortige Hilfe bei Autopanne, wo Sie auch sind",
+        "description": "Wenn Ihr Auto streikt, sind wir da, um Ihnen zu helfen. Unsere erfahrenen Mechaniker kommen schnell vor Ort, um Ihr Fahrzeug wieder zum Laufen zu bringen.",
+        "features": ["24/7 verfügbar", "Innerhalb 30 Minuten vor Ort", "Zertifizierte Mechaniker", "Transparente Preise"]
+      },
+      "pechhulp": {
+        "title": "Pannenhilfe Service Deutschland",
+        "subtitle": "Schnelle Hilfe bei Autopanne überall in Deutschland",
+        "description": "Unser Pannenhilfe-Service steht Ihnen 24/7 zur Verfügung. Von kleinen Reparaturen bis hin zu kompletten Bergungen helfen wir Ihnen weiter.",
+        "features": ["24/7 erreichbar", "Schnelle Reaktionszeit", "Erfahrene Mechaniker", "Ganz Deutschland"]
+      },
+      "sleepdienst-auto": {
+        "title": "Abschleppdienst Auto Deutschland",
+        "subtitle": "Professioneller Abschleppdienst durch ganz Deutschland",
+        "description": "Unsere modernen Abschleppwagen können jeden Fahrzeugtyp sicher transportieren. Vom PKW bis zum Transporter regeln wir den Transport.",
+        "features": ["Moderne Abschleppwagen", "Versicherte Transporte", "Ganz Deutschland", "Schneller Service"]
+      },
+      "slepen-auto": {
+        "title": "Auto Abschleppen Service",
+        "subtitle": "Professioneller Abschleppservice 24/7",
+        "description": "Wenn Ihr Auto nicht mehr fährt, sorgen wir für sicheren Transport zu Ihrem gewünschten Ziel. Moderne Abschleppwagen und erfahrene Fahrer.",
+        "features": ["Moderne Abschleppwagen", "Erfahrene Fahrer", "Versicherter Transport", "Ganz Deutschland"]
+      },
+      "sleepbedrijf": {
+        "title": "Professionelles Abschleppunternehmen",
+        "subtitle": "Ihr zuverlässiger Partner für Abschlepparbeiten",
+        "description": "Als erfahrenes Abschleppunternehmen stehen wir Tag und Nacht für alle Ihre Abschlepparbeiten bereit. Vom PKW bis zum LKW.",
+        "features": ["24/7 verfügbar", "Alle Fahrzeugtypen", "Zertifiziertes Unternehmen", "Wettbewerbsfähige Preise"]
+      },
+      "auto-weg-laten-slepen": {
+        "title": "Auto Abschleppen Lassen",
+        "subtitle": "Schnell und sicher Ihr Auto abschleppen lassen",
+        "description": "Muss Ihr Auto abgeschleppt werden? Wir sorgen für professionelle Abwicklung und sicheren Transport zum gewünschten Ort.",
+        "features": ["Schnelle Abwicklung", "Sicherer Transport", "Transparente Kosten", "Professioneller Service"]
+      },
+      "sleepdienst": {
+        "title": "Abschleppdienst 24/7",
+        "subtitle": "Zuverlässiger Abschleppdienst Tag und Nacht",
+        "description": "Unser Abschleppdienst ist 24 Stunden am Tag, 7 Tage die Woche für alle Ihre Abschleppbedürfnisse verfügbar. Professionell und zuverlässig.",
+        "features": ["24/7 Service", "Moderne Ausrüstung", "Erfahrene Fahrer", "Schnelle Reaktion"]
+      },
+      "sleepwagen": {
+        "title": "Abschleppwagen Service",
+        "subtitle": "Moderne Abschleppwagen für jeden Transport",
+        "description": "Unsere Flotte moderner Abschleppwagen kann jeden Fahrzeugtyp sicher transportieren. Von kleinen Autos bis zu großen Transportern.",
+        "features": ["Moderne Flotte", "Alle Fahrzeugtypen", "Sicherer Transport", "Professionelle Fahrer"]
+      },
+      "auto-berging": {
+        "title": "Auto Bergung Service",
+        "subtitle": "Professionelle Autobergung nach Unfällen",
+        "description": "Nach einem Unfall sorgen wir für sichere Bergung Ihres Fahrzeugs. Unsere spezialisierten Bergungsfahrzeuge können jeden Autotyp bergen.",
+        "features": ["24/7 Bergungsdienst", "Spezialisierte Ausrüstung", "Versicherte Bergung", "Schnelle Reaktionszeit"]
+      },
+      "takelbedrijf": {
+        "title": "Bergungsunternehmen Deutschland",
+        "subtitle": "Professionelles Bergungsunternehmen für alle Situationen",
+        "description": "Unser Bergungsunternehmen ist spezialisiert auf die Bergung und das Abschleppen von Fahrzeugen unter allen Umständen. Erfahren und zuverlässig.",
+        "features": ["Spezialisierte Ausrüstung", "Erfahrene Operatoren", "Alle Situationen", "24/7 verfügbar"]
+      },
+      "takelwagen": {
+        "title": "Bergungsfahrzeug Service",
+        "subtitle": "Professionelle Bergungsfahrzeuge für schwere Bergung",
+        "description": "Unsere Bergungsfahrzeuge sind für schwere Bergungen und komplexe Bergungssituationen ausgerüstet. Professionell durchgeführt von erfahrenen Operatoren.",
+        "features": ["Schwere Bergungskapazität", "Erfahrene Operatoren", "Spezialisierte Ausrüstung", "Sichere Durchführung"]
+      },
+      "wat-te-doen-als-je-auto-vast-zit-in-de-modder": {
+        "title": "Was Tun Wenn Auto Im Schlamm Steckt",
+        "subtitle": "Sofortige Hilfe und Beratung bei festgefahrenen Fahrzeugen",
+        "description": "Auto im Schlamm festgefahren? Wir geben Ihnen sofortige Beratung und kommen vor Ort, um Ihr Fahrzeug professionell zu befreien.",
+        "features": ["Sofortige Beratung", "Professionelle Befreiung", "Spezialisierte Ausrüstung", "Keine Fahrzeugschäden"]
+      },
+      "auto-uit-modder-slepen": {
+        "title": "Auto Aus Schlamm Schleppen",
+        "subtitle": "Spezialisiert auf die Befreiung festgefahrener Fahrzeuge",
+        "description": "Steckt Ihr Auto im Schlamm, Sand oder Schnee fest? Unser spezialisierter Abschleppdienst hat die richtige Ausrüstung, um Ihr Fahrzeug sicher zu befreien.",
+        "features": ["Spezialisierte Winden", "Erfahrene Operatoren", "Keine Schäden am Fahrzeug", "Alle Geländetypen"]
+      },
+      "vast-in-modder-auto": {
+        "title": "Auto Im Schlamm Fest - Sofortige Hilfe",
+        "subtitle": "Schnelle Hilfe bei festgefahrenen Fahrzeugen",
+        "description": "Steckt Ihr Auto im Schlamm fest? Unsere Spezialisten kommen sofort vor Ort, um Ihr Fahrzeug sicher und ohne Schäden zu befreien.",
+        "features": ["Sofort vor Ort", "Professionelle Winden", "Sichere Befreiung", "Keine Fahrzeugschäden"]
+      },
+      "auto-vast-in-modder": {
+        "title": "Hilfe Bei Auto Im Schlamm Fest",
+        "subtitle": "Sofortige Hilfe wenn Sie festgefahren sind",
+        "description": "Festgefahren in schlammigen Bedingungen? Wir helfen Ihnen schnell und sicher heraus mit unserem professionellen Abschleppdienst.",
+        "features": ["Sofort vor Ort", "Professionelle Winden", "Sichere Befreiung", "Keine Fahrzeugschäden"]
+      },
+      "auto-uit-de-modder-halen": {
+        "title": "Auto Aus Dem Schlamm Holen",
+        "subtitle": "Professionelle Befreiung aus Schlamm",
+        "description": "Spezialisiert auf das Herausholen von Fahrzeugen aus dem Schlamm. Mit der richtigen Ausrüstung und Erfahrung befreien wir Ihr Auto sicher.",
+        "features": ["Spezialisierte Techniken", "Sichere Befreiung", "Minimale Schäden", "Schneller Service"]
+      },
+      "auto-vastgereden-in-modder": {
+        "title": "Auto Festgefahren Im Schlamm Service",
+        "subtitle": "Hilfe bei festgefahrenen Fahrzeugen",
+        "description": "Ist Ihr Auto im Schlamm festgefahren? Unser erfahrenes Bergungsteam befreit Ihr Fahrzeug professionell und sicher.",
+        "features": ["Erfahrenes Bergungsteam", "Professionelle Durchführung", "Sichere Befreiung", "Sofort verfügbar"]
+      },
+      "vast-in-de-modder": {
+        "title": "Im Schlamm Fest - Hilfsservice",
+        "subtitle": "Sofortige Hilfe bei Schlammproblemen",
+        "description": "Stecken Sie mit Ihrem Fahrzeug im Schlamm fest? Unser spezialisierter Hilfsservice kommt sofort vor Ort für professionelle Befreiung.",
+        "features": ["Sofortige Hilfe", "Spezialisierter Service", "Professionelle Befreiung", "Erfahrenes Team"]
+      },
+      "auto-zit-vast-in-modder": {
+        "title": "Auto Steckt Im Schlamm Fest - Hilfe",
+        "subtitle": "Sofortige Hilfe beim Feststecken",
+        "description": "Steckt Ihr Auto im Schlamm fest? Keine Panik! Unser professioneller Bergungsdienst befreit Ihr Fahrzeug schnell und sicher.",
+        "features": ["Sofortige Hilfe", "Professionelle Bergung", "Sichere Techniken", "Schnelle Reaktion"]
+      },
+      "hoe-krijg-je-een-auto-uit-de-modder": {
+        "title": "Wie Bekommt Man Ein Auto Aus Dem Schlamm",
+        "subtitle": "Expertenberatung und professionelle Hilfe",
+        "description": "Wissen Sie nicht, wie Sie Ihr Auto aus dem Schlamm bekommen? Unsere Experten geben Beratung und bieten professionelle Hilfe für sichere Befreiung.",
+        "features": ["Expertenberatung", "Professionelle Techniken", "Sichere Methoden", "Bewährte Ergebnisse"]
+      },
+      "vast-in-de-modder-met-auto": {
+        "title": "Mit Auto Im Schlamm Fest",
+        "subtitle": "Spezialisierte Hilfe für Schlammsituationen",
+        "description": "Mit Ihrem Auto im Schlamm fest? Unser spezialisierter Hilfsdienst hat Erfahrung mit allen Schlammsituationen und befreit Sie professionell.",
+        "features": ["Spezialisierte Hilfe", "Alle Schlammsituationen", "Professionelle Befreiung", "Erfahrenes Team"]
+      },
+      "auto-in-de-modder": {
+        "title": "Auto Im Schlamm - Bergungsdienst",
+        "subtitle": "Professioneller Bergungsdienst für Schlamm",
+        "description": "Auto im Schlamm gelandet? Unser professioneller Bergungsdienst hat die Expertise, um Ihr Fahrzeug sicher und ohne Schäden zu befreien.",
+        "features": ["Professionelle Bergung", "Schlamm-Expertise", "Sichere Befreiung", "Keine Schäden"]
+      },
+      "auto-staat-vast-in-de-modder": {
+        "title": "Auto Steht Im Schlamm Fest",
+        "subtitle": "Sofortige Intervention bei feststehendem Auto",
+        "description": "Steht Ihr Auto im Schlamm fest? Wir intervenieren sofort mit professioneller Ausrüstung, um Ihr Fahrzeug zu befreien.",
+        "features": ["Sofortige Intervention", "Professionelle Ausrüstung", "Schnelle Befreiung", "Erfahrene Operatoren"]
+      },
+      "vast-in-sneeuw-auto": {
+        "title": "Auto Im Schnee Fest - Winterhilfe",
+        "subtitle": "Spezialisierter Winterhilfe-Service",
+        "description": "Auto im Schnee fest? Unsere Winterspezialisten kommen vor Ort mit der richtigen Ausrüstung, um Ihr Fahrzeug zu befreien.",
+        "features": ["Winterspezialisten", "Schneeketten-Service", "Sichere Befreiung", "24/7 Winterhilfe"]
+      },
+      "auto-vast-in-sneeuw": {
+        "title": "Auto Im Schnee Fest Service",
+        "subtitle": "Winterhilfe für festgefahrene Fahrzeuge",
+        "description": "Schnee und Eis können Ihr Auto zum Stillstand bringen. Unsere Winterspezialisten befreien Ihr Fahrzeug schnell und sicher.",
+        "features": ["Winterspezialisten", "Schneeketten-Service", "Sichere Befreiung", "24/7 Winterhilfe"]
+      },
+      "auto-vast-in-zand": {
+        "title": "Auto Im Sand Fest - Befreiungsdienst",
+        "subtitle": "Spezialisiert auf Sandbefreiung",
+        "description": "Auto im Sand fest? Unser spezialisierter Befreiungsdienst hat Erfahrung mit allen Sandtypen und befreit Ihr Fahrzeug professionell.",
+        "features": ["Sand-Spezialisten", "Alle Sandtypen", "Professionelle Befreiung", "Spezielle Techniken"]
+      },
+      "auto-in-de-sloot-vandaag": {
+        "title": "Auto Heute Im Graben - Notbergung",
+        "subtitle": "Notbergung aus Gräben",
+        "description": "Auto heute in den Graben geraten? Unser Notbergungsdienst kommt sofort vor Ort für professionelle Wasserbergung.",
+        "features": ["Notbergung", "Wasserbergungs-Expertise", "Sofort vor Ort", "Spezialisierte Kräne"]
+      },
+      "auto-belandt-in-sloot": {
+        "title": "Auto Landet Im Graben - Notbergung",
+        "subtitle": "Notbergung aus Wasserpartien",
+        "description": "Ist Ihr Auto in einen Graben geraten? Unser Notbergungsdienst hat die Expertise für sichere Bergung aus Wasserpartien.",
+        "features": ["Notbergung 24/7", "Wasserpartien-Expertise", "Sichere Bergung", "Spezialisierte Ausrüstung"]
+      },
+      "auto-in-sloot-vandaag": {
+        "title": "Auto Heute Im Graben - Sofortige Hilfe",
+        "subtitle": "Sofortige Hilfe bei Grabenbergung",
+        "description": "Heute Auto in Graben? Keine Panik! Unser sofortiger Hilfsdienst kommt vor Ort für professionelle und sichere Bergung.",
+        "features": ["Sofortige Hilfe", "Heute verfügbar", "Professionelle Bergung", "Graben-Spezialisten"]
+      },
+      "auto-in-de-sloot": {
+        "title": "Auto Im Graben - Bergung",
+        "subtitle": "Spezialisierte Bergung aus Gräben und Böschungen",
+        "description": "Auto in den Graben geraten? Unsere spezialisierten Bergungsteams haben die Expertise und Ausrüstung, um Ihr Fahrzeug sicher zu bergen.",
+        "features": ["Spezialisierte Kräne", "Wasserbergungs-Expertise", "Minimale Schäden", "Schnelle Reaktion"]
+      },
+      "auto-in-sloot": {
+        "title": "Auto Im Graben Bergung",
+        "subtitle": "Professionelle Bergung aus Wasser",
+        "description": "Spezialisierte Bergung von Fahrzeugen, die in Gräben oder andere Wasserpartien geraten sind. Sicher und professionell durchgeführt.",
+        "features": ["Wasserbergungs-Spezialist", "Kran- und Windenservice", "Umweltverantwortlich", "Sofortige Hilfe"]
+      },
+      "auto-in-de-greppel": {
+        "title": "Auto Im Graben - Bergungsdienst",
+        "subtitle": "Spezialisierte Grabenbergung",
+        "description": "Auto in den Graben geraten? Unser spezialisierter Bergungsdienst hat Erfahrung mit Graben- und Deichbergungen.",
+        "features": ["Graben-Spezialisten", "Deichbergungs-Erfahrung", "Sichere Techniken", "Minimale Schäden"]
+      },
+      "auto-in-de-berm": {
+        "title": "Auto Im Straßengraben - Bergungshilfe",
+        "subtitle": "Professionelle Straßengrabenbergung",
+        "description": "Auto in den Straßengraben geraten? Unsere Bergungshilfe kommt vor Ort für sichere und professionelle Bergung aus dem Straßengraben.",
+        "features": ["Straßengrabenbergungs-Expertise", "Verkehrssichere Bergung", "Schnelle Abwicklung", "Professionelles Team"]
+      },
+      "auto-vast-in-gras": {
+        "title": "Auto Im Gras Fest - Geländebergung",
+        "subtitle": "Spezialisierte Geländebergung",
+        "description": "Auto im Gras oder weichem Untergrund fest? Unsere Geländespezialisten befreien Ihr Fahrzeug ohne Schäden an Gras oder Fahrzeug.",
+        "features": ["Gelände-Spezialisten", "Grasfreundlich", "Weicher Untergrund", "Keine Geländeschäden"]
+      },
+      "car-stuck-in-the-mud": {
+        "title": "Auto Im Schlamm Fest - Bergungsservice",
+        "subtitle": "Professioneller Schlamm-Bergungsservice",
+        "description": "Auto im Schlamm fest? Unser professioneller Bergungsservice hat die Expertise und Ausrüstung, um Ihr Fahrzeug sicher zu befreien.",
+        "features": ["Professionelle Bergung", "Spezialisierte Ausrüstung", "Sichere Extraktion", "Keine Fahrzeugschäden"]
+      },
+      "accu-service-aan-huis": {
+        "title": "Batterie Service Zu Hause",
+        "subtitle": "Neue Batterie geliefert und montiert bei Ihnen zu Hause",
+        "description": "Leere Batterie? Kein Problem! Wir liefern und montieren eine neue Batterie bei Ihnen zu Hause. Qualitätsbatterien mit Garantie.",
+        "features": ["Service zu Hause", "Qualitätsbatterien", "Sofort montiert", "Garantie inbegriffen"]
+      },
+      "accu-auto-leeg": {
+        "title": "Leere Auto Batterie Service",
+        "subtitle": "Startprobleme? Wir helfen sofort",
+        "description": "Leere Batterie und Ihr Auto springt nicht mehr an? Unsere Mechaniker kommen vor Ort für Starthilfe oder Batteriewechsel.",
+        "features": ["Sofortige Starthilfe", "Neue Batterie verfügbar", "Montage vor Ort", "Alle Automarken"]
+      },
+      "auto-accu-leeg-wat-nu": {
+        "title": "Auto Batterie Leer Was Nun - Hilfe",
+        "subtitle": "Sofortige Hilfe bei leerer Batterie",
+        "description": "Auto Batterie leer und wissen nicht was nun? Wir helfen sofort mit Starthilfe oder liefern eine neue Batterie nach Hause.",
+        "features": ["Sofortige Hilfe", "Starthilfe-Service", "Neue Batterie-Lieferung", "Expertenberatung"]
+      },
+      "service-accu": {
+        "title": "Service Batterie Deutschland",
+        "subtitle": "Vollständiger Batterieservice für Ihr Auto",
+        "description": "Unser vollständiger Batterieservice umfasst das Testen, Ersetzen und Warten von Autobatterien. Professionell und zuverlässig.",
+        "features": ["Vollständiger Batterieservice", "Testen und Ersetzen", "Professionelle Wartung", "Alle Automarken"]
+      },
+      "accu-vervangen-aan-huis": {
+        "title": "Batterie Wechseln Zu Hause",
+        "subtitle": "Neue Batterie geliefert und montiert",
+        "description": "Brauchen Sie eine neue Batterie? Wir liefern und montieren diese bei Ihnen zu Hause. Qualitätsbatterien mit vollständiger Garantie.",
+        "features": ["Lieferung nach Hause", "Sofort montiert", "Garantie inbegriffen", "Alle Fahrzeugtypen"]
+      },
+      "accuservice": {
+        "title": "Batterieservice Deutschland",
+        "subtitle": "Kompletter Batterieservice für alle Fahrzeuge",
+        "description": "Unser kompletter Batterieservice bietet alles von Starthilfe bis zu neuen Batterien. Für alle Fahrzeugtypen mit professioneller Montage.",
+        "features": ["Kompletter Service", "Alle Fahrzeugtypen", "Professionelle Montage", "Qualitätsgarantie"]
+      },
+      "vervangen-accu-auto": {
+        "title": "Batterie Wechseln Auto Service",
+        "subtitle": "Professioneller Batteriewechsel",
+        "description": "Muss Ihre Autobatterie gewechselt werden? Unser Service sorgt für schnellen und professionellen Wechsel mit Qualitätsbatterien.",
+        "features": ["Schneller Wechsel", "Qualitätsbatterien", "Professionelle Montage", "Garantie-Service"]
+      },
+      "accu-vervangen-auto": {
+        "title": "Batterie Wechseln Auto",
+        "subtitle": "Auto Batterie wechseln durch Profis",
+        "description": "Lassen Sie Ihre Autobatterie von unseren Profis wechseln. Wir sorgen für die richtige Batterie und professionelle Montage.",
+        "features": ["Professioneller Wechsel", "Richtige Batteriewahl", "Experten-Montage", "Zuverlässiger Service"]
+      },
+      "auto-accu-vervangen-aan-huis": {
+        "title": "Auto Batterie Wechseln Zu Hause",
+        "subtitle": "Batteriewechsel bei Ihnen zu Hause",
+        "description": "Wir wechseln Ihre Autobatterie bei Ihnen zu Hause. Kein Aufwand mit der Werkstatt, wir kommen zu Ihnen.",
+        "features": ["Service zu Hause", "Kein Werkstattbesuch", "Sofort montiert", "Einfach und schnell"]
+      },
+      "accu-auto-vervangen": {
+        "title": "Batterie Auto Wechseln Service",
+        "subtitle": "Zuverlässiger Batteriewechsel",
+        "description": "Zuverlässiger Wechsel Ihrer Autobatterie durch erfahrene Mechaniker. Qualitätsbatterien zu scharfen Preisen.",
+        "features": ["Zuverlässiger Service", "Erfahrene Mechaniker", "Qualitätsbatterien", "Scharfe Preise"]
+      },
+      "accu-laten-vervangen-aan-huis": {
+        "title": "Batterie Wechseln Lassen Zu Hause",
+        "subtitle": "Lassen Sie Ihre Batterie zu Hause wechseln",
+        "description": "Lassen Sie Ihre Batterie bequem zu Hause wechseln. Unser mobiler Service kommt zu Ihnen für professionellen Wechsel.",
+        "features": ["Mobiler Service", "Wechsel zu Hause", "Professionell durchgeführt", "Keine Fahrzeit"]
+      },
+      "auto-accu-vervangen": {
+        "title": "Auto Batterie Wechseln",
+        "subtitle": "Schneller Auto Batteriewechsel",
+        "description": "Schneller und professioneller Wechsel Ihrer Autobatterie. Wir sorgen dafür, dass Sie schnell wieder unterwegs sind.",
+        "features": ["Schneller Wechsel", "Professionelle Durchführung", "Schnell wieder unterwegs", "Zuverlässiger Service"]
+      },
+      "accu-laten-vervangen": {
+        "title": "Batterie Wechseln Lassen",
+        "subtitle": "Professioneller Batteriewechsel-Service",
+        "description": "Lassen Sie Ihre Batterie professionell von unseren erfahrenen Mechanikern wechseln. Qualität und Service garantiert.",
+        "features": ["Professioneller Wechsel", "Erfahrene Mechaniker", "Qualität garantiert", "Service versichert"]
+      },
+      "default": {
+        "title": "Professioneller Service",
+        "subtitle": "Professioneller Service 24/7",
+        "description": "Brauchen Sie Hilfe? Unsere erfahrenen Profis stehen Ihnen 24/7 zur Verfügung.",
+        "features": ["24/7 Verfügbar", "Schnelle Reaktionszeit", "Professionelles Team", "Transparente Preise"]
+      }
+    }
 }
           

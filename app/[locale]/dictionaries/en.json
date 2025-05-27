@@ -1273,5 +1273,307 @@
       "description": "Do you need help? Share your exact location so our mechanics can find you as quickly as possible. This saves valuable time in emergency situations.",
       "imageAlt": "Share location for help"
     }
-  }
+  },
+    "service": {
+      "car-transport": {
+        "title": "Car Transport Service",
+        "subtitle": "Safe car transport throughout Europe",
+        "description": "Professional car transport for individuals and businesses. Your vehicle will be safely and insured transported to any desired destination.",
+        "features": ["Insured transport", "Throughout Europe", "For all vehicle types", "Tracking available"]
+      },
+      "auto-pech": {
+        "title": "Car Breakdown Service 24/7",
+        "subtitle": "Immediate help with car breakdowns, wherever you are",
+        "description": "When your car breaks down, we're here to help. Our experienced mechanics will quickly come to your location to get your vehicle running again.",
+        "features": ["24/7 available", "On-site within 30 minutes", "Certified mechanics", "Transparent pricing"]
+      },
+      "pechhulp": {
+        "title": "Roadside Assistance Service Netherlands",
+        "subtitle": "Fast help with car breakdowns throughout the Netherlands",
+        "description": "Our roadside assistance service is available 24/7. From small repairs to complete recovery, we help you get back on the road.",
+        "features": ["24/7 reachable", "Fast response time", "Experienced mechanics", "All of Netherlands"]
+      },
+      "sleepdienst-auto": {
+        "title": "Car Towing Service Netherlands",
+        "subtitle": "Professional towing service throughout the Netherlands",
+        "description": "Our modern tow trucks can safely transport any type of vehicle. From passenger cars to vans, we arrange the transport.",
+        "features": ["Modern tow trucks", "Insured transports", "All of Netherlands", "Fast service"]
+      },
+      "slepen-auto": {
+        "title": "Car Towing Service",
+        "subtitle": "Professional towing service 24/7",
+        "description": "When your car no longer runs, we provide safe transport to your desired destination. Modern tow trucks and experienced drivers.",
+        "features": ["Modern tow trucks", "Experienced drivers", "Insured transport", "All of Netherlands"]
+      },
+      "sleepbedrijf": {
+        "title": "Professional Towing Company",
+        "subtitle": "Your reliable partner for towing work",
+        "description": "As an experienced towing company, we are available day and night for all your towing needs. From passenger cars to trucks.",
+        "features": ["24/7 available", "All vehicle types", "Certified company", "Competitive prices"]
+      },
+      "auto-weg-laten-slepen": {
+        "title": "Have Car Towed Away",
+        "subtitle": "Quick and safe car towing",
+        "description": "Need your car towed? We provide professional handling and safe transport to the desired location.",
+        "features": ["Quick handling", "Safe transport", "Transparent costs", "Professional service"]
+      },
+      "sleepdienst": {
+        "title": "Towing Service 24/7",
+        "subtitle": "Reliable towing service day and night",
+        "description": "Our towing service is available 24 hours a day, 7 days a week for all your towing needs. Professional and reliable.",
+        "features": ["24/7 service", "Modern equipment", "Experienced drivers", "Fast response"]
+      },
+      "sleepwagen": {
+        "title": "Tow Truck Service",
+        "subtitle": "Modern tow trucks for every transport",
+        "description": "Our fleet of modern tow trucks can safely transport any type of vehicle. From small cars to large vans.",
+        "features": ["Modern fleet", "All vehicle types", "Safe transport", "Professional drivers"]
+      },
+      "auto-berging": {
+        "title": "Car Recovery Service",
+        "subtitle": "Professional car recovery after accidents",
+        "description": "After an accident, we ensure safe recovery of your vehicle. Our specialized recovery trucks can recover any type of car.",
+        "features": ["24/7 recovery service", "Specialized equipment", "Insured recovery", "Fast response time"]
+      },
+      "takelbedrijf": {
+        "title": "Recovery Company Netherlands",
+        "subtitle": "Professional recovery company for all situations",
+        "description": "Our recovery company specializes in recovering and towing vehicles in all circumstances. Experienced and reliable.",
+        "features": ["Specialized equipment", "Experienced operators", "All situations", "24/7 available"]
+      },
+      "takelwagen": {
+        "title": "Recovery Truck Service",
+        "subtitle": "Professional recovery trucks for heavy recovery",
+        "description": "Our recovery trucks are equipped for heavy recoveries and complex recovery situations. Professionally executed by experienced operators.",
+        "features": ["Heavy recovery capacity", "Experienced operators", "Specialized equipment", "Safe execution"]
+      },
+      "wat-te-doen-als-je-auto-vast-zit-in-de-modder": {
+        "title": "What To Do When Car Stuck In Mud",
+        "subtitle": "Direct help and advice for stuck vehicles",
+        "description": "Car stuck in the mud? We give you immediate advice and come on-site to professionally free your vehicle.",
+        "features": ["Direct advice", "Professional liberation", "Specialized equipment", "No vehicle damage"]
+      },
+      "auto-uit-modder-slepen": {
+        "title": "Car Recovery From Mud",
+        "subtitle": "Specialized in freeing stuck vehicles",
+        "description": "Is your car stuck in mud, sand or snow? Our specialized towing service has the right equipment to safely free your vehicle.",
+        "features": ["Specialized winches", "Experienced operators", "No vehicle damage", "All terrain types"]
+      },
+      "vast-in-modder-auto": {
+        "title": "Car Stuck In Mud - Direct Help",
+        "subtitle": "Fast help for stuck vehicles",
+        "description": "Is your car stuck in the mud? Our specialists come directly on-site to safely free your vehicle without damage.",
+        "features": ["Direct on-site", "Professional winches", "Safe liberation", "No vehicle damage"]
+      },
+      "auto-vast-in-modder": {
+        "title": "Help With Car Stuck In Mud",
+        "subtitle": "Direct help when you're stuck",
+        "description": "Stuck in muddy conditions? We help you out quickly and safely with our professional towing service.",
+        "features": ["Direct on-site", "Professional winches", "Safe liberation", "No vehicle damage"]
+      },
+      "auto-uit-de-modder-halen": {
+        "title": "Getting Car Out Of Mud",
+        "subtitle": "Professional liberation from mud",
+        "description": "Specialized in getting vehicles out of mud. With the right equipment and experience, we free your car safely.",
+        "features": ["Specialized techniques", "Safe liberation", "Minimal damage", "Fast service"]
+      },
+      "auto-vastgereden-in-modder": {
+        "title": "Car Stuck In Mud Service",
+        "subtitle": "Help for stuck vehicles",
+        "description": "Is your car stuck in the mud? Our experienced recovery team frees your vehicle professionally and safely.",
+        "features": ["Experienced recovery team", "Professional execution", "Safe liberation", "Directly available"]
+      },
+      "vast-in-de-modder": {
+        "title": "Stuck In Mud - Help Service",
+        "subtitle": "Direct help with mud problems",
+        "description": "Stuck in the mud with your vehicle? Our specialized help service comes directly on-site for professional liberation.",
+        "features": ["Direct help", "Specialized service", "Professional liberation", "Experienced team"]
+      },
+      "auto-zit-vast-in-modder": {
+        "title": "Car Stuck In Mud - Help",
+        "subtitle": "Immediate help when stuck",
+        "description": "Is your car stuck in the mud? Don't panic! Our professional recovery service frees your vehicle quickly and safely.",
+        "features": ["Immediate help", "Professional recovery", "Safe techniques", "Fast response"]
+      },
+      "hoe-krijg-je-een-auto-uit-de-modder": {
+        "title": "How To Get Car Out Of Mud",
+        "subtitle": "Expert advice and professional help",
+        "description": "Don't know how to get your car out of the mud? Our experts give advice and offer professional help for safe liberation.",
+        "features": ["Expert advice", "Professional techniques", "Safe methods", "Proven results"]
+      },
+      "vast-in-de-modder-met-auto": {
+        "title": "Stuck In Mud With Car",
+        "subtitle": "Specialized help for mud situations",
+        "description": "Stuck in the mud with your car? Our specialized help service has experience with all mud situations and frees you professionally.",
+        "features": ["Specialized help", "All mud situations", "Professional liberation", "Experienced team"]
+      },
+      "auto-in-de-modder": {
+        "title": "Car In Mud - Recovery Service",
+        "subtitle": "Professional recovery service for mud",
+        "description": "Car ended up in the mud? Our professional recovery service has the expertise to free your vehicle safely and without damage.",
+        "features": ["Professional recovery", "Mud expertise", "Safe liberation", "No damage"]
+      },
+      "auto-staat-vast-in-de-modder": {
+        "title": "Car Standing Stuck In Mud",
+        "subtitle": "Direct intervention for stuck car",
+        "description": "Is your car stuck in the mud? We intervene directly with professional equipment to free your vehicle.",
+        "features": ["Direct intervention", "Professional equipment", "Fast liberation", "Experienced operators"]
+      },
+      "vast-in-sneeuw-auto": {
+        "title": "Car Stuck In Snow - Winter Help",
+        "subtitle": "Specialized winter help service",
+        "description": "Car stuck in snow? Our winter specialists come on-site with the right equipment to free your vehicle.",
+        "features": ["Winter specialists", "Snow chains service", "Safe liberation", "24/7 winter help"]
+      },
+      "auto-vast-in-sneeuw": {
+        "title": "Car Stuck In Snow Service",
+        "subtitle": "Winter help for stuck vehicles",
+        "description": "Snow and ice can cause your car to get stuck. Our winter specialists free your vehicle quickly and safely.",
+        "features": ["Winter specialists", "Snow chains service", "Safe liberation", "24/7 winter help"]
+      },
+      "auto-vast-in-zand": {
+        "title": "Car Stuck In Sand - Liberation Service",
+        "subtitle": "Specialized in sand liberation",
+        "description": "Car stuck in sand? Our specialized liberation service has experience with all sand types and frees your vehicle professionally.",
+        "features": ["Sand specialists", "All sand types", "Professional liberation", "Special techniques"]
+      },
+      "auto-in-de-sloot-vandaag": {
+        "title": "Car In Ditch Today - Emergency Recovery",
+        "subtitle": "Emergency recovery from ditches",
+        "description": "Car ended up in ditch today? Our emergency recovery service comes directly on-site for professional water recovery.",
+        "features": ["Emergency recovery", "Water recovery expertise", "Direct on-site", "Specialized cranes"]
+      },
+      "auto-belandt-in-sloot": {
+        "title": "Car Ends Up In Ditch - Emergency Recovery",
+        "subtitle": "Emergency recovery from water bodies",
+        "description": "Has your car ended up in a ditch? Our emergency recovery service has the expertise for safe recovery from water bodies.",
+        "features": ["Emergency recovery 24/7", "Water body expertise", "Safe recovery", "Specialized equipment"]
+      },
+      "auto-in-sloot-vandaag": {
+        "title": "Car In Ditch Today - Direct Help",
+        "subtitle": "Direct help with ditch recovery",
+        "description": "Car in ditch today? Don't panic! Our direct help service comes on-site for professional and safe recovery.",
+        "features": ["Direct help", "Available today", "Professional recovery", "Ditch specialists"]
+      },
+      "auto-in-de-sloot": {
+        "title": "Car In Ditch - Recovery",
+        "subtitle": "Specialized recovery from ditches and trenches",
+        "description": "Car ended up in ditch? Our specialized recovery teams have the expertise and equipment to safely recover your vehicle.",
+        "features": ["Specialized cranes", "Water recovery expertise", "Minimal damage", "Fast response"]
+      },
+      "auto-in-sloot": {
+        "title": "Car In Ditch Recovery",
+        "subtitle": "Professional recovery from water",
+        "description": "Specialist recovery of vehicles that have ended up in ditches or other water bodies. Safely and professionally executed.",
+        "features": ["Water recovery specialist", "Crane and winch service", "Environmentally responsible", "Direct help"]
+      },
+      "auto-in-de-greppel": {
+        "title": "Car In Trench - Recovery Service",
+        "subtitle": "Specialist trench recovery",
+        "description": "Car ended up in trench? Our specialist recovery service has experience with trench and embankment recoveries.",
+        "features": ["Trench specialists", "Embankment recovery experience", "Safe techniques", "Minimal damage"]
+      },
+      "auto-in-de-berm": {
+        "title": "Car In Verge - Recovery Help",
+        "subtitle": "Professional verge recovery",
+        "description": "Car ended up in verge? Our recovery help comes on-site for safe and professional recovery from the roadside verge.",
+        "features": ["Verge recovery expertise", "Traffic-safe recovery", "Fast handling", "Professional team"]
+      },
+      "auto-vast-in-gras": {
+        "title": "Car Stuck In Grass - Terrain Recovery",
+        "subtitle": "Specialized terrain recovery",
+        "description": "Car stuck in grass or soft ground? Our terrain specialists free your vehicle without damage to grass or vehicle.",
+        "features": ["Terrain specialists", "Grass friendly", "Soft ground", "No terrain damage"]
+      },
+      "car-stuck-in-the-mud": {
+        "title": "Car Stuck In The Mud - Recovery Service",
+        "subtitle": "Professional mud recovery service",
+        "description": "Car stuck in the mud? Our professional recovery service has the expertise and equipment to safely free your vehicle.",
+        "features": ["Professional recovery", "Specialized equipment", "Safe extraction", "No vehicle damage"]
+      },
+      "accu-service-aan-huis": {
+        "title": "Battery Service At Home",
+        "subtitle": "New battery delivered and installed at your home",
+        "description": "Dead battery? No problem! We deliver and install a new battery at your home. Quality batteries with warranty.",
+        "features": ["At home service", "Quality batteries", "Directly installed", "Warranty included"]
+      },
+      "accu-auto-leeg": {
+        "title": "Dead Car Battery Service",
+        "subtitle": "Starting problems? We help directly",
+        "description": "Dead battery and your car won't start? Our mechanics come on-site for jump start or battery replacement.",
+        "features": ["Direct jump start", "New battery available", "On-site installation", "All car brands"]
+      },
+      "auto-accu-leeg-wat-nu": {
+        "title": "Car Battery Dead What Now - Help",
+        "subtitle": "Direct help with dead battery",
+        "description": "Car battery dead and don't know what now? We help directly with jump start or deliver a new battery at home.",
+        "features": ["Direct help", "Jump start service", "New battery delivery", "Expert advice"]
+      },
+      "service-accu": {
+        "title": "Battery Service Netherlands",
+        "subtitle": "Complete battery service for your car",
+        "description": "Our complete battery service includes testing, replacing and maintaining car batteries. Professional and reliable.",
+        "features": ["Complete battery service", "Testing and replacement", "Professional maintenance", "All car brands"]
+      },
+      "accu-vervangen-aan-huis": {
+        "title": "Battery Replacement At Home",
+        "subtitle": "New battery delivered and installed",
+        "description": "Need a new battery? We deliver and install it at your home. Quality batteries with full warranty.",
+        "features": ["Home delivery", "Directly installed", "Warranty included", "All vehicle types"]
+      },
+      "accuservice": {
+        "title": "Battery Service Netherlands",
+        "subtitle": "Complete battery service for all vehicles",
+        "description": "Our complete battery service offers everything from jump start to new batteries. For all vehicle types with professional installation.",
+        "features": ["Complete service", "All vehicle types", "Professional installation", "Quality guarantee"]
+      },
+      "vervangen-accu-auto": {
+        "title": "Replace Car Battery Service",
+        "subtitle": "Professional battery replacement",
+        "description": "Does your car battery need replacing? Our service ensures fast and professional replacement with quality batteries.",
+        "features": ["Fast replacement", "Quality batteries", "Professional installation", "Warranty service"]
+      },
+      "accu-vervangen-auto": {
+        "title": "Replace Car Battery",
+        "subtitle": "Car battery replacement by professionals",
+        "description": "Have your car battery replaced by our professionals. We ensure the right battery and professional installation.",
+        "features": ["Professional replacement", "Right battery choice", "Expert installation", "Reliable service"]
+      },
+      "auto-accu-vervangen-aan-huis": {
+        "title": "Car Battery Replacement At Home",
+        "subtitle": "Battery replacement at your home",
+        "description": "We replace your car battery at your home. No hassle with going to the garage, we come to you.",
+        "features": ["At home service", "No garage visit", "Directly installed", "Easy and fast"]
+      },
+      "accu-auto-vervangen": {
+        "title": "Car Battery Replacement Service",
+        "subtitle": "Reliable battery replacement",
+        "description": "Reliable replacement of your car battery by experienced mechanics. Quality batteries at competitive prices.",
+        "features": ["Reliable service", "Experienced mechanics", "Quality batteries", "Competitive prices"]
+      },
+      "accu-laten-vervangen-aan-huis": {
+        "title": "Have Battery Replaced At Home",
+        "subtitle": "Have your battery replaced at home",
+        "description": "Have your battery easily replaced at home. Our mobile service comes to you for professional replacement.",
+        "features": ["Mobile service", "At home replacement", "Professionally executed", "No travel time"]
+      },
+      "auto-accu-vervangen": {
+        "title": "Car Battery Replacement",
+        "subtitle": "Fast car battery replacement",
+        "description": "Fast and professional replacement of your car battery. We ensure you can get back on the road quickly.",
+        "features": ["Fast replacement", "Professional execution", "Quickly back on road", "Reliable service"]
+      },
+      "accu-laten-vervangen": {
+        "title": "Have Battery Replaced",
+        "subtitle": "Professional battery replacement service",
+        "description": "Have your battery professionally replaced by our experienced mechanics. Quality and service guaranteed.",
+        "features": ["Professional replacement", "Experienced mechanics", "Quality guaranteed", "Service assured"]
+      },
+      "default": {
+        "title": "Mobile Help Service",
+        "subtitle": "Professional assistance service 24/7",
+        "description": "Our experienced professionals are available 24/7 with professional assistance.",
+        "features": ["24/7 Available", "Fast response", "Professional team", "Transparent pricing"]
+      }
+    }
 }

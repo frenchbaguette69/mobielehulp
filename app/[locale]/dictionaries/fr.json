@@ -1273,5 +1273,307 @@
       "description": "Avez-vous besoin d'aide ? Partagez votre localisation exacte pour que nos mécaniciens puissent vous trouver le plus rapidement possible. Cela fait gagner un temps précieux en situations d'urgence.",
       "imageAlt": "Partager la localisation pour aide"
     }
-  }
+  },
+    "service": {
+      "car-transport": {
+        "title": "Service Transport Auto",
+        "subtitle": "Transport automobile sécurisé dans toute l'Europe",
+        "description": "Transport automobile professionnel pour particuliers et entreprises. Votre véhicule est transporté en sécurité et assuré vers toute destination souhaitée.",
+        "features": ["Transport assuré", "Dans toute l'Europe", "Pour tous types de véhicules", "Suivi possible"]
+      },
+      "auto-pech": {
+        "title": "Service Panne Auto 24/7",
+        "subtitle": "Aide immédiate en cas de panne auto, où que vous soyez",
+        "description": "Quand votre voiture tombe en panne, nous sommes là pour vous aider. Nos mécaniciens expérimentés arrivent rapidement sur place pour remettre votre véhicule en marche.",
+        "features": ["24/7 disponible", "Sur place en 30 minutes", "Mécaniciens certifiés", "Prix transparents"]
+      },
+      "pechhulp": {
+        "title": "Service Dépannage France",
+        "subtitle": "Aide rapide en cas de panne auto partout en France",
+        "description": "Notre service de dépannage est disponible 24/7 pour vous. Des petites réparations aux dépannages complets, nous vous aidons.",
+        "features": ["24/7 joignable", "Temps de réponse rapide", "Mécaniciens expérimentés", "Toute la France"]
+      },
+      "sleepdienst-auto": {
+        "title": "Service Remorquage Auto France",
+        "subtitle": "Service de remorquage professionnel dans toute la France",
+        "description": "Nos dépanneuses modernes peuvent transporter tout type de véhicule en sécurité. De la voiture particulière au fourgon, nous organisons le transport.",
+        "features": ["Dépanneuses modernes", "Transports assurés", "Toute la France", "Service rapide"]
+      },
+      "slepen-auto": {
+        "title": "Service Remorquage Auto",
+        "subtitle": "Service de remorquage professionnel 24/7",
+        "description": "Quand votre voiture ne roule plus, nous assurons le transport sécurisé vers votre destination souhaitée. Dépanneuses modernes et chauffeurs expérimentés.",
+        "features": ["Dépanneuses modernes", "Chauffeurs expérimentés", "Transport assuré", "Toute la France"]
+      },
+      "sleepbedrijf": {
+        "title": "Entreprise de Remorquage Professionnelle",
+        "subtitle": "Votre partenaire fiable pour le remorquage",
+        "description": "En tant qu'entreprise de remorquage expérimentée, nous sommes disponibles jour et nuit pour tous vos besoins de remorquage. De la voiture au camion.",
+        "features": ["24/7 disponible", "Tous types de véhicules", "Entreprise certifiée", "Prix compétitifs"]
+      },
+      "auto-weg-laten-slepen": {
+        "title": "Faire Remorquer Voiture",
+        "subtitle": "Faire remorquer votre voiture rapidement et en sécurité",
+        "description": "Votre voiture doit être remorquée ? Nous assurons une prise en charge professionnelle et un transport sécurisé vers le lieu souhaité.",
+        "features": ["Prise en charge rapide", "Transport sécurisé", "Coûts transparents", "Service professionnel"]
+      },
+      "sleepdienst": {
+        "title": "Service Remorquage 24/7",
+        "subtitle": "Service de remorquage fiable jour et nuit",
+        "description": "Notre service de remorquage est disponible 24 heures sur 24, 7 jours sur 7 pour tous vos besoins de remorquage. Professionnel et fiable.",
+        "features": ["Service 24/7", "Équipement moderne", "Chauffeurs expérimentés", "Réponse rapide"]
+      },
+      "sleepwagen": {
+        "title": "Service Dépanneuse",
+        "subtitle": "Dépanneuses modernes pour tout transport",
+        "description": "Notre flotte de dépanneuses modernes peut transporter tout type de véhicule en sécurité. De la petite voiture aux gros fourgons.",
+        "features": ["Flotte moderne", "Tous types de véhicules", "Transport sécurisé", "Chauffeurs professionnels"]
+      },
+      "auto-berging": {
+        "title": "Service Récupération Auto",
+        "subtitle": "Récupération automobile professionnelle après accidents",
+        "description": "Après un accident, nous assurons la récupération sécurisée de votre véhicule. Nos véhicules de récupération spécialisés peuvent récupérer tout type d'auto.",
+        "features": ["Service récupération 24/7", "Équipement spécialisé", "Récupération assurée", "Temps de réponse rapide"]
+      },
+      "takelbedrijf": {
+        "title": "Entreprise de Dépannage France",
+        "subtitle": "Entreprise de dépannage professionnelle pour toutes situations",
+        "description": "Notre entreprise de dépannage est spécialisée dans la récupération et le remorquage de véhicules dans toutes les circonstances. Expérimenté et fiable.",
+        "features": ["Équipement spécialisé", "Opérateurs expérimentés", "Toutes situations", "24/7 disponible"]
+      },
+      "takelwagen": {
+        "title": "Service Véhicule de Dépannage",
+        "subtitle": "Véhicules de dépannage professionnels pour récupération lourde",
+        "description": "Nos véhicules de dépannage sont équipés pour les récupérations lourdes et les situations de dépannage complexes. Exécuté professionnellement par des opérateurs expérimentés.",
+        "features": ["Capacité de dépannage lourd", "Opérateurs expérimentés", "Équipement spécialisé", "Exécution sécurisée"]
+      },
+      "wat-te-doen-als-je-auto-vast-zit-in-de-modder": {
+        "title": "Que Faire Quand Voiture Coincée Dans Boue",
+        "subtitle": "Aide immédiate et conseils pour véhicules enlisés",
+        "description": "Voiture enlisée dans la boue ? Nous vous donnons des conseils immédiats et venons sur place pour libérer votre véhicule professionnellement.",
+        "features": ["Conseils immédiats", "Libération professionnelle", "Équipement spécialisé", "Aucun dommage véhicule"]
+      },
+      "auto-uit-modder-slepen": {
+        "title": "Sortir Auto de la Boue",
+        "subtitle": "Spécialisé dans la libération de véhicules enlisés",
+        "description": "Votre voiture est coincée dans la boue, le sable ou la neige ? Notre service de remorquage spécialisé a le bon équipement pour libérer votre véhicule en sécurité.",
+        "features": ["Treuils spécialisés", "Opérateurs expérimentés", "Aucun dommage au véhicule", "Tous types de terrain"]
+      },
+      "vast-in-modder-auto": {
+        "title": "Auto Coincée Dans Boue - Aide Immédiate",
+        "subtitle": "Aide rapide pour véhicules enlisés",
+        "description": "Votre voiture est coincée dans la boue ? Nos spécialistes viennent immédiatement sur place pour libérer votre véhicule en sécurité sans dommages.",
+        "features": ["Immédiatement sur place", "Treuils professionnels", "Libération sécurisée", "Aucun dommage véhicule"]
+      },
+      "auto-vast-in-modder": {
+        "title": "Aide Pour Auto Coincée Dans Boue",
+        "subtitle": "Aide immédiate quand vous êtes enlisé",
+        "description": "Enlisé dans des conditions boueuses ? Nous vous aidons rapidement et en sécurité avec notre service de remorquage professionnel.",
+        "features": ["Immédiatement sur place", "Treuils professionnels", "Libération sécurisée", "Aucun dommage véhicule"]
+      },
+      "auto-uit-de-modder-halen": {
+        "title": "Sortir Auto De La Boue",
+        "subtitle": "Libération professionnelle de la boue",
+        "description": "Spécialisé dans l'extraction de véhicules de la boue. Avec le bon équipement et l'expérience, nous libérons votre voiture en sécurité.",
+        "features": ["Techniques spécialisées", "Libération sécurisée", "Dommages minimaux", "Service rapide"]
+      },
+      "auto-vastgereden-in-modder": {
+        "title": "Auto Enlisée Dans Boue Service",
+        "subtitle": "Aide pour véhicules enlisés",
+        "description": "Votre voiture est enlisée dans la boue ? Notre équipe de récupération expérimentée libère votre véhicule professionnellement et en sécurité.",
+        "features": ["Équipe récupération expérimentée", "Exécution professionnelle", "Libération sécurisée", "Immédiatement disponible"]
+      },
+      "vast-in-de-modder": {
+        "title": "Coincé Dans La Boue - Service d'Aide",
+        "subtitle": "Aide immédiate pour problèmes de boue",
+        "description": "Vous êtes coincé dans la boue avec votre véhicule ? Notre service d'aide spécialisé vient immédiatement sur place pour une libération professionnelle.",
+        "features": ["Aide immédiate", "Service spécialisé", "Libération professionnelle", "Équipe expérimentée"]
+      },
+      "auto-zit-vast-in-modder": {
+        "title": "Auto Coincée Dans Boue - Aide",
+        "subtitle": "Aide immédiate en cas d'enlisement",
+        "description": "Votre voiture est coincée dans la boue ? Pas de panique ! Notre service de récupération professionnel libère votre véhicule rapidement et en sécurité.",
+        "features": ["Aide immédiate", "Récupération professionnelle", "Techniques sécurisées", "Réponse rapide"]
+      },
+      "hoe-krijg-je-een-auto-uit-de-modder": {
+        "title": "Comment Sortir Une Voiture De La Boue",
+        "subtitle": "Conseils d'experts et aide professionnelle",
+        "description": "Vous ne savez pas comment sortir votre voiture de la boue ? Nos experts donnent des conseils et offrent une aide professionnelle pour une libération sécurisée.",
+        "features": ["Conseils d'experts", "Techniques professionnelles", "Méthodes sécurisées", "Résultats prouvés"]
+      },
+      "vast-in-de-modder-met-auto": {
+        "title": "Coincé Dans La Boue Avec Auto",
+        "subtitle": "Aide spécialisée pour situations de boue",
+        "description": "Avec votre voiture coincée dans la boue ? Notre service d'aide spécialisé a de l'expérience avec toutes les situations de boue et vous libère professionnellement.",
+        "features": ["Aide spécialisée", "Toutes situations de boue", "Libération professionnelle", "Équipe expérimentée"]
+      },
+      "auto-in-de-modder": {
+        "title": "Auto Dans La Boue - Service Récupération",
+        "subtitle": "Service de récupération professionnel pour boue",
+        "description": "Voiture tombée dans la boue ? Notre service de récupération professionnel a l'expertise pour libérer votre véhicule en sécurité et sans dommages.",
+        "features": ["Récupération professionnelle", "Expertise boue", "Libération sécurisée", "Aucun dommage"]
+      },
+      "auto-staat-vast-in-de-modder": {
+        "title": "Auto Immobilisée Dans La Boue",
+        "subtitle": "Intervention immédiate pour auto immobilisée",
+        "description": "Votre voiture est immobilisée dans la boue ? Nous intervenons immédiatement avec un équipement professionnel pour libérer votre véhicule.",
+        "features": ["Intervention immédiate", "Équipement professionnel", "Libération rapide", "Opérateurs expérimentés"]
+      },
+      "vast-in-sneeuw-auto": {
+        "title": "Auto Coincée Dans Neige - Aide Hivernale",
+        "subtitle": "Service d'aide hivernale spécialisé",
+        "description": "Voiture coincée dans la neige ? Nos spécialistes hivernaux viennent sur place avec le bon équipement pour libérer votre véhicule.",
+        "features": ["Spécialistes hivernaux", "Service chaînes neige", "Libération sécurisée", "24/7 aide hivernale"]
+      },
+      "auto-vast-in-sneeuw": {
+        "title": "Auto Coincée Dans Neige Service",
+        "subtitle": "Aide hivernale pour véhicules enlisés",
+        "description": "La neige et la glace peuvent immobiliser votre voiture. Nos spécialistes hivernaux libèrent votre véhicule rapidement et en sécurité.",
+        "features": ["Spécialistes hivernaux", "Service chaînes neige", "Libération sécurisée", "24/7 aide hivernale"]
+      },
+      "auto-vast-in-zand": {
+        "title": "Auto Coincée Dans Sable - Service Libération",
+        "subtitle": "Spécialisé dans la libération du sable",
+        "description": "Voiture coincée dans le sable ? Notre service de libération spécialisé a de l'expérience avec tous types de sable et libère votre véhicule professionnellement.",
+        "features": ["Spécialistes sable", "Tous types de sable", "Libération professionnelle", "Techniques spéciales"]
+      },
+      "auto-in-de-sloot-vandaag": {
+        "title": "Auto Dans Fossé Aujourd'hui - Récupération Urgente",
+        "subtitle": "Récupération urgente des fossés",
+        "description": "Voiture tombée dans le fossé aujourd'hui ? Notre service de récupération urgente vient immédiatement sur place pour une récupération aquatique professionnelle.",
+        "features": ["Récupération urgente", "Expertise récupération aquatique", "Immédiatement sur place", "Grues spécialisées"]
+      },
+      "auto-belandt-in-sloot": {
+        "title": "Auto Tombe Dans Fossé - Récupération d'Urgence",
+        "subtitle": "Récupération d'urgence des plans d'eau",
+        "description": "Votre voiture est tombée dans un fossé ? Notre service de récupération d'urgence a l'expertise pour une récupération sécurisée des plans d'eau.",
+        "features": ["Récupération urgence 24/7", "Expertise plans d'eau", "Récupération sécurisée", "Équipement spécialisé"]
+      },
+      "auto-in-sloot-vandaag": {
+        "title": "Auto Dans Fossé Aujourd'hui - Aide Immédiate",
+        "subtitle": "Aide immédiate pour récupération de fossé",
+        "description": "Voiture dans fossé aujourd'hui ? Pas de panique ! Notre service d'aide immédiate vient sur place pour une récupération professionnelle et sécurisée.",
+        "features": ["Aide immédiate", "Disponible aujourd'hui", "Récupération professionnelle", "Spécialistes fossé"]
+      },
+      "auto-in-de-sloot": {
+        "title": "Auto Dans Le Fossé - Récupération",
+        "subtitle": "Récupération spécialisée des fossés et talus",
+        "description": "Voiture tombée dans le fossé ? Nos équipes de récupération spécialisées ont l'expertise et l'équipement pour récupérer votre véhicule en sécurité.",
+        "features": ["Grues spécialisées", "Expertise récupération aquatique", "Dommages minimaux", "Réponse rapide"]
+      },
+      "auto-in-sloot": {
+        "title": "Auto Dans Fossé Récupération",
+        "subtitle": "Récupération professionnelle de l'eau",
+        "description": "Récupération spécialisée de véhicules tombés dans des fossés ou autres plans d'eau. Exécutée en sécurité et professionnellement.",
+        "features": ["Spécialiste récupération aquatique", "Service grue et treuil", "Respectueux environnement", "Aide immédiate"]
+      },
+      "auto-in-de-greppel": {
+        "title": "Auto Dans Le Fossé - Service Récupération",
+        "subtitle": "Récupération spécialisée de fossé",
+        "description": "Voiture tombée dans le fossé ? Notre service de récupération spécialisé a de l'expérience avec les récupérations de fossés et digues.",
+        "features": ["Spécialistes fossé", "Expérience récupération digue", "Techniques sécurisées", "Dommages minimaux"]
+      },
+      "auto-in-de-berm": {
+        "title": "Auto Dans Le Talus - Aide Récupération",
+        "subtitle": "Récupération professionnelle de talus",
+        "description": "Voiture tombée dans le talus ? Notre aide récupération vient sur place pour une récupération sécurisée et professionnelle du talus routier.",
+        "features": ["Expertise récupération talus", "Récupération sécurisée circulation", "Traitement rapide", "Équipe professionnelle"]
+      },
+      "auto-vast-in-gras": {
+        "title": "Auto Coincée Dans Herbe - Récupération Terrain",
+        "subtitle": "Récupération terrain spécialisée",
+        "description": "Voiture coincée dans l'herbe ou sol mou ? Nos spécialistes terrain libèrent votre véhicule sans dommages à l'herbe ou au véhicule.",
+        "features": ["Spécialistes terrain", "Respectueux herbe", "Sol mou", "Aucun dommage terrain"]
+      },
+      "car-stuck-in-the-mud": {
+        "title": "Voiture Coincée Dans Boue - Service Récupération",
+        "subtitle": "Service récupération boue professionnel",
+        "description": "Voiture coincée dans la boue ? Notre service de récupération professionnel a l'expertise et l'équipement pour libérer votre véhicule en sécurité.",
+        "features": ["Récupération professionnelle", "Équipement spécialisé", "Extraction sécurisée", "Aucun dommage véhicule"]
+      },
+      "accu-service-aan-huis": {
+        "title": "Service Batterie À Domicile",
+        "subtitle": "Nouvelle batterie livrée et montée chez vous",
+        "description": "Batterie vide ? Pas de problème ! Nous livrons et montons une nouvelle batterie chez vous. Batteries de qualité avec garantie.",
+        "features": ["Service à domicile", "Batteries de qualité", "Monté directement", "Garantie incluse"]
+      },
+      "accu-auto-leeg": {
+        "title": "Service Batterie Auto Vide",
+        "subtitle": "Problèmes de démarrage ? Nous aidons immédiatement",
+        "description": "Batterie vide et votre voiture ne démarre plus ? Nos mécaniciens viennent sur place pour aide au démarrage ou remplacement batterie.",
+        "features": ["Aide démarrage immédiate", "Nouvelle batterie disponible", "Montage sur place", "Toutes marques auto"]
+      },
+      "auto-accu-leeg-wat-nu": {
+        "title": "Batterie Auto Vide Que Faire - Aide",
+        "subtitle": "Aide immédiate pour batterie vide",
+        "description": "Batterie auto vide et ne savez que faire ? Nous aidons immédiatement avec aide démarrage ou livrons nouvelle batterie à domicile.",
+        "features": ["Aide immédiate", "Service aide démarrage", "Livraison nouvelle batterie", "Conseils experts"]
+      },
+      "service-accu": {
+        "title": "Service Batterie France",
+        "subtitle": "Service batterie complet pour votre auto",
+        "description": "Notre service batterie complet comprend le test, remplacement et entretien des batteries auto. Professionnel et fiable.",
+        "features": ["Service batterie complet", "Test et remplacement", "Entretien professionnel", "Toutes marques auto"]
+      },
+      "accu-vervangen-aan-huis": {
+        "title": "Remplacer Batterie À Domicile",
+        "subtitle": "Nouvelle batterie livrée et montée",
+        "description": "Avez-vous besoin d'une nouvelle batterie ? Nous la livrons et montons chez vous. Batteries de qualité avec garantie complète.",
+        "features": ["Livraison à domicile", "Monté directement", "Garantie incluse", "Tous types véhicules"]
+      },
+      "accuservice": {
+        "title": "Service Batterie France",
+        "subtitle": "Service batterie complet pour tous véhicules",
+        "description": "Notre service batterie complet offre tout de l'aide démarrage aux nouvelles batteries. Pour tous types de véhicules avec montage professionnel.",
+        "features": ["Service complet", "Tous types véhicules", "Montage professionnel", "Garantie qualité"]
+      },
+      "vervangen-accu-auto": {
+        "title": "Remplacer Batterie Auto Service",
+        "subtitle": "Remplacement batterie professionnel",
+        "description": "Votre batterie auto doit être remplacée ? Notre service assure un remplacement rapide et professionnel avec batteries de qualité.",
+        "features": ["Remplacement rapide", "Batteries de qualité", "Montage professionnel", "Service garantie"]
+      },
+      "accu-vervangen-auto": {
+        "title": "Remplacer Batterie Auto",
+        "subtitle": "Batterie auto remplacée par professionnels",
+        "description": "Faites remplacer votre batterie auto par nos professionnels. Nous nous occupons de la bonne batterie et du montage professionnel.",
+        "features": ["Remplacement professionnel", "Bon choix batterie", "Montage expert", "Service fiable"]
+      },
+      "auto-accu-vervangen-aan-huis": {
+        "title": "Remplacer Batterie Auto À Domicile",
+        "subtitle": "Remplacement batterie chez vous",
+        "description": "Nous remplaçons votre batterie auto chez vous. Pas d'embêtement avec le garage, nous venons chez vous.",
+        "features": ["Service à domicile", "Pas de visite garage", "Monté directement", "Facile et rapide"]
+      },
+      "accu-auto-vervangen": {
+        "title": "Service Remplacer Batterie Auto",
+        "subtitle": "Remplacement batterie fiable",
+        "description": "Remplacement fiable de votre batterie auto par mécaniciens expérimentés. Batteries de qualité à prix serrés.",
+        "features": ["Service fiable", "Mécaniciens expérimentés", "Batteries de qualité", "Prix serrés"]
+      },
+      "accu-laten-vervangen-aan-huis": {
+        "title": "Faire Remplacer Batterie À Domicile",
+        "subtitle": "Faites remplacer votre batterie à la maison",
+        "description": "Faites remplacer votre batterie facilement à domicile. Notre service mobile vient chez vous pour un remplacement professionnel.",
+        "features": ["Service mobile", "Remplacement à domicile", "Exécuté professionnellement", "Pas de temps trajet"]
+      },
+      "auto-accu-vervangen": {
+        "title": "Remplacer Batterie Auto",
+        "subtitle": "Remplacement batterie auto rapide",
+        "description": "Remplacement rapide et professionnel de votre batterie auto. Nous nous assurons que vous repartiez rapidement.",
+        "features": ["Remplacement rapide", "Exécution professionnelle", "Rapidement sur route", "Service fiable"]
+      },
+      "accu-laten-vervangen": {
+        "title": "Faire Remplacer Batterie",
+        "subtitle": "Service remplacement batterie professionnel",
+        "description": "Faites remplacer votre batterie professionnellement par nos mécaniciens expérimentés. Qualité et service garantis.",
+        "features": ["Remplacement professionnel", "Mécaniciens expérimentés", "Qualité garantie", "Service assuré"]
+      },
+      "default": {
+        "title": "Service Professionnel",
+        "subtitle": "Service professionnel 24/7",
+        "description": "Avez-vous besoin d'aide ? Nos professionnels expérimentés sont disponibles 24/7 pour vous.",
+        "features": ["24/7 Disponible", "Temps de réponse rapide", "Équipe professionnelle", "Prix transparents"]
+      }
+    }
 }
