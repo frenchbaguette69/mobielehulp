@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { MapPin, CheckCircle } from "lucide-react";
 
 export default function LocationButton({
   dict,
@@ -53,27 +54,59 @@ export default function LocationButton({
   };
 
   return (
-    <div className="flex flex-col space-y-3 pt-4">
-      {!whatsappUrl ? (
-        <button
-  onClick={handleSendLocation}
-  disabled={loading}
-  className="w-max  bg-[#c8eb67] text-black font-bold text-lg py-4 px-8 rounded-full flex  transition cursor-pointer"
->
-  📍 {loading ? dict.loading : dict.sendLocation}
-</button>
-      ) : (
-        <button
-  onClick={handleOpenWhatsApp}
-  className="w-max  bg-[#c8eb67]  text-black font-bold text-lg py-4 px-8 rounded-full flex  transition cursor-pointer"
->
-  ✅ {dict.confirmSend}
-</button>
-
-      )}
-      {error && (
-        <p className="text-sm text-red-600 text-center max-w-xs">{error}</p>
-      )}
-    </div>
-  );
+      // <div className="flex flex-col space-y-3">
+      //   {!whatsappUrl ? (
+      //     <button
+      //       onClick={handleSendLocation}
+      //       disabled={loading}
+      //       className="w-full max-w-xs sm:w-auto inline-flex items-center justify-between rounded-full bg-[#c8eb67] text-black border border-gray-300 hover:shadow-md px-6 py-3 font-medium transition-all group"
+      //     >
+      //       <span className="mr-2">{loading ? dict.loading : dict.sendLocation}</span>
+      //       <div className="w-8 h-8 rounded-full bg-white text-black flex items-center justify-center transition-transform group-hover:translate-x-1">
+      //         <MapPin className="w-4 h-4" />
+      //       </div>
+      //     </button>
+      //   ) : (
+      //     <button
+      //       onClick={handleOpenWhatsApp}
+      //       className="w-full max-w-xs sm:w-auto inline-flex items-center justify-between rounded-full bg-[#c8eb67] text-black border border-gray-300 hover:shadow-md px-6 py-3 font-medium transition-all group"
+      //     >
+      //       <span className="mr-2">{dict.confirmSend}</span>
+      //       <div className="w-8 h-8 rounded-full bg-white text-black flex items-center justify-center transition-transform group-hover:translate-x-1">
+      //         <CheckCircle className="w-4 h-4" />
+      //       </div>
+      //     </button>
+      //   )}
+      //   {error && (
+      //     <p className="text-sm text-red-600 text-center max-w-xs">{error}</p>
+      //   )}
+      // </div>
+      <div className="flex flex-col space-y-3">
+        {!whatsappUrl ? (
+          <button
+            onClick={handleSendLocation}
+            disabled={loading}
+            className="w-full max-w-xs sm:w-auto inline-flex items-center justify-between rounded-full bg-[#c8eb67] text-black border border-gray-300 hover:shadow-md px-6 py-3 font-medium transition-all group"
+          >
+            <span className="mr-2">{loading ? dict.loading : dict.sendLocation}</span>
+            <div className="w-8 h-8 rounded-full bg-black text-white flex items-center justify-center transition-transform group-hover:translate-x-1">
+              <MapPin className="w-4 h-4" />
+            </div>
+          </button>
+        ) : (
+          <button
+            onClick={handleOpenWhatsApp}
+            className="w-full max-w-xs sm:w-auto inline-flex items-center justify-between rounded-full bg-[#c8eb67] text-black border border-gray-300 hover:shadow-md px-6 py-3 font-medium transition-all group"
+          >
+            <span className="mr-2">{dict.confirmSend}</span>
+            <div className="w-8 h-8 rounded-full bg-black text-white flex items-center justify-center transition-transform group-hover:translate-x-1">
+              <CheckCircle className="w-4 h-4" />
+            </div>
+          </button>
+        )}
+        {error && (
+          <p className="text-sm text-red-600 text-center max-w-xs">{error}</p>
+        )}
+      </div>
+    );
 }
