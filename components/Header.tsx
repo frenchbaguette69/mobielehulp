@@ -21,7 +21,7 @@ export default function Header({ locale, dict }: { locale: string; dict: any }) 
           <Link href="/">
             <div className="flex items-center gap-3">
               <Image
-                src="/Mobielehulp.png"
+                src="/logo.png"
                 alt="Mobiele Hulp Logo"
                 width={150}
                 height={50}
