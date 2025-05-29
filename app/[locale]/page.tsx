@@ -46,7 +46,7 @@ export default async function HomePage({
       <section
         className="relative text-white py-24 overflow-hidden flex items-center"
         style={{
-          backgroundImage: "url(/herobgcar.jpg)",
+          backgroundImage: "url(/blog-1.jpg)",
           backgroundSize: "cover",
           backgroundPosition: "center",
           height: "90vh",
