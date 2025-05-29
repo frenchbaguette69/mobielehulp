@@ -6,6 +6,7 @@ import Header from "@/components/Header"
 import { getDictionary } from "./dictionaries"
 import { ArrowRight, Phone } from "lucide-react"
 import Link from "next/link"
+import { CookieMelding } from "@/components/cookie"
 
 const inter = Inter({ subsets: ["latin"] })
 
@@ -60,6 +61,7 @@ export default async function LocaleLayout({
       </noscript>
       
       <div className={inter.className} lang={locale}>
+        <CookieMelding />
         <Header locale={locale} dict={dict} />
         {children}
         <footer className="bg-black text-white py-16">
