@@ -177,6 +177,20 @@
           "button": "Lees meer",
           "image": "/services/6.png",
           "href": "/diensten/autoberging-247"
+        },
+        {
+          "title": "Verkeerde brandstof getankt",
+          "description": "Verkeerde brandstof getankt? Geen paniek! Wij helpen direct met professionele tankreiniging en brandstofvervanging. Benzine in diesel of andersom - wij lossen het op.",
+          "button": "Lees meer",
+          "image": "/services/7.jpg",
+          "href": "/diensten/verkeerde-brandstof-getanked"
+        },
+        {
+          "title": "Sleutels vergeten in de auto",
+          "description": "Sleutels vergeten in de auto? Onze specialisten openen uw auto veilig en zonder schade. Professionele auto-opening met jarenlange ervaring.",
+          "button": "Lees meer",
+          "image": "/services/8.jpg",
+          "href": "/diensten/sleutels-vergeten-in-de-auto"
         }
       ]
     },
@@ -1039,6 +1053,268 @@
       "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
       "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
     }
+  }
+},
+"verkeerde_brandstof": {
+  "seo": {
+    "title": "Verkeerde Brandstof Getankt - 24/7 Snelle Hulp | Mobiele Hulp",
+    "description": "Verkeerde brandstof getankt? Wij helpen direct! Professionele tankreiniging, benzine in diesel of andersom. 24/7 bereikbaar voor spoedgevallen.",
+    "keywords": "verkeerde brandstof, benzine in diesel, diesel in benzine, tankreiniging, brandstof hulp, 24/7 service, verkeerd getankt",
+    "imageAlt": "Verkeerde brandstof hulp service"
+  },
+  "hero": {
+    "badge": "Brandstof Service",
+    "title": {
+      "part1": "Verkeerde Brandstof",
+      "part2": "Getankt?"
+    },
+    "subtitle": "Geen paniek! Onze specialisten helpen je direct met professionele tankreiniging en brandstofvervanging. Benzine in diesel of andersom - wij lossen het op.",
+    "cta": "Bel Direct: 085-250 29 28",
+    "whatsapp": "WhatsApp Hulp",
+    "phone": "0852502928"
+  },
+  "features": {
+    "title": "Waarom Onze Brandstof Service?",
+    "subtitle": "Met professionele apparatuur en jarenlange ervaring zorgen wij voor snelle en veilige tankreiniging. Van diagnose tot complete brandstofvervanging.",
+    "items": [
+      {
+        "title": "Snelle Hulp",
+        "description": "Binnen 30 minuten ter plaatse voor spoedgevallen. Onze brandstof specialisten zijn 24/7 bereikbaar."
+      },
+      {
+        "title": "Veilige Reiniging",
+        "description": "Professionele tankreiniging zonder schade aan uw motor. Wij gebruiken gespecialiseerde apparatuur."
+      },
+      {
+        "title": "Alle Brandstoftypen",
+        "description": "Benzine in diesel, diesel in benzine, AdBlue problemen - wij lossen alle brandstof fouten op."
+      },
+      {
+        "title": "24/7 Bereikbaar",
+        "description": "Dag en nacht beschikbaar voor brandstof noodgevallen. Ook in weekenden en tijdens feestdagen."
+      }
+    ]
+  },
+  "serviceDetails": {
+    "title": "Complete Brandstof Service",
+    "imageAlt": "Professionele brandstof service",
+    "items": [
+      {
+        "title": "Snelle Diagnose",
+        "description": "Wij bepalen snel welke brandstof er verkeerd is getankt en wat de beste oplossing is voor uw voertuig."
+      },
+      {
+        "title": "Professionele Tankreiniging",
+        "description": "Complete reiniging van tank en brandstofleidingen met gespecialiseerde apparatuur en technieken."
+      },
+      {
+        "title": "Brandstofvervanging",
+        "description": "Vervanging van verkeerde brandstof door de juiste brandstof, zodat u direct weer kunt rijden."
+      },
+      {
+        "title": "Motorspoeling",
+        "description": "Indien nodig spoelen wij het motorsysteem om alle resten van verkeerde brandstof te verwijderen."
+      },
+      {
+        "title": "Kwaliteitscontrole",
+        "description": "Grondige controle om er zeker van te zijn dat uw voertuig veilig is om mee te rijden."
+      }
+    ]
+  },
+  "situations": {
+    "title": "Brandstof Problemen Die Wij Oplossen",
+    "description": "Van benzine in diesel tot diesel in benzine - wij hebben de expertise en apparatuur voor alle brandstof gerelateerde problemen van uw voertuig.",
+    "items": [
+      {
+        "title": "Benzine in Diesel",
+        "description": "Het meest voorkomende probleem. Benzine beschadigt diesel pompen en injectoren. Wij reinigen snel en veilig."
+      },
+      {
+        "title": "Diesel in Benzine",
+        "description": "Diesel in benzinemotor zorgt voor slechte verbranding. Onze specialisten verwijderen alle diesel resten."
+      },
+      {
+        "title": "AdBlue Problemen",
+        "description": "Verkeerde AdBlue of AdBlue in brandstoftank? Wij lossen alle AdBlue gerelateerde problemen op."
+      },
+      {
+        "title": "Verontreinigde Brandstof",
+        "description": "Water of vuil in brandstof? Wij reinigen uw tank en vervangen de brandstof voor optimale prestaties."
+      },
+      {
+        "title": "Oude Brandstof",
+        "description": "Te lang stilgestaan met oude brandstof? Wij verwijderen oude brandstof en vullen met verse brandstof."
+      },
+      {
+        "title": "Verkeerde Octaan",
+        "description": "Verkeerde octaanwaarde getankt? Wij zorgen voor de juiste brandstof voor uw specifieke motor."
+      }
+    ]
+  },
+  "locatiesectie": {
+    "title": "Deel Uw Locatie Voor Snelle Hulp",
+    "description": "Verkeerde brandstof getankt? Deel uw exacte locatie zodat onze brandstof specialisten u zo snel mogelijk kunnen vinden en helpen met professionele tankreiniging.",
+    "imageAlt": "Locatie delen voor brandstof hulp"
+  },
+  "locatiebutton": {
+    "sendLocation": "Deel Locatie Voor Brandstof Hulp",
+    "loading": "Locatie wordt opgehaald...",
+    "confirmSend": "Verstuur Locatie via WhatsApp",
+    "errors": {
+      "notSupported": "Uw browser ondersteunt geen locatiedeling",
+      "failed": "Kon uw locatie niet ophalen. Probeer het opnieuw."
+    }
+  },
+  "emergency": {
+    "title": "Verkeerd Getankt? Bel Direct!",
+    "subtitle": "24/7 bereikbaar voor professionele brandstofhulp. Snelle tankreiniging, veilige brandstofvervanging en direct weer rijden.",
+    "phone": "085-250 29 28",
+    "phoneSubtitle": "Direct verbonden met onze brandstof specialisten",
+    "stats": [
+      {
+        "value": "< 30 min",
+        "label": "Gemiddelde aankomsttijd"
+      },
+      {
+        "value": "24/7",
+        "label": "Bereikbaar voor noodgevallen"
+      },
+      {
+        "value": "100%",
+        "label": "Succesvol opgeloste gevallen"
+      }
+    ]
+  }
+},
+"sleutels_vergeten": {
+  "seo": {
+    "title": "Sleutels Vergeten in de Auto - 24/7 Snelle Hulp | Mobiele Hulp",
+    "description": "Sleutels vergeten in de auto? Wij helpen direct! Professionele auto-opening, geen schade, snelle toegang. 24/7 bereikbaar voor spoedgevallen.",
+    "keywords": "sleutels vergeten, auto openen, sleutel in auto, locksmith, 24/7 service, auto opening",
+    "imageAlt": "Sleutels vergeten hulp service"
+  },
+  "hero": {
+    "badge": "Sleutel Service",
+    "title": {
+      "part1": "Sleutels Vergeten",
+      "part2": "in de Auto?"
+    },
+    "subtitle": "Geen paniek! Onze specialisten openen uw auto veilig en zonder schade. Professionele auto-opening met de juiste tools en jarenlange ervaring.",
+    "cta": "Bel Direct: 085-250 29 28",
+    "whatsapp": "WhatsApp Hulp",
+    "phone": "0852502928"
+  },
+  "features": {
+    "title": "Waarom Onze Sleutel Service?",
+    "subtitle": "Met professionele tools en jarenlange ervaring openen wij uw auto veilig en zonder schade. Van moderne auto's tot klassieke modellen.",
+    "items": [
+      {
+        "title": "Snelle Hulp",
+        "description": "Binnen 30 minuten ter plaatse voor spoedgevallen. Onze sleutel specialisten zijn 24/7 bereikbaar."
+      },
+      {
+        "title": "Geen Schade",
+        "description": "Professionele auto-opening zonder schade aan uw voertuig. Wij gebruiken gespecialiseerde tools."
+      },
+      {
+        "title": "Alle Auto Types",
+        "description": "Moderne auto's, klassieke modellen, elektronische sloten - wij openen alle voertuigen veilig."
+      },
+      {
+        "title": "24/7 Bereikbaar",
+        "description": "Dag en nacht beschikbaar voor sleutel noodgevallen. Ook in weekenden en tijdens feestdagen."
+      }
+    ]
+  },
+  "serviceDetails": {
+    "title": "Complete Auto Opening Service",
+    "imageAlt": "Professionele sleutel service",
+    "items": [
+      {
+        "title": "Veilige Auto-Opening",
+        "description": "Wij openen uw auto zonder schade met professionele tools en technieken die geschikt zijn voor uw specifieke voertuig."
+      },
+      {
+        "title": "Alle Slottypen",
+        "description": "Van mechanische sloten tot moderne elektronische systemen - wij hebben de juiste tools voor elk type auto."
+      },
+      {
+        "title": "Snelle Toegang",
+        "description": "Binnen enkele minuten heeft u weer toegang tot uw voertuig, zodat u snel verder kunt met uw dag."
+      },
+      {
+        "title": "Sleutel Duplicatie",
+        "description": "Direct ter plekke kunnen wij reservesleutels maken, zodat u dit probleem in de toekomst kunt voorkomen."
+      },
+      {
+        "title": "Kofferbak Opening",
+        "description": "Ook als alleen de kofferbak op slot zit, kunnen wij deze veilig openen zonder schade aan uw voertuig."
+      }
+    ]
+  },
+  "situations": {
+    "title": "Sleutel Problemen Die Wij Oplossen",
+    "description": "Van sleutels vergeten tot gebroken sleutels - wij hebben de expertise en tools voor alle sleutel gerelateerde problemen van uw voertuig.",
+    "items": [
+      {
+        "title": "Sleutels in Auto",
+        "description": "Het meest voorkomende probleem. Sleutels vergeten in de auto met alle deuren op slot. Wij openen veilig en snel."
+      },
+      {
+        "title": "Gebroken Sleutel",
+        "description": "Sleutel gebroken in het slot? Wij verwijderen de gebroken delen en maken ter plekke een nieuwe sleutel."
+      },
+      {
+        "title": "Elektronische Problemen",
+        "description": "Sleutel doet het niet meer door elektrische storing? Wij diagnosticeren en lossen elektronische problemen op."
+      },
+      {
+        "title": "Verloren Sleutels",
+        "description": "Alle sleutels kwijt? Geen probleem, wij maken nieuwe sleutels en programmeren deze voor uw voertuig."
+      },
+      {
+        "title": "Kofferbak Op Slot",
+        "description": "Alleen kofferbak op slot en sleutel erin? Wij openen de kofferbak zonder schade aan uw auto."
+      },
+      {
+        "title": "Bevroren Sloten",
+        "description": "Slot bevroren in de winter? Wij ontdooien veilig uw sloten zonder schade aan het mechanisme."
+      }
+    ]
+  },
+  "locatiesectie": {
+    "title": "Deel Uw Locatie Voor Snelle Hulp",
+    "description": "Sleutels vergeten in de auto? Deel uw exacte locatie zodat onze sleutel specialisten u zo snel mogelijk kunnen vinden en helpen met professionele auto-opening.",
+    "imageAlt": "Locatie delen voor sleutel hulp"
+  },
+  "locatiebutton": {
+    "sendLocation": "Deel Locatie Voor Sleutel Hulp",
+    "loading": "Locatie wordt opgehaald...",
+    "confirmSend": "Verstuur Locatie via WhatsApp",
+    "errors": {
+      "notSupported": "Uw browser ondersteunt geen locatiedeling",
+      "failed": "Kon uw locatie niet ophalen. Probeer het opnieuw."
+    }
+  },
+  "emergency": {
+    "title": "Sleutels Vergeten? Bel Direct!",
+    "subtitle": "24/7 bereikbaar voor professionele sleutelhulp. Veilige auto-opening, geen schade en direct weer toegang tot uw voertuig.",
+    "phone": "085-250 29 28",
+    "phoneSubtitle": "Direct verbonden met onze sleutel specialisten",
+    "stats": [
+      {
+        "value": "< 30 min",
+        "label": "Gemiddelde aankomsttijd"
+      },
+      {
+        "value": "24/7",
+        "label": "Bereikbaar voor noodgevallen"
+      },
+      {
+        "value": "100%",
+        "label": "Succesvol geopend zonder schade"
+      }
+    ]
   }
 },
 "diensten": {

@@ -177,6 +177,20 @@
           "button": "Read more",
           "image": "/services/6.png",
           "href": "/diensten/autoberging-247"
+        },
+        {
+          "title": "Wrong fuel in tank",
+          "description": "Wrong fuel in tank? Don't panic! We help immediately with professional tank cleaning and fuel replacement. Petrol in diesel or vice versa - we solve it.",
+          "button": "Read more",
+          "image": "/services/7.jpg",
+          "href": "/diensten/verkeerde-brandstof-getanked"
+        },
+        {
+          "title": "Keys locked in car",
+          "description": "Keys locked in car? Our specialists open your car safely and without damage. Professional car opening with years of experience.",
+          "button": "Read more",
+          "image": "/services/8.jpg",
+          "href": "/diensten/sleutels-vergeten-in-de-auto"
         }
       ]
     },
@@ -1038,6 +1052,268 @@
         "notSupported": "Location sharing is not supported by your browser.",
         "failed": "Could not get your location. Try again or check your settings."
       }
+    }
+  },
+  "verkeerde_brandstof": {
+    "seo": {
+      "title": "Wrong Fuel Tank - 24/7 Quick Help | Mobile Help",
+      "description": "Wrong fuel in tank? We help immediately! Professional tank cleaning, petrol in diesel or vice versa. 24/7 available for emergencies.",
+      "keywords": "wrong fuel, petrol in diesel, diesel in petrol, tank cleaning, fuel help, 24/7 service, wrong refuel",
+      "imageAlt": "Wrong fuel help service"
+    },
+    "hero": {
+      "badge": "Fuel Service",
+      "title": {
+        "part1": "Wrong Fuel",
+        "part2": "In Tank?"
+      },
+      "subtitle": "Don't panic! Our specialists help you immediately with professional tank cleaning and fuel replacement. Petrol in diesel or vice versa - we solve it.",
+      "cta": "Call Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp Help",
+      "phone": "0852502928"
+    },
+    "features": {
+      "title": "Why Our Fuel Service?",
+      "subtitle": "With professional equipment and years of experience, we ensure fast and safe tank cleaning. From diagnosis to complete fuel replacement.",
+      "items": [
+        {
+          "title": "Quick Help",
+          "description": "On location within 30 minutes for emergencies. Our fuel specialists are available 24/7."
+        },
+        {
+          "title": "Safe Cleaning",
+          "description": "Professional tank cleaning without damage to your engine. We use specialized equipment."
+        },
+        {
+          "title": "All Fuel Types",
+          "description": "Petrol in diesel, diesel in petrol, AdBlue problems - we solve all fuel errors."
+        },
+        {
+          "title": "24/7 Available",
+          "description": "Day and night available for fuel emergencies. Also during weekends and holidays."
+        }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Complete Fuel Service",
+      "imageAlt": "Professional fuel service",
+      "items": [
+        {
+          "title": "Quick Diagnosis",
+          "description": "We quickly determine which fuel was filled incorrectly and what the best solution is for your vehicle."
+        },
+        {
+          "title": "Professional Tank Cleaning",
+          "description": "Complete cleaning of tank and fuel lines with specialized equipment and techniques."
+        },
+        {
+          "title": "Fuel Replacement",
+          "description": "Replacement of wrong fuel with the correct fuel, so you can drive immediately again."
+        },
+        {
+          "title": "Engine Flush",
+          "description": "If necessary, we flush the engine system to remove all remains of wrong fuel."
+        },
+        {
+          "title": "Quality Control",
+          "description": "Thorough check to ensure your vehicle is safe to drive."
+        }
+      ]
+    },
+    "situations": {
+      "title": "Fuel Problems We Solve",
+      "description": "From petrol in diesel to diesel in petrol - we have the expertise and equipment for all fuel-related problems of your vehicle.",
+      "items": [
+        {
+          "title": "Petrol in Diesel",
+          "description": "The most common problem. Petrol damages diesel pumps and injectors. We clean quickly and safely."
+        },
+        {
+          "title": "Diesel in Petrol",
+          "description": "Diesel in petrol engine causes poor combustion. Our specialists remove all diesel residues."
+        },
+        {
+          "title": "AdBlue Problems",
+          "description": "Wrong AdBlue or AdBlue in fuel tank? We solve all AdBlue-related problems."
+        },
+        {
+          "title": "Contaminated Fuel",
+          "description": "Water or dirt in fuel? We clean your tank and replace the fuel for optimal performance."
+        },
+        {
+          "title": "Old Fuel",
+          "description": "Stood still too long with old fuel? We remove old fuel and fill with fresh fuel."
+        },
+        {
+          "title": "Wrong Octane",
+          "description": "Wrong octane rating filled? We ensure the right fuel for your specific engine."
+        }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Share Your Location For Quick Help",
+      "description": "Wrong fuel in tank? Share your exact location so our fuel specialists can find you as quickly as possible and help with professional tank cleaning.",
+      "imageAlt": "Share location for fuel help"
+    },
+    "locatiebutton": {
+      "sendLocation": "Share Location For Fuel Help",
+      "loading": "Getting location...",
+      "confirmSend": "Send Location via WhatsApp",
+      "errors": {
+        "notSupported": "Your browser doesn't support location sharing",
+        "failed": "Could not get your location. Please try again."
+      }
+    },
+    "emergency": {
+      "title": "Wrong Fuel? Call Direct!",
+      "subtitle": "24/7 available for professional fuel help. Quick tank cleaning, safe fuel replacement and drive again immediately.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Directly connected to our fuel specialists",
+      "stats": [
+        {
+          "value": "< 30 min",
+          "label": "Average arrival time"
+        },
+        {
+          "value": "24/7",
+          "label": "Available for emergencies"
+        },
+        {
+          "value": "100%",
+          "label": "Successfully solved cases"
+        }
+      ]
+    }
+  },
+  "sleutels_vergeten": {
+    "seo": {
+      "title": "Keys Locked in Car - 24/7 Quick Help | Mobile Help",
+      "description": "Keys locked in car? We help immediately! Professional car opening, no damage, quick access. 24/7 available for emergencies.",
+      "keywords": "keys locked in car, car opening, key in car, locksmith, 24/7 service, car unlocking",
+      "imageAlt": "Keys locked in car help service"
+    },
+    "hero": {
+      "badge": "Key Service",
+      "title": {
+        "part1": "Keys Locked",
+        "part2": "in Car?"
+      },
+      "subtitle": "Don't panic! Our specialists open your car safely and without damage. Professional car unlocking with the right tools and years of experience.",
+      "cta": "Call Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp Help",
+      "phone": "0852502928"
+    },
+    "features": {
+      "title": "Why Our Key Service?",
+      "subtitle": "With professional tools and years of experience, we open your car safely and without damage. From modern cars to classic models.",
+      "items": [
+        {
+          "title": "Quick Help",
+          "description": "On location within 30 minutes for emergencies. Our key specialists are available 24/7."
+        },
+        {
+          "title": "No Damage",
+          "description": "Professional car opening without damage to your vehicle. We use specialized tools."
+        },
+        {
+          "title": "All Car Types",
+          "description": "Modern cars, classic models, electronic locks - we open all vehicles safely."
+        },
+        {
+          "title": "24/7 Available",
+          "description": "Day and night available for key emergencies. Also during weekends and holidays."
+        }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Complete Car Opening Service",
+      "imageAlt": "Professional key service",
+      "items": [
+        {
+          "title": "Safe Car Opening",
+          "description": "We open your car without damage using professional tools and techniques suitable for your specific vehicle."
+        },
+        {
+          "title": "All Lock Types",
+          "description": "From mechanical locks to modern electronic systems - we have the right tools for every car type."
+        },
+        {
+          "title": "Quick Access",
+          "description": "Within minutes you have access to your vehicle again, so you can quickly continue with your day."
+        },
+        {
+          "title": "Key Duplication",
+          "description": "On location we can make spare keys immediately, so you can prevent this problem in the future."
+        },
+        {
+          "title": "Trunk Opening",
+          "description": "Even if only the trunk is locked, we can open it safely without damage to your vehicle."
+        }
+      ]
+    },
+    "situations": {
+      "title": "Key Problems We Solve",
+      "description": "From forgotten keys to broken keys - we have the expertise and tools for all key-related problems of your vehicle.",
+      "items": [
+        {
+          "title": "Keys in Car",
+          "description": "The most common problem. Keys forgotten in car with all doors locked. We open safely and quickly."
+        },
+        {
+          "title": "Broken Key",
+          "description": "Key broken in the lock? We remove the broken parts and make a new key on location."
+        },
+        {
+          "title": "Electronic Problems",
+          "description": "Key not working due to electrical malfunction? We diagnose and solve electronic problems."
+        },
+        {
+          "title": "Lost Keys",
+          "description": "Lost all keys? No problem, we make new keys and program them for your vehicle."
+        },
+        {
+          "title": "Trunk Locked",
+          "description": "Only trunk locked with key inside? We open the trunk without damage to your car."
+        },
+        {
+          "title": "Frozen Locks",
+          "description": "Lock frozen in winter? We safely thaw your locks without damage to the mechanism."
+        }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Share Your Location For Quick Help",
+      "description": "Keys locked in car? Share your exact location so our key specialists can find you as quickly as possible and help with professional car opening.",
+      "imageAlt": "Share location for key help"
+    },
+    "locatiebutton": {
+      "sendLocation": "Share Location For Key Help",
+      "loading": "Getting location...",
+      "confirmSend": "Send Location via WhatsApp",
+      "errors": {
+        "notSupported": "Your browser doesn't support location sharing",
+        "failed": "Could not get your location. Please try again."
+      }
+    },
+    "emergency": {
+      "title": "Keys Locked? Call Direct!",
+      "subtitle": "24/7 available for professional key help. Safe car opening, no damage and direct access to your vehicle again.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Directly connected to our key specialists",
+      "stats": [
+        {
+          "value": "< 30 min",
+          "label": "Average arrival time"
+        },
+        {
+          "value": "24/7",
+          "label": "Available for emergencies"
+        },
+        {
+          "value": "100%",
+          "label": "Successfully opened without damage"
+        }
+      ]
     }
   },
   "diensten": {

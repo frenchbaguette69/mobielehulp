@@ -177,6 +177,20 @@
           "button": "Lire plus",
           "image": "/services/6.png",
           "href": "/diensten/autoberging-247"
+        },
+        {
+          "title": "Mauvais carburant dans le réservoir",
+          "description": "Mauvais carburant dans le réservoir? Pas de panique! Nous aidons immédiatement avec un nettoyage professionnel du réservoir et un remplacement de carburant. Essence dans diesel ou vice versa - nous résolvons le problème.",
+          "button": "Lire plus",
+          "image": "/services/7.jpg",
+          "href": "/diensten/verkeerde-brandstof-getanked"
+        },
+        {
+          "title": "Clés oubliées dans la voiture",
+          "description": "Clés oubliées dans la voiture? Nos spécialistes ouvrent votre voiture en toute sécurité et sans dommage. Ouverture professionnelle avec des années d'expérience.",
+          "button": "Lire plus",
+          "image": "/services/8.jpg",
+          "href": "/diensten/sleutels-vergeten-in-de-auto"
         }
       ]
     },
@@ -1038,6 +1052,268 @@
         "notSupported": "Le partage de localisation n'est pas pris en charge par votre navigateur.",
         "failed": "Impossible d'obtenir votre localisation. Essayez à nouveau ou vérifiez vos paramètres."
       }
+    }
+  },
+  "verkeerde_brandstof": {
+    "seo": {
+      "title": "Mauvais Carburant - Aide Rapide 24/7 | Aide Mobile",
+      "description": "Mauvais carburant dans le réservoir? Nous aidons immédiatement! Nettoyage professionnel du réservoir, essence dans diesel ou vice versa. Disponible 24/7 pour urgences.",
+      "keywords": "mauvais carburant, essence dans diesel, diesel dans essence, nettoyage réservoir, aide carburant, service 24/7, mauvais plein",
+      "imageAlt": "Service d'aide carburant incorrect"
+    },
+    "hero": {
+      "badge": "Service Carburant",
+      "title": {
+        "part1": "Mauvais Carburant",
+        "part2": "Dans le Réservoir?"
+      },
+      "subtitle": "Pas de panique! Nos spécialistes vous aident immédiatement avec un nettoyage professionnel du réservoir et un remplacement de carburant. Essence dans diesel ou vice versa - nous résolvons le problème.",
+      "cta": "Appelez Direct: 085-250 29 28",
+      "whatsapp": "Aide WhatsApp",
+      "phone": "0852502928"
+    },
+    "features": {
+      "title": "Pourquoi Notre Service Carburant?",
+      "subtitle": "Avec un équipement professionnel et des années d'expérience, nous garantissons un nettoyage rapide et sûr du réservoir. Du diagnostic au remplacement complet du carburant.",
+      "items": [
+        {
+          "title": "Aide Rapide",
+          "description": "Sur place dans les 30 minutes pour les urgences. Nos spécialistes carburant sont disponibles 24/7."
+        },
+        {
+          "title": "Nettoyage Sûr",
+          "description": "Nettoyage professionnel du réservoir sans endommager votre moteur. Nous utilisons un équipement spécialisé."
+        },
+        {
+          "title": "Tous Types de Carburant",
+          "description": "Essence dans diesel, diesel dans essence, problèmes AdBlue - nous résolvons toutes les erreurs de carburant."
+        },
+        {
+          "title": "Disponible 24/7",
+          "description": "Jour et nuit disponible pour les urgences carburant. Aussi pendant les week-ends et jours fériés."
+        }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Service Carburant Complet",
+      "imageAlt": "Service carburant professionnel",
+      "items": [
+        {
+          "title": "Diagnostic Rapide",
+          "description": "Nous déterminons rapidement quel carburant a été mal rempli et quelle est la meilleure solution pour votre véhicule."
+        },
+        {
+          "title": "Nettoyage Professionnel du Réservoir",
+          "description": "Nettoyage complet du réservoir et des conduites de carburant avec équipement et techniques spécialisés."
+        },
+        {
+          "title": "Remplacement du Carburant",
+          "description": "Remplacement du mauvais carburant par le bon carburant, pour que vous puissiez conduire immédiatement."
+        },
+        {
+          "title": "Rinçage Moteur",
+          "description": "Si nécessaire, nous rinçons le système moteur pour enlever tous les restes de mauvais carburant."
+        },
+        {
+          "title": "Contrôle Qualité",
+          "description": "Vérification approfondie pour s'assurer que votre véhicule est sûr à conduire."
+        }
+      ]
+    },
+    "situations": {
+      "title": "Problèmes de Carburant Que Nous Résolvons",
+      "description": "De l'essence dans le diesel au diesel dans l'essence - nous avons l'expertise et l'équipement pour tous les problèmes liés au carburant de votre véhicule.",
+      "items": [
+        {
+          "title": "Essence dans Diesel",
+          "description": "Le problème le plus courant. L'essence endommage les pompes et injecteurs diesel. Nous nettoyons rapidement et en toute sécurité."
+        },
+        {
+          "title": "Diesel dans Essence",
+          "description": "Le diesel dans un moteur essence cause une mauvaise combustion. Nos spécialistes enlèvent tous les résidus de diesel."
+        },
+        {
+          "title": "Problèmes AdBlue",
+          "description": "Mauvais AdBlue ou AdBlue dans le réservoir de carburant? Nous résolvons tous les problèmes liés à AdBlue."
+        },
+        {
+          "title": "Carburant Contaminé",
+          "description": "Eau ou saleté dans le carburant? Nous nettoyons votre réservoir et remplaçons le carburant pour une performance optimale."
+        },
+        {
+          "title": "Vieux Carburant",
+          "description": "Resté immobile trop longtemps avec du vieux carburant? Nous enlevons le vieux carburant et remplissons avec du carburant frais."
+        },
+        {
+          "title": "Mauvais Octane",
+          "description": "Mauvais indice d'octane rempli? Nous assurons le bon carburant pour votre moteur spécifique."
+        }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Partagez Votre Position Pour une Aide Rapide",
+      "description": "Mauvais carburant dans le réservoir? Partagez votre position exacte pour que nos spécialistes carburant puissent vous trouver le plus rapidement possible et vous aider avec un nettoyage professionnel du réservoir.",
+      "imageAlt": "Partager la position pour l'aide carburant"
+    },
+    "locatiebutton": {
+      "sendLocation": "Partager Position Pour Aide Carburant",
+      "loading": "Obtention de la position...",
+      "confirmSend": "Envoyer Position via WhatsApp",
+      "errors": {
+        "notSupported": "Votre navigateur ne supporte pas le partage de position",
+        "failed": "Impossible d'obtenir votre position. Veuillez réessayer."
+      }
+    },
+    "emergency": {
+      "title": "Mauvais Carburant? Appelez Direct!",
+      "subtitle": "Disponible 24/7 pour aide carburant professionnelle. Nettoyage rapide du réservoir, remplacement sûr du carburant et conduisez immédiatement.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Directement connecté à nos spécialistes carburant",
+      "stats": [
+        {
+          "value": "< 30 min",
+          "label": "Temps d'arrivée moyen"
+        },
+        {
+          "value": "24/7",
+          "label": "Disponible pour urgences"
+        },
+        {
+          "value": "100%",
+          "label": "Cas résolus avec succès"
+        }
+      ]
+    }
+  },
+  "sleutels_vergeten": {
+    "seo": {
+      "title": "Clés Oubliées dans la Voiture - Aide Rapide 24/7 | Aide Mobile",
+      "description": "Clés oubliées dans la voiture? Nous aidons immédiatement! Ouverture professionnelle de voiture, sans dommage, accès rapide. Disponible 24/7 pour urgences.",
+      "keywords": "clés oubliées voiture, ouverture voiture, clé dans voiture, serrurier, service 24/7, ouverture auto",
+      "imageAlt": "Service d'aide clés oubliées"
+    },
+    "hero": {
+      "badge": "Service Clés",
+      "title": {
+        "part1": "Clés Oubliées",
+        "part2": "dans la Voiture?"
+      },
+      "subtitle": "Pas de panique! Nos spécialistes ouvrent votre voiture en toute sécurité et sans dommage. Ouverture professionnelle avec les bons outils et des années d'expérience.",
+      "cta": "Appelez Direct: 085-250 29 28",
+      "whatsapp": "Aide WhatsApp",
+      "phone": "0852502928"
+    },
+    "features": {
+      "title": "Pourquoi Notre Service Clés?",
+      "subtitle": "Avec des outils professionnels et des années d'expérience, nous ouvrons votre voiture en toute sécurité et sans dommage. Des voitures modernes aux modèles classiques.",
+      "items": [
+        {
+          "title": "Aide Rapide",
+          "description": "Sur place dans les 30 minutes pour les urgences. Nos spécialistes clés sont disponibles 24/7."
+        },
+        {
+          "title": "Aucun Dommage",
+          "description": "Ouverture professionnelle de voiture sans endommager votre véhicule. Nous utilisons des outils spécialisés."
+        },
+        {
+          "title": "Tous Types de Voitures",
+          "description": "Voitures modernes, modèles classiques, serrures électroniques - nous ouvrons tous les véhicules en sécurité."
+        },
+        {
+          "title": "Disponible 24/7",
+          "description": "Jour et nuit disponible pour les urgences de clés. Aussi pendant les week-ends et jours fériés."
+        }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Service Complet d'Ouverture de Voiture",
+      "imageAlt": "Service clés professionnel",
+      "items": [
+        {
+          "title": "Ouverture Sûre de Voiture",
+          "description": "Nous ouvrons votre voiture sans dommage avec des outils et techniques professionnels adaptés à votre véhicule spécifique."
+        },
+        {
+          "title": "Tous Types de Serrures",
+          "description": "Des serrures mécaniques aux systèmes électroniques modernes - nous avons les bons outils pour chaque type de voiture."
+        },
+        {
+          "title": "Accès Rapide",
+          "description": "En quelques minutes vous avez à nouveau accès à votre véhicule, pour que vous puissiez rapidement continuer votre journée."
+        },
+        {
+          "title": "Duplication de Clés",
+          "description": "Directement sur place nous pouvons faire des clés de rechange, pour que vous puissiez éviter ce problème à l'avenir."
+        },
+        {
+          "title": "Ouverture de Coffre",
+          "description": "Même si seul le coffre est verrouillé, nous pouvons l'ouvrir en toute sécurité sans dommage à votre véhicule."
+        }
+      ]
+    },
+    "situations": {
+      "title": "Problèmes de Clés Que Nous Résolvons",
+      "description": "Des clés oubliées aux clés cassées - nous avons l'expertise et les outils pour tous les problèmes liés aux clés de votre véhicule.",
+      "items": [
+        {
+          "title": "Clés dans la Voiture",
+          "description": "Le problème le plus courant. Clés oubliées dans la voiture avec toutes les portes verrouillées. Nous ouvrons en sécurité et rapidement."
+        },
+        {
+          "title": "Clé Cassée",
+          "description": "Clé cassée dans la serrure? Nous retirons les parties cassées et faisons une nouvelle clé sur place."
+        },
+        {
+          "title": "Problèmes Électroniques",
+          "description": "Clé qui ne fonctionne plus à cause d'un dysfonctionnement électrique? Nous diagnostiquons et résolvons les problèmes électroniques."
+        },
+        {
+          "title": "Clés Perdues",
+          "description": "Toutes les clés perdues? Pas de problème, nous faisons de nouvelles clés et les programmons pour votre véhicule."
+        },
+        {
+          "title": "Coffre Verrouillé",
+          "description": "Seul le coffre verrouillé avec la clé dedans? Nous ouvrons le coffre sans dommage à votre voiture."
+        },
+        {
+          "title": "Serrures Gelées",
+          "description": "Serrure gelée en hiver? Nous dégelons en toute sécurité vos serrures sans dommage au mécanisme."
+        }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Partagez Votre Position Pour une Aide Rapide",
+      "description": "Clés oubliées dans la voiture? Partagez votre position exacte pour que nos spécialistes clés puissent vous trouver le plus rapidement possible et vous aider avec une ouverture professionnelle.",
+      "imageAlt": "Partager la position pour l'aide clés"
+    },
+    "locatiebutton": {
+      "sendLocation": "Partager Position Pour Aide Clés",
+      "loading": "Obtention de la position...",
+      "confirmSend": "Envoyer Position via WhatsApp",
+      "errors": {
+        "notSupported": "Votre navigateur ne supporte pas le partage de position",
+        "failed": "Impossible d'obtenir votre position. Veuillez réessayer."
+      }
+    },
+    "emergency": {
+      "title": "Clés Oubliées? Appelez Direct!",
+      "subtitle": "Disponible 24/7 pour aide clés professionnelle. Ouverture sûre de voiture, aucun dommage et accès direct à votre véhicule à nouveau.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Directement connecté à nos spécialistes clés",
+      "stats": [
+        {
+          "value": "< 30 min",
+          "label": "Temps d'arrivée moyen"
+        },
+        {
+          "value": "24/7",
+          "label": "Disponible pour urgences"
+        },
+        {
+          "value": "100%",
+          "label": "Ouvert avec succès sans dommage"
+        }
+      ]
     }
   },
   "diensten": {
