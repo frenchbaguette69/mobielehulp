@@ -182,14 +182,14 @@
           "title": "Mauvais carburant dans le réservoir",
           "description": "Mauvais carburant dans le réservoir? Pas de panique! Nous aidons immédiatement avec un nettoyage professionnel du réservoir et un remplacement de carburant. Essence dans diesel ou vice versa - nous résolvons le problème.",
           "button": "Lire plus",
-          "image": "/services/7.jpg",
+          "image": "/services/8.jpg",
           "href": "/diensten/verkeerde-brandstof-getanked"
         },
         {
           "title": "Clés oubliées dans la voiture",
           "description": "Clés oubliées dans la voiture? Nos spécialistes ouvrent votre voiture en toute sécurité et sans dommage. Ouverture professionnelle avec des années d'expérience.",
           "button": "Lire plus",
-          "image": "/services/8.jpg",
+          "image": "/services/7.jpg",
           "href": "/diensten/sleutels-vergeten-in-de-auto"
         }
       ]

@@ -182,14 +182,14 @@
           "title": "Wrong fuel in tank",
           "description": "Wrong fuel in tank? Don't panic! We help immediately with professional tank cleaning and fuel replacement. Petrol in diesel or vice versa - we solve it.",
           "button": "Read more",
-          "image": "/services/7.jpg",
+          "image": "/services/8.jpg",
           "href": "/diensten/verkeerde-brandstof-getanked"
         },
         {
           "title": "Keys locked in car",
           "description": "Keys locked in car? Our specialists open your car safely and without damage. Professional car opening with years of experience.",
           "button": "Read more",
-          "image": "/services/8.jpg",
+          "image": "/services/7.jpg",
           "href": "/diensten/sleutels-vergeten-in-de-auto"
         }
       ]
