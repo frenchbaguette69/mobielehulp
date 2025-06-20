@@ -11,7 +11,7 @@ import {
 import Link from "next/link";
 import LanguageSwitcher from "@/components/langauge-switcher";
 import Image from "next/image";
-import logo from "@/public/logomobiel.png"; 
+import logo from "@/public/logomobiele.png"; 
 
 export default function Header({ locale, dict }: { locale: string; dict: any }) {
   return (
@@ -21,7 +21,7 @@ export default function Header({ locale, dict }: { locale: string; dict: any }) 
           <Link href="/" className="flex-shrink-0">
             <div className="flex items-center gap-2 sm:gap-3">
               <Image
-                src="/logo.png"
+                src={logo}
                 alt="Mobiele Hulp Logo"
                 width={150}
                 height={50}
