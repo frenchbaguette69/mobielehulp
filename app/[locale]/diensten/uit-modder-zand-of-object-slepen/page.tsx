@@ -72,12 +72,12 @@ export default async function ModderSlepenService({
                   <Truck className="w-4 h-4" />
                   {dict.modderslepen.hero?.badge || "Voertuig Bevrijding"}
                 </div>
-                <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-tight">
+                <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
                   <span className="text-white">{dict.modderslepen.hero?.title?.part1 || "Uit Modder, Zand"}</span>
                   <br />
                   <span className="text-[#c8eb67]">{dict.modderslepen.hero?.title?.part2 || "of Object Slepen"}</span>
                 </h1>
-                <p className="text-xl md:text-2xl text-gray-200 leading-relaxed max-w-3xl">
+                <p className="text-lg md:text-2xl text-gray-200 leading-relaxed max-w-3xl">
                   {dict.modderslepen.hero?.subtitle ||
                     "Professionele 24/7 hulp bij het veilig en efficiënt losmaken van voertuigen die vastzitten in modder, zand of op objecten. Ervaren team met gespecialiseerde apparatuur."}
                 </p>

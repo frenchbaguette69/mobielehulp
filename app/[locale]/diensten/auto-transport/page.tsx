@@ -72,12 +72,12 @@ export default async function AutoTransportService({
                   <Truck className="w-4 h-4" />
                   {dict.autotransport?.hero?.badge || "Auto Transport"}
                 </div>
-                <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-tight">
+                <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
                   <span className="text-white">{dict.autotransport?.hero?.title?.part1 || "Auto Transport"}</span>
                   <br />
                   <span className="text-[#c8eb67]">{dict.autotransport?.hero?.title?.part2 || "Nationaal & Internationaal"}</span>
                 </h1>
-                <p className="text-xl md:text-2xl text-gray-200 leading-relaxed max-w-3xl">
+                <p className="text-lg md:text-2xl text-gray-200 leading-relaxed max-w-3xl">
                   {dict.autotransport?.hero?.subtitle ||
                     "Onze autotransportservice zorgt ervoor dat uw voertuig snel en veilig op de afgesproken locatie wordt afgeleverd. Nationaal en internationaal transport met volledige verzekering."}
                 </p>

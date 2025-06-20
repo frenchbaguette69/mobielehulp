@@ -11,6 +11,7 @@ import {
 import Link from "next/link";
 import LanguageSwitcher from "@/components/langauge-switcher";
 import Image from "next/image";
+import logo from "@/public/logomobiel.png"; 
 
 export default function Header({ locale, dict }: { locale: string; dict: any }) {
   return (
@@ -55,7 +56,7 @@ export default function Header({ locale, dict }: { locale: string; dict: any }) 
                 <SheetHeader>
                   <SheetTitle className="sr-only">Mobiel menu</SheetTitle>
                   <Image
-                    src="/Mobielehulp.png"
+                    src={logo}
                     alt="Mobiele Hulp Logo"
                     width={130}
                     height={40}

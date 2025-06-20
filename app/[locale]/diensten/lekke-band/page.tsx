@@ -72,12 +72,12 @@ export default async function LekkeBandService({
                   <Disc className="w-4 h-4" />
                   {dict.lekkeband?.hero?.badge || "Lekke Band Service"}
                 </div>
-                <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-tight">
+                <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
                   <span className="text-white">{dict.lekkeband?.hero?.title?.part1 || "Lekke Band"}</span>
                   <br />
                   <span className="text-[#c8eb67]">{dict.lekkeband?.hero?.title?.part2 || "24/7 Bandenservice"}</span>
                 </h1>
-                <p className="text-xl md:text-2xl text-gray-200 leading-relaxed max-w-3xl">
+                <p className="text-lg md:text-2xl text-gray-200 leading-relaxed max-w-3xl">
                   {dict.lekkeband?.hero?.subtitle ||
                     "Onze lekke band service biedt snelle, betrouwbare en professionele hulp, ongeacht waar u zich bevindt – thuis, op het werk of onderweg. Direct ter plaatse met reservebanden."}
                 </p>

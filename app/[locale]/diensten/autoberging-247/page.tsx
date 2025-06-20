@@ -72,12 +72,12 @@ export default async function AutobergingService({
                   <Warehouse className="w-4 h-4" />
                   {dict.autoberging?.hero?.badge || "Autoberging 24/7"}
                 </div>
-                <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-tight">
+                <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
                   <span className="text-white">{dict.autoberging?.hero?.title?.part1 || "Autoberging"}</span>
                   <br />
                   <span className="text-[#c8eb67]">{dict.autoberging?.hero?.title?.part2 || "& Veilige Stalling"}</span>
                 </h1>
-                <p className="text-xl md:text-2xl text-gray-200 leading-relaxed max-w-3xl">
+                <p className="text-lg md:text-2xl text-gray-200 leading-relaxed max-w-3xl">
                   {dict.autoberging?.hero?.subtitle ||
                     "Onze autoberging en stalling service biedt veilige en betrouwbare oplossingen voor het tijdelijk onderbrengen van uw voertuig, na een ongeval of tijdens een reis. 24/7 beveiligde locaties."}
                 </p>

@@ -72,12 +72,12 @@ export default async function PechhulpSleepdienst({
                   <Car className="w-4 h-4" />
                   {dict.pechhulp?.hero?.badge || "Pechhulp & Sleepdienst"}
                 </div>
-                <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-tight">
+                <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
                   <span className="text-white">{dict.pechhulp?.hero?.title?.part1 || "Pechhulp & Sleepdienst"}</span>
                   <br />
                   <span className="text-[#c8eb67]">{dict.pechhulp?.hero?.title?.part2 || "Door Heel Europa"}</span>
                 </h1>
-                <p className="text-xl md:text-2xl text-gray-200 leading-relaxed max-w-3xl">
+                <p className="text-lg md:text-2xl text-gray-200 leading-relaxed max-w-3xl">
                   {dict.pechhulp?.hero?.subtitle ||
                     "Betrouwbare 24/7 pechhulp en sleepdienst door heel Europa. Snelle respons, professionele service en transparante prijzen zonder verborgen kosten."}
                 </p>
