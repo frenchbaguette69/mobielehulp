@@ -177,6 +177,20 @@
           "button": "Mehr lesen",
           "image": "/services/6.png",
           "href": "/diensten/autoberging-247"
+        },
+        {
+          "title": "Falscher Kraftstoff getankt",
+          "description": "Falscher Kraftstoff getankt? Keine Panik! Wir helfen sofort mit professioneller Tankreinigung und Kraftstoffaustausch. Benzin in Diesel oder umgekehrt - wir lösen es.",
+          "button": "Mehr lesen",
+          "image": "/services/8.jpg",
+          "href": "/diensten/verkeerde-brandstof-getanked"
+        },
+        {
+          "title": "Schlüssel im Auto vergessen",
+          "description": "Schlüssel im Auto vergessen? Unsere Spezialisten öffnen Ihr Auto sicher und ohne Schaden. Professionelle Autoöffnung mit jahrelanger Erfahrung.",
+          "button": "Mehr lesen",
+          "image": "/services/7.jpg",
+          "href": "/diensten/sleutels-vergeten-in-de-auto"
         }
       ]
     },
@@ -1038,6 +1052,268 @@
         "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
         "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
       }
+    }
+  },
+  "verkeerde_brandstof": {
+    "seo": {
+      "title": "Falscher Kraftstoff Getankt - 24/7 Schnelle Hilfe | Mobile Hilfe",
+      "description": "Falscher Kraftstoff getankt? Wir helfen sofort! Professionelle Tankreinigung, Benzin in Diesel oder umgekehrt. 24/7 erreichbar für Notfälle.",
+      "keywords": "falscher kraftstoff, benzin in diesel, diesel in benzin, tankreinigung, kraftstoff hilfe, 24/7 service, falsch getankt",
+      "imageAlt": "Falscher Kraftstoff Hilfe Service"
+    },
+    "hero": {
+      "badge": "Kraftstoff Service",
+      "title": {
+        "part1": "Falscher Kraftstoff",
+        "part2": "Getankt?"
+      },
+      "subtitle": "Keine Panik! Unsere Spezialisten helfen Ihnen sofort mit professioneller Tankreinigung und Kraftstoffaustausch. Benzin in Diesel oder umgekehrt - wir lösen es.",
+      "cta": "Direkt Anrufen: 085-250 29 28",
+      "whatsapp": "WhatsApp Hilfe",
+      "phone": "0852502928"
+    },
+    "features": {
+      "title": "Warum Unser Kraftstoff Service?",
+      "subtitle": "Mit professioneller Ausrüstung und jahrelanger Erfahrung sorgen wir für schnelle und sichere Tankreinigung. Von der Diagnose bis zum kompletten Kraftstoffaustausch.",
+      "items": [
+        {
+          "title": "Schnelle Hilfe",
+          "description": "Innerhalb von 30 Minuten vor Ort bei Notfällen. Unsere Kraftstoff-Spezialisten sind 24/7 erreichbar."
+        },
+        {
+          "title": "Sichere Reinigung",
+          "description": "Professionelle Tankreinigung ohne Schäden am Motor. Wir verwenden spezialisierte Ausrüstung."
+        },
+        {
+          "title": "Alle Kraftstoffarten",
+          "description": "Benzin in Diesel, Diesel in Benzin, AdBlue-Probleme - wir lösen alle Kraftstoff-Fehler."
+        },
+        {
+          "title": "24/7 Erreichbar",
+          "description": "Tag und Nacht verfügbar für Kraftstoff-Notfälle. Auch an Wochenenden und Feiertagen."
+        }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Kompletter Kraftstoff Service",
+      "imageAlt": "Professioneller Kraftstoff Service",
+      "items": [
+        {
+          "title": "Schnelle Diagnose",
+          "description": "Wir bestimmen schnell, welcher Kraftstoff falsch getankt wurde und was die beste Lösung für Ihr Fahrzeug ist."
+        },
+        {
+          "title": "Professionelle Tankreinigung",
+          "description": "Komplette Reinigung von Tank und Kraftstoffleitungen mit spezialisierter Ausrüstung und Techniken."
+        },
+        {
+          "title": "Kraftstoffaustausch",
+          "description": "Austausch des falschen Kraftstoffs durch den richtigen Kraftstoff, damit Sie sofort wieder fahren können."
+        },
+        {
+          "title": "Motorspülung",
+          "description": "Falls nötig spülen wir das Motorsystem, um alle Reste des falschen Kraftstoffs zu entfernen."
+        },
+        {
+          "title": "Qualitätskontrolle",
+          "description": "Gründliche Überprüfung um sicherzustellen, dass Ihr Fahrzeug sicher zu fahren ist."
+        }
+      ]
+    },
+    "situations": {
+      "title": "Kraftstoff-Probleme Die Wir Lösen",
+      "description": "Von Benzin in Diesel bis Diesel in Benzin - wir haben die Expertise und Ausrüstung für alle kraftstoffbezogenen Probleme Ihres Fahrzeugs.",
+      "items": [
+        {
+          "title": "Benzin in Diesel",
+          "description": "Das häufigste Problem. Benzin beschädigt Dieselpumpen und Injektoren. Wir reinigen schnell und sicher."
+        },
+        {
+          "title": "Diesel in Benzin",
+          "description": "Diesel in Benzinmotor verursacht schlechte Verbrennung. Unsere Spezialisten entfernen alle Diesel-Rückstände."
+        },
+        {
+          "title": "AdBlue-Probleme",
+          "description": "Falsches AdBlue oder AdBlue im Kraftstofftank? Wir lösen alle AdBlue-bezogenen Probleme."
+        },
+        {
+          "title": "Verunreinigter Kraftstoff",
+          "description": "Wasser oder Schmutz im Kraftstoff? Wir reinigen Ihren Tank und ersetzen den Kraftstoff für optimale Leistung."
+        },
+        {
+          "title": "Alter Kraftstoff",
+          "description": "Zu lange gestanden mit altem Kraftstoff? Wir entfernen alten Kraftstoff und füllen mit frischem Kraftstoff."
+        },
+        {
+          "title": "Falsche Oktanzahl",
+          "description": "Falsche Oktanzahl getankt? Wir sorgen für den richtigen Kraftstoff für Ihren spezifischen Motor."
+        }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Teilen Sie Ihren Standort Für Schnelle Hilfe",
+      "description": "Falscher Kraftstoff getankt? Teilen Sie Ihren genauen Standort, damit unsere Kraftstoff-Spezialisten Sie so schnell wie möglich finden und mit professioneller Tankreinigung helfen können.",
+      "imageAlt": "Standort teilen für Kraftstoff-Hilfe"
+    },
+    "locatiebutton": {
+      "sendLocation": "Standort Für Kraftstoff-Hilfe Teilen",
+      "loading": "Standort wird abgerufen...",
+      "confirmSend": "Standort via WhatsApp Senden",
+      "errors": {
+        "notSupported": "Ihr Browser unterstützt keine Standortfreigabe",
+        "failed": "Konnte Ihren Standort nicht abrufen. Bitte versuchen Sie es erneut."
+      }
+    },
+    "emergency": {
+      "title": "Falsch Getankt? Direkt Anrufen!",
+      "subtitle": "24/7 erreichbar für professionelle Kraftstoff-Hilfe. Schnelle Tankreinigung, sicherer Kraftstoffaustausch und sofort wieder fahren.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direkt verbunden mit unseren Kraftstoff-Spezialisten",
+      "stats": [
+        {
+          "value": "< 30 Min",
+          "label": "Durchschnittliche Ankunftszeit"
+        },
+        {
+          "value": "24/7",
+          "label": "Erreichbar für Notfälle"
+        },
+        {
+          "value": "100%",
+          "label": "Erfolgreich gelöste Fälle"
+        }
+      ]
+    }
+  },
+  "sleutels_vergeten": {
+    "seo": {
+      "title": "Schlüssel im Auto Vergessen - 24/7 Schnelle Hilfe | Mobile Hilfe",
+      "description": "Schlüssel im Auto vergessen? Wir helfen sofort! Professionelle Autoöffnung, kein Schaden, schneller Zugang. 24/7 erreichbar für Notfälle.",
+      "keywords": "schlüssel im auto, auto öffnen, schlüssel vergessen, schlüsseldienst, 24/7 service, autoöffnung",
+      "imageAlt": "Schlüssel vergessen Hilfe Service"
+    },
+    "hero": {
+      "badge": "Schlüssel Service",
+      "title": {
+        "part1": "Schlüssel im Auto",
+        "part2": "Vergessen?"
+      },
+      "subtitle": "Keine Panik! Unsere Spezialisten öffnen Ihr Auto sicher und ohne Schaden. Professionelle Autoöffnung mit den richtigen Werkzeugen und jahrelanger Erfahrung.",
+      "cta": "Direkt Anrufen: 085-250 29 28",
+      "whatsapp": "WhatsApp Hilfe",
+      "phone": "0852502928"
+    },
+    "features": {
+      "title": "Warum Unser Schlüssel Service?",
+      "subtitle": "Mit professionellen Werkzeugen und jahrelanger Erfahrung öffnen wir Ihr Auto sicher und ohne Schaden. Von modernen Autos bis zu klassischen Modellen.",
+      "items": [
+        {
+          "title": "Schnelle Hilfe",
+          "description": "Innerhalb von 30 Minuten vor Ort bei Notfällen. Unsere Schlüssel-Spezialisten sind 24/7 erreichbar."
+        },
+        {
+          "title": "Kein Schaden",
+          "description": "Professionelle Autoöffnung ohne Schäden am Fahrzeug. Wir verwenden spezialisierte Werkzeuge."
+        },
+        {
+          "title": "Alle Autotypen",
+          "description": "Moderne Autos, klassische Modelle, elektronische Schlösser - wir öffnen alle Fahrzeuge sicher."
+        },
+        {
+          "title": "24/7 Erreichbar",
+          "description": "Tag und Nacht verfügbar für Schlüssel-Notfälle. Auch an Wochenenden und Feiertagen."
+        }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Kompletter Auto Öffnungs Service",
+      "imageAlt": "Professioneller Schlüssel Service",
+      "items": [
+        {
+          "title": "Sichere Autoöffnung",
+          "description": "Wir öffnen Ihr Auto ohne Schaden mit professionellen Werkzeugen und Techniken, die für Ihr spezifisches Fahrzeug geeignet sind."
+        },
+        {
+          "title": "Alle Schlosstypen",
+          "description": "Von mechanischen Schlössern bis zu modernen elektronischen Systemen - wir haben die richtigen Werkzeuge für jeden Autotyp."
+        },
+        {
+          "title": "Schneller Zugang",
+          "description": "Innerhalb weniger Minuten haben Sie wieder Zugang zu Ihrem Fahrzeug, damit Sie schnell mit Ihrem Tag fortfahren können."
+        },
+        {
+          "title": "Schlüssel Duplizierung",
+          "description": "Direkt vor Ort können wir Ersatzschlüssel machen, damit Sie dieses Problem in Zukunft vermeiden können."
+        },
+        {
+          "title": "Kofferraum Öffnung",
+          "description": "Auch wenn nur der Kofferraum verschlossen ist, können wir ihn sicher öffnen ohne Schäden am Fahrzeug."
+        }
+      ]
+    },
+    "situations": {
+      "title": "Schlüssel-Probleme Die Wir Lösen",
+      "description": "Von vergessenen Schlüsseln bis zu gebrochenen Schlüsseln - wir haben die Expertise und Werkzeuge für alle schlüsselbezogenen Probleme Ihres Fahrzeugs.",
+      "items": [
+        {
+          "title": "Schlüssel im Auto",
+          "description": "Das häufigste Problem. Schlüssel im Auto vergessen mit allen Türen verschlossen. Wir öffnen sicher und schnell."
+        },
+        {
+          "title": "Gebrochener Schlüssel",
+          "description": "Schlüssel im Schloss gebrochen? Wir entfernen die gebrochenen Teile und machen vor Ort einen neuen Schlüssel."
+        },
+        {
+          "title": "Elektronische Probleme",
+          "description": "Schlüssel funktioniert nicht mehr wegen elektrischer Störung? Wir diagnostizieren und lösen elektronische Probleme."
+        },
+        {
+          "title": "Verlorene Schlüssel",
+          "description": "Alle Schlüssel verloren? Kein Problem, wir machen neue Schlüssel und programmieren sie für Ihr Fahrzeug."
+        },
+        {
+          "title": "Kofferraum Verschlossen",
+          "description": "Nur Kofferraum verschlossen mit Schlüssel darin? Wir öffnen den Kofferraum ohne Schäden am Auto."
+        },
+        {
+          "title": "Eingefrorene Schlösser",
+          "description": "Schloss im Winter eingefroren? Wir tauen sicher Ihre Schlösser auf ohne Schäden am Mechanismus."
+        }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Teilen Sie Ihren Standort Für Schnelle Hilfe",
+      "description": "Schlüssel im Auto vergessen? Teilen Sie Ihren genauen Standort, damit unsere Schlüssel-Spezialisten Sie so schnell wie möglich finden und mit professioneller Autoöffnung helfen können.",
+      "imageAlt": "Standort teilen für Schlüssel-Hilfe"
+    },
+    "locatiebutton": {
+      "sendLocation": "Standort Für Schlüssel-Hilfe Teilen",
+      "loading": "Standort wird abgerufen...",
+      "confirmSend": "Standort via WhatsApp Senden",
+      "errors": {
+        "notSupported": "Ihr Browser unterstützt keine Standortfreigabe",
+        "failed": "Konnte Ihren Standort nicht abrufen. Bitte versuchen Sie es erneut."
+      }
+    },
+    "emergency": {
+      "title": "Schlüssel Vergessen? Direkt Anrufen!",
+      "subtitle": "24/7 erreichbar für professionelle Schlüssel-Hilfe. Sichere Autoöffnung, kein Schaden und direkter Zugang zu Ihrem Fahrzeug wieder.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direkt verbunden mit unseren Schlüssel-Spezialisten",
+      "stats": [
+        {
+          "value": "< 30 Min",
+          "label": "Durchschnittliche Ankunftszeit"
+        },
+        {
+          "value": "24/7",
+          "label": "Erreichbar für Notfälle"
+        },
+        {
+          "value": "100%",
+          "label": "Erfolgreich geöffnet ohne Schaden"
+        }
+      ]
     }
   },
   "diensten": {
