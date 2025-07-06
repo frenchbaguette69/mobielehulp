@@ -1852,5 +1852,2471 @@
         "description": "Our experienced professionals are available 24/7 with professional assistance.",
         "features": ["24/7 Available", "Fast response", "Professional team", "Transparent pricing"]
       }
+    },
+        "autopech": {
+      "seo": {
+        "title": "Car Breakdown Service - 24/7 Roadside Assistance | Mobile Help",
+        "description": "Immediate help with car breakdowns. 24/7 available, fast service, certified mechanics. We'll get you back on the road quickly.",
+        "keywords": "car breakdown, roadside assistance, breakdown service, car won't start, 24/7 help, breakdown assistance, roadside help",
+        "imageAlt": "Professional car breakdown help"
+      },
+      "hero": {
+        "badge": "Breakdown Help",
+        "title": {
+          "part1": "Car Breakdown?",
+          "part2": "Immediate Assistance"
+        },
+        "subtitle": "Back on the road fast with our 24/7 breakdown service.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "features": {
+        "title": "Why Our Breakdown Service?",
+        "subtitle": "Our mechanics are available 24/7 to help you quickly and professionally. Fast on-site, transparent rates, always a solution.",
+        "items": [
+          { "title": "24/7 Available", "description": "Always reachable, day and night." },
+          { "title": "Fast Service", "description": "On-site within 30 minutes." },
+          { "title": "Certified Mechanics", "description": "Professional and reliable." },
+          { "title": "Transparent Pricing", "description": "No surprises afterwards." }
+        ]
+      },
+      "serviceDetails": {
+        "title": "Complete Breakdown Service",
+        "imageAlt": "Professional car breakdown help",
+        "items": [
+          { "title": "Jump Start", "description": "Immediate help with a dead battery." },
+          { "title": "Tire Service", "description": "Quick repair or replacement of flat tires." },
+          { "title": "Towing", "description": "Safe transport to a garage for serious breakdowns." }
+        ]
+      },
+      "situations": {
+        "title": "Common Breakdown Situations",
+        "description": "From flat tires to engine problems, we solve it quickly and professionally so you can travel safely again.",
+        "items": [
+          { "title": "Dead Battery", "description": "Car won't start? We help immediately." },
+          { "title": "Flat Tire", "description": "We replace or repair your tire on the spot." },
+          { "title": "Engine Problems", "description": "Quick diagnosis and help with engine issues." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share Your Location for Fast Help",
+        "description": "Stranded? Share your location so our mechanics can find and help you quickly.",
+        "imageAlt": "Share location for breakdown help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need Immediate Help? Call Now!",
+        "subtitle": "24/7 available for breakdown assistance. Fast on-site, always a solution.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our breakdown specialists",
+        "stats": [
+          { "value": "30 min", "label": "Average response time" },
+          { "value": "24/7", "label": "Always available" },
+          { "value": "100%", "label": "Satisfied customers" }
+        ]
+      }
+    },
+        "sleepdienstauto": {
+      "seo": {
+        "title": "Car Towing Service - 24/7 Fast and Safe Towing | Mobile Help",
+        "description": "Need a towing service now? 24/7 available, fast service, professional and safe car towing to any location.",
+        "keywords": "towing service, car towing, tow truck, car transport, 24/7 towing, roadside assistance, car recovery",
+        "imageAlt": "Professional car towing service"
+      },
+      "hero": {
+        "badge": "Car Towing",
+        "title": {
+          "part1": "Need Towing?",
+          "part2": "Fast & Safe Towing"
+        },
+        "subtitle": "Your car towed quickly and safely, 24/7 available.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "features": {
+        "title": "Why Our Towing Service?",
+        "subtitle": "Our towing service is available 24/7 and ensures safe, fast, and professional transport of your car to any location.",
+        "items": [
+          { "title": "24/7 Available", "description": "Always reachable, day and night." },
+          { "title": "Fast Service", "description": "On-site within 30 minutes." },
+          { "title": "Professional Equipment", "description": "Safe and reliable transport." },
+          { "title": "Experienced Drivers", "description": "Skilled and friendly staff." }
+        ]
+      },
+      "serviceDetails": {
+        "title": "Complete Towing Service",
+        "imageAlt": "Professional car towing service",
+        "items": [
+          { "title": "Breakdown", "description": "Immediate towing for breakdowns." },
+          { "title": "Accident", "description": "Safe transport after an accident." },
+          { "title": "Transport", "description": "Car transport to any desired location." }
+        ]
+      },
+      "situations": {
+        "title": "When Do You Need Towing?",
+        "description": "Whether it's a breakdown, accident, or transport, we tow your car safely and quickly to the desired destination.",
+        "items": [
+          { "title": "Breakdown", "description": "Fast help with car trouble." },
+          { "title": "Accident", "description": "Safe transport after a collision." },
+          { "title": "Vehicle relocation", "description": "Transport of non-driving vehicles." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share Your Location for Towing",
+        "description": "Share your location so we can help you quickly and transport your car safely.",
+        "imageAlt": "Share location for towing"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need Towing Now? Call Now!",
+        "subtitle": "24/7 available for towing. Fast on-site, always safe transport.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our towing specialists",
+        "stats": [
+          { "value": "30 min", "label": "Average response time" },
+          { "value": "24/7", "label": "Always available" },
+          { "value": "100%", "label": "Satisfied customers" }
+        ]
+      }
+    },
+        "slepenauto": {
+      "seo": {
+        "title": "Car Towing - 24/7 Fast and Safe Car Towing | Mobile Help",
+        "description": "Need your car towed now? 24/7 available, fast service, professional and safe transport to any location.",
+        "keywords": "car towing, towing service, car transport, 24/7 towing, roadside assistance, car recovery",
+        "imageAlt": "Professional car towing service"
+      },
+      "hero": {
+        "badge": "Car Towing",
+        "title": {
+          "part1": "Need Your Car Towed?",
+          "part2": "Fast & Safe Towing"
+        },
+        "subtitle": "Your car towed quickly and safely, 24/7 available.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "features": {
+        "title": "Why Our Towing Service?",
+        "subtitle": "Our towing service is available 24/7 and ensures safe, fast, and professional transport of your car to any location.",
+        "items": [
+          { "title": "24/7 Available", "description": "Always reachable, day and night." },
+          { "title": "Fast Service", "description": "On-site within 30 minutes." },
+          { "title": "Professional Equipment", "description": "Safe and reliable transport." },
+          { "title": "Experienced Drivers", "description": "Skilled and friendly staff." }
+        ]
+      },
+      "serviceDetails": {
+        "title": "Complete Towing Service",
+        "imageAlt": "Professional car towing service",
+        "items": [
+          { "title": "Breakdown", "description": "Immediate towing for breakdowns." },
+          { "title": "Accident", "description": "Safe transport after an accident." },
+          { "title": "Transport", "description": "Car transport to any desired location." }
+        ]
+      },
+      "situations": {
+        "title": "When Is Car Towing Needed?",
+        "description": "Whether it's a breakdown, accident, or transport, we tow your car safely and quickly to the desired destination.",
+        "items": [
+          { "title": "Breakdown", "description": "Fast help with car trouble." },
+          { "title": "Accident", "description": "Safe transport after a collision." },
+          { "title": "Vehicle relocation", "description": "Transport of non-driving vehicles." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share Your Location for Towing",
+        "description": "Share your location so we can help you quickly and transport your car safely.",
+        "imageAlt": "Share location for towing"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need Car Towing Now? Call Now!",
+        "subtitle": "24/7 available for towing. Fast on-site, always safe transport.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our towing specialists",
+        "stats": [
+          { "value": "30 min", "label": "Average response time" },
+          { "value": "24/7", "label": "Always available" },
+          { "value": "100%", "label": "Satisfied customers" }
+        ]
+      }
+    },
+        "sleepbedrijf": {
+      "seo": {
+        "title": "Towing Company - 24/7 Fast and Safe Car Towing Service | Mobile Help",
+        "description": "Need a towing company now? 24/7 available, fast service, professional and safe towing or recovery of your car.",
+        "keywords": "towing company, towing service, car towing, car recovery, 24/7 towing, roadside assistance, car transport",
+        "imageAlt": "Professional towing company"
+      },
+      "hero": {
+        "badge": "Towing Company",
+        "title": {
+          "part1": "Need a Towing Company?",
+          "part2": "Fast & Safe Towing"
+        },
+        "subtitle": "Your car towed or recovered quickly and safely, 24/7 available.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "features": {
+        "title": "Why Our Towing Company?",
+        "subtitle": "Our towing company is available 24/7 and ensures safe, fast, and professional transport or recovery of your car.",
+        "items": [
+          { "title": "24/7 Available", "description": "Always reachable, day and night." },
+          { "title": "Fast Service", "description": "On-site within 30 minutes." },
+          { "title": "Professional Equipment", "description": "Safe and reliable transport." },
+          { "title": "Experienced Drivers", "description": "Skilled and friendly staff." }
+        ]
+      },
+      "serviceDetails": {
+        "title": "Complete Towing Company Service",
+        "imageAlt": "Professional towing company",
+        "items": [
+          { "title": "Breakdown", "description": "Immediate towing or recovery for breakdowns." },
+          { "title": "Accident", "description": "Safe recovery after an accident." },
+          { "title": "Transport", "description": "Car transport to any desired location." }
+        ]
+      },
+      "situations": {
+        "title": "When Do You Need a Towing Company?",
+        "description": "Whether it's a breakdown, accident, or transport, our towing company helps you quickly and safely.",
+        "items": [
+          { "title": "Breakdown", "description": "Fast help with car trouble." },
+          { "title": "Accident", "description": "Safe recovery after a collision." },
+          { "title": "Vehicle relocation", "description": "Transport or recovery of non-driving vehicles." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share Your Location for Towing",
+        "description": "Share your location so we can help you quickly and transport or recover your car safely.",
+        "imageAlt": "Share location for towing company"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need a Towing Company Now? Call Now!",
+        "subtitle": "24/7 available for towing. Fast on-site, always safe transport or recovery.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our towing company specialists",
+        "stats": [
+          { "value": "30 min", "label": "Average response time" },
+          { "value": "24/7", "label": "Always available" },
+          { "value": "100%", "label": "Satisfied customers" }
+        ]
+      }
+    },
+        "autoWegLatenSlepen": {
+      "seo": {
+        "title": "Have Car Towed Away - 24/7 Fast and Safe | Mobile Help",
+        "description": "Need your car towed away from the road? 24/7 available, fast service, professional and safe transport.",
+        "keywords": "have car towed away, towing service, car towing, 24/7 towing, roadside assistance, car recovery",
+        "imageAlt": "Have car towed away"
+      },
+      "hero": {
+        "badge": "Have Car Towed Away",
+        "title": {
+          "part1": "Have Car Towed Away?",
+          "part2": "Fast & Safe Service"
+        },
+        "subtitle": "Your car quickly and safely towed from the road, 24/7 available.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "features": {
+        "title": "Why Have Your Car Towed Away?",
+        "subtitle": "Our towing service is available 24/7 and ensures safe, fast, and professional transport of your car from the road.",
+        "items": [
+          { "title": "24/7 Available", "description": "Always reachable, day and night." },
+          { "title": "Fast Service", "description": "On-site within 30 minutes." },
+          { "title": "Professional Equipment", "description": "Safe and reliable transport." },
+          { "title": "Experienced Drivers", "description": "Skilled and friendly staff." }
+        ]
+      },
+      "serviceDetails": {
+        "title": "Complete Towing Service for Car Removal",
+        "imageAlt": "Car towed away from the road",
+        "items": [
+          { "title": "Breakdown", "description": "Immediate towing for breakdowns." },
+          { "title": "Accident", "description": "Safe transport after an accident." },
+          { "title": "Stalled", "description": "Remove car in case of stalling or blockage." }
+        ]
+      },
+      "situations": {
+        "title": "When Have Car Towed Away?",
+        "description": "Whether it's a breakdown, accident, or stalling, we tow your car safely and quickly from the road.",
+        "items": [
+          { "title": "Breakdown", "description": "Fast help with car trouble." },
+          { "title": "Accident", "description": "Safe transport after a collision." },
+          { "title": "Stalled", "description": "Remove car in case of blockage or malfunction." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share Your Location for Towing",
+        "description": "Share your location so we can help you quickly and safely remove your car from the road.",
+        "imageAlt": "Share location for towing service"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need Car Towed Away Now? Call Now!",
+        "subtitle": "24/7 available for towing. Fast on-site, always safe transport.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our towing specialists",
+        "stats": [
+          { "value": "30 min", "label": "Average response time" },
+          { "value": "24/7", "label": "Always available" },
+          { "value": "100%", "label": "Satisfied customers" }
+        ]
+      }
+    },
+        "takelbedrijf": {
+      "seo": {
+        "title": "Towing Company - 24/7 Fast and Safe Towing Service for Cars | Mobile Help",
+        "description": "Need a towing company now? 24/7 available, fast service, professional and safe towing or recovery of your car.",
+        "keywords": "towing company, towing service, car towing, car recovery, 24/7 towing, roadside assistance, car transport",
+        "imageAlt": "Professional towing company"
+      },
+      "hero": {
+        "badge": "Towing Company",
+        "title": {
+          "part1": "Need a Towing Company?",
+          "part2": "Fast & Safe Towing"
+        },
+        "subtitle": "Your car quickly and safely towed or recovered, 24/7 available.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "features": {
+        "title": "Why Our Towing Company?",
+        "subtitle": "Our towing company is available 24/7 and ensures safe, fast, and professional towing or recovery of your car.",
+        "items": [
+          { "title": "24/7 Available", "description": "Always reachable, day and night." },
+          { "title": "Fast Service", "description": "On-site within 30 minutes." },
+          { "title": "Professional Equipment", "description": "Safe and reliable transport." },
+          { "title": "Experienced Drivers", "description": "Skilled and friendly staff." }
+        ]
+      },
+      "serviceDetails": {
+        "title": "Complete Towing Company Service",
+        "imageAlt": "Professional towing company",
+        "items": [
+          { "title": "Breakdown", "description": "Immediate towing or recovery for breakdowns." },
+          { "title": "Accident", "description": "Safe recovery after an accident." },
+          { "title": "Transport", "description": "Car transport to any desired location." }
+        ]
+      },
+      "situations": {
+        "title": "When Do You Need a Towing Company?",
+        "description": "Whether it's a breakdown, accident, or transport, our towing company helps you quickly and safely.",
+        "items": [
+          { "title": "Breakdown", "description": "Fast help with car trouble." },
+          { "title": "Accident", "description": "Safe recovery after a collision." },
+          { "title": "Vehicle relocation", "description": "Transport or recovery of non-driving vehicles." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share Your Location for Towing",
+        "description": "Share your location so we can help you quickly and safely tow or recover your car.",
+        "imageAlt": "Share location for towing company"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need a Towing Company Now? Call Now!",
+        "subtitle": "24/7 available for towing. Fast on-site, always safe transport or recovery.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our towing company specialists",
+        "stats": [
+          { "value": "30 min", "label": "Average response time" },
+          { "value": "24/7", "label": "Always available" },
+          { "value": "100%", "label": "Satisfied customers" }
+        ]
+      }
+    },
+        "sleepwagen": {
+      "seo": {
+        "title": "Tow Truck - 24/7 Fast and Safe Towing Service for Cars | Mobile Help",
+        "description": "Need a tow truck now? 24/7 available, fast service, professional and safe towing or recovery of your car.",
+        "keywords": "tow truck, towing service, car towing, car recovery, 24/7 towing, roadside assistance, car transport",
+        "imageAlt": "Professional tow truck"
+      },
+      "hero": {
+        "badge": "Tow Truck",
+        "title": {
+          "part1": "Need a Tow Truck?",
+          "part2": "Fast & Safe Towing"
+        },
+        "subtitle": "Your car quickly and safely towed or recovered, 24/7 available.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "features": {
+        "title": "Why Our Tow Truck?",
+        "subtitle": "Our tow truck is available 24/7 and ensures safe, fast, and professional transport or recovery of your car.",
+        "items": [
+          { "title": "24/7 Available", "description": "Always reachable, day and night." },
+          { "title": "Fast Service", "description": "On-site within 30 minutes." },
+          { "title": "Professional Equipment", "description": "Safe and reliable transport." },
+          { "title": "Experienced Drivers", "description": "Skilled and friendly staff." }
+        ]
+      },
+      "serviceDetails": {
+        "title": "Complete Tow Truck Service",
+        "imageAlt": "Tow truck service",
+        "items": [
+          { "title": "Breakdown", "description": "Immediate towing or recovery for breakdowns." },
+          { "title": "Accident", "description": "Safe recovery after an accident." },
+          { "title": "Transport", "description": "Car transport to any desired location." }
+        ]
+      },
+      "situations": {
+        "title": "When Do You Need a Tow Truck?",
+        "description": "Whether it's a breakdown, accident, or transport, our tow truck helps you quickly and safely.",
+        "items": [
+          { "title": "Breakdown", "description": "Fast help with car trouble." },
+          { "title": "Accident", "description": "Safe recovery after a collision." },
+          { "title": "Vehicle relocation", "description": "Transport or recovery of non-driving vehicles." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share Your Location for Tow Truck",
+        "description": "Share your location so we can help you quickly and safely transport or recover your car.",
+        "imageAlt": "Share location for tow truck"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need a Tow Truck Now? Call Now!",
+        "subtitle": "24/7 available for tow truck. Fast on-site, always safe transport or recovery.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our tow truck specialists",
+        "stats": [
+          { "value": "30 min", "label": "Average response time" },
+          { "value": "24/7", "label": "Always available" },
+          { "value": "100%", "label": "Satisfied customers" }
+        ]
+      }
+    },
+        "takelwagen": {
+      "seo": {
+        "title": "Tow Truck - 24/7 Fast and Safe Towing Service for Cars | Mobile Help",
+        "description": "Need a tow truck now? 24/7 available, fast service, professional and safe towing or recovery of your car.",
+        "keywords": "tow truck, towing service, car towing, car recovery, 24/7 towing, roadside assistance, car transport",
+        "imageAlt": "Professional tow truck"
+      },
+      "hero": {
+        "badge": "Tow Truck",
+        "title": {
+          "part1": "Need a Tow Truck?",
+          "part2": "Fast & Safe Towing"
+        },
+        "subtitle": "Your car quickly and safely towed or recovered, 24/7 available.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "features": {
+        "title": "Why Our Tow Truck?",
+        "subtitle": "Our tow truck is available 24/7 and ensures safe, fast, and professional transport or recovery of your car.",
+        "items": [
+          { "title": "24/7 Available", "description": "Always reachable, day and night." },
+          { "title": "Fast Service", "description": "On-site within 30 minutes." },
+          { "title": "Professional Equipment", "description": "Safe and reliable transport." },
+          { "title": "Experienced Drivers", "description": "Skilled and friendly staff." }
+        ]
+      },
+      "serviceDetails": {
+        "title": "Complete Tow Truck Service",
+        "imageAlt": "Tow truck service",
+        "items": [
+          { "title": "Breakdown", "description": "Immediate towing or recovery for breakdowns." },
+          { "title": "Accident", "description": "Safe recovery after an accident." },
+          { "title": "Transport", "description": "Car transport to any desired location." }
+        ]
+      },
+      "situations": {
+        "title": "When Do You Need a Tow Truck?",
+        "description": "Whether it's a breakdown, accident, or transport, our tow truck helps you quickly and safely.",
+        "items": [
+          { "title": "Breakdown", "description": "Fast help with car trouble." },
+          { "title": "Accident", "description": "Safe recovery after a collision." },
+          { "title": "Vehicle relocation", "description": "Transport or recovery of non-driving vehicles." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share Your Location for Tow Truck",
+        "description": "Share your location so we can help you quickly and safely transport or recover your car.",
+        "imageAlt": "Share location for tow truck"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need a Tow Truck Now? Call Now!",
+        "subtitle": "24/7 available for tow truck. Fast on-site, always safe transport or recovery.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our tow truck specialists",
+        "stats": [
+          { "value": "30 min", "label": "Average response time" },
+          { "value": "24/7", "label": "Always available" },
+          { "value": "100%", "label": "Satisfied customers" }
+        ]
+      }
+    },
+        "sleepdienst": {
+      "seo": {
+        "title": "Towing Service - 24/7 Fast and Safe for Cars | Mobile Help",
+        "description": "Need a towing service now? 24/7 available, fast service, professional and safe towing or recovery of your car.",
+        "keywords": "towing service, car towing, car recovery, 24/7 towing, roadside assistance, car transport",
+        "imageAlt": "Professional towing service"
+      },
+      "hero": {
+        "badge": "Towing Service",
+        "title": {
+          "part1": "Need Towing Service?",
+          "part2": "Fast & Safe Towing"
+        },
+        "subtitle": "Your car quickly and safely towed or recovered, 24/7 available.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "features": {
+        "title": "Why Our Towing Service?",
+        "subtitle": "Our towing service is available 24/7 and ensures safe, fast, and professional transport or recovery of your car.",
+        "items": [
+          { "title": "24/7 Available", "description": "Always reachable, day and night." },
+          { "title": "Fast Service", "description": "On-site within 30 minutes." },
+          { "title": "Professional Equipment", "description": "Safe and reliable transport." },
+          { "title": "Experienced Drivers", "description": "Skilled and friendly staff." }
+        ]
+      },
+      "serviceDetails": {
+        "title": "Complete Towing Service",
+        "imageAlt": "Towing service",
+        "items": [
+          { "title": "Breakdown", "description": "Immediate towing or recovery for breakdowns." },
+          { "title": "Accident", "description": "Safe recovery after an accident." },
+          { "title": "Transport", "description": "Car transport to any desired location." }
+        ]
+      },
+      "situations": {
+        "title": "When Do You Need Towing Service?",
+        "description": "Whether it's a breakdown, accident, or transport, our towing service helps you quickly and safely.",
+        "items": [
+          { "title": "Breakdown", "description": "Fast help with car trouble." },
+          { "title": "Accident", "description": "Safe recovery after a collision." },
+          { "title": "Vehicle relocation", "description": "Transport or recovery of non-driving vehicles." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share Your Location for Towing Service",
+        "description": "Share your location so we can help you quickly and safely transport or recover your car.",
+        "imageAlt": "Share location for towing service"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need Towing Service Now? Call Now!",
+        "subtitle": "24/7 available for towing service. Fast on-site, always safe transport or recovery.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our towing specialists",
+        "stats": [
+          { "value": "30 min", "label": "Average response time" },
+          { "value": "24/7", "label": "Always available" },
+          { "value": "100%", "label": "Satisfied customers" }
+        ]
+      }
+    },
+        "modder": {
+      "seo": {
+        "title": "Car stuck in mud? | Tips & Help",
+        "description": "Is your car stuck in the mud? Read what to do and get immediate help. 24/7 roadside assistance and recovery.",
+        "keywords": "car stuck, mud, car recovery, roadside assistance, car help",
+        "imageAlt": "Car stuck in mud"
+      },
+      "hero": {
+        "badge": "Car stuck in mud",
+        "title": {
+          "part1": "Car stuck in mud?",
+          "part2": "How to get free"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What to do if your car is stuck in mud?",
+        "subtitle": "Follow these steps to get your car free. Not working? We can help you immediately!",
+        "items": [
+          { "title": "Stay calm", "description": "Avoid spinning the wheels by not accelerating too much." },
+          { "title": "Clear the area", "description": "Remove as much mud as possible around the tires." },
+          { "title": "Use mats or branches", "description": "Place something under the wheels for extra grip." },
+          { "title": "Try to drive gently", "description": "Shift to a low gear and try to move slowly forward or backward." },
+          { "title": "Still stuck?", "description": "Call our help service, we arrive quickly!" }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and recover your car safely.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need help now? Call now!",
+        "subtitle": "24/7 available for cars stuck in mud. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "autoUitModder": {
+      "seo": {
+        "title": "Car pulled out of mud - 24/7 Help & Towing Service",
+        "description": "Is your car stuck in the mud? 24/7 available for fast and safe towing and recovery.",
+        "keywords": "car out of mud, car stuck, towing service, car recovery, roadside assistance",
+        "imageAlt": "Car pulled out of mud"
+      },
+      "hero": {
+        "badge": "Car pulled out of mud",
+        "title": {
+          "part1": "Car stuck in the mud?",
+          "part2": "We tow you out quickly"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "features": {
+        "title": "Why Our Towing Service?",
+        "subtitle": "Our towing service is available 24/7 and ensures safe, fast, and professional recovery of your car from the mud.",
+        "items": [
+          { "title": "24/7 available", "description": "Always immediate help, day and night." },
+          { "title": "Fast service", "description": "We arrive quickly, wherever you are." },
+          { "title": "Professional equipment", "description": "Your car is towed out safely and without damage." },
+          { "title": "Experienced team", "description": "Our specialists handle every situation." }
+        ]
+      },
+      "serviceDetails": {
+        "title": "Complete Towing Service",
+        "imageAlt": "Car pulled out of mud",
+        "items": [
+          { "title": "Pulling car out of mud", "description": "We safely pull your car out of the mud, without damage." },
+          { "title": "On-site recovery", "description": "We offer solutions even for severe stuck situations." },
+          { "title": "Transport to desired location", "description": "If needed, we take your car to a garage or address of your choice." }
+        ]
+      },
+      "situations": {
+        "title": "When Do You Need Towing?",
+        "description": "Whether it's mud, sand, or snow, we tow your car out quickly and safely.",
+        "items": [
+          { "title": "Stuck in mud", "description": "Your car can't move forward or backward." },
+          { "title": "Stuck in sand", "description": "Wheels spin in loose sand." },
+          { "title": "Stuck in snow", "description": "Car is completely stuck due to snow or ice." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share Your Location for Towing",
+        "description": "Share your location so we can help you quickly and recover your car safely.",
+        "imageAlt": "Share location for towing"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need Towing Now? Call Now!",
+        "subtitle": "24/7 available for towing. Fast on site, always safe transport.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our towing specialists"
+      }
+    },
+        "vastInModderAuto": {
+      "seo": {
+        "title": "Car stuck in mud? | 24/7 Towing & Help",
+        "description": "Car stuck in mud? 24/7 available for fast help and towing. We tow your car out quickly and safely.",
+        "keywords": "car stuck in mud, towing, car recovery, roadside assistance, car freeing",
+        "imageAlt": "Car stuck in mud"
+      },
+      "hero": {
+        "badge": "Car stuck in mud",
+        "title": {
+          "part1": "Car stuck in mud?",
+          "part2": "We help you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What to do if your car is stuck in mud?",
+        "subtitle": "Follow these steps to get your car free. Not working? We help you immediately!",
+        "items": [
+          { "title": "Stay calm", "description": "Avoid spinning the wheels by not accelerating too much." },
+          { "title": "Clear the area", "description": "Remove as much mud as possible around the tires." },
+          { "title": "Use mats or branches", "description": "Place something under the wheels for extra grip." },
+          { "title": "Try to drive gently", "description": "Shift to a low gear and try to move slowly forward or backward." },
+          { "title": "Still stuck?", "description": "Call our help service, we arrive quickly!" }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and recover your car safely.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need help now? Call now!",
+        "subtitle": "24/7 available for cars stuck in mud. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "autoVastInModder": {
+      "seo": {
+        "title": "Car stuck in mud? | 24/7 Towing & Help",
+        "description": "Car stuck in mud? 24/7 available for fast help and towing. We tow your car out quickly and safely.",
+        "keywords": "car stuck in mud, towing, car recovery, roadside assistance, car freeing",
+        "imageAlt": "Car stuck in mud"
+      },
+      "hero": {
+        "badge": "Car stuck in mud",
+        "title": {
+          "part1": "Car stuck in mud?",
+          "part2": "We help you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What to do if your car is stuck in mud?",
+        "subtitle": "Follow these steps to get your car free. Not working? We help you immediately!",
+        "items": [
+          { "title": "Stay calm", "description": "Avoid spinning the wheels by not accelerating too much." },
+          { "title": "Clear the area", "description": "Remove as much mud as possible around the tires." },
+          { "title": "Use mats or branches", "description": "Place something under the wheels for extra grip." },
+          { "title": "Try to drive gently", "description": "Shift to a low gear and try to move slowly forward or backward." },
+          { "title": "Still stuck?", "description": "Call our help service, we arrive quickly!" }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and recover your car safely.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need help now? Call now!",
+        "subtitle": "24/7 available for cars stuck in mud. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "vastInSneeuwAuto": {
+      "seo": {
+        "title": "Car stuck in snow? | 24/7 Towing & Help",
+        "description": "Car stuck in snow? 24/7 available for fast help and towing. We tow your car out quickly and safely.",
+        "keywords": "car stuck in snow, towing, car recovery, roadside assistance, car freeing",
+        "imageAlt": "Car stuck in snow"
+      },
+      "hero": {
+        "badge": "Car stuck in snow",
+        "title": {
+          "part1": "Car stuck in snow?",
+          "part2": "We help you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What to do if your car is stuck in snow?",
+        "subtitle": "Follow these steps to get your car free. Not working? We help you immediately!",
+        "items": [
+          { "title": "Stay calm", "description": "Avoid spinning the wheels by not accelerating too much." },
+          { "title": "Clear the area", "description": "Remove as much snow as possible around the tires." },
+          { "title": "Use mats or branches", "description": "Place something under the wheels for extra grip." },
+          { "title": "Try to drive gently", "description": "Shift to a low gear and try to move slowly forward or backward." },
+          { "title": "Still stuck?", "description": "Call our help service, we arrive quickly!" }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and recover your car safely.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need help now? Call now!",
+        "subtitle": "24/7 available for cars stuck in snow. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "autoVastInSneeuw": {
+      "seo": {
+        "title": "Car stuck in snow? | 24/7 Towing & Help",
+        "description": "Car stuck in snow? 24/7 available for fast help and towing. We tow your car out quickly and safely.",
+        "keywords": "car stuck in snow, towing, car recovery, roadside assistance, car freeing",
+        "imageAlt": "Car stuck in snow"
+      },
+      "hero": {
+        "badge": "Car stuck in snow",
+        "title": {
+          "part1": "Car stuck in snow?",
+          "part2": "We help you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What to do if your car is stuck in snow?",
+        "subtitle": "Follow these steps to get your car free. Not working? We help you immediately!",
+        "imageAlt": "Car stuck in snow help",
+        "items": [
+          { "title": "Stay calm", "description": "Avoid spinning the wheels by not accelerating too much." },
+          { "title": "Clear the area", "description": "Remove as much snow as possible around the tires." },
+          { "title": "Use mats or branches", "description": "Place something under the wheels for extra grip." },
+          { "title": "Try to drive gently", "description": "Shift to a low gear and try to move slowly forward or backward." },
+          { "title": "Still stuck?", "description": "Call our help service, we arrive quickly!" }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and recover your car safely.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need help now? Call now!",
+        "subtitle": "24/7 available for cars stuck in snow. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "autoInDeSlootVandaag": {
+      "seo": {
+        "title": "Car in the ditch today? | 24/7 Towing & Help",
+        "description": "Did your car end up in the ditch today? 24/7 available for fast help and towing. We recover your car quickly and safely.",
+        "keywords": "car in ditch, towing, car recovery, roadside assistance, car out of ditch",
+        "imageAlt": "Car in the ditch today"
+      },
+      "hero": {
+        "badge": "Car in the ditch today",
+        "title": {
+          "part1": "Car ended up in the ditch?",
+          "part2": "We help you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What to do if your car ended up in the ditch?",
+        "subtitle": "Follow these steps for your safety. Not working? We help you immediately!",
+        "imageAlt": "Car in the ditch help",
+        "items": [
+          { "title": "Stay calm", "description": "Ensure your own safety and that of others." },
+          { "title": "Leave the vehicle safely if possible", "description": "Watch out for traffic and your surroundings." },
+          { "title": "Call for help immediately", "description": "Contact our help service for quick recovery." },
+          { "title": "Wait for professional help", "description": "Do not try to recover the vehicle yourself." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and recover your car safely.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need help now? Call now!",
+        "subtitle": "24/7 available for cars in the ditch. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "autoBelandtInSloot": {
+      "seo": {
+        "title": "Car ended up in ditch? | 24/7 Towing & Help",
+        "description": "Did your car end up in the ditch? 24/7 available for fast help and towing. We recover your car quickly and safely.",
+        "keywords": "car in ditch, towing, car recovery, roadside assistance, car out of ditch",
+        "imageAlt": "Car ended up in ditch"
+      },
+      "hero": {
+        "badge": "Car ended up in ditch",
+        "title": {
+          "part1": "Car ended up in the ditch?",
+          "part2": "We help you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What to do if your car ended up in the ditch?",
+        "subtitle": "Follow these steps for your safety. Not working? We help you immediately!",
+        "imageAlt": "Car in the ditch help",
+        "items": [
+          { "title": "Stay calm", "description": "Ensure your own safety and that of others." },
+          { "title": "Leave the vehicle safely if possible", "description": "Watch out for traffic and your surroundings." },
+          { "title": "Call for help immediately", "description": "Contact our help service for quick recovery." },
+          { "title": "Wait for professional help", "description": "Do not try to recover the vehicle yourself." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and recover your car safely.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need help now? Call now!",
+        "subtitle": "24/7 available for cars in the ditch. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "autoInSlootVandaag": {
+      "seo": {
+        "title": "Car in ditch today? | 24/7 Towing & Help",
+        "description": "Did your car end up in the ditch today? 24/7 available for fast help and towing. We recover your car quickly and safely.",
+        "keywords": "car in ditch, towing, car recovery, roadside assistance, car out of ditch",
+        "imageAlt": "Car in ditch today"
+      },
+      "hero": {
+        "badge": "Car in ditch today",
+        "title": {
+          "part1": "Car in the ditch today?",
+          "part2": "We help you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What to do if your car ended up in the ditch today?",
+        "subtitle": "Follow these steps for your safety. Not working? We help you immediately!",
+        "imageAlt": "Car in the ditch help",
+        "items": [
+          { "title": "Stay calm", "description": "Ensure your own safety and that of others." },
+          { "title": "Leave the vehicle safely if possible", "description": "Watch out for traffic and your surroundings." },
+          { "title": "Call for help immediately", "description": "Contact our help service for quick recovery." },
+          { "title": "Wait for professional help", "description": "Do not try to recover the vehicle yourself." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and recover your car safely.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need help now? Call now!",
+        "subtitle": "24/7 available for cars in the ditch. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "autoInDeSloot": {
+      "seo": {
+        "title": "Car in the ditch? | 24/7 Towing & Help",
+        "description": "Did your car end up in the ditch? 24/7 available for fast help and towing. We recover your car quickly and safely.",
+        "keywords": "car in ditch, towing, car recovery, roadside assistance, car out of ditch",
+        "imageAlt": "Car in the ditch"
+      },
+      "hero": {
+        "badge": "Car in the ditch",
+        "title": {
+          "part1": "Car in the ditch?",
+          "part2": "We help you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What to do if your car ended up in the ditch?",
+        "subtitle": "Follow these steps for your safety. Not working? We help you immediately!",
+        "imageAlt": "Car in the ditch help",
+        "items": [
+          { "title": "Stay calm", "description": "Ensure your own safety and that of others." },
+          { "title": "Leave the vehicle safely if possible", "description": "Watch out for traffic and your surroundings." },
+          { "title": "Call for help immediately", "description": "Contact our help service for quick recovery." },
+          { "title": "Wait for professional help", "description": "Do not try to recover the vehicle yourself." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and recover your car safely.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need help now? Call now!",
+        "subtitle": "24/7 available for cars in the ditch. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "autoInSloot": {
+      "seo": {
+        "title": "Car in ditch? | 24/7 Towing & Help",
+        "description": "Did your car end up in the ditch? 24/7 available for fast help and towing. We recover your car quickly and safely.",
+        "keywords": "car in ditch, towing, car recovery, roadside assistance, car out of ditch",
+        "imageAlt": "Car in ditch"
+      },
+      "hero": {
+        "badge": "Car in ditch",
+        "title": {
+          "part1": "Car in ditch?",
+          "part2": "We help you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What to do if your car ended up in the ditch?",
+        "subtitle": "Follow these steps for your safety. Not working? We help you immediately!",
+        "imageAlt": "Car in the ditch help",
+        "items": [
+          { "title": "Stay calm", "description": "Ensure your own safety and that of others." },
+          { "title": "Leave the vehicle safely if possible", "description": "Watch out for traffic and your surroundings." },
+          { "title": "Call for help immediately", "description": "Contact our help service for quick recovery." },
+          { "title": "Wait for professional help", "description": "Do not try to recover the vehicle yourself." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and recover your car safely.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need help now? Call now!",
+        "subtitle": "24/7 available for cars in the ditch. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "autoInDeGreppel": {
+      "seo": {
+        "title": "Car in the ditch? | 24/7 Towing & Help",
+        "description": "Did your car end up in the ditch? 24/7 available for fast help and towing. We recover your car quickly and safely.",
+        "keywords": "car in ditch, towing, car recovery, roadside assistance, car out of ditch",
+        "imageAlt": "Car in the ditch"
+      },
+      "hero": {
+        "badge": "Car in the ditch",
+        "title": {
+          "part1": "Car in the ditch?",
+          "part2": "We help you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What to do if your car ended up in the ditch?",
+        "subtitle": "Follow these steps for your safety. Not working? We help you immediately!",
+        "imageAlt": "Car in the ditch help",
+        "items": [
+          { "title": "Stay calm", "description": "Ensure your own safety and that of others." },
+          { "title": "Leave the vehicle safely if possible", "description": "Watch out for traffic and your surroundings." },
+          { "title": "Call for help immediately", "description": "Contact our help service for quick recovery." },
+          { "title": "Wait for professional help", "description": "Do not try to recover the vehicle yourself." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and recover your car safely.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need help now? Call now!",
+        "subtitle": "24/7 available for cars in the ditch. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "autoVastInGras": {
+      "seo": {
+        "title": "Car stuck in grass? | 24/7 Towing & Help",
+        "description": "Is your car stuck in the grass? 24/7 available for fast help and towing. We help you quickly and safely.",
+        "keywords": "car stuck in grass, towing, car recovery, roadside assistance, car out of grass",
+        "imageAlt": "Car stuck in grass"
+      },
+      "hero": {
+        "badge": "Car stuck in grass",
+        "title": {
+          "part1": "Car stuck in grass?",
+          "part2": "We help you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What to do if your car is stuck in the grass?",
+        "subtitle": "Follow these steps for your safety. Not working? We help you immediately!",
+        "imageAlt": "Car stuck in grass help",
+        "items": [
+          { "title": "Stay calm", "description": "Ensure your own safety and that of others." },
+          { "title": "Do not accelerate too much", "description": "This can make the situation worse." },
+          { "title": "Call for help immediately", "description": "Contact our help service for quick recovery." },
+          { "title": "Wait for professional help", "description": "Do not try to pull the vehicle out yourself." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and recover your car safely.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need help now? Call now!",
+        "subtitle": "24/7 available for cars stuck in grass. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "autoUitDeModderHalen": {
+      "seo": {
+        "title": "Car out of the mud? | 24/7 Towing & Help",
+        "description": "Is your car stuck in the mud? 24/7 available for fast help and towing. We help you quickly and safely.",
+        "keywords": "car out of mud, towing, car recovery, roadside assistance, car stuck in mud",
+        "imageAlt": "Car out of the mud"
+      },
+      "hero": {
+        "badge": "Car out of the mud",
+        "title": {
+          "part1": "Car stuck in the mud?",
+          "part2": "We help you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What to do if your car is stuck in the mud?",
+        "subtitle": "Follow these steps for your safety. Not working? We help you immediately!",
+        "imageAlt": "Car out of the mud help",
+        "items": [
+          { "title": "Stay calm", "description": "Ensure your own safety and that of others." },
+          { "title": "Do not accelerate too much", "description": "This can make the situation worse." },
+          { "title": "Call for help immediately", "description": "Contact our help service for quick recovery." },
+          { "title": "Wait for professional help", "description": "Do not try to pull the vehicle out yourself." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and recover your car safely.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need help now? Call now!",
+        "subtitle": "24/7 available for cars stuck in the mud. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "autoVastInZand": {
+      "seo": {
+        "title": "Car stuck in sand? | 24/7 Towing & Help",
+        "description": "Is your car stuck in the sand? 24/7 available for fast help and towing. We help you quickly and safely.",
+        "keywords": "car stuck in sand, towing, car recovery, roadside assistance, car out of sand",
+        "imageAlt": "Car stuck in sand"
+      },
+      "hero": {
+        "badge": "Car stuck in sand",
+        "title": {
+          "part1": "Car stuck in sand?",
+          "part2": "We help you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What to do if your car is stuck in the sand?",
+        "subtitle": "Follow these steps for your safety. Not working? We help you immediately!",
+        "imageAlt": "Car stuck in sand help",
+        "items": [
+          { "title": "Stay calm", "description": "Ensure your own safety and that of others." },
+          { "title": "Do not accelerate too much", "description": "This can make the situation worse." },
+          { "title": "Call for help immediately", "description": "Contact our help service for quick recovery." },
+          { "title": "Wait for professional help", "description": "Do not try to pull the vehicle out yourself." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and recover your car safely.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need help now? Call now!",
+        "subtitle": "24/7 available for cars stuck in sand. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "autoVastgeredenInModder": {
+      "seo": {
+        "title": "Car stuck in mud? | 24/7 Towing & Help",
+        "description": "Is your car stuck in the mud? 24/7 available for fast help and towing. We help you quickly and safely.",
+        "keywords": "car stuck in mud, towing, car recovery, roadside assistance, car out of mud",
+        "imageAlt": "Car stuck in mud"
+      },
+      "hero": {
+        "badge": "Car stuck in mud",
+        "title": {
+          "part1": "Car stuck in mud?",
+          "part2": "We help you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What to do if your car is stuck in the mud?",
+        "subtitle": "Follow these steps for your safety. Not working? We help you immediately!",
+        "imageAlt": "Car stuck in mud help",
+        "items": [
+          { "title": "Stay calm", "description": "Ensure your own safety and that of others." },
+          { "title": "Do not accelerate too much", "description": "This can make the situation worse." },
+          { "title": "Call for help immediately", "description": "Contact our help service for quick recovery." },
+          { "title": "Wait for professional help", "description": "Do not try to pull the vehicle out yourself." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and recover your car safely.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need help now? Call now!",
+        "subtitle": "24/7 available for cars stuck in the mud. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "carStuckInTheMud": {
+      "seo": {
+        "title": "Car stuck in the mud? | 24/7 Towing & Help",
+        "description": "Is your car stuck in the mud? 24/7 available for fast help and towing. We help you quickly and safely.",
+        "keywords": "car stuck in mud, towing, car recovery, roadside assistance, car out of mud",
+        "imageAlt": "Car stuck in the mud"
+      },
+      "hero": {
+        "badge": "Car stuck in the mud",
+        "title": {
+          "part1": "Car stuck in the mud?",
+          "part2": "We help you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What to do if your car is stuck in the mud?",
+        "subtitle": "Follow these steps for your safety. Not working? We help you immediately!",
+        "imageAlt": "Car stuck in the mud help",
+        "items": [
+          { "title": "Stay calm", "description": "Ensure your own safety and that of others." },
+          { "title": "Do not accelerate too much", "description": "This can make the situation worse." },
+          { "title": "Call for help immediately", "description": "Contact our help service for quick recovery." },
+          { "title": "Wait for professional help", "description": "Do not try to pull the vehicle out yourself." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and recover your car safely.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need help now? Call now!",
+        "subtitle": "24/7 available for cars stuck in the mud. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "autoInDeBerm": {
+      "seo": {
+        "title": "Car in the shoulder? | 24/7 Towing & Help",
+        "description": "Has your car ended up in the shoulder? 24/7 available for fast help and towing. We help you quickly and safely.",
+        "keywords": "car in the shoulder, towing, car recovery, roadside assistance, car out of shoulder",
+        "imageAlt": "Car in the shoulder"
+      },
+      "hero": {
+        "badge": "Car in the shoulder",
+        "title": {
+          "part1": "Car in the shoulder?",
+          "part2": "We help you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What to do if your car is in the shoulder?",
+        "subtitle": "Follow these steps for your safety. Not working? We help you immediately!",
+        "imageAlt": "Car in the shoulder help",
+        "items": [
+          { "title": "Stay calm", "description": "Ensure your own safety and that of others." },
+          { "title": "Do not accelerate too much", "description": "This can make the situation worse." },
+          { "title": "Call for help immediately", "description": "Contact our help service for quick recovery." },
+          { "title": "Wait for professional help", "description": "Do not try to pull the vehicle out yourself." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and recover your car safely.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need help now? Call now!",
+        "subtitle": "24/7 available for cars in the shoulder. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "vastInDeModder": {
+      "seo": {
+        "title": "Stuck in the mud? | 24/7 Towing & Help",
+        "description": "Is your vehicle stuck in the mud? 24/7 available for fast help and towing. We help you quickly and safely.",
+        "keywords": "stuck in the mud, towing, car recovery, roadside assistance, car out of mud",
+        "imageAlt": "Stuck in the mud"
+      },
+      "hero": {
+        "badge": "Stuck in the mud",
+        "title": {
+          "part1": "Stuck in the mud?",
+          "part2": "We help you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What to do if you are stuck in the mud?",
+        "subtitle": "Follow these steps for your safety. Not working? We help you immediately!",
+        "imageAlt": "Stuck in the mud help",
+        "items": [
+          { "title": "Stay calm", "description": "Ensure your own safety and that of others." },
+          { "title": "Do not accelerate too much", "description": "This can make the situation worse." },
+          { "title": "Call for help immediately", "description": "Contact our help service for quick recovery." },
+          { "title": "Wait for professional help", "description": "Do not try to pull the vehicle out yourself." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and recover your vehicle safely.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need help now? Call now!",
+        "subtitle": "24/7 available for vehicles stuck in the mud. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "autoZitVastInModder": {
+      "seo": {
+        "title": "Car stuck in mud? | 24/7 Towing & Help",
+        "description": "Is your car stuck in the mud? 24/7 available for fast help and towing. We help you quickly and safely.",
+        "keywords": "car stuck in mud, towing, car recovery, roadside assistance, car out of mud",
+        "imageAlt": "Car stuck in mud"
+      },
+      "hero": {
+        "badge": "Car stuck in mud",
+        "title": {
+          "part1": "Car stuck in mud?",
+          "part2": "We help you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What to do if your car is stuck in the mud?",
+        "subtitle": "Follow these steps for your safety. Not working? We help you immediately!",
+        "imageAlt": "Car stuck in mud help",
+        "items": [
+          { "title": "Stay calm", "description": "Ensure your own safety and that of others." },
+          { "title": "Do not accelerate too much", "description": "This can make the situation worse." },
+          { "title": "Call for help immediately", "description": "Contact our help service for quick recovery." },
+          { "title": "Wait for professional help", "description": "Do not try to pull the vehicle out yourself." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and recover your car safely.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need help now? Call now!",
+        "subtitle": "24/7 available for cars stuck in the mud. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "hoeKrijgJeEenAutoUitDeModder": {
+      "seo": {
+        "title": "How to get a car out of the mud? | 24/7 Towing & Help",
+        "description": "Is your car stuck in the mud? 24/7 available for fast help and towing. We help you quickly and safely.",
+        "keywords": "get car out of mud, towing, car recovery, roadside assistance, stuck in mud",
+        "imageAlt": "Get car out of mud"
+      },
+      "hero": {
+        "badge": "Get car out of mud",
+        "title": {
+          "part1": "How to get a car out of the mud?",
+          "part2": "We help you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What to do if your car is stuck in the mud?",
+        "subtitle": "Follow these steps for your safety. Not working? We help you immediately!",
+        "imageAlt": "Get car out of mud help",
+        "items": [
+          { "title": "Stay calm", "description": "Ensure your own safety and that of others." },
+          { "title": "Do not accelerate too much", "description": "This can make the situation worse." },
+          { "title": "Call for help immediately", "description": "Contact our help service for quick recovery." },
+          { "title": "Wait for professional help", "description": "Do not try to pull the vehicle out yourself." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and recover your car safely.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need help now? Call now!",
+        "subtitle": "24/7 available for cars stuck in the mud. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "vastInDeModderMetAuto": {
+      "seo": {
+        "title": "Stuck in the mud with car? | 24/7 Towing & Help",
+        "description": "Is your car stuck in the mud? 24/7 available for fast help and towing. We help you quickly and safely.",
+        "keywords": "stuck in the mud with car, towing, car recovery, roadside assistance, car out of mud",
+        "imageAlt": "Stuck in the mud with car"
+      },
+      "hero": {
+        "badge": "Stuck in the mud with car",
+        "title": {
+          "part1": "Stuck in the mud with car?",
+          "part2": "We help you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What to do if your car is stuck in the mud?",
+        "subtitle": "Follow these steps for your safety. Not working? We help you immediately!",
+        "imageAlt": "Stuck in the mud with car help",
+        "items": [
+          { "title": "Stay calm", "description": "Ensure your own safety and that of others." },
+          { "title": "Do not accelerate too much", "description": "This can make the situation worse." },
+          { "title": "Call for help immediately", "description": "Contact our help service for quick recovery." },
+          { "title": "Wait for professional help", "description": "Do not try to pull the vehicle out yourself." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and recover your car safely.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need help now? Call now!",
+        "subtitle": "24/7 available for cars stuck in the mud. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "autoInDeModder": {
+      "seo": {
+        "title": "Car in the mud? | 24/7 Towing & Help",
+        "description": "Is your car stuck in the mud? 24/7 available for fast help and towing. We help you quickly and safely.",
+        "keywords": "car in the mud, towing, car recovery, roadside assistance, car out of mud",
+        "imageAlt": "Car in the mud"
+      },
+      "hero": {
+        "badge": "Car in the mud",
+        "title": {
+          "part1": "Car in the mud?",
+          "part2": "We help you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What to do if your car is in the mud?",
+        "subtitle": "Follow these steps for your safety. Not working? We help you immediately!",
+        "imageAlt": "Car in the mud help",
+        "items": [
+          { "title": "Stay calm", "description": "Ensure your own safety and that of others." },
+          { "title": "Do not accelerate too much", "description": "This can make the situation worse." },
+          { "title": "Call for help immediately", "description": "Contact our help service for quick recovery." },
+          { "title": "Wait for professional help", "description": "Do not try to pull the vehicle out yourself." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and recover your car safely.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need help now? Call now!",
+        "subtitle": "24/7 available for cars in the mud. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "autoStaatVastInDeModder": {
+      "seo": {
+        "title": "Car stuck in the mud? | 24/7 Towing & Help",
+        "description": "Is your car stuck in the mud? 24/7 available for fast help and towing. We help you quickly and safely.",
+        "keywords": "car stuck in the mud, towing, car recovery, roadside assistance, car out of mud",
+        "imageAlt": "Car stuck in the mud"
+      },
+      "hero": {
+        "badge": "Car stuck in the mud",
+        "title": {
+          "part1": "Car stuck in the mud?",
+          "part2": "We help you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What to do if your car is stuck in the mud?",
+        "subtitle": "Follow these steps for your safety. Not working? We help you immediately!",
+        "imageAlt": "Car stuck in the mud help",
+        "items": [
+          { "title": "Stay calm", "description": "Ensure your own safety and that of others." },
+          { "title": "Do not accelerate too much", "description": "This can make the situation worse." },
+          { "title": "Call for help immediately", "description": "Contact our help service for quick recovery." },
+          { "title": "Wait for professional help", "description": "Do not try to pull the vehicle out yourself." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and recover your car safely.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need help now? Call now!",
+        "subtitle": "24/7 available for cars stuck in the mud. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "accuAutoLeeg": {
+      "seo": {
+        "title": "Car battery dead? | 24/7 Roadside Assistance & Jump Start",
+        "description": "Is your car battery dead? 24/7 available for fast help and jump start service. We get you back on the road immediately.",
+        "keywords": "car battery dead, jump start, roadside assistance, car battery, car won't start",
+        "imageAlt": "Car battery dead"
+      },
+      "hero": {
+        "badge": "Car battery dead",
+        "title": {
+          "part1": "Car battery dead?",
+          "part2": "We jump start you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What to do with a dead battery?",
+        "subtitle": "Follow these steps for your safety. Not working? We help you immediately!",
+        "imageAlt": "Car battery dead help",
+        "items": [
+          { "title": "Check if the lights work", "description": "No lights? High chance the battery is dead." },
+          { "title": "Try to start the car", "description": "Not working? Call our jump start service." },
+          { "title": "Use jumper cables if possible", "description": "Pay attention to the correct order and safety." },
+          { "title": "Call for help immediately", "description": "We arrive quickly to get you back on the road." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and jump start your car.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need help now? Call now!",
+        "subtitle": "24/7 available for dead batteries. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "autoAccuLeegWatNu": {
+      "seo": {
+        "title": "Car battery dead, what now? | 24/7 Roadside Assistance & Jump Start",
+        "description": "Is your car battery dead? 24/7 available for fast help and jump start service. We get you back on the road immediately.",
+        "keywords": "car battery dead what now, jump start, roadside assistance, car battery, car won't start",
+        "imageAlt": "Car battery dead what now"
+      },
+      "hero": {
+        "badge": "Car battery dead, what now?",
+        "title": {
+          "part1": "Car battery dead, what now?",
+          "part2": "We jump start you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What to do with a dead battery?",
+        "subtitle": "Follow these steps for your safety. Not working? We help you immediately!",
+        "imageAlt": "Car battery dead help",
+        "items": [
+          { "title": "Check if the lights work", "description": "No lights? High chance the battery is dead." },
+          { "title": "Try to start the car", "description": "Not working? Call our jump start service." },
+          { "title": "Use jumper cables if possible", "description": "Pay attention to the correct order and safety." },
+          { "title": "Call for help immediately", "description": "We arrive quickly to get you back on the road." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and jump start your car.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need help now? Call now!",
+        "subtitle": "24/7 available for dead batteries. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "serviceAccu": {
+      "seo": {
+        "title": "Battery service | 24/7 Battery Help & Jump Start",
+        "description": "Problems with your battery? 24/7 available for fast service, replacement and jump start. We help you immediately.",
+        "keywords": "battery service, battery replacement, jump start, battery help, car battery dead",
+        "imageAlt": "Battery service"
+      },
+      "hero": {
+        "badge": "Battery service",
+        "title": {
+          "part1": "Problems with your battery?",
+          "part2": "We help you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What does our battery service include?",
+        "subtitle": "We offer fast help with battery problems, replace batteries on site and make sure you can safely get back on the road.",
+        "imageAlt": "Battery service help",
+        "items": [
+          { "title": "Quick diagnosis", "description": "We immediately check your battery and electrical systems." },
+          { "title": "Jump start service", "description": "We safely and quickly jump start your car if possible." },
+          { "title": "Battery replacement", "description": "If necessary, we replace your battery on site." },
+          { "title": "24/7 available", "description": "Always help, day and night, wherever you are." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and check or replace your battery.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need battery service now? Call now!",
+        "subtitle": "24/7 available for battery problems, jump start and replacement. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "accuServiceAanHuis": {
+      "seo": {
+        "title": "Battery service at home | 24/7 Battery Help & Jump Start",
+        "description": "Need battery service at home? 24/7 available for fast help, replacement and jump start at your location. We help you immediately.",
+        "keywords": "battery service at home, battery replacement at home, jump start, battery help, car battery dead",
+        "imageAlt": "Battery service at home"
+      },
+      "hero": {
+        "badge": "Battery service at home",
+        "title": {
+          "part1": "Need battery service at home?",
+          "part2": "We come to you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What does battery service at home include?",
+        "subtitle": "We come to your home for battery problems, replace your battery on site and make sure you can drive again quickly.",
+        "imageAlt": "Battery service at home help",
+        "items": [
+          { "title": "Battery replacement at home", "description": "We replace your battery directly at your home." },
+          { "title": "Jump start service on location", "description": "We safely and quickly jump start your car at your home." },
+          { "title": "Quick diagnosis", "description": "We check your battery and electrical systems on site." },
+          { "title": "24/7 available", "description": "Always help, day and night, wherever you live." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and check or replace your battery at your home.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need battery service at home now? Call now!",
+        "subtitle": "24/7 available for battery problems, jump start and replacement at home. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "accuVervangenAanHuis": {
+      "seo": {
+        "title": "Battery replacement at home | 24/7 Battery Help & Replacement",
+        "description": "Need battery replacement at home? 24/7 available for fast replacement and help at your location. We help you immediately.",
+        "keywords": "battery replacement at home, battery replacement, battery help, car battery dead, battery service",
+        "imageAlt": "Battery replacement at home"
+      },
+      "hero": {
+        "badge": "Battery replacement at home",
+        "title": {
+          "part1": "Need battery replacement at home?",
+          "part2": "We come to you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What does battery replacement at home include?",
+        "subtitle": "We come to your home to replace your battery, so you can drive again quickly.",
+        "imageAlt": "Battery replacement at home help",
+        "items": [
+          { "title": "Battery replacement at home", "description": "We replace your battery directly at your home." },
+          { "title": "Quick diagnosis", "description": "We check your battery and electrical systems on site." },
+          { "title": "Jump start if needed", "description": "We safely and quickly jump start your car after replacement." },
+          { "title": "24/7 available", "description": "Always help, day and night, wherever you live." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and replace your battery at your home.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need battery replacement at home now? Call now!",
+        "subtitle": "24/7 available for battery replacement at home. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "vervangenAccuAuto": {
+      "seo": {
+        "title": "Car battery replacement | 24/7 Battery Help & Replacement",
+        "description": "Need your car battery replaced? 24/7 available for fast replacement and help. We come to you immediately.",
+        "keywords": "car battery replacement, battery replacement, car battery dead, battery service, battery help",
+        "imageAlt": "Car battery replacement"
+      },
+      "hero": {
+        "badge": "Car battery replacement",
+        "title": {
+          "part1": "Need your car battery replaced?",
+          "part2": "We come to you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What does car battery replacement include?",
+        "subtitle": "We replace your car battery quickly and professionally, so you can safely get back on the road.",
+        "imageAlt": "Car battery replacement help",
+        "items": [
+          { "title": "Professional replacement", "description": "We replace your battery according to factory specifications." },
+          { "title": "Fast service", "description": "We arrive quickly, wherever you are." },
+          { "title": "Jump start if needed", "description": "We safely jump start your car after replacement." },
+          { "title": "24/7 available", "description": "Always help, day and night, throughout the Netherlands." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and replace your battery wherever you are.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need car battery replacement now? Call now!",
+        "subtitle": "24/7 available for battery replacement. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "accuVervangenAuto": {
+      "seo": {
+        "title": "Car battery replacement | 24/7 Battery Help & Replacement",
+        "description": "Need your car battery replaced? 24/7 available for fast replacement and help. We come to you immediately.",
+        "keywords": "car battery replacement, battery replacement, car battery dead, battery service, battery help",
+        "imageAlt": "Car battery replacement"
+      },
+      "hero": {
+        "badge": "Car battery replacement",
+        "title": {
+          "part1": "Need your car battery replaced?",
+          "part2": "We come to you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What does car battery replacement include?",
+        "subtitle": "We replace your car battery quickly and professionally, so you can safely get back on the road.",
+        "imageAlt": "Car battery replacement help",
+        "items": [
+          { "title": "Professional replacement", "description": "We replace your battery according to factory specifications." },
+          { "title": "Fast service", "description": "We arrive quickly, wherever you are." },
+          { "title": "Jump start if needed", "description": "We safely jump start your car after replacement." },
+          { "title": "24/7 available", "description": "Always help, day and night, throughout the Netherlands." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and replace your battery wherever you are.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need car battery replacement now? Call now!",
+        "subtitle": "24/7 available for battery replacement. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "autoAccuVervangenAanHuis": {
+      "seo": {
+        "title": "Car battery replacement at home | 24/7 Battery Help & Replacement",
+        "description": "Need car battery replacement at home? 24/7 available for fast replacement and help at your location. We come to you immediately.",
+        "keywords": "car battery replacement at home, battery replacement at home, battery help, car battery dead, battery service",
+        "imageAlt": "Car battery replacement at home"
+      },
+      "hero": {
+        "badge": "Car battery replacement at home",
+        "title": {
+          "part1": "Need car battery replacement at home?",
+          "part2": "We come to you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What does car battery replacement at home include?",
+        "subtitle": "We come to your home to replace your car battery, so you can get back on the road quickly.",
+        "imageAlt": "Car battery replacement at home help",
+        "items": [
+          { "title": "Battery replacement at home", "description": "We replace your car battery directly at your home." },
+          { "title": "Quick diagnosis", "description": "We check your battery and electrical systems on site." },
+          { "title": "Jump start if needed", "description": "We safely and quickly jump start your car after replacement." },
+          { "title": "24/7 available", "description": "Always help, day and night, wherever you live." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and replace your car battery at your home.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need car battery replacement at home now? Call now!",
+        "subtitle": "24/7 available for battery replacement at home. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "accuAutoVervangen": {
+      "seo": {
+        "title": "Car battery replacement | 24/7 Battery Help & Replacement",
+        "description": "Need your car battery replaced? 24/7 available for fast replacement and help. We come to you immediately.",
+        "keywords": "car battery replacement, battery replacement, car battery dead, battery service, battery help",
+        "imageAlt": "Car battery replacement"
+      },
+      "hero": {
+        "badge": "Car battery replacement",
+        "title": {
+          "part1": "Need your car battery replaced?",
+          "part2": "We come to you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What does car battery replacement include?",
+        "subtitle": "We replace your car battery quickly and professionally, so you can safely get back on the road.",
+        "imageAlt": "Car battery replacement help",
+        "items": [
+          { "title": "Professional replacement", "description": "We replace your battery according to factory specifications." },
+          { "title": "Fast service", "description": "We arrive quickly, wherever you are." },
+          { "title": "Jump start if needed", "description": "We safely jump start your car after replacement." },
+          { "title": "24/7 available", "description": "Always help, day and night, throughout the Netherlands." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and replace your battery wherever you are.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need car battery replacement now? Call now!",
+        "subtitle": "24/7 available for battery replacement. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "accuLatenVervangenAanHuis": {
+      "seo": {
+        "title": "Have your battery replaced at home | 24/7 Battery Help & Replacement",
+        "description": "Need your battery replaced at home? 24/7 available for fast replacement and help at your location. We come to you immediately.",
+        "keywords": "battery replaced at home, battery replacement at home, battery help, car battery dead, battery service",
+        "imageAlt": "Have your battery replaced at home"
+      },
+      "hero": {
+        "badge": "Have your battery replaced at home",
+        "title": {
+          "part1": "Need your battery replaced at home?",
+          "part2": "We come to you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What does having your battery replaced at home include?",
+        "subtitle": "We come to your home to replace your battery, so you can get back on the road quickly.",
+        "imageAlt": "Battery replacement at home help",
+        "items": [
+          { "title": "Battery replacement at home", "description": "We replace your battery directly at your home." },
+          { "title": "Quick diagnosis", "description": "We check your battery and electrical systems on site." },
+          { "title": "Jump start if needed", "description": "We safely and quickly jump start your car after replacement." },
+          { "title": "24/7 available", "description": "Always help, day and night, wherever you live." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and replace your battery at your home.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need your battery replaced at home now? Call now!",
+        "subtitle": "24/7 available for battery replacement at home. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "autoAccuVervangen": {
+      "seo": {
+        "title": "Car battery replacement | 24/7 Battery Help & Replacement",
+        "description": "Need your car battery replaced? 24/7 available for fast replacement and help. We come to you immediately.",
+        "keywords": "car battery replacement, battery replacement, car battery dead, battery service, battery help",
+        "imageAlt": "Car battery replacement"
+      },
+      "hero": {
+        "badge": "Car battery replacement",
+        "title": {
+          "part1": "Car battery replacement?",
+          "part2": "We come to you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What does car battery replacement include?",
+        "subtitle": "We replace your car battery quickly and professionally, so you can safely get back on the road.",
+        "imageAlt": "Car battery replacement help",
+        "items": [
+          { "title": "Professional replacement", "description": "We replace your battery according to factory specifications." },
+          { "title": "Fast service", "description": "We arrive quickly, wherever you are." },
+          { "title": "Jump start if needed", "description": "We safely jump start your car after replacement." },
+          { "title": "24/7 available", "description": "Always help, day and night, throughout the Netherlands." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and replace your battery wherever you are.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need car battery replacement now? Call now!",
+        "subtitle": "24/7 available for battery replacement. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
+    },
+        "accuLatenVervangen": {
+      "seo": {
+        "title": "Have your battery replaced | 24/7 Battery Help & Replacement",
+        "description": "Need your battery replaced? 24/7 available for fast replacement and help. We come to you immediately.",
+        "keywords": "have battery replaced, battery replacement, car battery dead, battery service, battery help",
+        "imageAlt": "Have your battery replaced"
+      },
+      "hero": {
+        "badge": "Have your battery replaced",
+        "title": {
+          "part1": "Have your battery replaced?",
+          "part2": "We come to you immediately"
+        },
+        "subtitle": "Need help now? We are available 24/7.",
+        "phone": "0852502928",
+        "cta": "Call Now: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "What does having your battery replaced include?",
+        "subtitle": "We replace your battery quickly and professionally, so you can safely get back on the road.",
+        "imageAlt": "Battery replacement help",
+        "items": [
+          { "title": "Professional replacement", "description": "We replace your battery according to factory specifications." },
+          { "title": "Fast service", "description": "We arrive quickly, wherever you are." },
+          { "title": "Jump start if needed", "description": "We safely jump start your car after replacement." },
+          { "title": "24/7 available", "description": "Always help, day and night, throughout the Netherlands." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Share your location for help",
+        "description": "Share your location so we can help you quickly and replace your battery wherever you are.",
+        "imageAlt": "Share location for help"
+      },
+      "locatiebutton": {
+        "sendLocation": "Share Location",
+        "loading": "Loading...",
+        "confirmSend": "Click again to send",
+        "errors": {
+          "notSupported": "Location sharing is not supported by your browser.",
+          "failed": "Could not get your location. Try again or check your settings."
+        }
+      },
+      "emergency": {
+        "title": "Need your battery replaced now? Call now!",
+        "subtitle": "24/7 available for battery replacement. Fast on site, always safe assistance.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Directly connected to our helpdesk"
+      }
     }
 }

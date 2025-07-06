@@ -1552,7 +1552,7 @@
     "imageAlt": "Locatie delen voor hulp"
   }
 },
-  "service": {
+"service": {
     "car-transport": {
       "title": "Auto Transport Service",
       "subtitle": "Veilig autotransport door heel Europa",
@@ -1852,6 +1852,2472 @@
       "subtitle": "Professionele hulpdienst 24/7",
       "description": "Onze ervaren professionals staan 24/7 voor u klaar met professionele hulp.",
       "features": ["24/7 Beschikbaar", "Snelle responstijd", "Professioneel team", "Transparante prijzen"]
+    }
+  },
+"autopech": {
+    "seo": {
+      "title": "Autopech Service - 24/7 Hulp bij Pech onderweg | Mobiele Hulp",
+      "description": "Direct hulp bij autopech onderweg. 24/7 bereikbaar, snelle service, vakkundige monteurs. We helpen u snel weer op weg.",
+      "keywords": "autopech, pechhulp, pech onderweg, auto start niet, 24/7 hulp, pechservice, wegenwacht",
+      "imageAlt": "Professionele autopech hulp"
+    },
+    "hero": {
+      "badge": "Autopech Hulp",
+      "title": {
+        "part1": "Autopech?",
+        "part2": "Direct Pechhulp"
+      },
+      "subtitle": "Snel weer op weg met onze 24/7 autopech hulp.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "features": {
+      "title": "Waarom Onze Pechhulp?",
+      "subtitle": "Onze monteurs staan 24/7 klaar om u snel en vakkundig te helpen bij autopech. Snel ter plaatse, transparante tarieven en altijd een oplossing.",
+      "items": [
+        { "title": "24/7 Beschikbaar", "description": "Altijd bereikbaar, dag en nacht." },
+        { "title": "Snelle Service", "description": "Binnen 30 minuten ter plaatse." },
+        { "title": "Gecertificeerde Monteurs", "description": "Professioneel en betrouwbaar." },
+        { "title": "Transparante Prijzen", "description": "Geen verrassingen achteraf." }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Complete Pechhulp Service",
+      "imageAlt": "Professionele autopech hulp",
+      "items": [
+        { "title": "Starthulp", "description": "Direct hulp bij een lege accu." },
+        { "title": "Bandenservice", "description": "Snelle reparatie of vervanging van lekke banden." },
+        { "title": "Sleepdienst", "description": "Veilig vervoer naar een garage bij ernstige pech." }
+      ]
+    },
+    "situations": {
+      "title": "Veelvoorkomende Pechsituaties",
+      "description": "Van een lekke band tot motorproblemen, wij lossen het snel en vakkundig op zodat u weer veilig onderweg bent.",
+      "items": [
+        { "title": "Lege Accu", "description": "Uw auto start niet meer? Wij helpen direct." },
+        { "title": "Lekke Band", "description": "Wij vervangen of repareren uw band ter plaatse." },
+        { "title": "Motorproblemen", "description": "Snelle diagnose en hulp bij motorstoringen." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel Uw Locatie voor Snelle Pechhulp",
+      "description": "Stilgevallen? Deel uw locatie zodat onze monteurs u snel kunnen vinden en direct kunnen helpen.",
+      "imageAlt": "Locatie delen voor pechhulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Locatie delen",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct Pechhulp Nodig? Bel Nu!",
+      "subtitle": "24/7 bereikbaar voor pechhulp. Snel ter plaatse, altijd een oplossing.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze pechhulp specialisten",
+      "stats": [
+        { "value": "30 min", "label": "Gemiddelde aanrijtijd" },
+        { "value": "24/7", "label": "Altijd bereikbaar" },
+        { "value": "100%", "label": "Tevreden klanten" }
+      ]
+    }
+  },
+    "sleepdienstauto": {
+    "seo": {
+      "title": "Sleepdienst Auto - 24/7 Snel en Veilig Auto's Slepen | Mobiele Hulp",
+      "description": "Direct een sleepdienst nodig? 24/7 bereikbaar, snelle service, professioneel en veilig uw auto laten slepen naar elke locatie.",
+      "keywords": "sleepdienst, auto slepen, sleepservice, auto transport, 24/7 sleepdienst, pechhulp, auto afslepen",
+      "imageAlt": "Professionele sleepdienst auto"
+    },
+    "hero": {
+      "badge": "Sleepdienst Auto",
+      "title": {
+        "part1": "Sleepdienst Nodig?",
+        "part2": "Snel & Veilig Gesleept"
+      },
+      "subtitle": "Uw auto snel en veilig gesleept, 24/7 bereikbaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "features": {
+      "title": "Waarom Onze Sleepdienst?",
+      "subtitle": "Onze sleepdienst is 24/7 bereikbaar en zorgt voor veilig, snel en professioneel vervoer van uw auto naar elke gewenste locatie.",
+      "items": [
+        { "title": "24/7 Beschikbaar", "description": "Altijd bereikbaar, dag en nacht." },
+        { "title": "Snelle Service", "description": "Binnen 30 minuten ter plaatse." },
+        { "title": "Professioneel Materieel", "description": "Veilig en betrouwbaar vervoer." },
+        { "title": "Ervaren Chauffeurs", "description": "Vakkundig en vriendelijk personeel." }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Complete Sleepdienst Service",
+      "imageAlt": "Professionele sleepdienst auto",
+      "items": [
+        { "title": "Pechhulp", "description": "Direct slepen bij pech onderweg." },
+        { "title": "Ongeval", "description": "Veilig vervoer na een ongeval." },
+        { "title": "Transport", "description": "Auto transport naar elke gewenste locatie." }
+      ]
+    },
+    "situations": {
+      "title": "Wanneer Sleepdienst Nodig?",
+      "description": "Of het nu gaat om pech, een ongeval of transport, wij slepen uw auto veilig en snel naar de gewenste bestemming.",
+      "items": [
+        { "title": "Pech onderweg", "description": "Snel hulp bij autopech." },
+        { "title": "Ongeval", "description": "Veilig vervoer na een botsing." },
+        { "title": "Verplaatsen auto", "description": "Transport van niet-rijdende voertuigen." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel Uw Locatie voor Sleepdienst",
+      "description": "Geef uw locatie door zodat wij u snel kunnen helpen en uw auto veilig kunnen vervoeren.",
+      "imageAlt": "Locatie delen voor sleepdienst"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct Sleepdienst Nodig? Bel Nu!",
+      "subtitle": "24/7 bereikbaar voor sleepdienst. Snel ter plaatse, altijd veilig vervoer.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze sleepdienst specialisten",
+      "stats": [
+        { "value": "30 min", "label": "Gemiddelde aanrijtijd" },
+        { "value": "24/7", "label": "Altijd bereikbaar" },
+        { "value": "100%", "label": "Tevreden klanten" }
+      ]
+    }
+  },
+    "slepenauto": {
+    "seo": {
+      "title": "Auto Slepen - 24/7 Snel en Veilig Uw Auto Laten Slepen | Mobiele Hulp",
+      "description": "Direct uw auto laten slepen? 24/7 bereikbaar, snelle service, professioneel en veilig vervoer naar elke locatie.",
+      "keywords": "auto slepen, sleepdienst, auto transport, 24/7 sleepdienst, pechhulp, auto afslepen",
+      "imageAlt": "Professionele auto sleepdienst"
+    },
+    "hero": {
+      "badge": "Auto Slepen",
+      "title": {
+        "part1": "Auto Laten Slepen?",
+        "part2": "Snel & Veilig Gesleept"
+      },
+      "subtitle": "Uw auto snel en veilig gesleept, 24/7 bereikbaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "features": {
+      "title": "Waarom Onze Sleepdienst?",
+      "subtitle": "Onze sleepdienst is 24/7 bereikbaar en zorgt voor veilig, snel en professioneel vervoer van uw auto naar elke gewenste locatie.",
+      "items": [
+        { "title": "24/7 Beschikbaar", "description": "Altijd bereikbaar, dag en nacht." },
+        { "title": "Snelle Service", "description": "Binnen 30 minuten ter plaatse." },
+        { "title": "Professioneel Materieel", "description": "Veilig en betrouwbaar vervoer." },
+        { "title": "Ervaren Chauffeurs", "description": "Vakkundig en vriendelijk personeel." }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Complete Sleepdienst Service",
+      "imageAlt": "Professionele auto sleepdienst",
+      "items": [
+        { "title": "Pechhulp", "description": "Direct slepen bij pech onderweg." },
+        { "title": "Ongeval", "description": "Veilig vervoer na een ongeval." },
+        { "title": "Transport", "description": "Auto transport naar elke gewenste locatie." }
+      ]
+    },
+    "situations": {
+      "title": "Wanneer Auto Slepen Nodig?",
+      "description": "Of het nu gaat om pech, een ongeval of transport, wij slepen uw auto veilig en snel naar de gewenste bestemming.",
+      "items": [
+        { "title": "Pech onderweg", "description": "Snel hulp bij autopech." },
+        { "title": "Ongeval", "description": "Veilig vervoer na een botsing." },
+        { "title": "Verplaatsen auto", "description": "Transport van niet-rijdende voertuigen." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel Uw Locatie voor Sleepdienst",
+      "description": "Geef uw locatie door zodat wij u snel kunnen helpen en uw auto veilig kunnen vervoeren.",
+      "imageAlt": "Locatie delen voor sleepdienst"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct Auto Slepen Nodig? Bel Nu!",
+      "subtitle": "24/7 bereikbaar voor sleepdienst. Snel ter plaatse, altijd veilig vervoer.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze sleepdienst specialisten",
+      "stats": [
+        { "value": "30 min", "label": "Gemiddelde aanrijtijd" },
+        { "value": "24/7", "label": "Altijd bereikbaar" },
+        { "value": "100%", "label": "Tevreden klanten" }
+      ]
+    }
+  },
+    "sleepbedrijf": {
+    "seo": {
+      "title": "Sleepbedrijf - 24/7 Snel en Veilig Sleepdienst voor Auto's | Mobiele Hulp",
+      "description": "Direct een sleepbedrijf nodig? 24/7 bereikbaar, snelle service, professioneel en veilig uw auto laten slepen of bergen.",
+      "keywords": "sleepbedrijf, sleepdienst, auto slepen, auto berging, 24/7 sleepdienst, pechhulp, auto transport",
+      "imageAlt": "Professioneel sleepbedrijf"
+    },
+    "hero": {
+      "badge": "Sleepbedrijf",
+      "title": {
+        "part1": "Sleepbedrijf Nodig?",
+        "part2": "Snel & Veilig Gesleept"
+      },
+      "subtitle": "Uw auto snel en veilig gesleept of geborgen, 24/7 bereikbaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "features": {
+      "title": "Waarom Ons Sleepbedrijf?",
+      "subtitle": "Ons sleepbedrijf is 24/7 bereikbaar en zorgt voor veilig, snel en professioneel vervoer of berging van uw auto.",
+      "items": [
+        { "title": "24/7 Beschikbaar", "description": "Altijd bereikbaar, dag en nacht." },
+        { "title": "Snelle Service", "description": "Binnen 30 minuten ter plaatse." },
+        { "title": "Professioneel Materieel", "description": "Veilig en betrouwbaar vervoer." },
+        { "title": "Ervaren Chauffeurs", "description": "Vakkundig en vriendelijk personeel." }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Complete Sleepbedrijf Service",
+      "imageAlt": "Professioneel sleepbedrijf",
+      "items": [
+        { "title": "Pechhulp", "description": "Direct slepen of bergen bij pech onderweg." },
+        { "title": "Ongeval", "description": "Veilig bergen na een ongeval." },
+        { "title": "Transport", "description": "Auto transport naar elke gewenste locatie." }
+      ]
+    },
+    "situations": {
+      "title": "Wanneer Sleepbedrijf Nodig?",
+      "description": "Of het nu gaat om pech, een ongeval of transport, ons sleepbedrijf helpt u snel en veilig.",
+      "items": [
+        { "title": "Pech onderweg", "description": "Snel hulp bij autopech." },
+        { "title": "Ongeval", "description": "Veilig bergen na een botsing." },
+        { "title": "Verplaatsen auto", "description": "Transport of berging van niet-rijdende voertuigen." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel Uw Locatie voor Sleepbedrijf",
+      "description": "Geef uw locatie door zodat wij u snel kunnen helpen en uw auto veilig kunnen vervoeren of bergen.",
+      "imageAlt": "Locatie delen voor sleepbedrijf"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct Sleepbedrijf Nodig? Bel Nu!",
+      "subtitle": "24/7 bereikbaar voor sleepbedrijf. Snel ter plaatse, altijd veilig vervoer of berging.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze sleepbedrijf specialisten",
+      "stats": [
+        { "value": "30 min", "label": "Gemiddelde aanrijtijd" },
+        { "value": "24/7", "label": "Altijd bereikbaar" },
+        { "value": "100%", "label": "Tevreden klanten" }
+      ]
+    }
+  },
+    "autoWegLatenSlepen": {
+    "seo": {
+      "title": "Auto Weg Laten Slepen - 24/7 Snel en Veilig | Mobiele Hulp",
+      "description": "Direct uw auto van de weg laten slepen? 24/7 bereikbaar, snelle service, professioneel en veilig vervoer.",
+      "keywords": "auto weg laten slepen, sleepdienst, auto afslepen, 24/7 sleepdienst, pechhulp, auto bergen",
+      "imageAlt": "Auto weg laten slepen"
+    },
+    "hero": {
+      "badge": "Auto Weg Laten Slepen",
+      "title": {
+        "part1": "Auto Weg Laten Slepen?",
+        "part2": "Snel & Veilig Geregeld"
+      },
+      "subtitle": "Uw auto snel en veilig van de weg gesleept, 24/7 bereikbaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "features": {
+      "title": "Waarom Uw Auto Weg Laten Slepen?",
+      "subtitle": "Onze sleepdienst is 24/7 bereikbaar en zorgt voor veilig, snel en professioneel vervoer van uw auto van de weg.",
+      "items": [
+        { "title": "24/7 Beschikbaar", "description": "Altijd bereikbaar, dag en nacht." },
+        { "title": "Snelle Service", "description": "Binnen 30 minuten ter plaatse." },
+        { "title": "Professioneel Materieel", "description": "Veilig en betrouwbaar vervoer." },
+        { "title": "Ervaren Chauffeurs", "description": "Vakkundig en vriendelijk personeel." }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Complete Sleepdienst voor Auto van de Weg",
+      "imageAlt": "Auto van de weg laten slepen",
+      "items": [
+        { "title": "Pechhulp", "description": "Direct slepen bij pech onderweg." },
+        { "title": "Ongeval", "description": "Veilig vervoer na een ongeval." },
+        { "title": "Stilstand", "description": "Auto verwijderen bij stilstand of blokkade." }
+      ]
+    },
+    "situations": {
+      "title": "Wanneer Auto Weg Laten Slepen?",
+      "description": "Of het nu gaat om pech, een ongeval of stilstand, wij slepen uw auto veilig en snel van de weg.",
+      "items": [
+        { "title": "Pech onderweg", "description": "Snel hulp bij autopech." },
+        { "title": "Ongeval", "description": "Veilig vervoer na een botsing." },
+        { "title": "Stilstand", "description": "Auto verwijderen bij blokkade of storing." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel Uw Locatie voor Sleepdienst",
+      "description": "Geef uw locatie door zodat wij u snel kunnen helpen en uw auto veilig van de weg kunnen halen.",
+      "imageAlt": "Locatie delen voor sleepdienst"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct Auto Weg Laten Slepen? Bel Nu!",
+      "subtitle": "24/7 bereikbaar voor sleepdienst. Snel ter plaatse, altijd veilig vervoer.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze sleepdienst specialisten",
+      "stats": [
+        { "value": "30 min", "label": "Gemiddelde aanrijtijd" },
+        { "value": "24/7", "label": "Altijd bereikbaar" },
+        { "value": "100%", "label": "Tevreden klanten" }
+      ]
+    }
+  },
+    "takelbedrijf": {
+    "seo": {
+      "title": "Takelbedrijf - 24/7 Snel en Veilig Takeldienst voor Auto's | Mobiele Hulp",
+      "description": "Direct een takelbedrijf nodig? 24/7 bereikbaar, snelle service, professioneel en veilig uw auto laten takelen of bergen.",
+      "keywords": "takelbedrijf, takeldienst, auto takelen, auto berging, 24/7 takeldienst, pechhulp, auto transport",
+      "imageAlt": "Professioneel takelbedrijf"
+    },
+    "hero": {
+      "badge": "Takelbedrijf",
+      "title": {
+        "part1": "Takelbedrijf Nodig?",
+        "part2": "Snel & Veilig Getakeld"
+      },
+      "subtitle": "Uw auto snel en veilig getakeld of geborgen, 24/7 bereikbaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "features": {
+      "title": "Waarom Ons Takelbedrijf?",
+      "subtitle": "Ons takelbedrijf is 24/7 bereikbaar en zorgt voor veilig, snel en professioneel takelen of bergen van uw auto.",
+      "items": [
+        { "title": "24/7 Beschikbaar", "description": "Altijd bereikbaar, dag en nacht." },
+        { "title": "Snelle Service", "description": "Binnen 30 minuten ter plaatse." },
+        { "title": "Professioneel Materieel", "description": "Veilig en betrouwbaar vervoer." },
+        { "title": "Ervaren Chauffeurs", "description": "Vakkundig en vriendelijk personeel." }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Complete Takelbedrijf Service",
+      "imageAlt": "Professioneel takelbedrijf",
+      "items": [
+        { "title": "Pechhulp", "description": "Direct takelen of bergen bij pech onderweg." },
+        { "title": "Ongeval", "description": "Veilig bergen na een ongeval." },
+        { "title": "Transport", "description": "Auto transport naar elke gewenste locatie." }
+      ]
+    },
+    "situations": {
+      "title": "Wanneer Takelbedrijf Nodig?",
+      "description": "Of het nu gaat om pech, een ongeval of transport, ons takelbedrijf helpt u snel en veilig.",
+      "items": [
+        { "title": "Pech onderweg", "description": "Snel hulp bij autopech." },
+        { "title": "Ongeval", "description": "Veilig bergen na een botsing." },
+        { "title": "Verplaatsen auto", "description": "Transport of berging van niet-rijdende voertuigen." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel Uw Locatie voor Takelbedrijf",
+      "description": "Geef uw locatie door zodat wij u snel kunnen helpen en uw auto veilig kunnen takelen of bergen.",
+      "imageAlt": "Locatie delen voor takelbedrijf"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct Takelbedrijf Nodig? Bel Nu!",
+      "subtitle": "24/7 bereikbaar voor takelbedrijf. Snel ter plaatse, altijd veilig vervoer of berging.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze takelbedrijf specialisten",
+      "stats": [
+        { "value": "30 min", "label": "Gemiddelde aanrijtijd" },
+        { "value": "24/7", "label": "Altijd bereikbaar" },
+        { "value": "100%", "label": "Tevreden klanten" }
+      ]
+    }
+  },
+    "sleepwagen": {
+    "seo": {
+      "title": "Sleepwagen - 24/7 Snel en Veilig Sleepdienst voor Auto's | Mobiele Hulp",
+      "description": "Direct een sleepwagen nodig? 24/7 bereikbaar, snelle service, professioneel en veilig uw auto laten slepen of bergen.",
+      "keywords": "sleepwagen, sleepdienst, auto slepen, auto berging, 24/7 sleepdienst, pechhulp, auto transport",
+      "imageAlt": "Professionele sleepwagen"
+    },
+    "hero": {
+      "badge": "Sleepwagen",
+      "title": {
+        "part1": "Sleepwagen Nodig?",
+        "part2": "Snel & Veilig Gesleept"
+      },
+      "subtitle": "Uw auto snel en veilig gesleept of geborgen, 24/7 bereikbaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "features": {
+      "title": "Waarom Onze Sleepwagen?",
+      "subtitle": "Onze sleepwagen is 24/7 bereikbaar en zorgt voor veilig, snel en professioneel vervoer of berging van uw auto.",
+      "items": [
+        { "title": "24/7 Beschikbaar", "description": "Altijd bereikbaar, dag en nacht." },
+        { "title": "Snelle Service", "description": "Binnen 30 minuten ter plaatse." },
+        { "title": "Professioneel Materieel", "description": "Veilig en betrouwbaar vervoer." },
+        { "title": "Ervaren Chauffeurs", "description": "Vakkundig en vriendelijk personeel." }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Complete Sleepwagen Service",
+      "imageAlt": "Sleepwagen dienst",
+      "items": [
+        { "title": "Pechhulp", "description": "Direct slepen of bergen bij pech onderweg." },
+        { "title": "Ongeval", "description": "Veilig bergen na een ongeval." },
+        { "title": "Transport", "description": "Auto transport naar elke gewenste locatie." }
+      ]
+    },
+    "situations": {
+      "title": "Wanneer Sleepwagen Nodig?",
+      "description": "Of het nu gaat om pech, een ongeval of transport, onze sleepwagen helpt u snel en veilig.",
+      "items": [
+        { "title": "Pech onderweg", "description": "Snel hulp bij autopech." },
+        { "title": "Ongeval", "description": "Veilig bergen na een botsing." },
+        { "title": "Verplaatsen auto", "description": "Transport of berging van niet-rijdende voertuigen." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel Uw Locatie voor Sleepwagen",
+      "description": "Geef uw locatie door zodat wij u snel kunnen helpen en uw auto veilig kunnen vervoeren of bergen.",
+      "imageAlt": "Locatie delen voor sleepwagen"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct Sleepwagen Nodig? Bel Nu!",
+      "subtitle": "24/7 bereikbaar voor sleepwagen. Snel ter plaatse, altijd veilig vervoer of berging.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze sleepwagenspecialisten",
+      "stats": [
+        { "value": "30 min", "label": "Gemiddelde aanrijtijd" },
+        { "value": "24/7", "label": "Altijd bereikbaar" },
+        { "value": "100%", "label": "Tevreden klanten" }
+      ]
+    }
+  },
+    "takelwagen": {
+    "seo": {
+      "title": "Takelwagen - 24/7 Snel en Veilig Takeldienst voor Auto's | Mobiele Hulp",
+      "description": "Direct een takelwagen nodig? 24/7 bereikbaar, snelle service, professioneel en veilig uw auto laten takelen of bergen.",
+      "keywords": "takelwagen, takeldienst, auto takelen, auto berging, 24/7 takeldienst, pechhulp, auto transport",
+      "imageAlt": "Professionele takelwagen"
+    },
+    "hero": {
+      "badge": "Takelwagen",
+      "title": {
+        "part1": "Takelwagen Nodig?",
+        "part2": "Snel & Veilig Getakeld"
+      },
+      "subtitle": "Uw auto snel en veilig getakeld of geborgen, 24/7 bereikbaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "features": {
+      "title": "Waarom Onze Takelwagen?",
+      "subtitle": "Onze takelwagen is 24/7 bereikbaar en zorgt voor veilig, snel en professioneel vervoer of berging van uw auto.",
+      "items": [
+        { "title": "24/7 Beschikbaar", "description": "Altijd bereikbaar, dag en nacht." },
+        { "title": "Snelle Service", "description": "Binnen 30 minuten ter plaatse." },
+        { "title": "Professioneel Materieel", "description": "Veilig en betrouwbaar vervoer." },
+        { "title": "Ervaren Chauffeurs", "description": "Vakkundig en vriendelijk personeel." }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Complete Takelwagen Service",
+      "imageAlt": "Takelwagen dienst",
+      "items": [
+        { "title": "Pechhulp", "description": "Direct takelen of bergen bij pech onderweg." },
+        { "title": "Ongeval", "description": "Veilig bergen na een ongeval." },
+        { "title": "Transport", "description": "Auto transport naar elke gewenste locatie." }
+      ]
+    },
+    "situations": {
+      "title": "Wanneer Takelwagen Nodig?",
+      "description": "Of het nu gaat om pech, een ongeval of transport, onze takelwagen helpt u snel en veilig.",
+      "items": [
+        { "title": "Pech onderweg", "description": "Snel hulp bij autopech." },
+        { "title": "Ongeval", "description": "Veilig bergen na een botsing." },
+        { "title": "Verplaatsen auto", "description": "Transport of berging van niet-rijdende voertuigen." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel Uw Locatie voor Takelwagen",
+      "description": "Geef uw locatie door zodat wij u snel kunnen helpen en uw auto veilig kunnen vervoeren of bergen.",
+      "imageAlt": "Locatie delen voor takelwagen"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct Takelwagen Nodig? Bel Nu!",
+      "subtitle": "24/7 bereikbaar voor takelwagen. Snel ter plaatse, altijd veilig vervoer of berging.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze takelwagenspecialisten",
+      "stats": [
+        { "value": "30 min", "label": "Gemiddelde aanrijtijd" },
+        { "value": "24/7", "label": "Altijd bereikbaar" },
+        { "value": "100%", "label": "Tevreden klanten" }
+      ]
+    }
+  },
+    "sleepdienst": {
+    "seo": {
+      "title": "Sleepdienst - 24/7 Snel en Veilig voor Auto's | Mobiele Hulp",
+      "description": "Direct een sleepdienst nodig? 24/7 bereikbaar, snelle service, professioneel en veilig uw auto laten slepen of bergen.",
+      "keywords": "sleepdienst, auto slepen, auto berging, 24/7 sleepdienst, pechhulp, auto transport",
+      "imageAlt": "Professionele sleepdienst"
+    },
+    "hero": {
+      "badge": "Sleepdienst",
+      "title": {
+        "part1": "Sleepdienst Nodig?",
+        "part2": "Snel & Veilig Gesleept"
+      },
+      "subtitle": "Uw auto snel en veilig gesleept of geborgen, 24/7 bereikbaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "features": {
+      "title": "Waarom Onze Sleepdienst?",
+      "subtitle": "Onze sleepdienst is 24/7 bereikbaar en zorgt voor veilig, snel en professioneel vervoer of berging van uw auto.",
+      "items": [
+        { "title": "24/7 Beschikbaar", "description": "Altijd bereikbaar, dag en nacht." },
+        { "title": "Snelle Service", "description": "Binnen 30 minuten ter plaatse." },
+        { "title": "Professioneel Materieel", "description": "Veilig en betrouwbaar vervoer." },
+        { "title": "Ervaren Chauffeurs", "description": "Vakkundig en vriendelijk personeel." }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Complete Sleepdienst Service",
+      "imageAlt": "Sleepdienst dienst",
+      "items": [
+        { "title": "Pechhulp", "description": "Direct slepen of bergen bij pech onderweg." },
+        { "title": "Ongeval", "description": "Veilig bergen na een ongeval." },
+        { "title": "Transport", "description": "Auto transport naar elke gewenste locatie." }
+      ]
+    },
+    "situations": {
+      "title": "Wanneer Sleepdienst Nodig?",
+      "description": "Of het nu gaat om pech, een ongeval of transport, onze sleepdienst helpt u snel en veilig.",
+      "items": [
+        { "title": "Pech onderweg", "description": "Snel hulp bij autopech." },
+        { "title": "Ongeval", "description": "Veilig bergen na een botsing." },
+        { "title": "Verplaatsen auto", "description": "Transport of berging van niet-rijdende voertuigen." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel Uw Locatie voor Sleepdienst",
+      "description": "Geef uw locatie door zodat wij u snel kunnen helpen en uw auto veilig kunnen vervoeren of bergen.",
+      "imageAlt": "Locatie delen voor sleepdienst"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct Sleepdienst Nodig? Bel Nu!",
+      "subtitle": "24/7 bereikbaar voor sleepdienst. Snel ter plaatse, altijd veilig vervoer of berging.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze sleepdienstspecialisten",
+      "stats": [
+        { "value": "30 min", "label": "Gemiddelde aanrijtijd" },
+        { "value": "24/7", "label": "Altijd bereikbaar" },
+        { "value": "100%", "label": "Tevreden klanten" }
+      ]
+    }
+  },
+    "modder": {
+    "seo": {
+      "title": "Auto vast in de modder? | Tips & Hulp",
+      "description": "Is je auto vast in de modder? Lees wat je moet doen en krijg direct hulp. 24/7 bereikbaar voor pechhulp en berging.",
+      "keywords": "auto vast, modder, auto losmaken, pechhulp, auto bergen",
+      "imageAlt": "Auto vast in de modder"
+    },
+    "hero": {
+      "badge": "Auto vast in de modder",
+      "title": {
+        "part1": "Auto vast in de modder?",
+        "part2": "Zo kom je weer los"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor je klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat te doen als je auto vastzit in de modder?",
+      "subtitle": "Volg deze stappen om je auto veilig los te krijgen. Lukt het niet? Wij helpen je direct!",
+      "items": [
+        { "title": "Blijf rustig", "description": "Voorkom doorslippen door niet te veel gas te geven." },
+        { "title": "Maak ruimte vrij", "description": "Verwijder zoveel mogelijk modder rondom de banden." },
+        { "title": "Gebruik matten of takken", "description": "Leg iets onder de wielen voor extra grip." },
+        { "title": "Probeer voorzichtig te rijden", "description": "Schakel naar een lage versnelling en probeer langzaam vooruit of achteruit te rijden." },
+        { "title": "Lukt het niet?", "description": "Bel onze hulpdienst, wij zijn snel ter plaatse!" }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw auto veilig kunnen bergen.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct hulp nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor hulp bij vastzittende auto's. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "autoUitModder": {
+    "seo": {
+      "title": "Auto uit modder slepen - 24/7 Hulp & Sleepdienst",
+      "description": "Is uw auto vastgelopen in de modder? 24/7 bereikbaar voor snelle en veilige sleepdienst en berging.",
+      "keywords": "auto uit modder, auto vast, sleepdienst, auto bergen, pechhulp",
+      "imageAlt": "Auto uit modder slepen"
+    },
+    "hero": {
+      "badge": "Auto uit modder slepen",
+      "title": {
+        "part1": "Auto vast in de modder?",
+        "part2": "Wij slepen u snel los"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "features": {
+      "title": "Waarom Onze Sleepdienst?",
+      "subtitle": "Onze sleepdienst is 24/7 bereikbaar en zorgt voor veilig, snel en professioneel vervoer van uw auto uit de modder.",
+      "items": [
+        { "title": "24/7 bereikbaar", "description": "Altijd direct hulp, dag en nacht." },
+        { "title": "Snelle service", "description": "Wij zijn snel ter plaatse, waar u ook staat." },
+        { "title": "Professioneel materieel", "description": "Uw auto wordt veilig en schadevrij losgesleept." },
+        { "title": "Ervaren team", "description": "Onze specialisten weten raad met elke situatie." }
+      ]
+    },
+    "serviceDetails": {
+      "title": "Complete Sleepdienst Service",
+      "imageAlt": "Auto uit modder slepen",
+      "items": [
+        { "title": "Auto uit modder trekken", "description": "Wij trekken uw auto veilig uit de modder, zonder schade." },
+        { "title": "Berging op locatie", "description": "Ook bij zware vastzittingen bieden wij een oplossing." },
+        { "title": "Vervoer naar gewenste locatie", "description": "Indien nodig brengen wij uw auto naar een garage of adres naar keuze." }
+      ]
+    },
+    "situations": {
+      "title": "Wanneer Sleepdienst Nodig?",
+      "description": "Of het nu gaat om modder, zand of sneeuw, wij slepen uw auto veilig en snel los.",
+      "items": [
+        { "title": "Vast in de modder", "description": "Uw auto komt niet meer vooruit of achteruit." },
+        { "title": "Vast in zand", "description": "Wielen draaien door in los zand." },
+        { "title": "Vast in sneeuw", "description": "Auto zit muurvast door sneeuw of ijs." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel Uw Locatie voor Sleepdienst",
+      "description": "Geef uw locatie door zodat wij u snel kunnen helpen en uw auto veilig kunnen bergen.",
+      "imageAlt": "Locatie delen voor sleepdienst"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct Sleepdienst Nodig? Bel Nu!",
+      "subtitle": "24/7 bereikbaar voor sleepdienst. Snel ter plaatse, altijd veilig vervoer.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze sleepdienst specialisten"
+    }
+  },
+    "vastInModderAuto": {
+    "seo": {
+      "title": "Vast in de modder met uw auto? | 24/7 Sleepdienst & Hulp",
+      "description": "Auto vast in de modder? 24/7 bereikbaar voor snelle hulp en sleepdienst. Wij slepen uw auto veilig en snel los.",
+      "keywords": "auto vast in modder, sleepdienst, auto bergen, pechhulp, auto losmaken",
+      "imageAlt": "Auto vast in de modder"
+    },
+    "hero": {
+      "badge": "Auto vast in de modder",
+      "title": {
+        "part1": "Auto vast in de modder?",
+        "part2": "Wij helpen u direct"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat te doen als uw auto vastzit in de modder?",
+      "subtitle": "Volg deze stappen om uw auto veilig los te krijgen. Lukt het niet? Wij helpen u direct!",
+      "items": [
+        { "title": "Blijf rustig", "description": "Voorkom doorslippen door niet te veel gas te geven." },
+        { "title": "Maak ruimte vrij", "description": "Verwijder zoveel mogelijk modder rondom de banden." },
+        { "title": "Gebruik matten of takken", "description": "Leg iets onder de wielen voor extra grip." },
+        { "title": "Probeer voorzichtig te rijden", "description": "Schakel naar een lage versnelling en probeer langzaam vooruit of achteruit te rijden." },
+        { "title": "Lukt het niet?", "description": "Bel onze hulpdienst, wij zijn snel ter plaatse!" }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw auto veilig kunnen bergen.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct hulp nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor hulp bij vastzittende auto's. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "autoVastInModder": {
+    "seo": {
+      "title": "Auto vast in modder? | 24/7 Sleepdienst & Hulp",
+      "description": "Auto vast in de modder? 24/7 bereikbaar voor snelle hulp en sleepdienst. Wij slepen uw auto veilig en snel los.",
+      "keywords": "auto vast in modder, sleepdienst, auto bergen, pechhulp, auto losmaken",
+      "imageAlt": "Auto vast in de modder"
+    },
+    "hero": {
+      "badge": "Auto vast in de modder",
+      "title": {
+        "part1": "Auto vast in de modder?",
+        "part2": "Wij helpen u direct"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat te doen als uw auto vastzit in de modder?",
+      "subtitle": "Volg deze stappen om uw auto veilig los te krijgen. Lukt het niet? Wij helpen u direct!",
+      "items": [
+        { "title": "Blijf rustig", "description": "Voorkom doorslippen door niet te veel gas te geven." },
+        { "title": "Maak ruimte vrij", "description": "Verwijder zoveel mogelijk modder rondom de banden." },
+        { "title": "Gebruik matten of takken", "description": "Leg iets onder de wielen voor extra grip." },
+        { "title": "Probeer voorzichtig te rijden", "description": "Schakel naar een lage versnelling en probeer langzaam vooruit of achteruit te rijden." },
+        { "title": "Lukt het niet?", "description": "Bel onze hulpdienst, wij zijn snel ter plaatse!" }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw auto veilig kunnen bergen.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct hulp nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor hulp bij vastzittende auto's. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "vastInSneeuwAuto": {
+    "seo": {
+      "title": "Vast in de sneeuw met uw auto? | 24/7 Sleepdienst & Hulp",
+      "description": "Auto vast in de sneeuw? 24/7 bereikbaar voor snelle hulp en sleepdienst. Wij slepen uw auto veilig en snel los.",
+      "keywords": "auto vast in sneeuw, sleepdienst, auto bergen, pechhulp, auto losmaken",
+      "imageAlt": "Auto vast in de sneeuw"
+    },
+    "hero": {
+      "badge": "Auto vast in de sneeuw",
+      "title": {
+        "part1": "Auto vast in de sneeuw?",
+        "part2": "Wij helpen u direct"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat te doen als uw auto vastzit in de sneeuw?",
+      "subtitle": "Volg deze stappen om uw auto veilig los te krijgen. Lukt het niet? Wij helpen u direct!",
+      "items": [
+        { "title": "Blijf rustig", "description": "Voorkom doorslippen door niet te veel gas te geven." },
+        { "title": "Maak ruimte vrij", "description": "Verwijder zoveel mogelijk sneeuw rondom de banden." },
+        { "title": "Gebruik matten of takken", "description": "Leg iets onder de wielen voor extra grip." },
+        { "title": "Probeer voorzichtig te rijden", "description": "Schakel naar een lage versnelling en probeer langzaam vooruit of achteruit te rijden." },
+        { "title": "Lukt het niet?", "description": "Bel onze hulpdienst, wij zijn snel ter plaatse!" }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw auto veilig kunnen bergen.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct hulp nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor hulp bij vastzittende auto's. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "autoVastInSneeuw": {
+    "seo": {
+      "title": "Auto vast in de sneeuw? | 24/7 Sleepdienst & Hulp",
+      "description": "Auto vast in de sneeuw? 24/7 bereikbaar voor snelle hulp en sleepdienst. Wij slepen uw auto veilig en snel los.",
+      "keywords": "auto vast in sneeuw, sleepdienst, auto bergen, pechhulp, auto losmaken",
+      "imageAlt": "Auto vast in de sneeuw"
+    },
+    "hero": {
+      "badge": "Auto vast in de sneeuw",
+      "title": {
+        "part1": "Auto vast in de sneeuw?",
+        "part2": "Wij helpen u direct"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat te doen als uw auto vastzit in de sneeuw?",
+      "subtitle": "Volg deze stappen om uw auto veilig los te krijgen. Lukt het niet? Wij helpen u direct!",
+      "imageAlt": "Auto vast in de sneeuw hulp",
+      "items": [
+        { "title": "Blijf rustig", "description": "Voorkom doorslippen door niet te veel gas te geven." },
+        { "title": "Maak ruimte vrij", "description": "Verwijder zoveel mogelijk sneeuw rondom de banden." },
+        { "title": "Gebruik matten of takken", "description": "Leg iets onder de wielen voor extra grip." },
+        { "title": "Probeer voorzichtig te rijden", "description": "Schakel naar een lage versnelling en probeer langzaam vooruit of achteruit te rijden." },
+        { "title": "Lukt het niet?", "description": "Bel onze hulpdienst, wij zijn snel ter plaatse!" }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw auto veilig kunnen bergen.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct hulp nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor hulp bij vastzittende auto's. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "autoInDeSlootVandaag": {
+    "seo": {
+      "title": "Auto in de sloot vandaag? | 24/7 Sleepdienst & Hulp",
+      "description": "Is uw auto vandaag in de sloot geraakt? 24/7 bereikbaar voor snelle hulp en sleepdienst. Wij bergen uw auto veilig en snel.",
+      "keywords": "auto in de sloot, sleepdienst, auto bergen, pechhulp, auto uit sloot halen",
+      "imageAlt": "Auto in de sloot vandaag"
+    },
+    "hero": {
+      "badge": "Auto in de sloot vandaag",
+      "title": {
+        "part1": "Auto in de sloot geraakt?",
+        "part2": "Wij helpen u direct"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat te doen als uw auto in de sloot is geraakt?",
+      "subtitle": "Volg deze stappen voor uw veiligheid. Lukt het niet? Wij helpen u direct!",
+      "imageAlt": "Auto in de sloot hulp",
+      "items": [
+        { "title": "Blijf rustig", "description": "Zorg voor uw eigen veiligheid en die van anderen." },
+        { "title": "Verlaat indien mogelijk veilig het voertuig", "description": "Let op het verkeer en de omgeving." },
+        { "title": "Bel direct hulp", "description": "Neem contact op met onze hulpdienst voor snelle berging." },
+        { "title": "Wacht op professionele hulp", "description": "Probeer het voertuig niet zelf uit de sloot te halen." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw auto veilig kunnen bergen.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct hulp nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor hulp bij auto's in de sloot. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "autoBelandtInSloot": {
+    "seo": {
+      "title": "Auto belandt in sloot? | 24/7 Sleepdienst & Hulp",
+      "description": "Is uw auto in de sloot beland? 24/7 bereikbaar voor snelle hulp en sleepdienst. Wij bergen uw auto veilig en snel.",
+      "keywords": "auto in de sloot, sleepdienst, auto bergen, pechhulp, auto uit sloot halen",
+      "imageAlt": "Auto belandt in sloot"
+    },
+    "hero": {
+      "badge": "Auto belandt in sloot",
+      "title": {
+        "part1": "Auto belandt in de sloot?",
+        "part2": "Wij helpen u direct"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat te doen als uw auto in de sloot is beland?",
+      "subtitle": "Volg deze stappen voor uw veiligheid. Lukt het niet? Wij helpen u direct!",
+      "imageAlt": "Auto in de sloot hulp",
+      "items": [
+        { "title": "Blijf rustig", "description": "Zorg voor uw eigen veiligheid en die van anderen." },
+        { "title": "Verlaat indien mogelijk veilig het voertuig", "description": "Let op het verkeer en de omgeving." },
+        { "title": "Bel direct hulp", "description": "Neem contact op met onze hulpdienst voor snelle berging." },
+        { "title": "Wacht op professionele hulp", "description": "Probeer het voertuig niet zelf uit de sloot te halen." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw auto veilig kunnen bergen.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct hulp nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor hulp bij auto's in de sloot. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "autoInSlootVandaag": {
+    "seo": {
+      "title": "Auto in sloot vandaag? | 24/7 Sleepdienst & Hulp",
+      "description": "Is uw auto vandaag in de sloot beland? 24/7 bereikbaar voor snelle hulp en sleepdienst. Wij bergen uw auto veilig en snel.",
+      "keywords": "auto in sloot, sleepdienst, auto bergen, pechhulp, auto uit sloot halen",
+      "imageAlt": "Auto in sloot vandaag"
+    },
+    "hero": {
+      "badge": "Auto in sloot vandaag",
+      "title": {
+        "part1": "Auto in de sloot vandaag?",
+        "part2": "Wij helpen u direct"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat te doen als uw auto vandaag in de sloot is beland?",
+      "subtitle": "Volg deze stappen voor uw veiligheid. Lukt het niet? Wij helpen u direct!",
+      "imageAlt": "Auto in de sloot hulp",
+      "items": [
+        { "title": "Blijf rustig", "description": "Zorg voor uw eigen veiligheid en die van anderen." },
+        { "title": "Verlaat indien mogelijk veilig het voertuig", "description": "Let op het verkeer en de omgeving." },
+        { "title": "Bel direct hulp", "description": "Neem contact op met onze hulpdienst voor snelle berging." },
+        { "title": "Wacht op professionele hulp", "description": "Probeer het voertuig niet zelf uit de sloot te halen." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw auto veilig kunnen bergen.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct hulp nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor hulp bij auto's in de sloot. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "autoInDeSloot": {
+    "seo": {
+      "title": "Auto in de sloot? | 24/7 Sleepdienst & Hulp",
+      "description": "Is uw auto in de sloot beland? 24/7 bereikbaar voor snelle hulp en sleepdienst. Wij bergen uw auto veilig en snel.",
+      "keywords": "auto in de sloot, sleepdienst, auto bergen, pechhulp, auto uit sloot halen",
+      "imageAlt": "Auto in de sloot"
+    },
+    "hero": {
+      "badge": "Auto in de sloot",
+      "title": {
+        "part1": "Auto in de sloot?",
+        "part2": "Wij helpen u direct"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat te doen als uw auto in de sloot is beland?",
+      "subtitle": "Volg deze stappen voor uw veiligheid. Lukt het niet? Wij helpen u direct!",
+      "imageAlt": "Auto in de sloot hulp",
+      "items": [
+        { "title": "Blijf rustig", "description": "Zorg voor uw eigen veiligheid en die van anderen." },
+        { "title": "Verlaat indien mogelijk veilig het voertuig", "description": "Let op het verkeer en de omgeving." },
+        { "title": "Bel direct hulp", "description": "Neem contact op met onze hulpdienst voor snelle berging." },
+        { "title": "Wacht op professionele hulp", "description": "Probeer het voertuig niet zelf uit de sloot te halen." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw auto veilig kunnen bergen.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct hulp nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor hulp bij auto's in de sloot. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "autoInSloot": {
+    "seo": {
+      "title": "Auto in sloot? | 24/7 Sleepdienst & Hulp",
+      "description": "Is uw auto in de sloot beland? 24/7 bereikbaar voor snelle hulp en sleepdienst. Wij bergen uw auto veilig en snel.",
+      "keywords": "auto in sloot, sleepdienst, auto bergen, pechhulp, auto uit sloot halen",
+      "imageAlt": "Auto in sloot"
+    },
+    "hero": {
+      "badge": "Auto in sloot",
+      "title": {
+        "part1": "Auto in sloot?",
+        "part2": "Wij helpen u direct"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat te doen als uw auto in de sloot is beland?",
+      "subtitle": "Volg deze stappen voor uw veiligheid. Lukt het niet? Wij helpen u direct!",
+      "imageAlt": "Auto in de sloot hulp",
+      "items": [
+        { "title": "Blijf rustig", "description": "Zorg voor uw eigen veiligheid en die van anderen." },
+        { "title": "Verlaat indien mogelijk veilig het voertuig", "description": "Let op het verkeer en de omgeving." },
+        { "title": "Bel direct hulp", "description": "Neem contact op met onze hulpdienst voor snelle berging." },
+        { "title": "Wacht op professionele hulp", "description": "Probeer het voertuig niet zelf uit de sloot te halen." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw auto veilig kunnen bergen.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct hulp nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor hulp bij auto's in de sloot. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "autoInDeGreppel": {
+    "seo": {
+      "title": "Auto in de greppel? | 24/7 Sleepdienst & Hulp",
+      "description": "Is uw auto in de greppel beland? 24/7 bereikbaar voor snelle hulp en sleepdienst. Wij bergen uw auto veilig en snel.",
+      "keywords": "auto in de greppel, sleepdienst, auto bergen, pechhulp, auto uit greppel halen",
+      "imageAlt": "Auto in de greppel"
+    },
+    "hero": {
+      "badge": "Auto in de greppel",
+      "title": {
+        "part1": "Auto in de greppel?",
+        "part2": "Wij helpen u direct"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat te doen als uw auto in de greppel is beland?",
+      "subtitle": "Volg deze stappen voor uw veiligheid. Lukt het niet? Wij helpen u direct!",
+      "imageAlt": "Auto in de greppel hulp",
+      "items": [
+        { "title": "Blijf rustig", "description": "Zorg voor uw eigen veiligheid en die van anderen." },
+        { "title": "Verlaat indien mogelijk veilig het voertuig", "description": "Let op het verkeer en de omgeving." },
+        { "title": "Bel direct hulp", "description": "Neem contact op met onze hulpdienst voor snelle berging." },
+        { "title": "Wacht op professionele hulp", "description": "Probeer het voertuig niet zelf uit de greppel te halen." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw auto veilig kunnen bergen.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct hulp nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor hulp bij auto's in de greppel. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "autoVastInGras": {
+    "seo": {
+      "title": "Auto vast in gras? | 24/7 Sleepdienst & Hulp",
+      "description": "Is uw auto vast komen te zitten in het gras? 24/7 bereikbaar voor snelle hulp en sleepdienst. Wij helpen u snel en veilig.",
+      "keywords": "auto vast in gras, sleepdienst, auto bergen, pechhulp, auto uit gras halen",
+      "imageAlt": "Auto vast in gras"
+    },
+    "hero": {
+      "badge": "Auto vast in gras",
+      "title": {
+        "part1": "Auto vast in gras?",
+        "part2": "Wij helpen u direct"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat te doen als uw auto vast in het gras zit?",
+      "subtitle": "Volg deze stappen voor uw veiligheid. Lukt het niet? Wij helpen u direct!",
+      "imageAlt": "Auto vast in gras hulp",
+      "items": [
+        { "title": "Blijf rustig", "description": "Zorg voor uw eigen veiligheid en die van anderen." },
+        { "title": "Probeer niet te veel gas te geven", "description": "Dit kan de situatie verergeren." },
+        { "title": "Bel direct hulp", "description": "Neem contact op met onze hulpdienst voor snelle berging." },
+        { "title": "Wacht op professionele hulp", "description": "Probeer het voertuig niet zelf los te trekken." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw auto veilig kunnen bergen.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct hulp nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor hulp bij auto's vast in het gras. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "autoUitDeModderHalen": {
+    "seo": {
+      "title": "Auto uit de modder halen? | 24/7 Sleepdienst & Hulp",
+      "description": "Is uw auto vast komen te zitten in de modder? 24/7 bereikbaar voor snelle hulp en sleepdienst. Wij helpen u snel en veilig.",
+      "keywords": "auto uit de modder halen, sleepdienst, auto bergen, pechhulp, auto vast in modder",
+      "imageAlt": "Auto uit de modder halen"
+    },
+    "hero": {
+      "badge": "Auto uit de modder halen",
+      "title": {
+        "part1": "Auto vast in de modder?",
+        "part2": "Wij helpen u direct"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat te doen als uw auto vast in de modder zit?",
+      "subtitle": "Volg deze stappen voor uw veiligheid. Lukt het niet? Wij helpen u direct!",
+      "imageAlt": "Auto uit de modder hulp",
+      "items": [
+        { "title": "Blijf rustig", "description": "Zorg voor uw eigen veiligheid en die van anderen." },
+        { "title": "Probeer niet te veel gas te geven", "description": "Dit kan de situatie verergeren." },
+        { "title": "Bel direct hulp", "description": "Neem contact op met onze hulpdienst voor snelle berging." },
+        { "title": "Wacht op professionele hulp", "description": "Probeer het voertuig niet zelf los te trekken." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw auto veilig kunnen bergen.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct hulp nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor hulp bij auto's vast in de modder. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "autoVastInZand": {
+    "seo": {
+      "title": "Auto vast in zand? | 24/7 Sleepdienst & Hulp",
+      "description": "Is uw auto vast komen te zitten in het zand? 24/7 bereikbaar voor snelle hulp en sleepdienst. Wij helpen u snel en veilig.",
+      "keywords": "auto vast in zand, sleepdienst, auto bergen, pechhulp, auto uit zand halen",
+      "imageAlt": "Auto vast in zand"
+    },
+    "hero": {
+      "badge": "Auto vast in zand",
+      "title": {
+        "part1": "Auto vast in zand?",
+        "part2": "Wij helpen u direct"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat te doen als uw auto vast in het zand zit?",
+      "subtitle": "Volg deze stappen voor uw veiligheid. Lukt het niet? Wij helpen u direct!",
+      "imageAlt": "Auto vast in zand hulp",
+      "items": [
+        { "title": "Blijf rustig", "description": "Zorg voor uw eigen veiligheid en die van anderen." },
+        { "title": "Probeer niet te veel gas te geven", "description": "Dit kan de situatie verergeren." },
+        { "title": "Bel direct hulp", "description": "Neem contact op met onze hulpdienst voor snelle berging." },
+        { "title": "Wacht op professionele hulp", "description": "Probeer het voertuig niet zelf los te trekken." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw auto veilig kunnen bergen.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct hulp nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor hulp bij auto's vast in het zand. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "autoVastgeredenInModder": {
+    "seo": {
+      "title": "Auto vastgereden in modder? | 24/7 Sleepdienst & Hulp",
+      "description": "Is uw auto vastgereden in de modder? 24/7 bereikbaar voor snelle hulp en sleepdienst. Wij helpen u snel en veilig.",
+      "keywords": "auto vastgereden in modder, sleepdienst, auto bergen, pechhulp, auto uit modder halen",
+      "imageAlt": "Auto vastgereden in modder"
+    },
+    "hero": {
+      "badge": "Auto vastgereden in modder",
+      "title": {
+        "part1": "Auto vastgereden in modder?",
+        "part2": "Wij helpen u direct"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat te doen als uw auto vastgereden is in de modder?",
+      "subtitle": "Volg deze stappen voor uw veiligheid. Lukt het niet? Wij helpen u direct!",
+      "imageAlt": "Auto vastgereden in modder hulp",
+      "items": [
+        { "title": "Blijf rustig", "description": "Zorg voor uw eigen veiligheid en die van anderen." },
+        { "title": "Probeer niet te veel gas te geven", "description": "Dit kan de situatie verergeren." },
+        { "title": "Bel direct hulp", "description": "Neem contact op met onze hulpdienst voor snelle berging." },
+        { "title": "Wacht op professionele hulp", "description": "Probeer het voertuig niet zelf los te trekken." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw auto veilig kunnen bergen.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct hulp nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor hulp bij auto's vastgereden in de modder. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "carStuckInTheMud": {
+    "seo": {
+      "title": "Auto vast in de modder? | 24/7 Sleepdienst & Hulp",
+      "description": "Is uw auto vast komen te zitten in de modder? 24/7 bereikbaar voor snelle hulp en sleepdienst. Wij helpen u snel en veilig.",
+      "keywords": "auto vast in modder, sleepdienst, auto bergen, pechhulp, auto uit modder halen",
+      "imageAlt": "Auto vast in de modder"
+    },
+    "hero": {
+      "badge": "Auto vast in de modder",
+      "title": {
+        "part1": "Auto vast in de modder?",
+        "part2": "Wij helpen u direct"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat te doen als uw auto vast in de modder zit?",
+      "subtitle": "Volg deze stappen voor uw veiligheid. Lukt het niet? Wij helpen u direct!",
+      "imageAlt": "Auto vast in de modder hulp",
+      "items": [
+        { "title": "Blijf rustig", "description": "Zorg voor uw eigen veiligheid en die van anderen." },
+        { "title": "Probeer niet te veel gas te geven", "description": "Dit kan de situatie verergeren." },
+        { "title": "Bel direct hulp", "description": "Neem contact op met onze hulpdienst voor snelle berging." },
+        { "title": "Wacht op professionele hulp", "description": "Probeer het voertuig niet zelf los te trekken." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw auto veilig kunnen bergen.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct hulp nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor hulp bij auto's vast in de modder. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "autoInDeBerm": {
+    "seo": {
+      "title": "Auto in de berm? | 24/7 Sleepdienst & Hulp",
+      "description": "Is uw auto in de berm terechtgekomen? 24/7 bereikbaar voor snelle hulp en sleepdienst. Wij helpen u snel en veilig.",
+      "keywords": "auto in de berm, sleepdienst, auto bergen, pechhulp, auto uit berm halen",
+      "imageAlt": "Auto in de berm"
+    },
+    "hero": {
+      "badge": "Auto in de berm",
+      "title": {
+        "part1": "Auto in de berm?",
+        "part2": "Wij helpen u direct"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat te doen als uw auto in de berm staat?",
+      "subtitle": "Volg deze stappen voor uw veiligheid. Lukt het niet? Wij helpen u direct!",
+      "imageAlt": "Auto in de berm hulp",
+      "items": [
+        { "title": "Blijf rustig", "description": "Zorg voor uw eigen veiligheid en die van anderen." },
+        { "title": "Probeer niet te veel gas te geven", "description": "Dit kan de situatie verergeren." },
+        { "title": "Bel direct hulp", "description": "Neem contact op met onze hulpdienst voor snelle berging." },
+        { "title": "Wacht op professionele hulp", "description": "Probeer het voertuig niet zelf los te trekken." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw auto veilig kunnen bergen.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct hulp nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor hulp bij auto's in de berm. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "vastInDeModder": {
+    "seo": {
+      "title": "Vast in de modder? | 24/7 Sleepdienst & Hulp",
+      "description": "Is uw voertuig vast in de modder? 24/7 bereikbaar voor snelle hulp en sleepdienst. Wij helpen u snel en veilig.",
+      "keywords": "vast in de modder, sleepdienst, auto bergen, pechhulp, auto uit modder halen",
+      "imageAlt": "Vast in de modder"
+    },
+    "hero": {
+      "badge": "Vast in de modder",
+      "title": {
+        "part1": "Vast in de modder?",
+        "part2": "Wij helpen u direct"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat te doen als u vast in de modder zit?",
+      "subtitle": "Volg deze stappen voor uw veiligheid. Lukt het niet? Wij helpen u direct!",
+      "imageAlt": "Vast in de modder hulp",
+      "items": [
+        { "title": "Blijf rustig", "description": "Zorg voor uw eigen veiligheid en die van anderen." },
+        { "title": "Probeer niet te veel gas te geven", "description": "Dit kan de situatie verergeren." },
+        { "title": "Bel direct hulp", "description": "Neem contact op met onze hulpdienst voor snelle berging." },
+        { "title": "Wacht op professionele hulp", "description": "Probeer het voertuig niet zelf los te trekken." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw voertuig veilig kunnen bergen.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct hulp nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor hulp bij voertuigen vast in de modder. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "autoZitVastInModder": {
+    "seo": {
+      "title": "Auto zit vast in modder? | 24/7 Sleepdienst & Hulp",
+      "description": "Zit uw auto vast in de modder? 24/7 bereikbaar voor snelle hulp en sleepdienst. Wij helpen u snel en veilig.",
+      "keywords": "auto zit vast in modder, sleepdienst, auto bergen, pechhulp, auto uit modder halen",
+      "imageAlt": "Auto zit vast in modder"
+    },
+    "hero": {
+      "badge": "Auto zit vast in modder",
+      "title": {
+        "part1": "Auto zit vast in modder?",
+        "part2": "Wij helpen u direct"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat te doen als uw auto vastzit in de modder?",
+      "subtitle": "Volg deze stappen voor uw veiligheid. Lukt het niet? Wij helpen u direct!",
+      "imageAlt": "Auto zit vast in modder hulp",
+      "items": [
+        { "title": "Blijf rustig", "description": "Zorg voor uw eigen veiligheid en die van anderen." },
+        { "title": "Probeer niet te veel gas te geven", "description": "Dit kan de situatie verergeren." },
+        { "title": "Bel direct hulp", "description": "Neem contact op met onze hulpdienst voor snelle berging." },
+        { "title": "Wacht op professionele hulp", "description": "Probeer het voertuig niet zelf los te trekken." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw auto veilig kunnen bergen.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct hulp nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor hulp bij auto's vast in de modder. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "hoeKrijgJeEenAutoUitDeModder": {
+    "seo": {
+      "title": "Hoe krijg je een auto uit de modder? | 24/7 Sleepdienst & Hulp",
+      "description": "Is uw auto vastgelopen in de modder? 24/7 bereikbaar voor snelle hulp en sleepdienst. Wij helpen u snel en veilig.",
+      "keywords": "auto uit de modder halen, sleepdienst, auto bergen, pechhulp, vast in modder",
+      "imageAlt": "Auto uit de modder halen"
+    },
+    "hero": {
+      "badge": "Auto uit de modder halen",
+      "title": {
+        "part1": "Hoe krijg je een auto uit de modder?",
+        "part2": "Wij helpen u direct"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat te doen als uw auto vastzit in de modder?",
+      "subtitle": "Volg deze stappen voor uw veiligheid. Lukt het niet? Wij helpen u direct!",
+      "imageAlt": "Auto uit de modder hulp",
+      "items": [
+        { "title": "Blijf rustig", "description": "Zorg voor uw eigen veiligheid en die van anderen." },
+        { "title": "Probeer niet te veel gas te geven", "description": "Dit kan de situatie verergeren." },
+        { "title": "Bel direct hulp", "description": "Neem contact op met onze hulpdienst voor snelle berging." },
+        { "title": "Wacht op professionele hulp", "description": "Probeer het voertuig niet zelf los te trekken." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw auto veilig kunnen bergen.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct hulp nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor hulp bij auto's vast in de modder. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "vastInDeModderMetAuto": {
+    "seo": {
+      "title": "Vast in de modder met auto? | 24/7 Sleepdienst & Hulp",
+      "description": "Is uw auto vast in de modder? 24/7 bereikbaar voor snelle hulp en sleepdienst. Wij helpen u snel en veilig.",
+      "keywords": "vast in de modder met auto, sleepdienst, auto bergen, pechhulp, auto uit modder halen",
+      "imageAlt": "Vast in de modder met auto"
+    },
+    "hero": {
+      "badge": "Vast in de modder met auto",
+      "title": {
+        "part1": "Vast in de modder met auto?",
+        "part2": "Wij helpen u direct"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat te doen als uw auto vastzit in de modder?",
+      "subtitle": "Volg deze stappen voor uw veiligheid. Lukt het niet? Wij helpen u direct!",
+      "imageAlt": "Vast in de modder met auto hulp",
+      "items": [
+        { "title": "Blijf rustig", "description": "Zorg voor uw eigen veiligheid en die van anderen." },
+        { "title": "Probeer niet te veel gas te geven", "description": "Dit kan de situatie verergeren." },
+        { "title": "Bel direct hulp", "description": "Neem contact op met onze hulpdienst voor snelle berging." },
+        { "title": "Wacht op professionele hulp", "description": "Probeer het voertuig niet zelf los te trekken." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw auto veilig kunnen bergen.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct hulp nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor hulp bij auto's vast in de modder. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "autoInDeModder": {
+    "seo": {
+      "title": "Auto in de modder? | 24/7 Sleepdienst & Hulp",
+      "description": "Is uw auto in de modder terechtgekomen? 24/7 bereikbaar voor snelle hulp en sleepdienst. Wij helpen u snel en veilig.",
+      "keywords": "auto in de modder, sleepdienst, auto bergen, pechhulp, auto uit modder halen",
+      "imageAlt": "Auto in de modder"
+    },
+    "hero": {
+      "badge": "Auto in de modder",
+      "title": {
+        "part1": "Auto in de modder?",
+        "part2": "Wij helpen u direct"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat te doen als uw auto in de modder staat?",
+      "subtitle": "Volg deze stappen voor uw veiligheid. Lukt het niet? Wij helpen u direct!",
+      "imageAlt": "Auto in de modder hulp",
+      "items": [
+        { "title": "Blijf rustig", "description": "Zorg voor uw eigen veiligheid en die van anderen." },
+        { "title": "Probeer niet te veel gas te geven", "description": "Dit kan de situatie verergeren." },
+        { "title": "Bel direct hulp", "description": "Neem contact op met onze hulpdienst voor snelle berging." },
+        { "title": "Wacht op professionele hulp", "description": "Probeer het voertuig niet zelf los te trekken." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw auto veilig kunnen bergen.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct hulp nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor hulp bij auto's in de modder. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "autoStaatVastInDeModder": {
+    "seo": {
+      "title": "Auto staat vast in de modder? | 24/7 Sleepdienst & Hulp",
+      "description": "Staat uw auto vast in de modder? 24/7 bereikbaar voor snelle hulp en sleepdienst. Wij helpen u snel en veilig.",
+      "keywords": "auto staat vast in de modder, sleepdienst, auto bergen, pechhulp, auto uit modder halen",
+      "imageAlt": "Auto staat vast in de modder"
+    },
+    "hero": {
+      "badge": "Auto staat vast in de modder",
+      "title": {
+        "part1": "Auto staat vast in de modder?",
+        "part2": "Wij helpen u direct"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat te doen als uw auto vaststaat in de modder?",
+      "subtitle": "Volg deze stappen voor uw veiligheid. Lukt het niet? Wij helpen u direct!",
+      "imageAlt": "Auto staat vast in de modder hulp",
+      "items": [
+        { "title": "Blijf rustig", "description": "Zorg voor uw eigen veiligheid en die van anderen." },
+        { "title": "Probeer niet te veel gas te geven", "description": "Dit kan de situatie verergeren." },
+        { "title": "Bel direct hulp", "description": "Neem contact op met onze hulpdienst voor snelle berging." },
+        { "title": "Wacht op professionele hulp", "description": "Probeer het voertuig niet zelf los te trekken." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw auto veilig kunnen bergen.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct hulp nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor hulp bij auto's vast in de modder. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "accuAutoLeeg": {
+    "seo": {
+      "title": "Accu auto leeg? | 24/7 Pechhulp & Startservice",
+      "description": "Is de accu van uw auto leeg? 24/7 bereikbaar voor snelle hulp en startservice. Wij helpen u direct weer op weg.",
+      "keywords": "accu auto leeg, startservice, pechhulp, auto accu, auto wil niet starten",
+      "imageAlt": "Accu auto leeg"
+    },
+    "hero": {
+      "badge": "Accu auto leeg",
+      "title": {
+        "part1": "Accu auto leeg?",
+        "part2": "Wij starten u direct weer"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat te doen bij een lege accu?",
+      "subtitle": "Volg deze stappen voor uw veiligheid. Lukt het niet? Wij helpen u direct!",
+      "imageAlt": "Accu auto leeg hulp",
+      "items": [
+        { "title": "Controleer of de lichten werken", "description": "Geen verlichting? Grote kans dat de accu leeg is." },
+        { "title": "Probeer de auto te starten", "description": "Lukt dit niet? Bel onze startservice." },
+        { "title": "Gebruik startkabels indien mogelijk", "description": "Let op de juiste volgorde en veiligheid." },
+        { "title": "Bel direct hulp", "description": "Wij komen snel ter plaatse om u weer op weg te helpen." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw auto weer kunnen starten.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct hulp nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor hulp bij een lege accu. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "autoAccuLeegWatNu": {
+    "seo": {
+      "title": "Auto accu leeg, wat nu? | 24/7 Pechhulp & Startservice",
+      "description": "Is de accu van uw auto leeg? 24/7 bereikbaar voor snelle hulp en startservice. Wij helpen u direct weer op weg.",
+      "keywords": "auto accu leeg wat nu, startservice, pechhulp, auto accu, auto wil niet starten",
+      "imageAlt": "Auto accu leeg wat nu"
+    },
+    "hero": {
+      "badge": "Auto accu leeg, wat nu?",
+      "title": {
+        "part1": "Auto accu leeg, wat nu?",
+        "part2": "Wij starten u direct weer"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat te doen bij een lege accu?",
+      "subtitle": "Volg deze stappen voor uw veiligheid. Lukt het niet? Wij helpen u direct!",
+      "imageAlt": "Auto accu leeg hulp",
+      "items": [
+        { "title": "Controleer of de lichten werken", "description": "Geen verlichting? Grote kans dat de accu leeg is." },
+        { "title": "Probeer de auto te starten", "description": "Lukt dit niet? Bel onze startservice." },
+        { "title": "Gebruik startkabels indien mogelijk", "description": "Let op de juiste volgorde en veiligheid." },
+        { "title": "Bel direct hulp", "description": "Wij komen snel ter plaatse om u weer op weg te helpen." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw auto weer kunnen starten.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct hulp nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor hulp bij een lege accu. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "serviceAccu": {
+    "seo": {
+      "title": "Service accu | 24/7 Accu Hulp & Startservice",
+      "description": "Problemen met uw accu? 24/7 bereikbaar voor snelle service, vervanging en startservice. Wij helpen u direct.",
+      "keywords": "service accu, accu vervangen, startservice, accu hulp, auto accu leeg",
+      "imageAlt": "Service accu"
+    },
+    "hero": {
+      "badge": "Service accu",
+      "title": {
+        "part1": "Problemen met uw accu?",
+        "part2": "Wij helpen u direct"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat houdt onze accu service in?",
+      "subtitle": "Wij bieden snelle hulp bij accuproblemen, vervangen accu’s ter plaatse en zorgen dat u weer veilig op weg kunt.",
+      "imageAlt": "Service accu hulp",
+      "items": [
+        { "title": "Snelle diagnose", "description": "Wij controleren direct uw accu en elektrische systemen." },
+        { "title": "Startservice", "description": "Wij starten uw auto veilig en snel indien mogelijk." },
+        { "title": "Accu vervangen", "description": "Indien nodig vervangen wij uw accu ter plaatse." },
+        { "title": "24/7 bereikbaar", "description": "Altijd hulp, dag en nacht, waar u ook bent." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw accu kunnen controleren of vervangen.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct accu service nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor accuproblemen, startservice en vervanging. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "accuServiceAanHuis": {
+    "seo": {
+      "title": "Accu service aan huis | 24/7 Accu Hulp & Startservice",
+      "description": "Accu service aan huis nodig? 24/7 bereikbaar voor snelle hulp, vervanging en startservice bij u thuis. Wij helpen u direct.",
+      "keywords": "accu service aan huis, accu vervangen thuis, startservice, accu hulp, auto accu leeg",
+      "imageAlt": "Accu service aan huis"
+    },
+    "hero": {
+      "badge": "Accu service aan huis",
+      "title": {
+        "part1": "Accu service aan huis nodig?",
+        "part2": "Wij komen direct naar u toe"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat houdt accu service aan huis in?",
+      "subtitle": "Wij komen bij u thuis voor accuproblemen, vervangen uw accu ter plaatse en zorgen dat u snel weer kunt rijden.",
+      "imageAlt": "Accu service aan huis hulp",
+      "items": [
+        { "title": "Accu vervangen aan huis", "description": "Wij vervangen uw accu direct bij u thuis." },
+        { "title": "Startservice op locatie", "description": "Wij starten uw auto veilig en snel bij u thuis." },
+        { "title": "Snelle diagnose", "description": "Wij controleren uw accu en elektrische systemen ter plaatse." },
+        { "title": "24/7 bereikbaar", "description": "Altijd hulp, dag en nacht, waar u ook woont." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw accu kunnen controleren of vervangen bij u thuis.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct accu service aan huis nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor accuproblemen, startservice en vervanging aan huis. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "accuVervangenAanHuis": {
+    "seo": {
+      "title": "Accu vervangen aan huis | 24/7 Accu Hulp & Vervanging",
+      "description": "Accu vervangen aan huis nodig? 24/7 bereikbaar voor snelle vervanging en hulp bij u thuis. Wij helpen u direct.",
+      "keywords": "accu vervangen aan huis, accu vervangen thuis, accu hulp, auto accu leeg, accu service",
+      "imageAlt": "Accu vervangen aan huis"
+    },
+    "hero": {
+      "badge": "Accu vervangen aan huis",
+      "title": {
+        "part1": "Accu vervangen aan huis nodig?",
+        "part2": "Wij komen direct naar u toe"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat houdt accu vervangen aan huis in?",
+      "subtitle": "Wij komen bij u thuis voor het vervangen van uw accu, zodat u snel weer kunt rijden.",
+      "imageAlt": "Accu vervangen aan huis hulp",
+      "items": [
+        { "title": "Accu vervangen aan huis", "description": "Wij vervangen uw accu direct bij u thuis." },
+        { "title": "Snelle diagnose", "description": "Wij controleren uw accu en elektrische systemen ter plaatse." },
+        { "title": "Startservice indien nodig", "description": "Wij starten uw auto veilig en snel na vervanging." },
+        { "title": "24/7 bereikbaar", "description": "Altijd hulp, dag en nacht, waar u ook woont." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw accu kunnen vervangen bij u thuis.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct accu vervangen aan huis nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor accuvervanging aan huis. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "vervangenAccuAuto": {
+    "seo": {
+      "title": "Vervangen accu auto | 24/7 Accu Hulp & Vervanging",
+      "description": "Accu van uw auto vervangen? 24/7 bereikbaar voor snelle vervanging en hulp. Wij komen direct naar u toe.",
+      "keywords": "vervangen accu auto, accu vervangen, auto accu leeg, accu service, accu hulp",
+      "imageAlt": "Vervangen accu auto"
+    },
+    "hero": {
+      "badge": "Vervangen accu auto",
+      "title": {
+        "part1": "Accu van uw auto vervangen?",
+        "part2": "Wij komen direct naar u toe"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat houdt accu vervangen voor uw auto in?",
+      "subtitle": "Wij vervangen uw auto accu snel en vakkundig, zodat u weer veilig de weg op kunt.",
+      "imageAlt": "Vervangen accu auto hulp",
+      "items": [
+        { "title": "Vakkundige vervanging", "description": "Wij vervangen uw accu volgens fabrieksspecificaties." },
+        { "title": "Snelle service", "description": "Wij zijn snel ter plaatse, waar u ook bent." },
+        { "title": "Startservice indien nodig", "description": "Wij starten uw auto veilig na vervanging." },
+        { "title": "24/7 bereikbaar", "description": "Altijd hulp, dag en nacht, in heel Nederland." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw accu kunnen vervangen waar u ook bent.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct accu vervangen voor uw auto nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor accuvervanging. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "accuVervangenAuto": {
+    "seo": {
+      "title": "Accu vervangen auto | 24/7 Accu Hulp & Vervanging",
+      "description": "Accu van uw auto vervangen? 24/7 bereikbaar voor snelle vervanging en hulp. Wij komen direct naar u toe.",
+      "keywords": "accu vervangen auto, accu vervangen, auto accu leeg, accu service, accu hulp",
+      "imageAlt": "Accu vervangen auto"
+    },
+    "hero": {
+      "badge": "Accu vervangen auto",
+      "title": {
+        "part1": "Accu van uw auto vervangen?",
+        "part2": "Wij komen direct naar u toe"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat houdt accu vervangen voor uw auto in?",
+      "subtitle": "Wij vervangen uw auto accu snel en vakkundig, zodat u weer veilig de weg op kunt.",
+      "imageAlt": "Accu vervangen auto hulp",
+      "items": [
+        { "title": "Vakkundige vervanging", "description": "Wij vervangen uw accu volgens fabrieksspecificaties." },
+        { "title": "Snelle service", "description": "Wij zijn snel ter plaatse, waar u ook bent." },
+        { "title": "Startservice indien nodig", "description": "Wij starten uw auto veilig na vervanging." },
+        { "title": "24/7 bereikbaar", "description": "Altijd hulp, dag en nacht, in heel Nederland." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw accu kunnen vervangen waar u ook bent.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct accu vervangen voor uw auto nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor accuvervanging. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "autoAccuVervangenAanHuis": {
+    "seo": {
+      "title": "Auto accu vervangen aan huis | 24/7 Accu Hulp & Vervanging",
+      "description": "Auto accu vervangen aan huis nodig? 24/7 bereikbaar voor snelle vervanging en hulp bij u thuis. Wij komen direct naar u toe.",
+      "keywords": "auto accu vervangen aan huis, accu vervangen thuis, accu hulp, auto accu leeg, accu service",
+      "imageAlt": "Auto accu vervangen aan huis"
+    },
+    "hero": {
+      "badge": "Auto accu vervangen aan huis",
+      "title": {
+        "part1": "Auto accu vervangen aan huis nodig?",
+        "part2": "Wij komen direct naar u toe"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat houdt auto accu vervangen aan huis in?",
+      "subtitle": "Wij komen bij u thuis voor het vervangen van uw auto accu, zodat u snel weer kunt rijden.",
+      "imageAlt": "Auto accu vervangen aan huis hulp",
+      "items": [
+        { "title": "Accu vervangen aan huis", "description": "Wij vervangen uw auto accu direct bij u thuis." },
+        { "title": "Snelle diagnose", "description": "Wij controleren uw accu en elektrische systemen ter plaatse." },
+        { "title": "Startservice indien nodig", "description": "Wij starten uw auto veilig en snel na vervanging." },
+        { "title": "24/7 bereikbaar", "description": "Altijd hulp, dag en nacht, waar u ook woont." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw auto accu kunnen vervangen bij u thuis.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct auto accu vervangen aan huis nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor accuvervanging aan huis. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "accuAutoVervangen": {
+    "seo": {
+      "title": "Accu auto vervangen | 24/7 Accu Hulp & Vervanging",
+      "description": "Accu van uw auto vervangen? 24/7 bereikbaar voor snelle vervanging en hulp. Wij komen direct naar u toe.",
+      "keywords": "accu auto vervangen, accu vervangen, auto accu leeg, accu service, accu hulp",
+      "imageAlt": "Accu auto vervangen"
+    },
+    "hero": {
+      "badge": "Accu auto vervangen",
+      "title": {
+        "part1": "Accu van uw auto vervangen?",
+        "part2": "Wij komen direct naar u toe"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat houdt accu vervangen voor uw auto in?",
+      "subtitle": "Wij vervangen uw auto accu snel en vakkundig, zodat u weer veilig de weg op kunt.",
+      "imageAlt": "Accu auto vervangen hulp",
+      "items": [
+        { "title": "Vakkundige vervanging", "description": "Wij vervangen uw accu volgens fabrieksspecificaties." },
+        { "title": "Snelle service", "description": "Wij zijn snel ter plaatse, waar u ook bent." },
+        { "title": "Startservice indien nodig", "description": "Wij starten uw auto veilig na vervanging." },
+        { "title": "24/7 bereikbaar", "description": "Altijd hulp, dag en nacht, in heel Nederland." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw accu kunnen vervangen waar u ook bent.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct accu vervangen voor uw auto nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor accuvervanging. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "accuLatenVervangenAanHuis": {
+    "seo": {
+      "title": "Accu laten vervangen aan huis | 24/7 Accu Hulp & Vervanging",
+      "description": "Accu laten vervangen aan huis? 24/7 bereikbaar voor snelle vervanging en hulp bij u thuis. Wij komen direct naar u toe.",
+      "keywords": "accu laten vervangen aan huis, accu vervangen thuis, accu hulp, auto accu leeg, accu service",
+      "imageAlt": "Accu laten vervangen aan huis"
+    },
+    "hero": {
+      "badge": "Accu laten vervangen aan huis",
+      "title": {
+        "part1": "Accu laten vervangen aan huis?",
+        "part2": "Wij komen direct naar u toe"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat houdt accu laten vervangen aan huis in?",
+      "subtitle": "Wij komen bij u thuis voor het vervangen van uw accu, zodat u snel weer kunt rijden.",
+      "imageAlt": "Accu laten vervangen aan huis hulp",
+      "items": [
+        { "title": "Accu vervangen aan huis", "description": "Wij vervangen uw accu direct bij u thuis." },
+        { "title": "Snelle diagnose", "description": "Wij controleren uw accu en elektrische systemen ter plaatse." },
+        { "title": "Startservice indien nodig", "description": "Wij starten uw auto veilig en snel na vervanging." },
+        { "title": "24/7 bereikbaar", "description": "Altijd hulp, dag en nacht, waar u ook woont." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw accu kunnen vervangen bij u thuis.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct accu laten vervangen aan huis nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor accuvervanging aan huis. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "autoAccuVervangen": {
+    "seo": {
+      "title": "Auto accu vervangen | 24/7 Accu Hulp & Vervanging",
+      "description": "Auto accu vervangen? 24/7 bereikbaar voor snelle vervanging en hulp. Wij komen direct naar u toe.",
+      "keywords": "auto accu vervangen, accu vervangen, auto accu leeg, accu service, accu hulp",
+      "imageAlt": "Auto accu vervangen"
+    },
+    "hero": {
+      "badge": "Auto accu vervangen",
+      "title": {
+        "part1": "Auto accu vervangen?",
+        "part2": "Wij komen direct naar u toe"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat houdt auto accu vervangen in?",
+      "subtitle": "Wij vervangen uw auto accu snel en vakkundig, zodat u weer veilig de weg op kunt.",
+      "imageAlt": "Auto accu vervangen hulp",
+      "items": [
+        { "title": "Vakkundige vervanging", "description": "Wij vervangen uw accu volgens fabrieksspecificaties." },
+        { "title": "Snelle service", "description": "Wij zijn snel ter plaatse, waar u ook bent." },
+        { "title": "Startservice indien nodig", "description": "Wij starten uw auto veilig na vervanging." },
+        { "title": "24/7 bereikbaar", "description": "Altijd hulp, dag en nacht, in heel Nederland." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw accu kunnen vervangen waar u ook bent.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct auto accu vervangen nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor accuvervanging. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
+    }
+  },
+    "accuLatenVervangen": {
+    "seo": {
+      "title": "Accu laten vervangen | 24/7 Accu Hulp & Vervanging",
+      "description": "Accu laten vervangen? 24/7 bereikbaar voor snelle vervanging en hulp. Wij komen direct naar u toe.",
+      "keywords": "accu laten vervangen, accu vervangen, auto accu leeg, accu service, accu hulp",
+      "imageAlt": "Accu laten vervangen"
+    },
+    "hero": {
+      "badge": "Accu laten vervangen",
+      "title": {
+        "part1": "Accu laten vervangen?",
+        "part2": "Wij komen direct naar u toe"
+      },
+      "subtitle": "Direct hulp nodig? Wij staan 24/7 voor u klaar.",
+      "phone": "0852502928",
+      "cta": "Bel Direct: 085-250 29 28",
+      "whatsapp": "WhatsApp"
+    },
+    "tips": {
+      "title": "Wat houdt accu laten vervangen in?",
+      "subtitle": "Wij vervangen uw accu snel en vakkundig, zodat u weer veilig de weg op kunt.",
+      "imageAlt": "Accu laten vervangen hulp",
+      "items": [
+        { "title": "Vakkundige vervanging", "description": "Wij vervangen uw accu volgens fabrieksspecificaties." },
+        { "title": "Snelle service", "description": "Wij zijn snel ter plaatse, waar u ook bent." },
+        { "title": "Startservice indien nodig", "description": "Wij starten uw auto veilig na vervanging." },
+        { "title": "24/7 bereikbaar", "description": "Altijd hulp, dag en nacht, in heel Nederland." }
+      ]
+    },
+    "locatiesectie": {
+      "title": "Deel uw locatie voor hulp",
+      "description": "Deel uw locatie zodat wij u snel kunnen helpen en uw accu kunnen vervangen waar u ook bent.",
+      "imageAlt": "Locatie delen voor hulp"
+    },
+    "locatiebutton": {
+      "sendLocation": "Deel Locatie",
+      "loading": "Laden...",
+      "confirmSend": "Klik nogmaals om te versturen",
+      "errors": {
+        "notSupported": "Locatie delen wordt niet ondersteund door je browser.",
+        "failed": "Kon je locatie niet ophalen. Probeer het opnieuw of controleer je instellingen."
+      }
+    },
+    "emergency": {
+      "title": "Direct accu laten vervangen nodig? Bel nu!",
+      "subtitle": "24/7 bereikbaar voor accuvervanging. Snel ter plaatse, altijd veilig geholpen.",
+      "phone": "085-250 29 28",
+      "phoneSubtitle": "Direct verbonden met onze hulpdienst"
     }
   }
 }

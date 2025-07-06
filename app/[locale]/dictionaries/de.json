@@ -1852,6 +1852,2472 @@
         "description": "Brauchen Sie Hilfe? Unsere erfahrenen Profis stehen Ihnen 24/7 zur Verfügung.",
         "features": ["24/7 Verfügbar", "Schnelle Reaktionszeit", "Professionelles Team", "Transparente Preise"]
       }
+    },
+        "autopech": {
+      "seo": {
+        "title": "Pannenhilfe Service - 24/7 Hilfe bei Autopannen | Mobile Hilfe",
+        "description": "Sofortige Hilfe bei Autopannen. 24/7 erreichbar, schneller Service, zertifizierte Mechaniker. Wir bringen Sie schnell wieder auf die Straße.",
+        "keywords": "autopanne, pannenhilfe, pannenservice, auto startet nicht, 24/7 hilfe, pannenhilfe service, abschleppdienst",
+        "imageAlt": "Professionelle Pannenhilfe"
+      },
+      "hero": {
+        "badge": "Pannenhilfe",
+        "title": {
+          "part1": "Autopanne?",
+          "part2": "Sofortige Hilfe"
+        },
+        "subtitle": "Schnell wieder unterwegs mit unserem 24/7 Pannenhilfe-Service.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "features": {
+        "title": "Warum Unsere Pannenhilfe?",
+        "subtitle": "Unsere Mechaniker sind 24/7 für Sie da, um Ihnen schnell und professionell zu helfen. Schnelle Anfahrt, transparente Preise, immer eine Lösung.",
+        "items": [
+          { "title": "24/7 Verfügbar", "description": "Immer erreichbar, Tag und Nacht." },
+          { "title": "Schneller Service", "description": "Innerhalb von 30 Minuten vor Ort." },
+          { "title": "Zertifizierte Mechaniker", "description": "Professionell und zuverlässig." },
+          { "title": "Transparente Preise", "description": "Keine Überraschungen im Nachhinein." }
+        ]
+      },
+      "serviceDetails": {
+        "title": "Kompletter Pannenhilfe-Service",
+        "imageAlt": "Professionelle Pannenhilfe",
+        "items": [
+          { "title": "Starthilfe", "description": "Sofortige Hilfe bei leerer Batterie." },
+          { "title": "Reifenservice", "description": "Schnelle Reparatur oder Austausch von platten Reifen." },
+          { "title": "Abschleppdienst", "description": "Sicherer Transport zur Werkstatt bei schwerwiegenden Pannen." }
+        ]
+      },
+      "situations": {
+        "title": "Häufige Pannensituationen",
+        "description": "Von platten Reifen bis zu Motorproblemen – wir lösen es schnell und professionell, damit Sie wieder sicher unterwegs sind.",
+        "items": [
+          { "title": "Leere Batterie", "description": "Auto startet nicht? Wir helfen sofort." },
+          { "title": "Platter Reifen", "description": "Wir wechseln oder reparieren Ihren Reifen vor Ort." },
+          { "title": "Motorprobleme", "description": "Schnelle Diagnose und Hilfe bei Motorstörungen." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für schnelle Hilfe",
+        "description": "Liegt Ihr Auto still? Teilen Sie Ihren Standort, damit unsere Mechaniker Sie schnell finden und direkt helfen können.",
+        "imageAlt": "Standort teilen für Pannenhilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofortige Hilfe benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Pannenhilfe. Schnell vor Ort, immer eine Lösung.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unseren Pannenhilfe-Spezialisten",
+        "stats": [
+          { "value": "30 min", "label": "Durchschnittliche Anfahrtszeit" },
+          { "value": "24/7", "label": "Immer erreichbar" },
+          { "value": "100%", "label": "Zufriedene Kunden" }
+        ]
+      }
+    },
+        "sleepdienstauto": {
+      "seo": {
+        "title": "Abschleppdienst Auto - 24/7 Schnell und Sicher Abschleppen | Mobile Hilfe",
+        "description": "Sofort einen Abschleppdienst benötigt? 24/7 erreichbar, schneller Service, professionell und sicher Ihr Auto abschleppen lassen.",
+        "keywords": "abschleppdienst, auto abschleppen, abschleppservice, auto transport, 24/7 abschleppdienst, pannenhilfe, auto bergen",
+        "imageAlt": "Professioneller Abschleppdienst"
+      },
+      "hero": {
+        "badge": "Abschleppdienst",
+        "title": {
+          "part1": "Abschleppdienst benötigt?",
+          "part2": "Schnell & Sicher abgeschleppt"
+        },
+        "subtitle": "Ihr Auto schnell und sicher abgeschleppt, 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "features": {
+        "title": "Warum Unser Abschleppdienst?",
+        "subtitle": "Unser Abschleppdienst ist 24/7 erreichbar und sorgt für sicheren, schnellen und professionellen Transport Ihres Autos an jeden gewünschten Ort.",
+        "items": [
+          { "title": "24/7 Verfügbar", "description": "Immer erreichbar, Tag und Nacht." },
+          { "title": "Schneller Service", "description": "Innerhalb von 30 Minuten vor Ort." },
+          { "title": "Professionelle Ausrüstung", "description": "Sicherer und zuverlässiger Transport." },
+          { "title": "Erfahrene Fahrer", "description": "Kompetentes und freundliches Personal." }
+        ]
+      },
+      "serviceDetails": {
+        "title": "Kompletter Abschleppdienst",
+        "imageAlt": "Professioneller Abschleppdienst",
+        "items": [
+          { "title": "Pannenhilfe", "description": "Sofortiges Abschleppen bei Pannen." },
+          { "title": "Unfall", "description": "Sicherer Transport nach einem Unfall." },
+          { "title": "Transport", "description": "Autotransport an jeden gewünschten Ort." }
+        ]
+      },
+      "situations": {
+        "title": "Wann Abschleppdienst nötig?",
+        "description": "Ob Panne, Unfall oder Transport – wir schleppen Ihr Auto sicher und schnell zum gewünschten Ziel.",
+        "items": [
+          { "title": "Panne", "description": "Schnelle Hilfe bei Autopannen." },
+          { "title": "Unfall", "description": "Sicherer Transport nach einer Kollision." },
+          { "title": "Fahrzeugverlagerung", "description": "Transport von nicht fahrbereiten Fahrzeugen." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für den Abschleppdienst",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher transportieren können.",
+        "imageAlt": "Standort teilen für Abschleppdienst"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Abschleppdienst benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Abschleppdienst. Schnell vor Ort, immer sicherer Transport.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unseren Abschleppdienst-Spezialisten",
+        "stats": [
+          { "value": "30 min", "label": "Durchschnittliche Anfahrtszeit" },
+          { "value": "24/7", "label": "Immer erreichbar" },
+          { "value": "100%", "label": "Zufriedene Kunden" }
+        ]
+      }
+    },
+        "slepenauto": {
+      "seo": {
+        "title": "Auto Abschleppen - 24/7 Schnell und Sicher Ihr Auto Abschleppen | Mobile Hilfe",
+        "description": "Möchten Sie Ihr Auto sofort abschleppen lassen? 24/7 erreichbar, schneller Service, professioneller und sicherer Transport an jeden Ort.",
+        "keywords": "auto abschleppen, abschleppdienst, auto transport, 24/7 abschleppdienst, pannenhilfe, auto bergen",
+        "imageAlt": "Professioneller Abschleppdienst"
+      },
+      "hero": {
+        "badge": "Auto Abschleppen",
+        "title": {
+          "part1": "Auto abschleppen lassen?",
+          "part2": "Schnell & Sicher abgeschleppt"
+        },
+        "subtitle": "Ihr Auto schnell und sicher abgeschleppt, 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "features": {
+        "title": "Warum Unser Abschleppdienst?",
+        "subtitle": "Unser Abschleppdienst ist 24/7 erreichbar und sorgt für sicheren, schnellen und professionellen Transport Ihres Autos an jeden gewünschten Ort.",
+        "items": [
+          { "title": "24/7 Verfügbar", "description": "Immer erreichbar, Tag und Nacht." },
+          { "title": "Schneller Service", "description": "Innerhalb von 30 Minuten vor Ort." },
+          { "title": "Professionelle Ausrüstung", "description": "Sicherer und zuverlässiger Transport." },
+          { "title": "Erfahrene Fahrer", "description": "Kompetentes und freundliches Personal." }
+        ]
+      },
+      "serviceDetails": {
+        "title": "Kompletter Abschleppdienst",
+        "imageAlt": "Professioneller Abschleppdienst",
+        "items": [
+          { "title": "Pannenhilfe", "description": "Sofortiges Abschleppen bei Pannen." },
+          { "title": "Unfall", "description": "Sicherer Transport nach einem Unfall." },
+          { "title": "Transport", "description": "Autotransport an jeden gewünschten Ort." }
+        ]
+      },
+      "situations": {
+        "title": "Wann Auto Abschleppen?",
+        "description": "Ob Panne, Unfall oder Transport – wir schleppen Ihr Auto sicher und schnell zum gewünschten Ziel.",
+        "items": [
+          { "title": "Panne", "description": "Schnelle Hilfe bei Autopannen." },
+          { "title": "Unfall", "description": "Sicherer Transport nach einer Kollision." },
+          { "title": "Fahrzeugverlagerung", "description": "Transport von nicht fahrbereiten Fahrzeugen." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für den Abschleppdienst",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher transportieren können.",
+        "imageAlt": "Standort teilen für Abschleppdienst"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Auto abschleppen lassen? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Abschleppdienst. Schnell vor Ort, immer sicherer Transport.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unseren Abschleppdienst-Spezialisten",
+        "stats": [
+          { "value": "30 min", "label": "Durchschnittliche Anfahrtszeit" },
+          { "value": "24/7", "label": "Immer erreichbar" },
+          { "value": "100%", "label": "Zufriedene Kunden" }
+        ]
+      }
+    },
+        "sleepbedrijf": {
+      "seo": {
+        "title": "Abschleppunternehmen - 24/7 Schneller und Sicherer Abschleppdienst | Mobile Hilfe",
+        "description": "Sofort ein Abschleppunternehmen benötigt? 24/7 erreichbar, schneller Service, professionell und sicher Ihr Auto abschleppen oder bergen lassen.",
+        "keywords": "abschleppunternehmen, abschleppdienst, auto abschleppen, auto bergen, 24/7 abschleppdienst, pannenhilfe, auto transport",
+        "imageAlt": "Professionelles Abschleppunternehmen"
+      },
+      "hero": {
+        "badge": "Abschleppunternehmen",
+        "title": {
+          "part1": "Abschleppunternehmen benötigt?",
+          "part2": "Schnell & Sicher abgeschleppt"
+        },
+        "subtitle": "Ihr Auto schnell und sicher abgeschleppt oder geborgen, 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "features": {
+        "title": "Warum Unser Abschleppunternehmen?",
+        "subtitle": "Unser Abschleppunternehmen ist 24/7 erreichbar und sorgt für sicheren, schnellen und professionellen Transport oder Bergung Ihres Autos.",
+        "items": [
+          { "title": "24/7 Verfügbar", "description": "Immer erreichbar, Tag und Nacht." },
+          { "title": "Schneller Service", "description": "Innerhalb von 30 Minuten vor Ort." },
+          { "title": "Professionelle Ausrüstung", "description": "Sicherer und zuverlässiger Transport." },
+          { "title": "Erfahrene Fahrer", "description": "Kompetentes und freundliches Personal." }
+        ]
+      },
+      "serviceDetails": {
+        "title": "Kompletter Abschleppservice",
+        "imageAlt": "Professionelles Abschleppunternehmen",
+        "items": [
+          { "title": "Pannenhilfe", "description": "Sofortiges Abschleppen oder Bergen bei Pannen." },
+          { "title": "Unfall", "description": "Sichere Bergung nach einem Unfall." },
+          { "title": "Transport", "description": "Autotransport an jeden gewünschten Ort." }
+        ]
+      },
+      "situations": {
+        "title": "Wann Abschleppunternehmen nötig?",
+        "description": "Ob Panne, Unfall oder Transport – unser Abschleppunternehmen hilft Ihnen schnell und sicher.",
+        "items": [
+          { "title": "Panne", "description": "Schnelle Hilfe bei Autopannen." },
+          { "title": "Unfall", "description": "Sichere Bergung nach einer Kollision." },
+          { "title": "Fahrzeugverlagerung", "description": "Transport oder Bergung von nicht fahrbereiten Fahrzeugen." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für das Abschleppunternehmen",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher transportieren oder bergen können.",
+        "imageAlt": "Standort teilen für Abschleppunternehmen"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Abschleppunternehmen benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Abschleppunternehmen. Schnell vor Ort, immer sicherer Transport oder Bergung.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unseren Abschleppunternehmen-Spezialisten",
+        "stats": [
+          { "value": "30 min", "label": "Durchschnittliche Anfahrtszeit" },
+          { "value": "24/7", "label": "Immer erreichbar" },
+          { "value": "100%", "label": "Zufriedene Kunden" }
+        ]
+      }
+    },
+        "autoWegLatenSlepen": {
+      "seo": {
+        "title": "Auto abschleppen lassen - 24/7 Schnell und Sicher | Mobile Hilfe",
+        "description": "Möchten Sie Ihr Auto sofort von der Straße abschleppen lassen? 24/7 erreichbar, schneller Service, professioneller und sicherer Transport.",
+        "keywords": "auto abschleppen lassen, abschleppdienst, auto abschleppen, 24/7 abschleppdienst, pannenhilfe, auto bergen",
+        "imageAlt": "Auto abschleppen lassen"
+      },
+      "hero": {
+        "badge": "Auto abschleppen lassen",
+        "title": {
+          "part1": "Auto abschleppen lassen?",
+          "part2": "Schnell & Sicher erledigt"
+        },
+        "subtitle": "Ihr Auto schnell und sicher von der Straße abgeschleppt, 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "features": {
+        "title": "Warum Auto abschleppen lassen?",
+        "subtitle": "Unser Abschleppdienst ist 24/7 erreichbar und sorgt für sicheren, schnellen und professionellen Abtransport Ihres Autos von der Straße.",
+        "items": [
+          { "title": "24/7 Verfügbar", "description": "Immer erreichbar, Tag und Nacht." },
+          { "title": "Schneller Service", "description": "Innerhalb von 30 Minuten vor Ort." },
+          { "title": "Professionelle Ausrüstung", "description": "Sicherer und zuverlässiger Transport." },
+          { "title": "Erfahrene Fahrer", "description": "Kompetentes und freundliches Personal." }
+        ]
+      },
+      "serviceDetails": {
+        "title": "Kompletter Abschleppdienst für Autoentfernung",
+        "imageAlt": "Auto von der Straße abschleppen lassen",
+        "items": [
+          { "title": "Pannenhilfe", "description": "Sofortiges Abschleppen bei Pannen." },
+          { "title": "Unfall", "description": "Sicherer Transport nach einem Unfall." },
+          { "title": "Stillstand", "description": "Auto entfernen bei Stillstand oder Blockade." }
+        ]
+      },
+      "situations": {
+        "title": "Wann Auto abschleppen lassen?",
+        "description": "Ob Panne, Unfall oder Stillstand – wir schleppen Ihr Auto sicher und schnell von der Straße.",
+        "items": [
+          { "title": "Panne", "description": "Schnelle Hilfe bei Autopannen." },
+          { "title": "Unfall", "description": "Sicherer Transport nach einer Kollision." },
+          { "title": "Stillstand", "description": "Auto entfernen bei Blockade oder Störung." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für den Abschleppdienst",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher von der Straße entfernen können.",
+        "imageAlt": "Standort teilen für Abschleppdienst"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Auto sofort abschleppen lassen? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Abschleppdienst. Schnell vor Ort, immer sicherer Transport.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unseren Abschleppdienst-Spezialisten",
+        "stats": [
+          { "value": "30 min", "label": "Durchschnittliche Anfahrtszeit" },
+          { "value": "24/7", "label": "Immer erreichbar" },
+          { "value": "100%", "label": "Zufriedene Kunden" }
+        ]
+      }
+    },
+        "takelbedrijf": {
+      "seo": {
+        "title": "Abschleppunternehmen - 24/7 Schneller und Sicherer Abschleppdienst für Autos | Mobile Hilfe",
+        "description": "Sofort ein Abschleppunternehmen benötigt? 24/7 erreichbar, schneller Service, professionell und sicher Ihr Auto abschleppen oder bergen lassen.",
+        "keywords": "abschleppunternehmen, abschleppdienst, auto abschleppen, auto bergen, 24/7 abschleppdienst, pannenhilfe, auto transport",
+        "imageAlt": "Professionelles Abschleppunternehmen"
+      },
+      "hero": {
+        "badge": "Abschleppunternehmen",
+        "title": {
+          "part1": "Abschleppunternehmen benötigt?",
+          "part2": "Schnell & Sicher abgeschleppt"
+        },
+        "subtitle": "Ihr Auto schnell und sicher abgeschleppt oder geborgen, 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "features": {
+        "title": "Warum Unser Abschleppunternehmen?",
+        "subtitle": "Unser Abschleppunternehmen ist 24/7 erreichbar und sorgt für sicheren, schnellen und professionellen Abschlepp- oder Bergungsdienst.",
+        "items": [
+          { "title": "24/7 Verfügbar", "description": "Immer erreichbar, Tag und Nacht." },
+          { "title": "Schneller Service", "description": "Innerhalb von 30 Minuten vor Ort." },
+          { "title": "Professionelle Ausrüstung", "description": "Sicherer und zuverlässiger Transport." },
+          { "title": "Erfahrene Fahrer", "description": "Kompetentes und freundliches Personal." }
+        ]
+      },
+      "serviceDetails": {
+        "title": "Kompletter Abschleppservice",
+        "imageAlt": "Professionelles Abschleppunternehmen",
+        "items": [
+          { "title": "Pannenhilfe", "description": "Sofortiges Abschleppen oder Bergen bei Pannen." },
+          { "title": "Unfall", "description": "Sichere Bergung nach einem Unfall." },
+          { "title": "Transport", "description": "Autotransport an jeden gewünschten Ort." }
+        ]
+      },
+      "situations": {
+        "title": "Wann Abschleppunternehmen nötig?",
+        "description": "Ob Panne, Unfall oder Transport – unser Abschleppunternehmen hilft Ihnen schnell und sicher.",
+        "items": [
+          { "title": "Panne", "description": "Schnelle Hilfe bei Autopannen." },
+          { "title": "Unfall", "description": "Sichere Bergung nach einer Kollision." },
+          { "title": "Fahrzeugverlagerung", "description": "Transport oder Bergung von nicht fahrbereiten Fahrzeugen." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für das Abschleppunternehmen",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher abschleppen oder bergen können.",
+        "imageAlt": "Standort teilen für Abschleppunternehmen"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Abschleppunternehmen benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Abschleppunternehmen. Schnell vor Ort, immer sicherer Transport oder Bergung.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unseren Abschleppunternehmen-Spezialisten",
+        "stats": [
+          { "value": "30 min", "label": "Durchschnittliche Anfahrtszeit" },
+          { "value": "24/7", "label": "Immer erreichbar" },
+          { "value": "100%", "label": "Zufriedene Kunden" }
+        ]
+      }
+    },
+        "sleepwagen": {
+      "seo": {
+        "title": "Abschleppwagen - 24/7 Schneller und Sicherer Abschleppdienst für Autos | Mobile Hilfe",
+        "description": "Sofort einen Abschleppwagen benötigt? 24/7 erreichbar, schneller Service, professionell und sicher Ihr Auto abschleppen oder bergen lassen.",
+        "keywords": "abschleppwagen, abschleppdienst, auto abschleppen, auto bergen, 24/7 abschleppdienst, pannenhilfe, auto transport",
+        "imageAlt": "Professioneller Abschleppwagen"
+      },
+      "hero": {
+        "badge": "Abschleppwagen",
+        "title": {
+          "part1": "Abschleppwagen benötigt?",
+          "part2": "Schnell & Sicher abgeschleppt"
+        },
+        "subtitle": "Ihr Auto schnell und sicher abgeschleppt oder geborgen, 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "features": {
+        "title": "Warum Unser Abschleppwagen?",
+        "subtitle": "Unser Abschleppwagen ist 24/7 erreichbar und sorgt für sicheren, schnellen und professionellen Transport oder Bergung Ihres Autos.",
+        "items": [
+          { "title": "24/7 Verfügbar", "description": "Immer erreichbar, Tag und Nacht." },
+          { "title": "Schneller Service", "description": "Innerhalb von 30 Minuten vor Ort." },
+          { "title": "Professionelle Ausrüstung", "description": "Sicherer und zuverlässiger Transport." },
+          { "title": "Erfahrene Fahrer", "description": "Kompetentes und freundliches Personal." }
+        ]
+      },
+      "serviceDetails": {
+        "title": "Kompletter Abschleppwagen-Service",
+        "imageAlt": "Abschleppwagendienst",
+        "items": [
+          { "title": "Pannenhilfe", "description": "Sofortiges Abschleppen oder Bergen bei Pannen." },
+          { "title": "Unfall", "description": "Sichere Bergung nach einem Unfall." },
+          { "title": "Transport", "description": "Autotransport an jeden gewünschten Ort." }
+        ]
+      },
+      "situations": {
+        "title": "Wann Abschleppwagen nötig?",
+        "description": "Ob Panne, Unfall oder Transport – unser Abschleppwagen hilft Ihnen schnell und sicher.",
+        "items": [
+          { "title": "Panne", "description": "Schnelle Hilfe bei Autopannen." },
+          { "title": "Unfall", "description": "Sichere Bergung nach einer Kollision." },
+          { "title": "Fahrzeugverlagerung", "description": "Transport oder Bergung von nicht fahrbereiten Fahrzeugen." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für den Abschleppwagen",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher transportieren oder bergen können.",
+        "imageAlt": "Standort teilen für Abschleppwagen"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Abschleppwagen benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Abschleppwagen. Schnell vor Ort, immer sicherer Transport oder Bergung.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unseren Abschleppwagenspezialisten",
+        "stats": [
+          { "value": "30 min", "label": "Durchschnittliche Anfahrtszeit" },
+          { "value": "24/7", "label": "Immer erreichbar" },
+          { "value": "100%", "label": "Zufriedene Kunden" }
+        ]
+      }
+    },
+        "takelwagen": {
+      "seo": {
+        "title": "Abschleppwagen - 24/7 Schneller und Sicherer Abschleppdienst für Autos | Mobile Hilfe",
+        "description": "Sofort einen Abschleppwagen benötigt? 24/7 erreichbar, schneller Service, professionell und sicher Ihr Auto abschleppen oder bergen lassen.",
+        "keywords": "abschleppwagen, abschleppdienst, auto abschleppen, auto bergen, 24/7 abschleppdienst, pannenhilfe, auto transport",
+        "imageAlt": "Professioneller Abschleppwagen"
+      },
+      "hero": {
+        "badge": "Abschleppwagen",
+        "title": {
+          "part1": "Abschleppwagen benötigt?",
+          "part2": "Schnell & Sicher abgeschleppt"
+        },
+        "subtitle": "Ihr Auto schnell und sicher abgeschleppt oder geborgen, 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "features": {
+        "title": "Warum Unser Abschleppwagen?",
+        "subtitle": "Unser Abschleppwagen ist 24/7 erreichbar und sorgt für sicheren, schnellen und professionellen Transport oder Bergung Ihres Autos.",
+        "items": [
+          { "title": "24/7 Verfügbar", "description": "Immer erreichbar, Tag und Nacht." },
+          { "title": "Schneller Service", "description": "Innerhalb von 30 Minuten vor Ort." },
+          { "title": "Professionelle Ausrüstung", "description": "Sicherer und zuverlässiger Transport." },
+          { "title": "Erfahrene Fahrer", "description": "Kompetentes und freundliches Personal." }
+        ]
+      },
+      "serviceDetails": {
+        "title": "Kompletter Abschleppwagen-Service",
+        "imageAlt": "Abschleppwagendienst",
+        "items": [
+          { "title": "Pannenhilfe", "description": "Sofortiges Abschleppen oder Bergen bei Pannen." },
+          { "title": "Unfall", "description": "Sichere Bergung nach einem Unfall." },
+          { "title": "Transport", "description": "Autotransport an jeden gewünschten Ort." }
+        ]
+      },
+      "situations": {
+        "title": "Wann Abschleppwagen nötig?",
+        "description": "Ob Panne, Unfall oder Transport – unser Abschleppwagen hilft Ihnen schnell und sicher.",
+        "items": [
+          { "title": "Panne", "description": "Schnelle Hilfe bei Autopannen." },
+          { "title": "Unfall", "description": "Sichere Bergung nach einer Kollision." },
+          { "title": "Fahrzeugverlagerung", "description": "Transport oder Bergung von nicht fahrbereiten Fahrzeugen." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für den Abschleppwagen",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher transportieren oder bergen können.",
+        "imageAlt": "Standort teilen für Abschleppwagen"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Abschleppwagen benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Abschleppwagen. Schnell vor Ort, immer sicherer Transport oder Bergung.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unseren Abschleppwagenspezialisten",
+        "stats": [
+          { "value": "30 min", "label": "Durchschnittliche Anfahrtszeit" },
+          { "value": "24/7", "label": "Immer erreichbar" },
+          { "value": "100%", "label": "Zufriedene Kunden" }
+        ]
+      }
+    },
+        "sleepdienst": {
+      "seo": {
+        "title": "Abschleppdienst - 24/7 Schnell und Sicher für Autos | Mobile Hilfe",
+        "description": "Sofort einen Abschleppdienst benötigt? 24/7 erreichbar, schneller Service, professionell und sicher Ihr Auto abschleppen oder bergen lassen.",
+        "keywords": "abschleppdienst, auto abschleppen, auto bergen, 24/7 abschleppdienst, pannenhilfe, auto transport",
+        "imageAlt": "Professioneller Abschleppdienst"
+      },
+      "hero": {
+        "badge": "Abschleppdienst",
+        "title": {
+          "part1": "Abschleppdienst benötigt?",
+          "part2": "Schnell & Sicher abgeschleppt"
+        },
+        "subtitle": "Ihr Auto schnell und sicher abgeschleppt oder geborgen, 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "features": {
+        "title": "Warum Unser Abschleppdienst?",
+        "subtitle": "Unser Abschleppdienst ist 24/7 erreichbar und sorgt für sicheren, schnellen und professionellen Transport oder Bergung Ihres Autos.",
+        "items": [
+          { "title": "24/7 Verfügbar", "description": "Immer erreichbar, Tag und Nacht." },
+          { "title": "Schneller Service", "description": "Innerhalb von 30 Minuten vor Ort." },
+          { "title": "Professionelle Ausrüstung", "description": "Sicherer und zuverlässiger Transport." },
+          { "title": "Erfahrene Fahrer", "description": "Kompetentes und freundliches Personal." }
+        ]
+      },
+      "serviceDetails": {
+        "title": "Kompletter Abschleppdienst",
+        "imageAlt": "Abschleppdienst",
+        "items": [
+          { "title": "Pannenhilfe", "description": "Sofortiges Abschleppen oder Bergen bei Pannen." },
+          { "title": "Unfall", "description": "Sichere Bergung nach einem Unfall." },
+          { "title": "Transport", "description": "Autotransport an jeden gewünschten Ort." }
+        ]
+      },
+      "situations": {
+        "title": "Wann Abschleppdienst nötig?",
+        "description": "Ob Panne, Unfall oder Transport – unser Abschleppdienst hilft Ihnen schnell und sicher.",
+        "items": [
+          { "title": "Panne", "description": "Schnelle Hilfe bei Autopannen." },
+          { "title": "Unfall", "description": "Sichere Bergung nach einer Kollision." },
+          { "title": "Fahrzeugverlagerung", "description": "Transport oder Bergung von nicht fahrbereiten Fahrzeugen." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für den Abschleppdienst",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher transportieren oder bergen können.",
+        "imageAlt": "Standort teilen für Abschleppdienst"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Abschleppdienst benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Abschleppdienst. Schnell vor Ort, immer sicherer Transport oder Bergung.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unseren Abschleppdienstspezialisten",
+        "stats": [
+          { "value": "30 min", "label": "Durchschnittliche Anfahrtszeit" },
+          { "value": "24/7", "label": "Immer erreichbar" },
+          { "value": "100%", "label": "Zufriedene Kunden" }
+        ]
+      }
+    },
+        "modder": {
+      "seo": {
+        "title": "Auto im Schlamm festgefahren? | Tipps & Hilfe",
+        "description": "Ihr Auto steckt im Schlamm fest? Lesen Sie, was zu tun ist und erhalten Sie sofort Hilfe. 24/7 erreichbar für Pannenhilfe und Bergung.",
+        "keywords": "auto festgefahren, schlamm, auto bergen, pannenhilfe, auto hilfe",
+        "imageAlt": "Auto im Schlamm festgefahren"
+      },
+      "hero": {
+        "badge": "Auto im Schlamm festgefahren",
+        "title": {
+          "part1": "Auto im Schlamm festgefahren?",
+          "part2": "So kommen Sie wieder frei"
+        },
+        "subtitle": "Brauchen Sie sofort Hilfe? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was tun, wenn Ihr Auto im Schlamm feststeckt?",
+        "subtitle": "Befolgen Sie diese Schritte, um Ihr Auto zu befreien. Klappt es nicht? Wir helfen sofort!",
+        "items": [
+          { "title": "Ruhe bewahren", "description": "Vermeiden Sie Durchdrehen der Räder durch zu viel Gas." },
+          { "title": "Bereich freimachen", "description": "Entfernen Sie so viel Schlamm wie möglich um die Reifen." },
+          { "title": "Matten oder Äste nutzen", "description": "Legen Sie etwas unter die Räder für mehr Grip." },
+          { "title": "Vorsichtig anfahren", "description": "Schalten Sie in einen niedrigen Gang und versuchen Sie langsam vor- oder zurückzufahren." },
+          { "title": "Geht nichts mehr?", "description": "Rufen Sie unseren Hilfsdienst, wir sind schnell vor Ort!" }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher bergen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Hilfe benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für festgefahrene Autos. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "autoUitModder": {
+      "seo": {
+        "title": "Auto aus dem Schlamm ziehen - 24/7 Hilfe & Abschleppdienst",
+        "description": "Ihr Auto steckt im Schlamm fest? 24/7 erreichbar für schnelle und sichere Bergung und Abschleppdienst.",
+        "keywords": "auto aus schlamm, auto fest, abschleppdienst, auto bergen, pannenhilfe",
+        "imageAlt": "Auto aus dem Schlamm ziehen"
+      },
+      "hero": {
+        "badge": "Auto aus dem Schlamm ziehen",
+        "title": {
+          "part1": "Auto im Schlamm festgefahren?",
+          "part2": "Wir ziehen Sie schnell heraus"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "features": {
+        "title": "Warum unser Abschleppdienst?",
+        "subtitle": "Unser Abschleppdienst ist 24/7 erreichbar und sorgt für eine sichere, schnelle und professionelle Bergung Ihres Autos aus dem Schlamm.",
+        "items": [
+          { "title": "24/7 erreichbar", "description": "Immer sofortige Hilfe, Tag und Nacht." },
+          { "title": "Schneller Service", "description": "Wir sind schnell vor Ort, egal wo Sie sind." },
+          { "title": "Professionelle Ausrüstung", "description": "Ihr Auto wird sicher und ohne Schaden geborgen." },
+          { "title": "Erfahrenes Team", "description": "Unsere Spezialisten meistern jede Situation." }
+        ]
+      },
+      "serviceDetails": {
+        "title": "Kompletter Abschleppdienst",
+        "imageAlt": "Auto aus dem Schlamm ziehen",
+        "items": [
+          { "title": "Auto aus Schlamm ziehen", "description": "Wir ziehen Ihr Auto sicher und ohne Schaden aus dem Schlamm." },
+          { "title": "Bergung vor Ort", "description": "Auch bei schweren Festfahrungen bieten wir eine Lösung." },
+          { "title": "Transport zum Wunschort", "description": "Bei Bedarf bringen wir Ihr Auto zur Werkstatt oder zu einer Adresse Ihrer Wahl." }
+        ]
+      },
+      "situations": {
+        "title": "Wann Abschleppdienst nötig?",
+        "description": "Ob Schlamm, Sand oder Schnee – wir ziehen Ihr Auto schnell und sicher heraus.",
+        "items": [
+          { "title": "Im Schlamm festgefahren", "description": "Ihr Auto bewegt sich weder vor noch zurück." },
+          { "title": "Im Sand festgefahren", "description": "Räder drehen im losen Sand durch." },
+          { "title": "Im Schnee festgefahren", "description": "Auto steckt durch Schnee oder Eis fest." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für den Abschleppdienst",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher bergen können.",
+        "imageAlt": "Standort teilen für Abschleppdienst"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Abschleppdienst nötig? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Abschleppdienst. Schnell vor Ort, immer sicherer Transport.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unseren Abschlepp-Spezialisten"
+      }
+    },
+        "vastInModderAuto": {
+      "seo": {
+        "title": "Auto im Schlamm festgefahren? | 24/7 Abschleppdienst & Hilfe",
+        "description": "Auto im Schlamm festgefahren? 24/7 erreichbar für schnelle Hilfe und Abschleppdienst. Wir ziehen Ihr Auto schnell und sicher heraus.",
+        "keywords": "auto schlamm, abschleppdienst, auto bergen, pannenhilfe, auto befreien",
+        "imageAlt": "Auto im Schlamm festgefahren"
+      },
+      "hero": {
+        "badge": "Auto im Schlamm festgefahren",
+        "title": {
+          "part1": "Auto im Schlamm festgefahren?",
+          "part2": "Wir helfen sofort"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was tun, wenn Ihr Auto im Schlamm feststeckt?",
+        "subtitle": "Befolgen Sie diese Schritte, um Ihr Auto zu befreien. Klappt es nicht? Wir helfen sofort!",
+        "items": [
+          { "title": "Ruhe bewahren", "description": "Vermeiden Sie Durchdrehen der Räder durch zu viel Gas." },
+          { "title": "Bereich freimachen", "description": "Entfernen Sie so viel Schlamm wie möglich um die Reifen." },
+          { "title": "Matten oder Äste nutzen", "description": "Legen Sie etwas unter die Räder für mehr Grip." },
+          { "title": "Vorsichtig anfahren", "description": "Schalten Sie in einen niedrigen Gang und versuchen Sie langsam vor- oder zurückzufahren." },
+          { "title": "Geht nichts mehr?", "description": "Rufen Sie unseren Hilfsdienst, wir sind schnell vor Ort!" }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher bergen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Hilfe benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für festgefahrene Autos. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "autoVastInModder": {
+      "seo": {
+        "title": "Auto im Schlamm festgefahren? | 24/7 Abschleppdienst & Hilfe",
+        "description": "Auto im Schlamm festgefahren? 24/7 erreichbar für schnelle Hilfe und Abschleppdienst. Wir ziehen Ihr Auto schnell und sicher heraus.",
+        "keywords": "auto schlamm, abschleppdienst, auto bergen, pannenhilfe, auto befreien",
+        "imageAlt": "Auto im Schlamm festgefahren"
+      },
+      "hero": {
+        "badge": "Auto im Schlamm festgefahren",
+        "title": {
+          "part1": "Auto im Schlamm festgefahren?",
+          "part2": "Wir helfen sofort"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was tun, wenn Ihr Auto im Schlamm feststeckt?",
+        "subtitle": "Befolgen Sie diese Schritte, um Ihr Auto zu befreien. Klappt es nicht? Wir helfen sofort!",
+        "items": [
+          { "title": "Ruhe bewahren", "description": "Vermeiden Sie Durchdrehen der Räder durch zu viel Gas." },
+          { "title": "Bereich freimachen", "description": "Entfernen Sie so viel Schlamm wie möglich um die Reifen." },
+          { "title": "Matten oder Äste nutzen", "description": "Legen Sie etwas unter die Räder für mehr Grip." },
+          { "title": "Vorsichtig anfahren", "description": "Schalten Sie in einen niedrigen Gang und versuchen Sie langsam vor- oder zurückzufahren." },
+          { "title": "Geht nichts mehr?", "description": "Rufen Sie unseren Hilfsdienst, wir sind schnell vor Ort!" }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher bergen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Hilfe benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für festgefahrene Autos. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "vastInSneeuwAuto": {
+      "seo": {
+        "title": "Auto im Schnee festgefahren? | 24/7 Abschleppdienst & Hilfe",
+        "description": "Auto im Schnee festgefahren? 24/7 erreichbar für schnelle Hilfe und Abschleppdienst. Wir ziehen Ihr Auto schnell und sicher heraus.",
+        "keywords": "auto schnee, abschleppdienst, auto bergen, pannenhilfe, auto befreien",
+        "imageAlt": "Auto im Schnee festgefahren"
+      },
+      "hero": {
+        "badge": "Auto im Schnee festgefahren",
+        "title": {
+          "part1": "Auto im Schnee festgefahren?",
+          "part2": "Wir helfen sofort"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was tun, wenn Ihr Auto im Schnee feststeckt?",
+        "subtitle": "Befolgen Sie diese Schritte, um Ihr Auto zu befreien. Klappt es nicht? Wir helfen sofort!",
+        "items": [
+          { "title": "Ruhe bewahren", "description": "Vermeiden Sie Durchdrehen der Räder durch zu viel Gas." },
+          { "title": "Bereich freimachen", "description": "Entfernen Sie so viel Schnee wie möglich um die Reifen." },
+          { "title": "Matten oder Äste nutzen", "description": "Legen Sie etwas unter die Räder für mehr Grip." },
+          { "title": "Vorsichtig anfahren", "description": "Schalten Sie in einen niedrigen Gang und versuchen Sie langsam vor- oder zurückzufahren." },
+          { "title": "Geht nichts mehr?", "description": "Rufen Sie unseren Hilfsdienst, wir sind schnell vor Ort!" }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher bergen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Hilfe benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für festgefahrene Autos. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "autoVastInSneeuw": {
+      "seo": {
+        "title": "Auto im Schnee festgefahren? | 24/7 Abschleppdienst & Hilfe",
+        "description": "Auto im Schnee festgefahren? 24/7 erreichbar für schnelle Hilfe und Abschleppdienst. Wir ziehen Ihr Auto schnell und sicher heraus.",
+        "keywords": "auto schnee, abschleppdienst, auto bergen, pannenhilfe, auto befreien",
+        "imageAlt": "Auto im Schnee festgefahren"
+      },
+      "hero": {
+        "badge": "Auto im Schnee festgefahren",
+        "title": {
+          "part1": "Auto im Schnee festgefahren?",
+          "part2": "Wir helfen sofort"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was tun, wenn Ihr Auto im Schnee feststeckt?",
+        "subtitle": "Befolgen Sie diese Schritte, um Ihr Auto zu befreien. Klappt es nicht? Wir helfen sofort!",
+        "imageAlt": "Auto im Schnee Hilfe",
+        "items": [
+          { "title": "Ruhe bewahren", "description": "Vermeiden Sie Durchdrehen der Räder durch zu viel Gas." },
+          { "title": "Bereich freimachen", "description": "Entfernen Sie so viel Schnee wie möglich um die Reifen." },
+          { "title": "Matten oder Äste nutzen", "description": "Legen Sie etwas unter die Räder für mehr Grip." },
+          { "title": "Vorsichtig anfahren", "description": "Schalten Sie in einen niedrigen Gang und versuchen Sie langsam vor- oder zurückzufahren." },
+          { "title": "Geht nichts mehr?", "description": "Rufen Sie unseren Hilfsdienst, wir sind schnell vor Ort!" }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher bergen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Hilfe benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für festgefahrene Autos. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "autoInDeSlootVandaag": {
+      "seo": {
+        "title": "Auto heute im Graben? | 24/7 Abschleppdienst & Hilfe",
+        "description": "Ist Ihr Auto heute im Graben gelandet? 24/7 erreichbar für schnelle Hilfe und Abschleppdienst. Wir bergen Ihr Auto schnell und sicher.",
+        "keywords": "auto im graben, abschleppdienst, auto bergen, pannenhilfe, auto aus graben holen",
+        "imageAlt": "Auto heute im Graben"
+      },
+      "hero": {
+        "badge": "Auto heute im Graben",
+        "title": {
+          "part1": "Auto im Graben gelandet?",
+          "part2": "Wir helfen sofort"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was tun, wenn Ihr Auto im Graben gelandet ist?",
+        "subtitle": "Befolgen Sie diese Schritte für Ihre Sicherheit. Klappt es nicht? Wir helfen sofort!",
+        "imageAlt": "Auto im Graben Hilfe",
+        "items": [
+          { "title": "Ruhe bewahren", "description": "Achten Sie auf Ihre eigene Sicherheit und die anderer." },
+          { "title": "Verlassen Sie das Fahrzeug wenn möglich sicher", "description": "Achten Sie auf den Verkehr und die Umgebung." },
+          { "title": "Rufen Sie sofort Hilfe", "description": "Kontaktieren Sie unseren Hilfsdienst für schnelle Bergung." },
+          { "title": "Warten Sie auf professionelle Hilfe", "description": "Versuchen Sie nicht, das Fahrzeug selbst zu bergen." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher bergen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Hilfe benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Autos im Graben. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "autoBelandtInSloot": {
+      "seo": {
+        "title": "Auto im Graben gelandet? | 24/7 Abschleppdienst & Hilfe",
+        "description": "Ist Ihr Auto im Graben gelandet? 24/7 erreichbar für schnelle Hilfe und Abschleppdienst. Wir bergen Ihr Auto schnell und sicher.",
+        "keywords": "auto im graben, abschleppdienst, auto bergen, pannenhilfe, auto aus graben holen",
+        "imageAlt": "Auto im Graben gelandet"
+      },
+      "hero": {
+        "badge": "Auto im Graben gelandet",
+        "title": {
+          "part1": "Auto im Graben gelandet?",
+          "part2": "Wir helfen sofort"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was tun, wenn Ihr Auto im Graben gelandet ist?",
+        "subtitle": "Befolgen Sie diese Schritte für Ihre Sicherheit. Klappt es nicht? Wir helfen sofort!",
+        "imageAlt": "Auto im Graben Hilfe",
+        "items": [
+          { "title": "Ruhe bewahren", "description": "Achten Sie auf Ihre eigene Sicherheit und die anderer." },
+          { "title": "Verlassen Sie das Fahrzeug wenn möglich sicher", "description": "Achten Sie auf den Verkehr und die Umgebung." },
+          { "title": "Rufen Sie sofort Hilfe", "description": "Kontaktieren Sie unseren Hilfsdienst für schnelle Bergung." },
+          { "title": "Warten Sie auf professionelle Hilfe", "description": "Versuchen Sie nicht, das Fahrzeug selbst zu bergen." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher bergen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Hilfe benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Autos im Graben. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "autoInSlootVandaag": {
+      "seo": {
+        "title": "Auto heute im Graben? | 24/7 Abschleppdienst & Hilfe",
+        "description": "Ist Ihr Auto heute im Graben gelandet? 24/7 erreichbar für schnelle Hilfe und Abschleppdienst. Wir bergen Ihr Auto schnell und sicher.",
+        "keywords": "auto im graben, abschleppdienst, auto bergen, pannenhilfe, auto aus graben holen",
+        "imageAlt": "Auto heute im Graben"
+      },
+      "hero": {
+        "badge": "Auto heute im Graben",
+        "title": {
+          "part1": "Auto heute im Graben?",
+          "part2": "Wir helfen sofort"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was tun, wenn Ihr Auto heute im Graben gelandet ist?",
+        "subtitle": "Befolgen Sie diese Schritte für Ihre Sicherheit. Klappt es nicht? Wir helfen sofort!",
+        "imageAlt": "Auto im Graben Hilfe",
+        "items": [
+          { "title": "Ruhe bewahren", "description": "Achten Sie auf Ihre eigene Sicherheit und die anderer." },
+          { "title": "Verlassen Sie das Fahrzeug wenn möglich sicher", "description": "Achten Sie auf den Verkehr und die Umgebung." },
+          { "title": "Rufen Sie sofort Hilfe", "description": "Kontaktieren Sie unseren Hilfsdienst für schnelle Bergung." },
+          { "title": "Warten Sie auf professionelle Hilfe", "description": "Versuchen Sie nicht, das Fahrzeug selbst zu bergen." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher bergen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Hilfe benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Autos im Graben. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "autoInDeSloot": {
+      "seo": {
+        "title": "Auto im Graben? | 24/7 Abschleppdienst & Hilfe",
+        "description": "Ist Ihr Auto im Graben gelandet? 24/7 erreichbar für schnelle Hilfe und Abschleppdienst. Wir bergen Ihr Auto schnell und sicher.",
+        "keywords": "auto im graben, abschleppdienst, auto bergen, pannenhilfe, auto aus graben holen",
+        "imageAlt": "Auto im Graben"
+      },
+      "hero": {
+        "badge": "Auto im Graben",
+        "title": {
+          "part1": "Auto im Graben?",
+          "part2": "Wir helfen sofort"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was tun, wenn Ihr Auto im Graben gelandet ist?",
+        "subtitle": "Befolgen Sie diese Schritte für Ihre Sicherheit. Klappt es nicht? Wir helfen sofort!",
+        "imageAlt": "Auto im Graben Hilfe",
+        "items": [
+          { "title": "Ruhe bewahren", "description": "Achten Sie auf Ihre eigene Sicherheit und die anderer." },
+          { "title": "Verlassen Sie das Fahrzeug wenn möglich sicher", "description": "Achten Sie auf den Verkehr und die Umgebung." },
+          { "title": "Rufen Sie sofort Hilfe", "description": "Kontaktieren Sie unseren Hilfsdienst für schnelle Bergung." },
+          { "title": "Warten Sie auf professionelle Hilfe", "description": "Versuchen Sie nicht, das Fahrzeug selbst zu bergen." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher bergen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Hilfe benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Autos im Graben. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "autoInSloot": {
+      "seo": {
+        "title": "Auto im Graben? | 24/7 Abschleppdienst & Hilfe",
+        "description": "Ist Ihr Auto im Graben gelandet? 24/7 erreichbar für schnelle Hilfe und Abschleppdienst. Wir bergen Ihr Auto schnell und sicher.",
+        "keywords": "auto im graben, abschleppdienst, auto bergen, pannenhilfe, auto aus graben holen",
+        "imageAlt": "Auto im Graben"
+      },
+      "hero": {
+        "badge": "Auto im Graben",
+        "title": {
+          "part1": "Auto im Graben?",
+          "part2": "Wir helfen sofort"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was tun, wenn Ihr Auto im Graben gelandet ist?",
+        "subtitle": "Befolgen Sie diese Schritte für Ihre Sicherheit. Klappt es nicht? Wir helfen sofort!",
+        "imageAlt": "Auto im Graben Hilfe",
+        "items": [
+          { "title": "Ruhe bewahren", "description": "Achten Sie auf Ihre eigene Sicherheit und die anderer." },
+          { "title": "Verlassen Sie das Fahrzeug wenn möglich sicher", "description": "Achten Sie auf den Verkehr und die Umgebung." },
+          { "title": "Rufen Sie sofort Hilfe", "description": "Kontaktieren Sie unseren Hilfsdienst für schnelle Bergung." },
+          { "title": "Warten Sie auf professionelle Hilfe", "description": "Versuchen Sie nicht, das Fahrzeug selbst zu bergen." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher bergen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Hilfe benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Autos im Graben. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "autoInDeGreppel": {
+      "seo": {
+        "title": "Auto im Graben? | 24/7 Abschleppdienst & Hilfe",
+        "description": "Ist Ihr Auto im Graben gelandet? 24/7 erreichbar für schnelle Hilfe und Abschleppdienst. Wir bergen Ihr Auto schnell und sicher.",
+        "keywords": "auto im graben, abschleppdienst, auto bergen, pannenhilfe, auto aus graben holen",
+        "imageAlt": "Auto im Graben"
+      },
+      "hero": {
+        "badge": "Auto im Graben",
+        "title": {
+          "part1": "Auto im Graben?",
+          "part2": "Wir helfen sofort"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was tun, wenn Ihr Auto im Graben gelandet ist?",
+        "subtitle": "Befolgen Sie diese Schritte für Ihre Sicherheit. Klappt es nicht? Wir helfen sofort!",
+        "imageAlt": "Auto im Graben Hilfe",
+        "items": [
+          { "title": "Ruhe bewahren", "description": "Achten Sie auf Ihre eigene Sicherheit und die anderer." },
+          { "title": "Verlassen Sie das Fahrzeug wenn möglich sicher", "description": "Achten Sie auf den Verkehr und die Umgebung." },
+          { "title": "Rufen Sie sofort Hilfe", "description": "Kontaktieren Sie unseren Hilfsdienst für schnelle Bergung." },
+          { "title": "Warten Sie auf professionelle Hilfe", "description": "Versuchen Sie nicht, das Fahrzeug selbst zu bergen." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher bergen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Hilfe benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Autos im Graben. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "autoVastInGras": {
+      "seo": {
+        "title": "Auto im Gras festgefahren? | 24/7 Abschleppdienst & Hilfe",
+        "description": "Ist Ihr Auto im Gras steckengeblieben? 24/7 erreichbar für schnelle Hilfe und Abschleppdienst. Wir helfen Ihnen schnell und sicher.",
+        "keywords": "auto im gras festgefahren, abschleppdienst, auto bergen, pannenhilfe, auto aus gras holen",
+        "imageAlt": "Auto im Gras festgefahren"
+      },
+      "hero": {
+        "badge": "Auto im Gras festgefahren",
+        "title": {
+          "part1": "Auto im Gras festgefahren?",
+          "part2": "Wir helfen sofort"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was tun, wenn Ihr Auto im Gras feststeckt?",
+        "subtitle": "Befolgen Sie diese Schritte für Ihre Sicherheit. Klappt es nicht? Wir helfen sofort!",
+        "imageAlt": "Auto im Gras Hilfe",
+        "items": [
+          { "title": "Ruhe bewahren", "description": "Achten Sie auf Ihre eigene Sicherheit und die anderer." },
+          { "title": "Nicht zu viel Gas geben", "description": "Das kann die Situation verschlimmern." },
+          { "title": "Sofort Hilfe rufen", "description": "Kontaktieren Sie unseren Hilfsdienst für schnelle Bergung." },
+          { "title": "Warten Sie auf professionelle Hilfe", "description": "Versuchen Sie nicht, das Fahrzeug selbst herauszuziehen." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher bergen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Hilfe benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Autos im Gras. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "autoUitDeModderHalen": {
+      "seo": {
+        "title": "Auto aus dem Schlamm holen? | 24/7 Abschleppdienst & Hilfe",
+        "description": "Ist Ihr Auto im Schlamm steckengeblieben? 24/7 erreichbar für schnelle Hilfe und Abschleppdienst. Wir helfen Ihnen schnell und sicher.",
+        "keywords": "auto aus dem schlamm holen, abschleppdienst, auto bergen, pannenhilfe, auto im schlamm festgefahren",
+        "imageAlt": "Auto aus dem Schlamm holen"
+      },
+      "hero": {
+        "badge": "Auto aus dem Schlamm holen",
+        "title": {
+          "part1": "Auto im Schlamm festgefahren?",
+          "part2": "Wir helfen sofort"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was tun, wenn Ihr Auto im Schlamm feststeckt?",
+        "subtitle": "Befolgen Sie diese Schritte für Ihre Sicherheit. Klappt es nicht? Wir helfen sofort!",
+        "imageAlt": "Auto aus dem Schlamm Hilfe",
+        "items": [
+          { "title": "Ruhe bewahren", "description": "Achten Sie auf Ihre eigene Sicherheit und die anderer." },
+          { "title": "Nicht zu viel Gas geben", "description": "Das kann die Situation verschlimmern." },
+          { "title": "Sofort Hilfe rufen", "description": "Kontaktieren Sie unseren Hilfsdienst für schnelle Bergung." },
+          { "title": "Warten Sie auf professionelle Hilfe", "description": "Versuchen Sie nicht, das Fahrzeug selbst herauszuziehen." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher bergen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Hilfe benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Autos im Schlamm. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "autoVastInZand": {
+      "seo": {
+        "title": "Auto im Sand festgefahren? | 24/7 Abschleppdienst & Hilfe",
+        "description": "Ist Ihr Auto im Sand steckengeblieben? 24/7 erreichbar für schnelle Hilfe und Abschleppdienst. Wir helfen Ihnen schnell und sicher.",
+        "keywords": "auto im sand festgefahren, abschleppdienst, auto bergen, pannenhilfe, auto aus sand holen",
+        "imageAlt": "Auto im Sand festgefahren"
+      },
+      "hero": {
+        "badge": "Auto im Sand festgefahren",
+        "title": {
+          "part1": "Auto im Sand festgefahren?",
+          "part2": "Wir helfen sofort"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was tun, wenn Ihr Auto im Sand feststeckt?",
+        "subtitle": "Befolgen Sie diese Schritte für Ihre Sicherheit. Klappt es nicht? Wir helfen sofort!",
+        "imageAlt": "Auto im Sand Hilfe",
+        "items": [
+          { "title": "Ruhe bewahren", "description": "Achten Sie auf Ihre eigene Sicherheit und die anderer." },
+          { "title": "Nicht zu viel Gas geben", "description": "Das kann die Situation verschlimmern." },
+          { "title": "Sofort Hilfe rufen", "description": "Kontaktieren Sie unseren Hilfsdienst für schnelle Bergung." },
+          { "title": "Warten Sie auf professionelle Hilfe", "description": "Versuchen Sie nicht, das Fahrzeug selbst herauszuziehen." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher bergen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Hilfe benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Autos im Sand. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "autoVastgeredenInModder": {
+      "seo": {
+        "title": "Auto im Schlamm festgefahren? | 24/7 Abschleppdienst & Hilfe",
+        "description": "Ist Ihr Auto im Schlamm steckengeblieben? 24/7 erreichbar für schnelle Hilfe und Abschleppdienst. Wir helfen Ihnen schnell und sicher.",
+        "keywords": "auto im schlamm festgefahren, abschleppdienst, auto bergen, pannenhilfe, auto aus schlamm holen",
+        "imageAlt": "Auto im Schlamm festgefahren"
+      },
+      "hero": {
+        "badge": "Auto im Schlamm festgefahren",
+        "title": {
+          "part1": "Auto im Schlamm festgefahren?",
+          "part2": "Wir helfen sofort"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was tun, wenn Ihr Auto im Schlamm feststeckt?",
+        "subtitle": "Befolgen Sie diese Schritte für Ihre Sicherheit. Klappt es nicht? Wir helfen sofort!",
+        "imageAlt": "Auto im Schlamm Hilfe",
+        "items": [
+          { "title": "Ruhe bewahren", "description": "Achten Sie auf Ihre eigene Sicherheit und die anderer." },
+          { "title": "Nicht zu viel Gas geben", "description": "Das kann die Situation verschlimmern." },
+          { "title": "Sofort Hilfe rufen", "description": "Kontaktieren Sie unseren Hilfsdienst für schnelle Bergung." },
+          { "title": "Warten Sie auf professionelle Hilfe", "description": "Versuchen Sie nicht, das Fahrzeug selbst herauszuziehen." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher bergen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Hilfe benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Autos im Schlamm. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "carStuckInTheMud": {
+      "seo": {
+        "title": "Auto im Schlamm festgefahren? | 24/7 Abschleppdienst & Hilfe",
+        "description": "Ist Ihr Auto im Schlamm steckengeblieben? 24/7 erreichbar für schnelle Hilfe und Abschleppdienst. Wir helfen Ihnen schnell und sicher.",
+        "keywords": "auto im schlamm festgefahren, abschleppdienst, auto bergen, pannenhilfe, auto aus schlamm holen",
+        "imageAlt": "Auto im Schlamm festgefahren"
+      },
+      "hero": {
+        "badge": "Auto im Schlamm festgefahren",
+        "title": {
+          "part1": "Auto im Schlamm festgefahren?",
+          "part2": "Wir helfen sofort"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was tun, wenn Ihr Auto im Schlamm feststeckt?",
+        "subtitle": "Befolgen Sie diese Schritte für Ihre Sicherheit. Klappt es nicht? Wir helfen sofort!",
+        "imageAlt": "Auto im Schlamm Hilfe",
+        "items": [
+          { "title": "Ruhe bewahren", "description": "Achten Sie auf Ihre eigene Sicherheit und die anderer." },
+          { "title": "Nicht zu viel Gas geben", "description": "Das kann die Situation verschlimmern." },
+          { "title": "Sofort Hilfe rufen", "description": "Kontaktieren Sie unseren Hilfsdienst für schnelle Bergung." },
+          { "title": "Warten Sie auf professionelle Hilfe", "description": "Versuchen Sie nicht, das Fahrzeug selbst herauszuziehen." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher bergen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Hilfe benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Autos im Schlamm. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "autoInDeBerm": {
+      "seo": {
+        "title": "Auto im Seitenstreifen? | 24/7 Abschleppdienst & Hilfe",
+        "description": "Ist Ihr Auto im Seitenstreifen gelandet? 24/7 erreichbar für schnelle Hilfe und Abschleppdienst. Wir helfen Ihnen schnell und sicher.",
+        "keywords": "auto im seitenstreifen, abschleppdienst, auto bergen, pannenhilfe, auto aus seitenstreifen holen",
+        "imageAlt": "Auto im Seitenstreifen"
+      },
+      "hero": {
+        "badge": "Auto im Seitenstreifen",
+        "title": {
+          "part1": "Auto im Seitenstreifen?",
+          "part2": "Wir helfen sofort"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was tun, wenn Ihr Auto im Seitenstreifen steht?",
+        "subtitle": "Befolgen Sie diese Schritte für Ihre Sicherheit. Klappt es nicht? Wir helfen sofort!",
+        "imageAlt": "Auto im Seitenstreifen Hilfe",
+        "items": [
+          { "title": "Ruhe bewahren", "description": "Achten Sie auf Ihre eigene Sicherheit und die anderer." },
+          { "title": "Nicht zu viel Gas geben", "description": "Das kann die Situation verschlimmern." },
+          { "title": "Sofort Hilfe rufen", "description": "Kontaktieren Sie unseren Hilfsdienst für schnelle Bergung." },
+          { "title": "Warten Sie auf professionelle Hilfe", "description": "Versuchen Sie nicht, das Fahrzeug selbst herauszuziehen." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher bergen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Hilfe benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Autos im Seitenstreifen. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "vastInDeModder": {
+      "seo": {
+        "title": "Im Schlamm festgefahren? | 24/7 Abschleppdienst & Hilfe",
+        "description": "Ist Ihr Fahrzeug im Schlamm steckengeblieben? 24/7 erreichbar für schnelle Hilfe und Abschleppdienst. Wir helfen Ihnen schnell und sicher.",
+        "keywords": "im schlamm festgefahren, abschleppdienst, auto bergen, pannenhilfe, auto aus schlamm holen",
+        "imageAlt": "Im Schlamm festgefahren"
+      },
+      "hero": {
+        "badge": "Im Schlamm festgefahren",
+        "title": {
+          "part1": "Im Schlamm festgefahren?",
+          "part2": "Wir helfen sofort"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was tun, wenn Sie im Schlamm feststecken?",
+        "subtitle": "Befolgen Sie diese Schritte für Ihre Sicherheit. Klappt es nicht? Wir helfen sofort!",
+        "imageAlt": "Im Schlamm Hilfe",
+        "items": [
+          { "title": "Ruhe bewahren", "description": "Achten Sie auf Ihre eigene Sicherheit und die anderer." },
+          { "title": "Nicht zu viel Gas geben", "description": "Das kann die Situation verschlimmern." },
+          { "title": "Sofort Hilfe rufen", "description": "Kontaktieren Sie unseren Hilfsdienst für schnelle Bergung." },
+          { "title": "Warten Sie auf professionelle Hilfe", "description": "Versuchen Sie nicht, das Fahrzeug selbst herauszuziehen." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Fahrzeug sicher bergen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Hilfe benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Fahrzeuge im Schlamm. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "autoZitVastInModder": {
+      "seo": {
+        "title": "Auto im Schlamm festgefahren? | 24/7 Abschleppdienst & Hilfe",
+        "description": "Ist Ihr Auto im Schlamm steckengeblieben? 24/7 erreichbar für schnelle Hilfe und Abschleppdienst. Wir helfen Ihnen schnell und sicher.",
+        "keywords": "auto im schlamm festgefahren, abschleppdienst, auto bergen, pannenhilfe, auto aus schlamm holen",
+        "imageAlt": "Auto im Schlamm festgefahren"
+      },
+      "hero": {
+        "badge": "Auto im Schlamm festgefahren",
+        "title": {
+          "part1": "Auto im Schlamm festgefahren?",
+          "part2": "Wir helfen sofort"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was tun, wenn Ihr Auto im Schlamm feststeckt?",
+        "subtitle": "Befolgen Sie diese Schritte für Ihre Sicherheit. Klappt es nicht? Wir helfen sofort!",
+        "imageAlt": "Auto im Schlamm Hilfe",
+        "items": [
+          { "title": "Ruhe bewahren", "description": "Achten Sie auf Ihre eigene Sicherheit und die anderer." },
+          { "title": "Nicht zu viel Gas geben", "description": "Das kann die Situation verschlimmern." },
+          { "title": "Sofort Hilfe rufen", "description": "Kontaktieren Sie unseren Hilfsdienst für schnelle Bergung." },
+          { "title": "Warten Sie auf professionelle Hilfe", "description": "Versuchen Sie nicht, das Fahrzeug selbst herauszuziehen." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher bergen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Hilfe benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Autos im Schlamm. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "hoeKrijgJeEenAutoUitDeModder": {
+      "seo": {
+        "title": "Wie bekommt man ein Auto aus dem Schlamm? | 24/7 Abschleppdienst & Hilfe",
+        "description": "Ist Ihr Auto im Schlamm steckengeblieben? 24/7 erreichbar für schnelle Hilfe und Abschleppdienst. Wir helfen Ihnen schnell und sicher.",
+        "keywords": "auto aus schlamm holen, abschleppdienst, auto bergen, pannenhilfe, im schlamm festgefahren",
+        "imageAlt": "Auto aus dem Schlamm holen"
+      },
+      "hero": {
+        "badge": "Auto aus dem Schlamm holen",
+        "title": {
+          "part1": "Wie bekommt man ein Auto aus dem Schlamm?",
+          "part2": "Wir helfen sofort"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was tun, wenn Ihr Auto im Schlamm feststeckt?",
+        "subtitle": "Befolgen Sie diese Schritte für Ihre Sicherheit. Klappt es nicht? Wir helfen sofort!",
+        "imageAlt": "Auto aus dem Schlamm Hilfe",
+        "items": [
+          { "title": "Ruhe bewahren", "description": "Achten Sie auf Ihre eigene Sicherheit und die anderer." },
+          { "title": "Nicht zu viel Gas geben", "description": "Das kann die Situation verschlimmern." },
+          { "title": "Sofort Hilfe rufen", "description": "Kontaktieren Sie unseren Hilfsdienst für schnelle Bergung." },
+          { "title": "Warten Sie auf professionelle Hilfe", "description": "Versuchen Sie nicht, das Fahrzeug selbst herauszuziehen." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher bergen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Hilfe benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Autos im Schlamm. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "vastInDeModderMetAuto": {
+      "seo": {
+        "title": "Mit dem Auto im Schlamm festgefahren? | 24/7 Abschleppdienst & Hilfe",
+        "description": "Ist Ihr Auto im Schlamm steckengeblieben? 24/7 erreichbar für schnelle Hilfe und Abschleppdienst. Wir helfen Ihnen schnell und sicher.",
+        "keywords": "mit auto im schlamm festgefahren, abschleppdienst, auto bergen, pannenhilfe, auto aus schlamm holen",
+        "imageAlt": "Mit dem Auto im Schlamm festgefahren"
+      },
+      "hero": {
+        "badge": "Mit dem Auto im Schlamm festgefahren",
+        "title": {
+          "part1": "Mit dem Auto im Schlamm festgefahren?",
+          "part2": "Wir helfen sofort"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was tun, wenn Ihr Auto im Schlamm feststeckt?",
+        "subtitle": "Befolgen Sie diese Schritte für Ihre Sicherheit. Klappt es nicht? Wir helfen sofort!",
+        "imageAlt": "Mit dem Auto im Schlamm Hilfe",
+        "items": [
+          { "title": "Ruhe bewahren", "description": "Achten Sie auf Ihre eigene Sicherheit und die anderer." },
+          { "title": "Nicht zu viel Gas geben", "description": "Das kann die Situation verschlimmern." },
+          { "title": "Sofort Hilfe rufen", "description": "Kontaktieren Sie unseren Hilfsdienst für schnelle Bergung." },
+          { "title": "Warten Sie auf professionelle Hilfe", "description": "Versuchen Sie nicht, das Fahrzeug selbst herauszuziehen." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher bergen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Hilfe benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Autos im Schlamm. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "autoInDeModder": {
+      "seo": {
+        "title": "Auto im Schlamm? | 24/7 Abschleppdienst & Hilfe",
+        "description": "Ist Ihr Auto im Schlamm steckengeblieben? 24/7 erreichbar für schnelle Hilfe und Abschleppdienst. Wir helfen Ihnen schnell und sicher.",
+        "keywords": "auto im schlamm, abschleppdienst, auto bergen, pannenhilfe, auto aus schlamm holen",
+        "imageAlt": "Auto im Schlamm"
+      },
+      "hero": {
+        "badge": "Auto im Schlamm",
+        "title": {
+          "part1": "Auto im Schlamm?",
+          "part2": "Wir helfen sofort"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was tun, wenn Ihr Auto im Schlamm steckt?",
+        "subtitle": "Befolgen Sie diese Schritte für Ihre Sicherheit. Klappt es nicht? Wir helfen sofort!",
+        "imageAlt": "Auto im Schlamm Hilfe",
+        "items": [
+          { "title": "Ruhe bewahren", "description": "Achten Sie auf Ihre eigene Sicherheit und die anderer." },
+          { "title": "Nicht zu viel Gas geben", "description": "Das kann die Situation verschlimmern." },
+          { "title": "Sofort Hilfe rufen", "description": "Kontaktieren Sie unseren Hilfsdienst für schnelle Bergung." },
+          { "title": "Warten Sie auf professionelle Hilfe", "description": "Versuchen Sie nicht, das Fahrzeug selbst herauszuziehen." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher bergen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Hilfe benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Autos im Schlamm. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "autoStaatVastInDeModder": {
+      "seo": {
+        "title": "Auto steckt im Schlamm fest? | 24/7 Abschleppdienst & Hilfe",
+        "description": "Steckt Ihr Auto im Schlamm fest? 24/7 erreichbar für schnelle Hilfe und Abschleppdienst. Wir helfen Ihnen schnell und sicher.",
+        "keywords": "auto steckt im schlamm fest, abschleppdienst, auto bergen, pannenhilfe, auto aus schlamm holen",
+        "imageAlt": "Auto steckt im Schlamm fest"
+      },
+      "hero": {
+        "badge": "Auto steckt im Schlamm fest",
+        "title": {
+          "part1": "Auto steckt im Schlamm fest?",
+          "part2": "Wir helfen sofort"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was tun, wenn Ihr Auto im Schlamm feststeckt?",
+        "subtitle": "Befolgen Sie diese Schritte für Ihre Sicherheit. Klappt es nicht? Wir helfen sofort!",
+        "imageAlt": "Auto steckt im Schlamm fest Hilfe",
+        "items": [
+          { "title": "Ruhe bewahren", "description": "Achten Sie auf Ihre eigene Sicherheit und die anderer." },
+          { "title": "Nicht zu viel Gas geben", "description": "Das kann die Situation verschlimmern." },
+          { "title": "Sofort Hilfe rufen", "description": "Kontaktieren Sie unseren Hilfsdienst für schnelle Bergung." },
+          { "title": "Warten Sie auf professionelle Hilfe", "description": "Versuchen Sie nicht, das Fahrzeug selbst herauszuziehen." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto sicher bergen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Hilfe benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Autos im Schlamm. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "accuAutoLeeg": {
+      "seo": {
+        "title": "Autobatterie leer? | 24/7 Pannenhilfe & Starthilfe",
+        "description": "Ist Ihre Autobatterie leer? 24/7 erreichbar für schnelle Hilfe und Starthilfe. Wir bringen Sie sofort wieder auf die Straße.",
+        "keywords": "autobatterie leer, starthilfe, pannenhilfe, auto batterie, auto startet nicht",
+        "imageAlt": "Autobatterie leer"
+      },
+      "hero": {
+        "badge": "Autobatterie leer",
+        "title": {
+          "part1": "Autobatterie leer?",
+          "part2": "Wir starten Sie sofort wieder"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was tun bei leerer Batterie?",
+        "subtitle": "Befolgen Sie diese Schritte für Ihre Sicherheit. Klappt es nicht? Wir helfen sofort!",
+        "imageAlt": "Autobatterie leer Hilfe",
+        "items": [
+          { "title": "Prüfen Sie, ob das Licht funktioniert", "description": "Kein Licht? Wahrscheinlich ist die Batterie leer." },
+          { "title": "Versuchen Sie, das Auto zu starten", "description": "Klappt es nicht? Rufen Sie unseren Starthilfeservice." },
+          { "title": "Verwenden Sie Starthilfekabel, wenn möglich", "description": "Achten Sie auf die richtige Reihenfolge und Sicherheit." },
+          { "title": "Sofort Hilfe rufen", "description": "Wir kommen schnell vorbei und helfen Ihnen weiter." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto starten können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Hilfe benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar bei leerer Batterie. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "autoAccuLeegWatNu": {
+      "seo": {
+        "title": "Autobatterie leer, was nun? | 24/7 Pannenhilfe & Starthilfe",
+        "description": "Ist Ihre Autobatterie leer? 24/7 erreichbar für schnelle Hilfe und Starthilfe. Wir bringen Sie sofort wieder auf die Straße.",
+        "keywords": "autobatterie leer was nun, starthilfe, pannenhilfe, auto batterie, auto startet nicht",
+        "imageAlt": "Autobatterie leer was nun"
+      },
+      "hero": {
+        "badge": "Autobatterie leer, was nun?",
+        "title": {
+          "part1": "Autobatterie leer, was nun?",
+          "part2": "Wir starten Sie sofort wieder"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was tun bei leerer Batterie?",
+        "subtitle": "Befolgen Sie diese Schritte für Ihre Sicherheit. Klappt es nicht? Wir helfen sofort!",
+        "imageAlt": "Autobatterie leer Hilfe",
+        "items": [
+          { "title": "Prüfen Sie, ob das Licht funktioniert", "description": "Kein Licht? Wahrscheinlich ist die Batterie leer." },
+          { "title": "Versuchen Sie, das Auto zu starten", "description": "Klappt es nicht? Rufen Sie unseren Starthilfeservice." },
+          { "title": "Verwenden Sie Starthilfekabel, wenn möglich", "description": "Achten Sie auf die richtige Reihenfolge und Sicherheit." },
+          { "title": "Sofort Hilfe rufen", "description": "Wir kommen schnell vorbei und helfen Ihnen weiter." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihr Auto starten können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Hilfe benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar bei leerer Batterie. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "serviceAccu": {
+      "seo": {
+        "title": "Batterieservice | 24/7 Batteriehilfe & Starthilfe",
+        "description": "Probleme mit Ihrer Batterie? 24/7 erreichbar für schnellen Service, Austausch und Starthilfe. Wir helfen Ihnen sofort.",
+        "keywords": "batterieservice, batterie austauschen, starthilfe, batterie hilfe, auto batterie leer",
+        "imageAlt": "Batterieservice"
+      },
+      "hero": {
+        "badge": "Batterieservice",
+        "title": {
+          "part1": "Probleme mit Ihrer Batterie?",
+          "part2": "Wir helfen Ihnen sofort"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was beinhaltet unser Batterieservice?",
+        "subtitle": "Wir bieten schnelle Hilfe bei Batterieproblemen, tauschen Batterien vor Ort und sorgen dafür, dass Sie wieder sicher unterwegs sind.",
+        "imageAlt": "Batterieservice Hilfe",
+        "items": [
+          { "title": "Schnelle Diagnose", "description": "Wir prüfen sofort Ihre Batterie und elektrischen Systeme." },
+          { "title": "Starthilfe", "description": "Wir starten Ihr Auto sicher und schnell, wenn möglich." },
+          { "title": "Batterie austauschen", "description": "Falls nötig, tauschen wir Ihre Batterie direkt vor Ort aus." },
+          { "title": "24/7 erreichbar", "description": "Immer Hilfe, Tag und Nacht, wo immer Sie sind." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihre Batterie prüfen oder austauschen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Batterieservice benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Batterieprobleme, Starthilfe und Austausch. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "accuServiceAanHuis": {
+      "seo": {
+        "title": "Batterieservice zu Hause | 24/7 Batteriehilfe & Starthilfe",
+        "description": "Batterieservice zu Hause benötigt? 24/7 erreichbar für schnelle Hilfe, Austausch und Starthilfe bei Ihnen vor Ort. Wir helfen Ihnen sofort.",
+        "keywords": "batterieservice zu hause, batterie austausch zuhause, starthilfe, batterie hilfe, auto batterie leer",
+        "imageAlt": "Batterieservice zu Hause"
+      },
+      "hero": {
+        "badge": "Batterieservice zu Hause",
+        "title": {
+          "part1": "Batterieservice zu Hause benötigt?",
+          "part2": "Wir kommen sofort zu Ihnen"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was beinhaltet Batterieservice zu Hause?",
+        "subtitle": "Wir kommen zu Ihnen nach Hause bei Batterieproblemen, tauschen Ihre Batterie vor Ort und sorgen dafür, dass Sie schnell wieder fahren können.",
+        "imageAlt": "Batterieservice zu Hause Hilfe",
+        "items": [
+          { "title": "Batterieaustausch zu Hause", "description": "Wir tauschen Ihre Batterie direkt bei Ihnen zu Hause aus." },
+          { "title": "Starthilfe vor Ort", "description": "Wir starten Ihr Auto sicher und schnell bei Ihnen zu Hause." },
+          { "title": "Schnelle Diagnose", "description": "Wir prüfen Ihre Batterie und elektrischen Systeme vor Ort." },
+          { "title": "24/7 erreichbar", "description": "Immer Hilfe, Tag und Nacht, wo Sie auch wohnen." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihre Batterie bei Ihnen zu Hause prüfen oder austauschen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Batterieservice zu Hause benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Batterieprobleme, Starthilfe und Austausch zu Hause. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "accuVervangenAanHuis": {
+      "seo": {
+        "title": "Batteriewechsel zu Hause | 24/7 Batteriehilfe & Austausch",
+        "description": "Batteriewechsel zu Hause benötigt? 24/7 erreichbar für schnellen Austausch und Hilfe bei Ihnen vor Ort. Wir helfen Ihnen sofort.",
+        "keywords": "batteriewechsel zu hause, batterie austausch zuhause, batterie hilfe, auto batterie leer, batterie service",
+        "imageAlt": "Batteriewechsel zu Hause"
+      },
+      "hero": {
+        "badge": "Batteriewechsel zu Hause",
+        "title": {
+          "part1": "Batteriewechsel zu Hause benötigt?",
+          "part2": "Wir kommen sofort zu Ihnen"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was beinhaltet Batteriewechsel zu Hause?",
+        "subtitle": "Wir kommen zu Ihnen nach Hause, um Ihre Batterie zu wechseln, damit Sie schnell wieder fahren können.",
+        "imageAlt": "Batteriewechsel zu Hause Hilfe",
+        "items": [
+          { "title": "Batteriewechsel zu Hause", "description": "Wir tauschen Ihre Batterie direkt bei Ihnen zu Hause aus." },
+          { "title": "Schnelle Diagnose", "description": "Wir prüfen Ihre Batterie und elektrischen Systeme vor Ort." },
+          { "title": "Starthilfe falls nötig", "description": "Wir starten Ihr Auto sicher und schnell nach dem Austausch." },
+          { "title": "24/7 erreichbar", "description": "Immer Hilfe, Tag und Nacht, wo Sie auch wohnen." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihre Batterie bei Ihnen zu Hause austauschen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Batteriewechsel zu Hause benötigt? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Batteriewechsel zu Hause. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "vervangenAccuAuto": {
+      "seo": {
+        "title": "Autobatterie wechseln | 24/7 Batteriehilfe & Austausch",
+        "description": "Autobatterie wechseln lassen? 24/7 erreichbar für schnellen Austausch und Hilfe. Wir kommen sofort zu Ihnen.",
+        "keywords": "autobatterie wechseln, batterie austausch, auto batterie leer, batterie service, batterie hilfe",
+        "imageAlt": "Autobatterie wechseln"
+      },
+      "hero": {
+        "badge": "Autobatterie wechseln",
+        "title": {
+          "part1": "Autobatterie wechseln lassen?",
+          "part2": "Wir kommen sofort zu Ihnen"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was beinhaltet der Austausch der Autobatterie?",
+        "subtitle": "Wir wechseln Ihre Autobatterie schnell und fachgerecht, damit Sie wieder sicher unterwegs sind.",
+        "imageAlt": "Autobatterie wechseln Hilfe",
+        "items": [
+          { "title": "Fachgerechter Austausch", "description": "Wir wechseln Ihre Batterie nach Herstellervorgaben." },
+          { "title": "Schneller Service", "description": "Wir sind schnell vor Ort, wo immer Sie sind." },
+          { "title": "Starthilfe falls nötig", "description": "Wir starten Ihr Auto sicher nach dem Austausch." },
+          { "title": "24/7 erreichbar", "description": "Immer Hilfe, Tag und Nacht, in ganz Deutschland." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihre Batterie überall austauschen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Autobatterie wechseln lassen? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Batteriewechsel. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "accuVervangenAuto": {
+      "seo": {
+        "title": "Autobatterie wechseln | 24/7 Batteriehilfe & Austausch",
+        "description": "Autobatterie wechseln lassen? 24/7 erreichbar für schnellen Austausch und Hilfe. Wir kommen sofort zu Ihnen.",
+        "keywords": "autobatterie wechseln, batterie austausch, auto batterie leer, batterie service, batterie hilfe",
+        "imageAlt": "Autobatterie wechseln"
+      },
+      "hero": {
+        "badge": "Autobatterie wechseln",
+        "title": {
+          "part1": "Autobatterie wechseln lassen?",
+          "part2": "Wir kommen sofort zu Ihnen"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was beinhaltet der Austausch der Autobatterie?",
+        "subtitle": "Wir wechseln Ihre Autobatterie schnell und fachgerecht, damit Sie wieder sicher unterwegs sind.",
+        "imageAlt": "Autobatterie wechseln Hilfe",
+        "items": [
+          { "title": "Fachgerechter Austausch", "description": "Wir wechseln Ihre Batterie nach Herstellervorgaben." },
+          { "title": "Schneller Service", "description": "Wir sind schnell vor Ort, wo immer Sie sind." },
+          { "title": "Starthilfe falls nötig", "description": "Wir starten Ihr Auto sicher nach dem Austausch." },
+          { "title": "24/7 erreichbar", "description": "Immer Hilfe, Tag und Nacht, in ganz Deutschland." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihre Batterie überall austauschen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Autobatterie wechseln lassen? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Batteriewechsel. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "autoAccuVervangenAanHuis": {
+      "seo": {
+        "title": "Autobatterie zu Hause wechseln | 24/7 Batteriehilfe & Austausch",
+        "description": "Autobatterie zu Hause wechseln lassen? 24/7 erreichbar für schnellen Austausch und Hilfe bei Ihnen vor Ort. Wir kommen sofort zu Ihnen.",
+        "keywords": "autobatterie zu hause wechseln, batterie austausch zuhause, batterie hilfe, auto batterie leer, batterie service",
+        "imageAlt": "Autobatterie zu Hause wechseln"
+      },
+      "hero": {
+        "badge": "Autobatterie zu Hause wechseln",
+        "title": {
+          "part1": "Autobatterie zu Hause wechseln lassen?",
+          "part2": "Wir kommen sofort zu Ihnen"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was beinhaltet der Austausch der Autobatterie zu Hause?",
+        "subtitle": "Wir kommen zu Ihnen nach Hause, um Ihre Autobatterie zu wechseln, damit Sie schnell wieder fahren können.",
+        "imageAlt": "Autobatterie zu Hause wechseln Hilfe",
+        "items": [
+          { "title": "Batteriewechsel zu Hause", "description": "Wir wechseln Ihre Autobatterie direkt bei Ihnen zu Hause." },
+          { "title": "Schnelle Diagnose", "description": "Wir prüfen Ihre Batterie und elektrischen Systeme vor Ort." },
+          { "title": "Starthilfe falls nötig", "description": "Wir starten Ihr Auto sicher und schnell nach dem Austausch." },
+          { "title": "24/7 erreichbar", "description": "Immer Hilfe, Tag und Nacht, wo immer Sie wohnen." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihre Autobatterie bei Ihnen zu Hause austauschen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Autobatterie zu Hause wechseln lassen? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Batteriewechsel zu Hause. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "accuAutoVervangen": {
+      "seo": {
+        "title": "Autobatterie wechseln | 24/7 Batteriehilfe & Austausch",
+        "description": "Autobatterie wechseln lassen? 24/7 erreichbar für schnellen Austausch und Hilfe. Wir kommen sofort zu Ihnen.",
+        "keywords": "autobatterie wechseln, batterie austausch, auto batterie leer, batterie service, batterie hilfe",
+        "imageAlt": "Autobatterie wechseln"
+      },
+      "hero": {
+        "badge": "Autobatterie wechseln",
+        "title": {
+          "part1": "Autobatterie wechseln lassen?",
+          "part2": "Wir kommen sofort zu Ihnen"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was beinhaltet der Austausch der Autobatterie?",
+        "subtitle": "Wir wechseln Ihre Autobatterie schnell und fachgerecht, damit Sie wieder sicher unterwegs sind.",
+        "imageAlt": "Autobatterie wechseln Hilfe",
+        "items": [
+          { "title": "Fachgerechter Austausch", "description": "Wir wechseln Ihre Batterie nach Herstellervorgaben." },
+          { "title": "Schneller Service", "description": "Wir sind schnell vor Ort, wo immer Sie sind." },
+          { "title": "Starthilfe falls nötig", "description": "Wir starten Ihr Auto sicher nach dem Austausch." },
+          { "title": "24/7 erreichbar", "description": "Immer Hilfe, Tag und Nacht, in ganz Deutschland." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihre Batterie überall austauschen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Autobatterie wechseln lassen? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Batteriewechsel. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "accuLatenVervangenAanHuis": {
+      "seo": {
+        "title": "Batterie zu Hause wechseln lassen | 24/7 Batteriehilfe & Austausch",
+        "description": "Batterie zu Hause wechseln lassen? 24/7 erreichbar für schnellen Austausch und Hilfe bei Ihnen vor Ort. Wir kommen sofort zu Ihnen.",
+        "keywords": "batterie zu hause wechseln lassen, batterie austausch zuhause, batterie hilfe, auto batterie leer, batterie service",
+        "imageAlt": "Batterie zu Hause wechseln lassen"
+      },
+      "hero": {
+        "badge": "Batterie zu Hause wechseln lassen",
+        "title": {
+          "part1": "Batterie zu Hause wechseln lassen?",
+          "part2": "Wir kommen sofort zu Ihnen"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was beinhaltet das Wechseln der Batterie zu Hause?",
+        "subtitle": "Wir kommen zu Ihnen nach Hause, um Ihre Batterie zu wechseln, damit Sie schnell wieder fahren können.",
+        "imageAlt": "Batterie zu Hause wechseln Hilfe",
+        "items": [
+          { "title": "Batteriewechsel zu Hause", "description": "Wir wechseln Ihre Batterie direkt bei Ihnen zu Hause." },
+          { "title": "Schnelle Diagnose", "description": "Wir prüfen Ihre Batterie und elektrischen Systeme vor Ort." },
+          { "title": "Starthilfe falls nötig", "description": "Wir starten Ihr Auto sicher und schnell nach dem Austausch." },
+          { "title": "24/7 erreichbar", "description": "Immer Hilfe, Tag und Nacht, wo immer Sie wohnen." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihre Batterie bei Ihnen zu Hause austauschen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Batterie zu Hause wechseln lassen? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Batteriewechsel zu Hause. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "autoAccuVervangen": {
+      "seo": {
+        "title": "Autobatterie wechseln | 24/7 Batteriehilfe & Austausch",
+        "description": "Autobatterie wechseln lassen? 24/7 erreichbar für schnellen Austausch und Hilfe. Wir kommen sofort zu Ihnen.",
+        "keywords": "autobatterie wechseln, batterie austausch, auto batterie leer, batterie service, batterie hilfe",
+        "imageAlt": "Autobatterie wechseln"
+      },
+      "hero": {
+        "badge": "Autobatterie wechseln",
+        "title": {
+          "part1": "Autobatterie wechseln?",
+          "part2": "Wir kommen sofort zu Ihnen"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was beinhaltet der Austausch der Autobatterie?",
+        "subtitle": "Wir wechseln Ihre Autobatterie schnell und fachgerecht, damit Sie wieder sicher unterwegs sind.",
+        "imageAlt": "Autobatterie wechseln Hilfe",
+        "items": [
+          { "title": "Fachgerechter Austausch", "description": "Wir wechseln Ihre Batterie nach Herstellervorgaben." },
+          { "title": "Schneller Service", "description": "Wir sind schnell vor Ort, wo immer Sie sind." },
+          { "title": "Starthilfe falls nötig", "description": "Wir starten Ihr Auto sicher nach dem Austausch." },
+          { "title": "24/7 erreichbar", "description": "Immer Hilfe, Tag und Nacht, in ganz Deutschland." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihre Batterie überall austauschen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Autobatterie wechseln lassen? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Batteriewechsel. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
+    },
+        "accuLatenVervangen": {
+      "seo": {
+        "title": "Batterie wechseln lassen | 24/7 Batteriehilfe & Austausch",
+        "description": "Batterie wechseln lassen? 24/7 erreichbar für schnellen Austausch und Hilfe. Wir kommen sofort zu Ihnen.",
+        "keywords": "batterie wechseln lassen, batterie austausch, auto batterie leer, batterie service, batterie hilfe",
+        "imageAlt": "Batterie wechseln lassen"
+      },
+      "hero": {
+        "badge": "Batterie wechseln lassen",
+        "title": {
+          "part1": "Batterie wechseln lassen?",
+          "part2": "Wir kommen sofort zu Ihnen"
+        },
+        "subtitle": "Sofort Hilfe benötigt? Wir sind 24/7 erreichbar.",
+        "phone": "0852502928",
+        "cta": "Jetzt anrufen: 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Was beinhaltet das Wechseln der Batterie?",
+        "subtitle": "Wir wechseln Ihre Batterie schnell und fachgerecht, damit Sie wieder sicher unterwegs sind.",
+        "imageAlt": "Batterie wechseln Hilfe",
+        "items": [
+          { "title": "Fachgerechter Austausch", "description": "Wir wechseln Ihre Batterie nach Herstellervorgaben." },
+          { "title": "Schneller Service", "description": "Wir sind schnell vor Ort, wo immer Sie sind." },
+          { "title": "Starthilfe falls nötig", "description": "Wir starten Ihr Auto sicher nach dem Austausch." },
+          { "title": "24/7 erreichbar", "description": "Immer Hilfe, Tag und Nacht, in ganz Deutschland." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Teilen Sie Ihren Standort für Hilfe",
+        "description": "Teilen Sie Ihren Standort, damit wir Ihnen schnell helfen und Ihre Batterie überall austauschen können.",
+        "imageAlt": "Standort teilen für Hilfe"
+      },
+      "locatiebutton": {
+        "sendLocation": "Standort teilen",
+        "loading": "Wird geladen...",
+        "confirmSend": "Erneut klicken zum Senden",
+        "errors": {
+          "notSupported": "Standort-Freigabe wird von Ihrem Browser nicht unterstützt.",
+          "failed": "Konnte Ihren Standort nicht ermitteln. Versuchen Sie es erneut oder überprüfen Sie Ihre Einstellungen."
+        }
+      },
+      "emergency": {
+        "title": "Sofort Batterie wechseln lassen? Jetzt anrufen!",
+        "subtitle": "24/7 erreichbar für Batteriewechsel. Schnell vor Ort, immer sichere Hilfe.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "Direkt verbunden mit unserem Hilfsdienst"
+      }
     }
 }
           

@@ -1852,5 +1852,2471 @@
         "description": "Avez-vous besoin d'aide ? Nos professionnels expérimentés sont disponibles 24/7 pour vous.",
         "features": ["24/7 Disponible", "Temps de réponse rapide", "Équipe professionnelle", "Prix transparents"]
       }
+    },
+        "autopech": {
+      "seo": {
+        "title": "Assistance Panne Auto - Aide 24/7 en cas de panne | Aide Mobile",
+        "description": "Aide immédiate en cas de panne auto. Disponible 24/7, service rapide, mécaniciens certifiés. Nous vous remettons rapidement sur la route.",
+        "keywords": "panne auto, assistance panne, dépannage, voiture ne démarre pas, aide 24/7, service dépannage, assistance routière",
+        "imageAlt": "Assistance panne auto professionnelle"
+      },
+      "hero": {
+        "badge": "Assistance Panne",
+        "title": {
+          "part1": "Panne de voiture ?",
+          "part2": "Aide immédiate"
+        },
+        "subtitle": "Reprenez la route rapidement avec notre service d'assistance 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "features": {
+        "title": "Pourquoi notre assistance panne ?",
+        "subtitle": "Nos mécaniciens sont disponibles 24/7 pour vous aider rapidement et professionnellement. Intervention rapide, tarifs transparents, toujours une solution.",
+        "items": [
+          { "title": "Disponible 24/7", "description": "Toujours joignable, jour et nuit." },
+          { "title": "Service rapide", "description": "Sur place en 30 minutes." },
+          { "title": "Mécaniciens certifiés", "description": "Professionnels et fiables." },
+          { "title": "Tarifs transparents", "description": "Pas de surprises après coup." }
+        ]
+      },
+      "serviceDetails": {
+        "title": "Service d'assistance complet",
+        "imageAlt": "Assistance panne auto professionnelle",
+        "items": [
+          { "title": "Démarrage", "description": "Aide immédiate en cas de batterie à plat." },
+          { "title": "Service pneus", "description": "Réparation ou remplacement rapide des pneus crevés." },
+          { "title": "Remorquage", "description": "Transport sécurisé vers un garage en cas de panne grave." }
+        ]
+      },
+      "situations": {
+        "title": "Situations de panne courantes",
+        "description": "Du pneu crevé aux problèmes moteur, nous résolvons rapidement et professionnellement pour que vous puissiez repartir en toute sécurité.",
+        "items": [
+          { "title": "Batterie à plat", "description": "Votre voiture ne démarre pas ? Nous intervenons immédiatement." },
+          { "title": "Pneu crevé", "description": "Nous remplaçons ou réparons votre pneu sur place." },
+          { "title": "Problèmes moteur", "description": "Diagnostic rapide et aide en cas de problème moteur." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour une aide rapide",
+        "description": "En panne ? Partagez votre position pour que nos mécaniciens puissent vous trouver et vous aider rapidement.",
+        "imageAlt": "Partager la position pour l'assistance panne"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'aide immédiate ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour l'assistance panne. Intervention rapide, toujours une solution.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec nos spécialistes de l'assistance panne",
+        "stats": [
+          { "value": "30 min", "label": "Délai moyen d'intervention" },
+          { "value": "24/7", "label": "Toujours disponible" },
+          { "value": "100%", "label": "Clients satisfaits" }
+        ]
+      }
+    },
+        "sleepdienstauto": {
+      "seo": {
+        "title": "Service de remorquage auto - Remorquage rapide et sécurisé 24/7 | Aide Mobile",
+        "description": "Besoin d'un service de remorquage ? Disponible 24/7, service rapide, remorquage professionnel et sécurisé de votre voiture vers n'importe quelle destination.",
+        "keywords": "remorquage, remorquage auto, service de remorquage, transport voiture, remorquage 24/7, assistance routière, dépannage auto",
+        "imageAlt": "Service de remorquage professionnel"
+      },
+      "hero": {
+        "badge": "Remorquage Auto",
+        "title": {
+          "part1": "Besoin d'un remorquage ?",
+          "part2": "Rapide & Sécurisé"
+        },
+        "subtitle": "Votre voiture remorquée rapidement et en toute sécurité, disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "features": {
+        "title": "Pourquoi notre service de remorquage ?",
+        "subtitle": "Notre service de remorquage est disponible 24/7 et assure un transport sûr, rapide et professionnel de votre voiture vers n'importe quelle destination.",
+        "items": [
+          { "title": "Disponible 24/7", "description": "Toujours joignable, jour et nuit." },
+          { "title": "Service rapide", "description": "Sur place en 30 minutes." },
+          { "title": "Équipement professionnel", "description": "Transport sûr et fiable." },
+          { "title": "Chauffeurs expérimentés", "description": "Personnel compétent et sympathique." }
+        ]
+      },
+      "serviceDetails": {
+        "title": "Service de remorquage complet",
+        "imageAlt": "Service de remorquage professionnel",
+        "items": [
+          { "title": "Panne", "description": "Remorquage immédiat en cas de panne." },
+          { "title": "Accident", "description": "Transport sécurisé après un accident." },
+          { "title": "Transport", "description": "Transport de voiture vers toute destination." }
+        ]
+      },
+      "situations": {
+        "title": "Quand avez-vous besoin d'un remorquage ?",
+        "description": "Panne, accident ou transport, nous remorquons votre voiture rapidement et en toute sécurité vers la destination souhaitée.",
+        "items": [
+          { "title": "Panne", "description": "Assistance rapide en cas de panne." },
+          { "title": "Accident", "description": "Transport sécurisé après une collision." },
+          { "title": "Déplacement de véhicule", "description": "Transport de véhicules non roulants." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour le remorquage",
+        "description": "Partagez votre position pour que nous puissions vous aider rapidement et transporter votre voiture en toute sécurité.",
+        "imageAlt": "Partager la position pour le remorquage"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'un remorquage immédiat ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour le remorquage. Intervention rapide, transport toujours sécurisé.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec nos spécialistes du remorquage",
+        "stats": [
+          { "value": "30 min", "label": "Délai moyen d'intervention" },
+          { "value": "24/7", "label": "Toujours disponible" },
+          { "value": "100%", "label": "Clients satisfaits" }
+        ]
+      }
+    },
+        "slepenauto": {
+      "seo": {
+        "title": "Remorquage de voiture - Remorquage rapide et sécurisé 24/7 | Aide Mobile",
+        "description": "Besoin de faire remorquer votre voiture ? Disponible 24/7, service rapide, transport professionnel et sécurisé vers toute destination.",
+        "keywords": "remorquage voiture, service de remorquage, transport voiture, remorquage 24/7, assistance routière, dépannage auto",
+        "imageAlt": "Service de remorquage professionnel"
+      },
+      "hero": {
+        "badge": "Remorquage Voiture",
+        "title": {
+          "part1": "Besoin de faire remorquer votre voiture ?",
+          "part2": "Rapide & Sécurisé"
+        },
+        "subtitle": "Votre voiture remorquée rapidement et en toute sécurité, disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "features": {
+        "title": "Pourquoi notre service de remorquage ?",
+        "subtitle": "Notre service de remorquage est disponible 24/7 et assure un transport sûr, rapide et professionnel de votre voiture vers n'importe quelle destination.",
+        "items": [
+          { "title": "Disponible 24/7", "description": "Toujours joignable, jour et nuit." },
+          { "title": "Service rapide", "description": "Sur place en 30 minutes." },
+          { "title": "Équipement professionnel", "description": "Transport sûr et fiable." },
+          { "title": "Chauffeurs expérimentés", "description": "Personnel compétent et sympathique." }
+        ]
+      },
+      "serviceDetails": {
+        "title": "Service de remorquage complet",
+        "imageAlt": "Service de remorquage professionnel",
+        "items": [
+          { "title": "Panne", "description": "Remorquage immédiat en cas de panne." },
+          { "title": "Accident", "description": "Transport sécurisé après un accident." },
+          { "title": "Transport", "description": "Transport de voiture vers toute destination." }
+        ]
+      },
+      "situations": {
+        "title": "Quand faire remorquer votre voiture ?",
+        "description": "Panne, accident ou transport, nous remorquons votre voiture rapidement et en toute sécurité vers la destination souhaitée.",
+        "items": [
+          { "title": "Panne", "description": "Assistance rapide en cas de panne." },
+          { "title": "Accident", "description": "Transport sécurisé après une collision." },
+          { "title": "Déplacement de véhicule", "description": "Transport de véhicules non roulants." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour le remorquage",
+        "description": "Partagez votre position pour que nous puissions vous aider rapidement et transporter votre voiture en toute sécurité.",
+        "imageAlt": "Partager la position pour le remorquage"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'un remorquage immédiat ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour le remorquage. Intervention rapide, transport toujours sécurisé.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec nos spécialistes du remorquage",
+        "stats": [
+          { "value": "30 min", "label": "Délai moyen d'intervention" },
+          { "value": "24/7", "label": "Toujours disponible" },
+          { "value": "100%", "label": "Clients satisfaits" }
+        ]
+      }
+    },
+        "sleepbedrijf": {
+      "seo": {
+        "title": "Entreprise de remorquage - Service rapide et sécurisé 24/7 | Aide Mobile",
+        "description": "Besoin d'une entreprise de remorquage ? Disponible 24/7, service rapide, remorquage ou dépannage professionnel et sécurisé de votre voiture.",
+        "keywords": "entreprise de remorquage, service de remorquage, remorquage voiture, dépannage voiture, remorquage 24/7, assistance routière, transport voiture",
+        "imageAlt": "Entreprise de remorquage professionnelle"
+      },
+      "hero": {
+        "badge": "Entreprise de remorquage",
+        "title": {
+          "part1": "Besoin d'une entreprise de remorquage ?",
+          "part2": "Rapide & Sécurisé"
+        },
+        "subtitle": "Votre voiture remorquée ou dépannée rapidement et en toute sécurité, disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "features": {
+        "title": "Pourquoi notre entreprise de remorquage ?",
+        "subtitle": "Notre entreprise de remorquage est disponible 24/7 et assure un transport ou un dépannage sûr, rapide et professionnel de votre voiture.",
+        "items": [
+          { "title": "Disponible 24/7", "description": "Toujours joignable, jour et nuit." },
+          { "title": "Service rapide", "description": "Sur place en 30 minutes." },
+          { "title": "Équipement professionnel", "description": "Transport sûr et fiable." },
+          { "title": "Chauffeurs expérimentés", "description": "Personnel compétent et sympathique." }
+        ]
+      },
+      "serviceDetails": {
+        "title": "Service complet de remorquage",
+        "imageAlt": "Entreprise de remorquage professionnelle",
+        "items": [
+          { "title": "Panne", "description": "Remorquage ou dépannage immédiat en cas de panne." },
+          { "title": "Accident", "description": "Dépannage sécurisé après un accident." },
+          { "title": "Transport", "description": "Transport de voiture vers toute destination." }
+        ]
+      },
+      "situations": {
+        "title": "Quand faire appel à une entreprise de remorquage ?",
+        "description": "Panne, accident ou transport, notre entreprise de remorquage vous aide rapidement et en toute sécurité.",
+        "items": [
+          { "title": "Panne", "description": "Assistance rapide en cas de panne." },
+          { "title": "Accident", "description": "Dépannage sécurisé après une collision." },
+          { "title": "Déplacement de véhicule", "description": "Transport ou dépannage de véhicules non roulants." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour le remorquage",
+        "description": "Partagez votre position pour que nous puissions vous aider rapidement et transporter ou dépanner votre voiture en toute sécurité.",
+        "imageAlt": "Partager la position pour l'entreprise de remorquage"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'une entreprise de remorquage immédiate ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour le remorquage. Intervention rapide, transport ou dépannage toujours sécurisé.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec nos spécialistes du remorquage",
+        "stats": [
+          { "value": "30 min", "label": "Délai moyen d'intervention" },
+          { "value": "24/7", "label": "Toujours disponible" },
+          { "value": "100%", "label": "Clients satisfaits" }
+        ]
+      }
+    },
+        "autoWegLatenSlepen": {
+      "seo": {
+        "title": "Faire enlever sa voiture - Service rapide et sécurisé 24/7 | Aide Mobile",
+        "description": "Besoin de faire enlever votre voiture de la route ? Disponible 24/7, service rapide, transport professionnel et sécurisé.",
+        "keywords": "faire enlever voiture, service de remorquage, remorquage voiture, remorquage 24/7, assistance routière, dépannage voiture",
+        "imageAlt": "Faire enlever sa voiture"
+      },
+      "hero": {
+        "badge": "Faire enlever sa voiture",
+        "title": {
+          "part1": "Faire enlever sa voiture ?",
+          "part2": "Rapide & Sécurisé"
+        },
+        "subtitle": "Votre voiture enlevée rapidement et en toute sécurité, disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "features": {
+        "title": "Pourquoi faire enlever votre voiture ?",
+        "subtitle": "Notre service de remorquage est disponible 24/7 et assure un transport sûr, rapide et professionnel de votre voiture depuis la route.",
+        "items": [
+          { "title": "Disponible 24/7", "description": "Toujours joignable, jour et nuit." },
+          { "title": "Service rapide", "description": "Sur place en 30 minutes." },
+          { "title": "Équipement professionnel", "description": "Transport sûr et fiable." },
+          { "title": "Chauffeurs expérimentés", "description": "Personnel compétent et sympathique." }
+        ]
+      },
+      "serviceDetails": {
+        "title": "Service complet pour l'enlèvement de voiture",
+        "imageAlt": "Faire enlever sa voiture de la route",
+        "items": [
+          { "title": "Panne", "description": "Remorquage immédiat en cas de panne." },
+          { "title": "Accident", "description": "Transport sécurisé après un accident." },
+          { "title": "Immobilisation", "description": "Enlèvement de la voiture en cas d'immobilisation ou de blocage." }
+        ]
+      },
+      "situations": {
+        "title": "Quand faire enlever sa voiture ?",
+        "description": "Panne, accident ou immobilisation, nous enlevons votre voiture rapidement et en toute sécurité.",
+        "items": [
+          { "title": "Panne", "description": "Assistance rapide en cas de panne." },
+          { "title": "Accident", "description": "Transport sécurisé après une collision." },
+          { "title": "Immobilisation", "description": "Enlèvement de la voiture en cas de blocage ou de panne." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour le remorquage",
+        "description": "Partagez votre position pour que nous puissions vous aider rapidement et enlever votre voiture en toute sécurité.",
+        "imageAlt": "Partager la position pour le service de remorquage"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin de faire enlever votre voiture ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour le remorquage. Intervention rapide, transport toujours sécurisé.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec nos spécialistes du remorquage",
+        "stats": [
+          { "value": "30 min", "label": "Délai moyen d'intervention" },
+          { "value": "24/7", "label": "Toujours disponible" },
+          { "value": "100%", "label": "Clients satisfaits" }
+        ]
+      }
+    },
+        "takelbedrijf": {
+      "seo": {
+        "title": "Entreprise de remorquage - Service rapide et sécurisé 24/7 pour voitures | Aide Mobile",
+        "description": "Besoin d'une entreprise de remorquage ? Disponible 24/7, service rapide, remorquage ou dépannage professionnel et sécurisé de votre voiture.",
+        "keywords": "entreprise de remorquage, service de remorquage, remorquage voiture, dépannage voiture, remorquage 24/7, assistance routière, transport voiture",
+        "imageAlt": "Entreprise de remorquage professionnelle"
+      },
+      "hero": {
+        "badge": "Entreprise de remorquage",
+        "title": {
+          "part1": "Besoin d'une entreprise de remorquage ?",
+          "part2": "Rapide & Sécurisé"
+        },
+        "subtitle": "Votre voiture remorquée ou dépannée rapidement et en toute sécurité, disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "features": {
+        "title": "Pourquoi notre entreprise de remorquage ?",
+        "subtitle": "Notre entreprise de remorquage est disponible 24/7 et assure un service de remorquage ou de dépannage sûr, rapide et professionnel.",
+        "items": [
+          { "title": "Disponible 24/7", "description": "Toujours joignable, jour et nuit." },
+          { "title": "Service rapide", "description": "Sur place en 30 minutes." },
+          { "title": "Équipement professionnel", "description": "Transport sûr et fiable." },
+          { "title": "Chauffeurs expérimentés", "description": "Personnel compétent et sympathique." }
+        ]
+      },
+      "serviceDetails": {
+        "title": "Service complet de remorquage",
+        "imageAlt": "Entreprise de remorquage professionnelle",
+        "items": [
+          { "title": "Panne", "description": "Remorquage ou dépannage immédiat en cas de panne." },
+          { "title": "Accident", "description": "Dépannage sécurisé après un accident." },
+          { "title": "Transport", "description": "Transport de voiture vers toute destination." }
+        ]
+      },
+      "situations": {
+        "title": "Quand faire appel à une entreprise de remorquage ?",
+        "description": "Panne, accident ou transport, notre entreprise de remorquage vous aide rapidement et en toute sécurité.",
+        "items": [
+          { "title": "Panne", "description": "Assistance rapide en cas de panne." },
+          { "title": "Accident", "description": "Dépannage sécurisé après une collision." },
+          { "title": "Déplacement de véhicule", "description": "Transport ou dépannage de véhicules non roulants." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour le remorquage",
+        "description": "Partagez votre position pour que nous puissions vous aider rapidement et remorquer ou dépanner votre voiture en toute sécurité.",
+        "imageAlt": "Partager la position pour l'entreprise de remorquage"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'une entreprise de remorquage immédiate ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour le remorquage. Intervention rapide, transport ou dépannage toujours sécurisé.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec nos spécialistes du remorquage",
+        "stats": [
+          { "value": "30 min", "label": "Délai moyen d'intervention" },
+          { "value": "24/7", "label": "Toujours disponible" },
+          { "value": "100%", "label": "Clients satisfaits" }
+        ]
+      }
+    },
+        "sleepwagen": {
+      "seo": {
+        "title": "Dépanneuse - Service rapide et sécurisé 24/7 pour voitures | Aide Mobile",
+        "description": "Besoin d'une dépanneuse ? Disponible 24/7, service rapide, remorquage ou dépannage professionnel et sécurisé de votre voiture.",
+        "keywords": "dépanneuse, service de remorquage, remorquage voiture, dépannage voiture, remorquage 24/7, assistance routière, transport voiture",
+        "imageAlt": "Dépanneuse professionnelle"
+      },
+      "hero": {
+        "badge": "Dépanneuse",
+        "title": {
+          "part1": "Besoin d'une dépanneuse ?",
+          "part2": "Rapide & Sécurisé"
+        },
+        "subtitle": "Votre voiture remorquée ou dépannée rapidement et en toute sécurité, disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "features": {
+        "title": "Pourquoi notre dépanneuse ?",
+        "subtitle": "Notre dépanneuse est disponible 24/7 et assure un service de transport ou de dépannage sûr, rapide et professionnel.",
+        "items": [
+          { "title": "Disponible 24/7", "description": "Toujours joignable, jour et nuit." },
+          { "title": "Service rapide", "description": "Sur place en 30 minutes." },
+          { "title": "Équipement professionnel", "description": "Transport sûr et fiable." },
+          { "title": "Chauffeurs expérimentés", "description": "Personnel compétent et sympathique." }
+        ]
+      },
+      "serviceDetails": {
+        "title": "Service complet de dépanneuse",
+        "imageAlt": "Service dépanneuse",
+        "items": [
+          { "title": "Panne", "description": "Remorquage ou dépannage immédiat en cas de panne." },
+          { "title": "Accident", "description": "Dépannage sécurisé après un accident." },
+          { "title": "Transport", "description": "Transport de voiture vers toute destination." }
+        ]
+      },
+      "situations": {
+        "title": "Quand faire appel à une dépanneuse ?",
+        "description": "Panne, accident ou transport, notre dépanneuse vous aide rapidement et en toute sécurité.",
+        "items": [
+          { "title": "Panne", "description": "Assistance rapide en cas de panne." },
+          { "title": "Accident", "description": "Dépannage sécurisé après une collision." },
+          { "title": "Déplacement de véhicule", "description": "Transport ou dépannage de véhicules non roulants." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour la dépanneuse",
+        "description": "Partagez votre position pour que nous puissions vous aider rapidement et transporter ou dépanner votre voiture en toute sécurité.",
+        "imageAlt": "Partager la position pour la dépanneuse"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'une dépanneuse immédiate ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour la dépanneuse. Intervention rapide, transport ou dépannage toujours sécurisé.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec nos spécialistes dépanneuse",
+        "stats": [
+          { "value": "30 min", "label": "Délai moyen d'intervention" },
+          { "value": "24/7", "label": "Toujours disponible" },
+          { "value": "100%", "label": "Clients satisfaits" }
+        ]
+      }
+    },
+        "takelwagen": {
+      "seo": {
+        "title": "Dépanneuse - Service rapide et sécurisé 24/7 pour voitures | Aide Mobile",
+        "description": "Besoin d'une dépanneuse ? Disponible 24/7, service rapide, remorquage ou dépannage professionnel et sécurisé de votre voiture.",
+        "keywords": "dépanneuse, service de remorquage, remorquage voiture, dépannage voiture, remorquage 24/7, assistance routière, transport voiture",
+        "imageAlt": "Dépanneuse professionnelle"
+      },
+      "hero": {
+        "badge": "Dépanneuse",
+        "title": {
+          "part1": "Besoin d'une dépanneuse ?",
+          "part2": "Rapide & Sécurisé"
+        },
+        "subtitle": "Votre voiture remorquée ou dépannée rapidement et en toute sécurité, disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "features": {
+        "title": "Pourquoi notre dépanneuse ?",
+        "subtitle": "Notre dépanneuse est disponible 24/7 et assure un service de transport ou de dépannage sûr, rapide et professionnel.",
+        "items": [
+          { "title": "Disponible 24/7", "description": "Toujours joignable, jour et nuit." },
+          { "title": "Service rapide", "description": "Sur place en 30 minutes." },
+          { "title": "Équipement professionnel", "description": "Transport sûr et fiable." },
+          { "title": "Chauffeurs expérimentés", "description": "Personnel compétent et sympathique." }
+        ]
+      },
+      "serviceDetails": {
+        "title": "Service complet de dépanneuse",
+        "imageAlt": "Service dépanneuse",
+        "items": [
+          { "title": "Panne", "description": "Remorquage ou dépannage immédiat en cas de panne." },
+          { "title": "Accident", "description": "Dépannage sécurisé après un accident." },
+          { "title": "Transport", "description": "Transport de voiture vers toute destination." }
+        ]
+      },
+      "situations": {
+        "title": "Quand faire appel à une dépanneuse ?",
+        "description": "Panne, accident ou transport, notre dépanneuse vous aide rapidement et en toute sécurité.",
+        "items": [
+          { "title": "Panne", "description": "Assistance rapide en cas de panne." },
+          { "title": "Accident", "description": "Dépannage sécurisé après une collision." },
+          { "title": "Déplacement de véhicule", "description": "Transport ou dépannage de véhicules non roulants." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour la dépanneuse",
+        "description": "Partagez votre position pour que nous puissions vous aider rapidement et transporter ou dépanner votre voiture en toute sécurité.",
+        "imageAlt": "Partager la position pour la dépanneuse"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'une dépanneuse immédiate ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour la dépanneuse. Intervention rapide, transport ou dépannage toujours sécurisé.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec nos spécialistes dépanneuse",
+        "stats": [
+          { "value": "30 min", "label": "Délai moyen d'intervention" },
+          { "value": "24/7", "label": "Toujours disponible" },
+          { "value": "100%", "label": "Clients satisfaits" }
+        ]
+      }
+    },
+        "sleepdienst": {
+      "seo": {
+        "title": "Service de remorquage - Rapide et sécurisé 24/7 pour voitures | Aide Mobile",
+        "description": "Besoin d'un service de remorquage ? Disponible 24/7, service rapide, remorquage ou dépannage professionnel et sécurisé de votre voiture.",
+        "keywords": "service de remorquage, remorquage voiture, dépannage voiture, remorquage 24/7, assistance routière, transport voiture",
+        "imageAlt": "Service de remorquage professionnel"
+      },
+      "hero": {
+        "badge": "Service de remorquage",
+        "title": {
+          "part1": "Besoin d'un remorquage ?",
+          "part2": "Rapide & Sécurisé"
+        },
+        "subtitle": "Votre voiture remorquée ou dépannée rapidement et en toute sécurité, disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "features": {
+        "title": "Pourquoi notre service de remorquage ?",
+        "subtitle": "Notre service de remorquage est disponible 24/7 et assure un service de transport ou de dépannage sûr, rapide et professionnel.",
+        "items": [
+          { "title": "Disponible 24/7", "description": "Toujours joignable, jour et nuit." },
+          { "title": "Service rapide", "description": "Sur place en 30 minutes." },
+          { "title": "Équipement professionnel", "description": "Transport sûr et fiable." },
+          { "title": "Chauffeurs expérimentés", "description": "Personnel compétent et sympathique." }
+        ]
+      },
+      "serviceDetails": {
+        "title": "Service complet de remorquage",
+        "imageAlt": "Service de remorquage",
+        "items": [
+          { "title": "Panne", "description": "Remorquage ou dépannage immédiat en cas de panne." },
+          { "title": "Accident", "description": "Dépannage sécurisé après un accident." },
+          { "title": "Transport", "description": "Transport de voiture vers toute destination." }
+        ]
+      },
+      "situations": {
+        "title": "Quand faire appel au service de remorquage ?",
+        "description": "Panne, accident ou transport, notre service de remorquage vous aide rapidement et en toute sécurité.",
+        "items": [
+          { "title": "Panne", "description": "Assistance rapide en cas de panne." },
+          { "title": "Accident", "description": "Dépannage sécurisé après une collision." },
+          { "title": "Déplacement de véhicule", "description": "Transport ou dépannage de véhicules non roulants." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour le remorquage",
+        "description": "Partagez votre position pour que nous puissions vous aider rapidement et transporter ou dépanner votre voiture en toute sécurité.",
+        "imageAlt": "Partager la position pour le remorquage"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'un remorquage immédiat ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour le remorquage. Intervention rapide, transport ou dépannage toujours sécurisé.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec nos spécialistes remorquage",
+        "stats": [
+          { "value": "30 min", "label": "Délai moyen d'intervention" },
+          { "value": "24/7", "label": "Toujours disponible" },
+          { "value": "100%", "label": "Clients satisfaits" }
+        ]
+      }
+    },
+        "modder": {
+      "seo": {
+        "title": "Voiture coincée dans la boue ? | Conseils & Aide",
+        "description": "Votre voiture est coincée dans la boue ? Découvrez quoi faire et obtenez de l'aide immédiatement. Assistance et dépannage 24/7.",
+        "keywords": "voiture coincée, boue, dépannage voiture, aide routière, remorquage",
+        "imageAlt": "Voiture coincée dans la boue"
+      },
+      "hero": {
+        "badge": "Voiture coincée dans la boue",
+        "title": {
+          "part1": "Voiture coincée dans la boue ?",
+          "part2": "Voici comment vous en sortir"
+        },
+        "subtitle": "Besoin d'aide maintenant ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Que faire si votre voiture est coincée dans la boue ?",
+        "subtitle": "Suivez ces étapes pour libérer votre voiture. Besoin d'aide ? Nous intervenons rapidement !",
+        "items": [
+          { "title": "Restez calme", "description": "Évitez de patiner en accélérant trop." },
+          { "title": "Dégagez autour des roues", "description": "Retirez autant de boue que possible autour des pneus." },
+          { "title": "Utilisez des tapis ou des branches", "description": "Placez quelque chose sous les roues pour plus d'adhérence." },
+          { "title": "Essayez d'avancer doucement", "description": "Passez en première et tentez d'avancer ou reculer lentement." },
+          { "title": "Toujours coincé ?", "description": "Appelez notre service d'aide, nous arrivons rapidement !" }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et sortir votre voiture en toute sécurité.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'aide immédiate ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour les voitures coincées. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "autoUitModder": {
+      "seo": {
+        "title": "Sortir une voiture de la boue - Dépannage & remorquage 24/7",
+        "description": "Votre voiture est coincée dans la boue ? Assistance et remorquage rapide et sécurisé 24/7.",
+        "keywords": "voiture boue, voiture coincée, remorquage, dépannage, aide routière",
+        "imageAlt": "Sortir une voiture de la boue"
+      },
+      "hero": {
+        "badge": "Sortir une voiture de la boue",
+        "title": {
+          "part1": "Voiture coincée dans la boue ?",
+          "part2": "Nous vous sortons rapidement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "features": {
+        "title": "Pourquoi notre service de remorquage ?",
+        "subtitle": "Notre service de remorquage est disponible 24/7 et assure une intervention rapide, sûre et professionnelle pour sortir votre voiture de la boue.",
+        "items": [
+          { "title": "Disponible 24/7", "description": "Aide immédiate, jour et nuit." },
+          { "title": "Intervention rapide", "description": "Nous arrivons rapidement, où que vous soyez." },
+          { "title": "Matériel professionnel", "description": "Votre voiture est sortie sans dommage." },
+          { "title": "Équipe expérimentée", "description": "Nos spécialistes gèrent toutes les situations." }
+        ]
+      },
+      "serviceDetails": {
+        "title": "Service de remorquage complet",
+        "imageAlt": "Sortir une voiture de la boue",
+        "items": [
+          { "title": "Sortir la voiture de la boue", "description": "Nous sortons votre voiture de la boue en toute sécurité, sans dommage." },
+          { "title": "Dépannage sur place", "description": "Même en cas d'enlisement sévère, nous avons une solution." },
+          { "title": "Transport à l'adresse souhaitée", "description": "Si besoin, nous emmenons votre voiture à un garage ou à l'adresse de votre choix." }
+        ]
+      },
+      "situations": {
+        "title": "Quand faire appel au remorquage ?",
+        "description": "Boue, sable ou neige : nous sortons votre voiture rapidement et en toute sécurité.",
+        "items": [
+          { "title": "Coincé dans la boue", "description": "Votre voiture ne peut plus avancer ni reculer." },
+          { "title": "Coincé dans le sable", "description": "Les roues patinent dans le sable." },
+          { "title": "Coincé dans la neige", "description": "La voiture est bloquée par la neige ou la glace." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour le remorquage",
+        "description": "Partagez votre position pour une intervention rapide et sécurisée.",
+        "imageAlt": "Partager la position pour le remorquage"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'un remorquage ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour le remorquage. Intervention rapide, transport toujours sécurisé.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec nos spécialistes du remorquage"
+      }
+    },
+        "vastInModderAuto": {
+      "seo": {
+        "title": "Voiture coincée dans la boue ? | Dépannage & remorquage 24/7",
+        "description": "Voiture coincée dans la boue ? Disponible 24/7 pour une aide rapide et un remorquage sécurisé. Nous sortons votre voiture rapidement et en toute sécurité.",
+        "keywords": "voiture boue, remorquage, dépannage, aide routière, voiture bloquée",
+        "imageAlt": "Voiture coincée dans la boue"
+      },
+      "hero": {
+        "badge": "Voiture coincée dans la boue",
+        "title": {
+          "part1": "Voiture coincée dans la boue ?",
+          "part2": "Nous vous aidons immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Que faire si votre voiture est coincée dans la boue ?",
+        "subtitle": "Suivez ces étapes pour libérer votre voiture. Besoin d'aide ? Nous intervenons immédiatement !",
+        "items": [
+          { "title": "Restez calme", "description": "Évitez de patiner en accélérant trop." },
+          { "title": "Dégagez autour des roues", "description": "Retirez autant de boue que possible autour des pneus." },
+          { "title": "Utilisez des tapis ou des branches", "description": "Placez quelque chose sous les roues pour plus d'adhérence." },
+          { "title": "Essayez d'avancer doucement", "description": "Passez en première et tentez d'avancer ou reculer lentement." },
+          { "title": "Toujours coincé ?", "description": "Appelez notre service d'aide, nous arrivons rapidement !" }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et sortir votre voiture en toute sécurité.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'aide immédiate ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour les voitures coincées. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "autoVastInModder": {
+      "seo": {
+        "title": "Voiture coincée dans la boue ? | Dépannage & remorquage 24/7",
+        "description": "Voiture coincée dans la boue ? Disponible 24/7 pour une aide rapide et un remorquage sécurisé. Nous sortons votre voiture rapidement et en toute sécurité.",
+        "keywords": "voiture boue, remorquage, dépannage, aide routière, voiture bloquée",
+        "imageAlt": "Voiture coincée dans la boue"
+      },
+      "hero": {
+        "badge": "Voiture coincée dans la boue",
+        "title": {
+          "part1": "Voiture coincée dans la boue ?",
+          "part2": "Nous vous aidons immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Que faire si votre voiture est coincée dans la boue ?",
+        "subtitle": "Suivez ces étapes pour libérer votre voiture. Besoin d'aide ? Nous intervenons immédiatement !",
+        "items": [
+          { "title": "Restez calme", "description": "Évitez de patiner en accélérant trop." },
+          { "title": "Dégagez autour des roues", "description": "Retirez autant de boue que possible autour des pneus." },
+          { "title": "Utilisez des tapis ou des branches", "description": "Placez quelque chose sous les roues pour plus d'adhérence." },
+          { "title": "Essayez d'avancer doucement", "description": "Passez en première et tentez d'avancer ou reculer lentement." },
+          { "title": "Toujours coincé ?", "description": "Appelez notre service d'aide, nous arrivons rapidement !" }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et sortir votre voiture en toute sécurité.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'aide immédiate ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour les voitures coincées. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "vastInSneeuwAuto": {
+      "seo": {
+        "title": "Voiture coincée dans la neige ? | Dépannage & remorquage 24/7",
+        "description": "Voiture coincée dans la neige ? Disponible 24/7 pour une aide rapide et un remorquage sécurisé. Nous sortons votre voiture rapidement et en toute sécurité.",
+        "keywords": "voiture neige, remorquage, dépannage, aide routière, voiture bloquée",
+        "imageAlt": "Voiture coincée dans la neige"
+      },
+      "hero": {
+        "badge": "Voiture coincée dans la neige",
+        "title": {
+          "part1": "Voiture coincée dans la neige ?",
+          "part2": "Nous vous aidons immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Que faire si votre voiture est coincée dans la neige ?",
+        "subtitle": "Suivez ces étapes pour libérer votre voiture. Besoin d'aide ? Nous intervenons immédiatement !",
+        "items": [
+          { "title": "Restez calme", "description": "Évitez de patiner en accélérant trop." },
+          { "title": "Dégagez autour des roues", "description": "Retirez autant de neige que possible autour des pneus." },
+          { "title": "Utilisez des tapis ou des branches", "description": "Placez quelque chose sous les roues pour plus d'adhérence." },
+          { "title": "Essayez d'avancer doucement", "description": "Passez en première et tentez d'avancer ou reculer lentement." },
+          { "title": "Toujours coincé ?", "description": "Appelez notre service d'aide, nous arrivons rapidement !" }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et sortir votre voiture en toute sécurité.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'aide immédiate ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour les voitures coincées. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "autoVastInSneeuw": {
+      "seo": {
+        "title": "Voiture coincée dans la neige ? | Dépannage & remorquage 24/7",
+        "description": "Voiture coincée dans la neige ? Disponible 24/7 pour une aide rapide et un remorquage sécurisé. Nous sortons votre voiture rapidement et en toute sécurité.",
+        "keywords": "voiture neige, remorquage, dépannage, aide routière, voiture bloquée",
+        "imageAlt": "Voiture coincée dans la neige"
+      },
+      "hero": {
+        "badge": "Voiture coincée dans la neige",
+        "title": {
+          "part1": "Voiture coincée dans la neige ?",
+          "part2": "Nous vous aidons immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Que faire si votre voiture est coincée dans la neige ?",
+        "subtitle": "Suivez ces étapes pour libérer votre voiture. Besoin d'aide ? Nous intervenons immédiatement !",
+        "imageAlt": "Voiture coincée dans la neige aide",
+        "items": [
+          { "title": "Restez calme", "description": "Évitez de patiner en accélérant trop." },
+          { "title": "Dégagez autour des roues", "description": "Retirez autant de neige que possible autour des pneus." },
+          { "title": "Utilisez des tapis ou des branches", "description": "Placez quelque chose sous les roues pour plus d'adhérence." },
+          { "title": "Essayez d'avancer doucement", "description": "Passez en première et tentez d'avancer ou reculer lentement." },
+          { "title": "Toujours coincé ?", "description": "Appelez notre service d'aide, nous arrivons rapidement !" }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et sortir votre voiture en toute sécurité.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'aide immédiate ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour les voitures coincées. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "autoInDeSlootVandaag": {
+      "seo": {
+        "title": "Voiture dans le fossé aujourd'hui ? | Dépannage & remorquage 24/7",
+        "description": "Votre voiture est-elle tombée dans le fossé aujourd'hui ? Disponible 24/7 pour une aide rapide et un remorquage sécurisé. Nous sortons votre voiture rapidement et en toute sécurité.",
+        "keywords": "voiture fossé, remorquage, dépannage, aide routière, voiture sortie du fossé",
+        "imageAlt": "Voiture dans le fossé aujourd'hui"
+      },
+      "hero": {
+        "badge": "Voiture dans le fossé aujourd'hui",
+        "title": {
+          "part1": "Voiture tombée dans le fossé ?",
+          "part2": "Nous vous aidons immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Que faire si votre voiture est tombée dans le fossé ?",
+        "subtitle": "Suivez ces étapes pour votre sécurité. Besoin d'aide ? Nous intervenons immédiatement !",
+        "imageAlt": "Voiture dans le fossé aide",
+        "items": [
+          { "title": "Restez calme", "description": "Assurez votre sécurité et celle des autres." },
+          { "title": "Quittez le véhicule si possible en toute sécurité", "description": "Faites attention à la circulation et à l'environnement." },
+          { "title": "Appelez immédiatement les secours", "description": "Contactez notre service d'aide pour une intervention rapide." },
+          { "title": "Attendez l'aide professionnelle", "description": "N'essayez pas de sortir la voiture du fossé vous-même." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et sortir votre voiture en toute sécurité.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'aide immédiate ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour les voitures dans le fossé. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "autoBelandtInSloot": {
+      "seo": {
+        "title": "Voiture tombée dans le fossé ? | Dépannage & remorquage 24/7",
+        "description": "Votre voiture est-elle tombée dans le fossé ? Disponible 24/7 pour une aide rapide et un remorquage sécurisé. Nous sortons votre voiture rapidement et en toute sécurité.",
+        "keywords": "voiture fossé, remorquage, dépannage, aide routière, voiture sortie du fossé",
+        "imageAlt": "Voiture tombée dans le fossé"
+      },
+      "hero": {
+        "badge": "Voiture tombée dans le fossé",
+        "title": {
+          "part1": "Voiture tombée dans le fossé ?",
+          "part2": "Nous vous aidons immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Que faire si votre voiture est tombée dans le fossé ?",
+        "subtitle": "Suivez ces étapes pour votre sécurité. Besoin d'aide ? Nous intervenons immédiatement !",
+        "imageAlt": "Voiture dans le fossé aide",
+        "items": [
+          { "title": "Restez calme", "description": "Assurez votre sécurité et celle des autres." },
+          { "title": "Quittez le véhicule si possible en toute sécurité", "description": "Faites attention à la circulation et à l'environnement." },
+          { "title": "Appelez immédiatement les secours", "description": "Contactez notre service d'aide pour une intervention rapide." },
+          { "title": "Attendez l'aide professionnelle", "description": "N'essayez pas de sortir la voiture du fossé vous-même." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et sortir votre voiture en toute sécurité.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'aide immédiate ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour les voitures dans le fossé. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "autoInSlootVandaag": {
+      "seo": {
+        "title": "Voiture dans le fossé aujourd'hui ? | Dépannage & remorquage 24/7",
+        "description": "Votre voiture est-elle tombée dans le fossé aujourd'hui ? Disponible 24/7 pour une aide rapide et un remorquage sécurisé. Nous sortons votre voiture rapidement et en toute sécurité.",
+        "keywords": "voiture fossé, remorquage, dépannage, aide routière, voiture sortie du fossé",
+        "imageAlt": "Voiture dans le fossé aujourd'hui"
+      },
+      "hero": {
+        "badge": "Voiture dans le fossé aujourd'hui",
+        "title": {
+          "part1": "Voiture dans le fossé aujourd'hui ?",
+          "part2": "Nous vous aidons immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Que faire si votre voiture est tombée dans le fossé aujourd'hui ?",
+        "subtitle": "Suivez ces étapes pour votre sécurité. Besoin d'aide ? Nous intervenons immédiatement !",
+        "imageAlt": "Voiture dans le fossé aide",
+        "items": [
+          { "title": "Restez calme", "description": "Assurez votre sécurité et celle des autres." },
+          { "title": "Quittez le véhicule si possible en toute sécurité", "description": "Faites attention à la circulation et à l'environnement." },
+          { "title": "Appelez immédiatement les secours", "description": "Contactez notre service d'aide pour une intervention rapide." },
+          { "title": "Attendez l'aide professionnelle", "description": "N'essayez pas de sortir la voiture du fossé vous-même." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et sortir votre voiture en toute sécurité.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'aide immédiate ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour les voitures dans le fossé. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "autoInDeSloot": {
+      "seo": {
+        "title": "Voiture dans le fossé ? | Dépannage & remorquage 24/7",
+        "description": "Votre voiture est-elle tombée dans le fossé ? Disponible 24/7 pour une aide rapide et un remorquage sécurisé. Nous sortons votre voiture rapidement et en toute sécurité.",
+        "keywords": "voiture fossé, remorquage, dépannage, aide routière, voiture sortie du fossé",
+        "imageAlt": "Voiture dans le fossé"
+      },
+      "hero": {
+        "badge": "Voiture dans le fossé",
+        "title": {
+          "part1": "Voiture dans le fossé ?",
+          "part2": "Nous vous aidons immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Que faire si votre voiture est tombée dans le fossé ?",
+        "subtitle": "Suivez ces étapes pour votre sécurité. Besoin d'aide ? Nous intervenons immédiatement !",
+        "imageAlt": "Voiture dans le fossé aide",
+        "items": [
+          { "title": "Restez calme", "description": "Assurez votre sécurité et celle des autres." },
+          { "title": "Quittez le véhicule si possible en toute sécurité", "description": "Faites attention à la circulation et à l'environnement." },
+          { "title": "Appelez immédiatement les secours", "description": "Contactez notre service d'aide pour une intervention rapide." },
+          { "title": "Attendez l'aide professionnelle", "description": "N'essayez pas de sortir la voiture du fossé vous-même." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et sortir votre voiture en toute sécurité.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'aide immédiate ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour les voitures dans le fossé. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "autoInSloot": {
+      "seo": {
+        "title": "Voiture dans le fossé ? | Dépannage & remorquage 24/7",
+        "description": "Votre voiture est-elle tombée dans le fossé ? Disponible 24/7 pour une aide rapide et un remorquage sécurisé. Nous sortons votre voiture rapidement et en toute sécurité.",
+        "keywords": "voiture fossé, remorquage, dépannage, aide routière, voiture sortie du fossé",
+        "imageAlt": "Voiture dans le fossé"
+      },
+      "hero": {
+        "badge": "Voiture dans le fossé",
+        "title": {
+          "part1": "Voiture dans le fossé ?",
+          "part2": "Nous vous aidons immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Que faire si votre voiture est tombée dans le fossé ?",
+        "subtitle": "Suivez ces étapes pour votre sécurité. Besoin d'aide ? Nous intervenons immédiatement !",
+        "imageAlt": "Voiture dans le fossé aide",
+        "items": [
+          { "title": "Restez calme", "description": "Assurez votre sécurité et celle des autres." },
+          { "title": "Quittez le véhicule si possible en toute sécurité", "description": "Faites attention à la circulation et à l'environnement." },
+          { "title": "Appelez immédiatement les secours", "description": "Contactez notre service d'aide pour une intervention rapide." },
+          { "title": "Attendez l'aide professionnelle", "description": "N'essayez pas de sortir la voiture du fossé vous-même." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et sortir votre voiture en toute sécurité.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'aide immédiate ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour les voitures dans le fossé. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "autoInDeGreppel": {
+      "seo": {
+        "title": "Voiture dans le fossé ? | Dépannage & remorquage 24/7",
+        "description": "Votre voiture est-elle tombée dans le fossé ? Disponible 24/7 pour une aide rapide et un remorquage sécurisé. Nous sortons votre voiture rapidement et en toute sécurité.",
+        "keywords": "voiture fossé, remorquage, dépannage, aide routière, voiture sortie du fossé",
+        "imageAlt": "Voiture dans le fossé"
+      },
+      "hero": {
+        "badge": "Voiture dans le fossé",
+        "title": {
+          "part1": "Voiture dans le fossé ?",
+          "part2": "Nous vous aidons immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Que faire si votre voiture est tombée dans le fossé ?",
+        "subtitle": "Suivez ces étapes pour votre sécurité. Besoin d'aide ? Nous intervenons immédiatement !",
+        "imageAlt": "Voiture dans le fossé aide",
+        "items": [
+          { "title": "Restez calme", "description": "Assurez votre sécurité et celle des autres." },
+          { "title": "Quittez le véhicule si possible en toute sécurité", "description": "Faites attention à la circulation et à l'environnement." },
+          { "title": "Appelez immédiatement les secours", "description": "Contactez notre service d'aide pour une intervention rapide." },
+          { "title": "Attendez l'aide professionnelle", "description": "N'essayez pas de sortir la voiture du fossé vous-même." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et sortir votre voiture en toute sécurité.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'aide immédiate ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour les voitures dans le fossé. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "autoVastInGras": {
+      "seo": {
+        "title": "Voiture coincée dans l'herbe ? | Dépannage & remorquage 24/7",
+        "description": "Votre voiture est-elle coincée dans l'herbe ? Disponible 24/7 pour une aide rapide et un remorquage sécurisé. Nous intervenons rapidement et en toute sécurité.",
+        "keywords": "voiture coincée herbe, remorquage, dépannage, aide routière, voiture sortie de l'herbe",
+        "imageAlt": "Voiture coincée dans l'herbe"
+      },
+      "hero": {
+        "badge": "Voiture coincée dans l'herbe",
+        "title": {
+          "part1": "Voiture coincée dans l'herbe ?",
+          "part2": "Nous vous aidons immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Que faire si votre voiture est coincée dans l'herbe ?",
+        "subtitle": "Suivez ces étapes pour votre sécurité. Besoin d'aide ? Nous intervenons immédiatement !",
+        "imageAlt": "Voiture coincée dans l'herbe aide",
+        "items": [
+          { "title": "Restez calme", "description": "Assurez votre sécurité et celle des autres." },
+          { "title": "N'accélérez pas trop", "description": "Cela peut aggraver la situation." },
+          { "title": "Appelez immédiatement les secours", "description": "Contactez notre service d'aide pour une intervention rapide." },
+          { "title": "Attendez l'aide professionnelle", "description": "N'essayez pas de sortir la voiture vous-même." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et sortir votre voiture en toute sécurité.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'aide immédiate ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour les voitures coincées dans l'herbe. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "autoUitDeModderHalen": {
+      "seo": {
+        "title": "Sortir la voiture de la boue ? | Dépannage & remorquage 24/7",
+        "description": "Votre voiture est-elle coincée dans la boue ? Disponible 24/7 pour une aide rapide et un remorquage sécurisé. Nous intervenons rapidement et en toute sécurité.",
+        "keywords": "voiture boue, remorquage, dépannage, aide routière, voiture coincée boue",
+        "imageAlt": "Sortir la voiture de la boue"
+      },
+      "hero": {
+        "badge": "Sortir la voiture de la boue",
+        "title": {
+          "part1": "Voiture coincée dans la boue ?",
+          "part2": "Nous vous aidons immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Que faire si votre voiture est coincée dans la boue ?",
+        "subtitle": "Suivez ces étapes pour votre sécurité. Besoin d'aide ? Nous intervenons immédiatement !",
+        "imageAlt": "Sortir la voiture de la boue aide",
+        "items": [
+          { "title": "Restez calme", "description": "Assurez votre sécurité et celle des autres." },
+          { "title": "N'accélérez pas trop", "description": "Cela peut aggraver la situation." },
+          { "title": "Appelez immédiatement les secours", "description": "Contactez notre service d'aide pour une intervention rapide." },
+          { "title": "Attendez l'aide professionnelle", "description": "N'essayez pas de sortir la voiture vous-même." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et sortir votre voiture en toute sécurité.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'aide immédiate ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour les voitures coincées dans la boue. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "autoVastInZand": {
+      "seo": {
+        "title": "Voiture coincée dans le sable ? | Dépannage & remorquage 24/7",
+        "description": "Votre voiture est-elle coincée dans le sable ? Disponible 24/7 pour une aide rapide et un remorquage sécurisé. Nous intervenons rapidement et en toute sécurité.",
+        "keywords": "voiture coincée sable, remorquage, dépannage, aide routière, voiture sortie du sable",
+        "imageAlt": "Voiture coincée dans le sable"
+      },
+      "hero": {
+        "badge": "Voiture coincée dans le sable",
+        "title": {
+          "part1": "Voiture coincée dans le sable ?",
+          "part2": "Nous vous aidons immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Que faire si votre voiture est coincée dans le sable ?",
+        "subtitle": "Suivez ces étapes pour votre sécurité. Besoin d'aide ? Nous intervenons immédiatement !",
+        "imageAlt": "Voiture coincée dans le sable aide",
+        "items": [
+          { "title": "Restez calme", "description": "Assurez votre sécurité et celle des autres." },
+          { "title": "N'accélérez pas trop", "description": "Cela peut aggraver la situation." },
+          { "title": "Appelez immédiatement les secours", "description": "Contactez notre service d'aide pour une intervention rapide." },
+          { "title": "Attendez l'aide professionnelle", "description": "N'essayez pas de sortir la voiture vous-même." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et sortir votre voiture en toute sécurité.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'aide immédiate ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour les voitures coincées dans le sable. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "autoVastgeredenInModder": {
+      "seo": {
+        "title": "Voiture embourbée ? | Dépannage & remorquage 24/7",
+        "description": "Votre voiture est-elle embourbée ? Disponible 24/7 pour une aide rapide et un remorquage sécurisé. Nous intervenons rapidement et en toute sécurité.",
+        "keywords": "voiture embourbée, remorquage, dépannage, aide routière, voiture sortie de la boue",
+        "imageAlt": "Voiture embourbée"
+      },
+      "hero": {
+        "badge": "Voiture embourbée",
+        "title": {
+          "part1": "Voiture embourbée ?",
+          "part2": "Nous vous aidons immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Que faire si votre voiture est embourbée ?",
+        "subtitle": "Suivez ces étapes pour votre sécurité. Besoin d'aide ? Nous intervenons immédiatement !",
+        "imageAlt": "Voiture embourbée aide",
+        "items": [
+          { "title": "Restez calme", "description": "Assurez votre sécurité et celle des autres." },
+          { "title": "N'accélérez pas trop", "description": "Cela peut aggraver la situation." },
+          { "title": "Appelez immédiatement les secours", "description": "Contactez notre service d'aide pour une intervention rapide." },
+          { "title": "Attendez l'aide professionnelle", "description": "N'essayez pas de sortir la voiture vous-même." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et sortir votre voiture en toute sécurité.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'aide immédiate ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour les voitures embourbées. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "carStuckInTheMud": {
+      "seo": {
+        "title": "Voiture embourbée ? | Dépannage & remorquage 24/7",
+        "description": "Votre voiture est-elle embourbée ? Disponible 24/7 pour une aide rapide et un remorquage sécurisé. Nous intervenons rapidement et en toute sécurité.",
+        "keywords": "voiture embourbée, remorquage, dépannage, aide routière, voiture sortie de la boue",
+        "imageAlt": "Voiture embourbée"
+      },
+      "hero": {
+        "badge": "Voiture embourbée",
+        "title": {
+          "part1": "Voiture embourbée ?",
+          "part2": "Nous vous aidons immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Que faire si votre voiture est embourbée ?",
+        "subtitle": "Suivez ces étapes pour votre sécurité. Besoin d'aide ? Nous intervenons immédiatement !",
+        "imageAlt": "Voiture embourbée aide",
+        "items": [
+          { "title": "Restez calme", "description": "Assurez votre sécurité et celle des autres." },
+          { "title": "N'accélérez pas trop", "description": "Cela peut aggraver la situation." },
+          { "title": "Appelez immédiatement les secours", "description": "Contactez notre service d'aide pour une intervention rapide." },
+          { "title": "Attendez l'aide professionnelle", "description": "N'essayez pas de sortir la voiture vous-même." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et sortir votre voiture en toute sécurité.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'aide immédiate ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour les voitures embourbées. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "autoInDeBerm": {
+      "seo": {
+        "title": "Voiture sur la bande d'arrêt ? | Dépannage & remorquage 24/7",
+        "description": "Votre voiture s'est retrouvée sur la bande d'arrêt ? Disponible 24/7 pour une aide rapide et un remorquage sécurisé. Nous intervenons rapidement et en toute sécurité.",
+        "keywords": "voiture bande d'arrêt, remorquage, dépannage, aide routière, voiture sortie de la bande",
+        "imageAlt": "Voiture sur la bande d'arrêt"
+      },
+      "hero": {
+        "badge": "Voiture sur la bande d'arrêt",
+        "title": {
+          "part1": "Voiture sur la bande d'arrêt ?",
+          "part2": "Nous vous aidons immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Que faire si votre voiture est sur la bande d'arrêt ?",
+        "subtitle": "Suivez ces étapes pour votre sécurité. Besoin d'aide ? Nous intervenons immédiatement !",
+        "imageAlt": "Voiture sur la bande d'arrêt aide",
+        "items": [
+          { "title": "Restez calme", "description": "Assurez votre sécurité et celle des autres." },
+          { "title": "N'accélérez pas trop", "description": "Cela peut aggraver la situation." },
+          { "title": "Appelez immédiatement les secours", "description": "Contactez notre service d'aide pour une intervention rapide." },
+          { "title": "Attendez l'aide professionnelle", "description": "N'essayez pas de sortir la voiture vous-même." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et sortir votre voiture en toute sécurité.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'aide immédiate ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour les voitures sur la bande d'arrêt. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "vastInDeModder": {
+      "seo": {
+        "title": "Enlisé dans la boue ? | Dépannage & remorquage 24/7",
+        "description": "Votre véhicule est enlisé dans la boue ? Disponible 24/7 pour une aide rapide et un remorquage sécurisé. Nous intervenons rapidement et en toute sécurité.",
+        "keywords": "enlisé dans la boue, remorquage, dépannage, aide routière, voiture sortie de la boue",
+        "imageAlt": "Enlisé dans la boue"
+      },
+      "hero": {
+        "badge": "Enlisé dans la boue",
+        "title": {
+          "part1": "Enlisé dans la boue ?",
+          "part2": "Nous vous aidons immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Que faire si vous êtes enlisé dans la boue ?",
+        "subtitle": "Suivez ces étapes pour votre sécurité. Besoin d'aide ? Nous intervenons immédiatement !",
+        "imageAlt": "Enlisé dans la boue aide",
+        "items": [
+          { "title": "Restez calme", "description": "Assurez votre sécurité et celle des autres." },
+          { "title": "N'accélérez pas trop", "description": "Cela peut aggraver la situation." },
+          { "title": "Appelez immédiatement les secours", "description": "Contactez notre service d'aide pour une intervention rapide." },
+          { "title": "Attendez l'aide professionnelle", "description": "N'essayez pas de sortir le véhicule vous-même." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et sortir votre véhicule en toute sécurité.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'aide immédiate ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour les véhicules enlisé dans la boue. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "autoZitVastInModder": {
+      "seo": {
+        "title": "Voiture embourbée ? | Dépannage & remorquage 24/7",
+        "description": "Votre voiture est-elle embourbée ? Disponible 24/7 pour une aide rapide et un remorquage sécurisé. Nous intervenons rapidement et en toute sécurité.",
+        "keywords": "voiture embourbée, remorquage, dépannage, aide routière, voiture sortie de la boue",
+        "imageAlt": "Voiture embourbée"
+      },
+      "hero": {
+        "badge": "Voiture embourbée",
+        "title": {
+          "part1": "Voiture embourbée ?",
+          "part2": "Nous vous aidons immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Que faire si votre voiture est embourbée ?",
+        "subtitle": "Suivez ces étapes pour votre sécurité. Besoin d'aide ? Nous intervenons immédiatement !",
+        "imageAlt": "Voiture embourbée aide",
+        "items": [
+          { "title": "Restez calme", "description": "Assurez votre sécurité et celle des autres." },
+          { "title": "N'accélérez pas trop", "description": "Cela peut aggraver la situation." },
+          { "title": "Appelez immédiatement les secours", "description": "Contactez notre service d'aide pour une intervention rapide." },
+          { "title": "Attendez l'aide professionnelle", "description": "N'essayez pas de sortir la voiture vous-même." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et sortir votre voiture en toute sécurité.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'aide immédiate ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour les voitures embourbées. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "hoeKrijgJeEenAutoUitDeModder": {
+      "seo": {
+        "title": "Comment sortir une voiture de la boue ? | Dépannage & remorquage 24/7",
+        "description": "Votre voiture est-elle embourbée ? Disponible 24/7 pour une aide rapide et un remorquage sécurisé. Nous intervenons rapidement et en toute sécurité.",
+        "keywords": "sortir voiture de la boue, remorquage, dépannage, aide routière, enlisé dans la boue",
+        "imageAlt": "Sortir voiture de la boue"
+      },
+      "hero": {
+        "badge": "Sortir voiture de la boue",
+        "title": {
+          "part1": "Comment sortir une voiture de la boue ?",
+          "part2": "Nous vous aidons immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Que faire si votre voiture est embourbée ?",
+        "subtitle": "Suivez ces étapes pour votre sécurité. Besoin d'aide ? Nous intervenons immédiatement !",
+        "imageAlt": "Sortir voiture de la boue aide",
+        "items": [
+          { "title": "Restez calme", "description": "Assurez votre sécurité et celle des autres." },
+          { "title": "N'accélérez pas trop", "description": "Cela peut aggraver la situation." },
+          { "title": "Appelez immédiatement les secours", "description": "Contactez notre service d'aide pour une intervention rapide." },
+          { "title": "Attendez l'aide professionnelle", "description": "N'essayez pas de sortir la voiture vous-même." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et sortir votre voiture en toute sécurité.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'aide immédiate ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour les voitures embourbées. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "vastInDeModderMetAuto": {
+      "seo": {
+        "title": "Voiture embourbée ? | Dépannage & remorquage 24/7",
+        "description": "Votre voiture est-elle embourbée ? Disponible 24/7 pour une aide rapide et un remorquage sécurisé. Nous intervenons rapidement et en toute sécurité.",
+        "keywords": "voiture embourbée, remorquage, dépannage, aide routière, voiture sortie de la boue",
+        "imageAlt": "Voiture embourbée"
+      },
+      "hero": {
+        "badge": "Voiture embourbée",
+        "title": {
+          "part1": "Voiture embourbée ?",
+          "part2": "Nous vous aidons immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Que faire si votre voiture est embourbée ?",
+        "subtitle": "Suivez ces étapes pour votre sécurité. Besoin d'aide ? Nous intervenons immédiatement !",
+        "imageAlt": "Voiture embourbée aide",
+        "items": [
+          { "title": "Restez calme", "description": "Assurez votre sécurité et celle des autres." },
+          { "title": "N'accélérez pas trop", "description": "Cela peut aggraver la situation." },
+          { "title": "Appelez immédiatement les secours", "description": "Contactez notre service d'aide pour une intervention rapide." },
+          { "title": "Attendez l'aide professionnelle", "description": "N'essayez pas de sortir la voiture vous-même." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et sortir votre voiture en toute sécurité.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'aide immédiate ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour les voitures embourbées. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "autoInDeModder": {
+      "seo": {
+        "title": "Voiture dans la boue ? | Dépannage & remorquage 24/7",
+        "description": "Votre voiture est-elle dans la boue ? Disponible 24/7 pour une aide rapide et un remorquage sécurisé. Nous intervenons rapidement et en toute sécurité.",
+        "keywords": "voiture dans la boue, remorquage, dépannage, aide routière, voiture sortie de la boue",
+        "imageAlt": "Voiture dans la boue"
+      },
+      "hero": {
+        "badge": "Voiture dans la boue",
+        "title": {
+          "part1": "Voiture dans la boue ?",
+          "part2": "Nous vous aidons immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Que faire si votre voiture est dans la boue ?",
+        "subtitle": "Suivez ces étapes pour votre sécurité. Besoin d'aide ? Nous intervenons immédiatement !",
+        "imageAlt": "Voiture dans la boue aide",
+        "items": [
+          { "title": "Restez calme", "description": "Assurez votre sécurité et celle des autres." },
+          { "title": "N'accélérez pas trop", "description": "Cela peut aggraver la situation." },
+          { "title": "Appelez immédiatement les secours", "description": "Contactez notre service d'aide pour une intervention rapide." },
+          { "title": "Attendez l'aide professionnelle", "description": "N'essayez pas de sortir la voiture vous-même." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et sortir votre voiture en toute sécurité.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'aide immédiate ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour les voitures dans la boue. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "autoStaatVastInDeModder": {
+      "seo": {
+        "title": "Voiture bloquée dans la boue ? | Dépannage & remorquage 24/7",
+        "description": "Votre voiture est-elle bloquée dans la boue ? Disponible 24/7 pour une aide rapide et un remorquage sécurisé. Nous intervenons rapidement et en toute sécurité.",
+        "keywords": "voiture bloquée dans la boue, remorquage, dépannage, aide routière, voiture sortie de la boue",
+        "imageAlt": "Voiture bloquée dans la boue"
+      },
+      "hero": {
+        "badge": "Voiture bloquée dans la boue",
+        "title": {
+          "part1": "Voiture bloquée dans la boue ?",
+          "part2": "Nous vous aidons immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Que faire si votre voiture est bloquée dans la boue ?",
+        "subtitle": "Suivez ces étapes pour votre sécurité. Besoin d'aide ? Nous intervenons immédiatement !",
+        "imageAlt": "Voiture bloquée dans la boue aide",
+        "items": [
+          { "title": "Restez calme", "description": "Assurez votre sécurité et celle des autres." },
+          { "title": "N'accélérez pas trop", "description": "Cela peut aggraver la situation." },
+          { "title": "Appelez immédiatement les secours", "description": "Contactez notre service d'aide pour une intervention rapide." },
+          { "title": "Attendez l'aide professionnelle", "description": "N'essayez pas de sortir la voiture vous-même." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et sortir votre voiture en toute sécurité.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'aide immédiate ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour les voitures bloquées dans la boue. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "accuAutoLeeg": {
+      "seo": {
+        "title": "Batterie de voiture à plat ? | Dépannage & démarrage 24/7",
+        "description": "Votre batterie est à plat ? Disponible 24/7 pour une aide rapide et un service de démarrage. Nous vous remettons en route immédiatement.",
+        "keywords": "batterie voiture à plat, démarrage, dépannage, batterie voiture, voiture ne démarre pas",
+        "imageAlt": "Batterie de voiture à plat"
+      },
+      "hero": {
+        "badge": "Batterie de voiture à plat",
+        "title": {
+          "part1": "Batterie de voiture à plat ?",
+          "part2": "Nous vous redémarrons immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Que faire en cas de batterie à plat ?",
+        "subtitle": "Suivez ces étapes pour votre sécurité. Besoin d'aide ? Nous intervenons immédiatement !",
+        "imageAlt": "Batterie de voiture à plat aide",
+        "items": [
+          { "title": "Vérifiez si les lumières fonctionnent", "description": "Pas de lumière ? Il y a de fortes chances que la batterie soit à plat." },
+          { "title": "Essayez de démarrer la voiture", "description": "Ça ne marche pas ? Appelez notre service de démarrage." },
+          { "title": "Utilisez des câbles de démarrage si possible", "description": "Respectez l'ordre et la sécurité." },
+          { "title": "Appelez immédiatement les secours", "description": "Nous intervenons rapidement pour vous remettre en route." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et démarrer votre voiture.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'aide immédiate ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour batterie à plat. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "autoAccuLeegWatNu": {
+      "seo": {
+        "title": "Batterie de voiture à plat, que faire ? | Dépannage & démarrage 24/7",
+        "description": "Votre batterie est à plat ? Disponible 24/7 pour une aide rapide et un service de démarrage. Nous vous remettons en route immédiatement.",
+        "keywords": "batterie voiture à plat que faire, démarrage, dépannage, batterie voiture, voiture ne démarre pas",
+        "imageAlt": "Batterie de voiture à plat que faire"
+      },
+      "hero": {
+        "badge": "Batterie de voiture à plat, que faire ?",
+        "title": {
+          "part1": "Batterie de voiture à plat, que faire ?",
+          "part2": "Nous vous redémarrons immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "Que faire en cas de batterie à plat ?",
+        "subtitle": "Suivez ces étapes pour votre sécurité. Besoin d'aide ? Nous intervenons immédiatement !",
+        "imageAlt": "Batterie de voiture à plat aide",
+        "items": [
+          { "title": "Vérifiez si les lumières fonctionnent", "description": "Pas de lumière ? Il y a de fortes chances que la batterie soit à plat." },
+          { "title": "Essayez de démarrer la voiture", "description": "Ça ne marche pas ? Appelez notre service de démarrage." },
+          { "title": "Utilisez des câbles de démarrage si possible", "description": "Respectez l'ordre et la sécurité." },
+          { "title": "Appelez immédiatement les secours", "description": "Nous intervenons rapidement pour vous remettre en route." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et démarrer votre voiture.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'aide immédiate ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour batterie à plat. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "serviceAccu": {
+      "seo": {
+        "title": "Service batterie | Dépannage & remplacement 24/7",
+        "description": "Problèmes de batterie ? Disponible 24/7 pour un service rapide, remplacement et démarrage. Nous intervenons immédiatement.",
+        "keywords": "service batterie, remplacement batterie, démarrage, aide batterie, batterie voiture à plat",
+        "imageAlt": "Service batterie"
+      },
+      "hero": {
+        "badge": "Service batterie",
+        "title": {
+          "part1": "Problèmes de batterie ?",
+          "part2": "Nous vous aidons immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "En quoi consiste notre service batterie ?",
+        "subtitle": "Nous intervenons rapidement en cas de problème de batterie, remplaçons la batterie sur place et vous remettant en route en toute sécurité.",
+        "imageAlt": "Aide service batterie",
+        "items": [
+          { "title": "Diagnostic rapide", "description": "Nous vérifions immédiatement votre batterie et les systèmes électriques." },
+          { "title": "Service de démarrage", "description": "Nous démarrons votre voiture rapidement et en toute sécurité si possible." },
+          { "title": "Remplacement de batterie", "description": "Si nécessaire, nous remplaçons votre batterie sur place." },
+          { "title": "Disponible 24/7", "description": "Aide à toute heure, où que vous soyez." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et vérifier ou remplacer votre batterie.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'un service batterie ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour problèmes de batterie, démarrage et remplacement. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "accuServiceAanHuis": {
+      "seo": {
+        "title": "Service batterie à domicile | Dépannage & remplacement 24/7",
+        "description": "Besoin d'un service batterie à domicile ? Disponible 24/7 pour une aide rapide, remplacement et démarrage chez vous. Nous intervenons immédiatement.",
+        "keywords": "service batterie à domicile, remplacement batterie domicile, démarrage, aide batterie, batterie voiture à plat",
+        "imageAlt": "Service batterie à domicile"
+      },
+      "hero": {
+        "badge": "Service batterie à domicile",
+        "title": {
+          "part1": "Besoin d'un service batterie à domicile ?",
+          "part2": "Nous venons chez vous immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "En quoi consiste le service batterie à domicile ?",
+        "subtitle": "Nous intervenons chez vous pour tout problème de batterie, remplaçons la batterie sur place et vous remettons en route rapidement.",
+        "imageAlt": "Aide service batterie à domicile",
+        "items": [
+          { "title": "Remplacement de batterie à domicile", "description": "Nous remplaçons votre batterie directement chez vous." },
+          { "title": "Service de démarrage sur place", "description": "Nous démarrons votre voiture rapidement et en toute sécurité chez vous." },
+          { "title": "Diagnostic rapide", "description": "Nous vérifions votre batterie et les systèmes électriques sur place." },
+          { "title": "Disponible 24/7", "description": "Aide à toute heure, où que vous habitiez." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et vérifier ou remplacer votre batterie à domicile.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'un service batterie à domicile ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour problèmes de batterie, démarrage et remplacement à domicile. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "accuVervangenAanHuis": {
+      "seo": {
+        "title": "Remplacement de batterie à domicile | Dépannage & remplacement 24/7",
+        "description": "Besoin d'un remplacement de batterie à domicile ? Disponible 24/7 pour un remplacement rapide et une aide chez vous. Nous intervenons immédiatement.",
+        "keywords": "remplacement batterie domicile, remplacement batterie, aide batterie, batterie voiture à plat, service batterie",
+        "imageAlt": "Remplacement de batterie à domicile"
+      },
+      "hero": {
+        "badge": "Remplacement de batterie à domicile",
+        "title": {
+          "part1": "Besoin d'un remplacement de batterie à domicile ?",
+          "part2": "Nous venons chez vous immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "En quoi consiste le remplacement de batterie à domicile ?",
+        "subtitle": "Nous intervenons chez vous pour remplacer votre batterie, afin que vous puissiez repartir rapidement.",
+        "imageAlt": "Aide remplacement batterie à domicile",
+        "items": [
+          { "title": "Remplacement de batterie à domicile", "description": "Nous remplaçons votre batterie directement chez vous." },
+          { "title": "Diagnostic rapide", "description": "Nous vérifions votre batterie et les systèmes électriques sur place." },
+          { "title": "Démarrage si besoin", "description": "Nous démarrons votre voiture rapidement et en toute sécurité après remplacement." },
+          { "title": "Disponible 24/7", "description": "Aide à toute heure, où que vous habitiez." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et remplacer votre batterie à domicile.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'un remplacement de batterie à domicile ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour remplacement de batterie à domicile. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "vervangenAccuAuto": {
+      "seo": {
+        "title": "Remplacement batterie voiture | Dépannage & remplacement 24/7",
+        "description": "Remplacement de la batterie de votre voiture ? Disponible 24/7 pour un remplacement rapide et une aide immédiate. Nous venons chez vous.",
+        "keywords": "remplacement batterie voiture, batterie voiture à plat, service batterie, aide batterie",
+        "imageAlt": "Remplacement batterie voiture"
+      },
+      "hero": {
+        "badge": "Remplacement batterie voiture",
+        "title": {
+          "part1": "Remplacement de la batterie de votre voiture ?",
+          "part2": "Nous venons chez vous immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "En quoi consiste le remplacement de la batterie de votre voiture ?",
+        "subtitle": "Nous remplaçons votre batterie rapidement et professionnellement, pour que vous puissiez reprendre la route en toute sécurité.",
+        "imageAlt": "Aide remplacement batterie voiture",
+        "items": [
+          { "title": "Remplacement professionnel", "description": "Nous remplaçons votre batterie selon les spécifications du constructeur." },
+          { "title": "Service rapide", "description": "Nous intervenons rapidement, où que vous soyez." },
+          { "title": "Démarrage si besoin", "description": "Nous démarrons votre voiture en toute sécurité après remplacement." },
+          { "title": "Disponible 24/7", "description": "Aide à toute heure, partout en France." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et remplacer votre batterie où que vous soyez.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'un remplacement de batterie voiture ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour remplacement de batterie. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "accuVervangenAuto": {
+      "seo": {
+        "title": "Remplacement batterie voiture | Dépannage & remplacement 24/7",
+        "description": "Remplacement de la batterie de votre voiture ? Disponible 24/7 pour un remplacement rapide et une aide immédiate. Nous venons chez vous.",
+        "keywords": "remplacement batterie voiture, batterie voiture à plat, service batterie, aide batterie",
+        "imageAlt": "Remplacement batterie voiture"
+      },
+      "hero": {
+        "badge": "Remplacement batterie voiture",
+        "title": {
+          "part1": "Remplacement de la batterie de votre voiture ?",
+          "part2": "Nous venons chez vous immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "En quoi consiste le remplacement de la batterie de votre voiture ?",
+        "subtitle": "Nous remplaçons votre batterie rapidement et professionnellement, pour que vous puissiez reprendre la route en toute sécurité.",
+        "imageAlt": "Aide remplacement batterie voiture",
+        "items": [
+          { "title": "Remplacement professionnel", "description": "Nous remplaçons votre batterie selon les spécifications du constructeur." },
+          { "title": "Service rapide", "description": "Nous intervenons rapidement, où que vous soyez." },
+          { "title": "Démarrage si besoin", "description": "Nous démarrons votre voiture en toute sécurité après remplacement." },
+          { "title": "Disponible 24/7", "description": "Aide à toute heure, partout en France." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et remplacer votre batterie où que vous soyez.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'un remplacement de batterie voiture ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour remplacement de batterie. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "autoAccuVervangenAanHuis": {
+      "seo": {
+        "title": "Remplacement batterie voiture à domicile | Dépannage & remplacement 24/7",
+        "description": "Remplacement de la batterie de votre voiture à domicile ? Disponible 24/7 pour un remplacement rapide et une aide immédiate chez vous. Nous venons chez vous.",
+        "keywords": "remplacement batterie voiture à domicile, batterie voiture à plat, service batterie, aide batterie",
+        "imageAlt": "Remplacement batterie voiture à domicile"
+      },
+      "hero": {
+        "badge": "Remplacement batterie voiture à domicile",
+        "title": {
+          "part1": "Remplacement de la batterie de votre voiture à domicile ?",
+          "part2": "Nous venons chez vous immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "En quoi consiste le remplacement de la batterie de votre voiture à domicile ?",
+        "subtitle": "Nous venons chez vous pour remplacer votre batterie, afin que vous puissiez reprendre la route rapidement.",
+        "imageAlt": "Aide remplacement batterie voiture à domicile",
+        "items": [
+          { "title": "Remplacement à domicile", "description": "Nous remplaçons votre batterie de voiture directement chez vous." },
+          { "title": "Diagnostic rapide", "description": "Nous vérifions votre batterie et les systèmes électriques sur place." },
+          { "title": "Démarrage si besoin", "description": "Nous démarrons votre voiture rapidement et en toute sécurité après remplacement." },
+          { "title": "Disponible 24/7", "description": "Aide à toute heure, où que vous habitiez." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et remplacer votre batterie chez vous.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'un remplacement de batterie à domicile ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour remplacement de batterie à domicile. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "accuAutoVervangen": {
+      "seo": {
+        "title": "Remplacement batterie voiture | Dépannage & remplacement 24/7",
+        "description": "Remplacement de la batterie de votre voiture ? Disponible 24/7 pour un remplacement rapide et une aide immédiate. Nous venons chez vous.",
+        "keywords": "remplacement batterie voiture, batterie voiture à plat, service batterie, aide batterie",
+        "imageAlt": "Remplacement batterie voiture"
+      },
+      "hero": {
+        "badge": "Remplacement batterie voiture",
+        "title": {
+          "part1": "Remplacement de la batterie de votre voiture ?",
+          "part2": "Nous venons chez vous immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "En quoi consiste le remplacement de la batterie de votre voiture ?",
+        "subtitle": "Nous remplaçons votre batterie rapidement et professionnellement, pour que vous puissiez reprendre la route en toute sécurité.",
+        "imageAlt": "Aide remplacement batterie voiture",
+        "items": [
+          { "title": "Remplacement professionnel", "description": "Nous remplaçons votre batterie selon les spécifications du constructeur." },
+          { "title": "Service rapide", "description": "Nous intervenons rapidement, où que vous soyez." },
+          { "title": "Démarrage si besoin", "description": "Nous démarrons votre voiture en toute sécurité après remplacement." },
+          { "title": "Disponible 24/7", "description": "Aide à toute heure, partout en France." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et remplacer votre batterie où que vous soyez.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'un remplacement de batterie voiture ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour remplacement de batterie. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "accuLatenVervangenAanHuis": {
+      "seo": {
+        "title": "Remplacement batterie à domicile | Dépannage & remplacement 24/7",
+        "description": "Remplacement de la batterie à domicile ? Disponible 24/7 pour un remplacement rapide et une aide immédiate chez vous. Nous venons chez vous.",
+        "keywords": "remplacement batterie à domicile, batterie voiture à plat, service batterie, aide batterie",
+        "imageAlt": "Remplacement batterie à domicile"
+      },
+      "hero": {
+        "badge": "Remplacement batterie à domicile",
+        "title": {
+          "part1": "Remplacement de la batterie à domicile ?",
+          "part2": "Nous venons chez vous immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "En quoi consiste le remplacement de la batterie à domicile ?",
+        "subtitle": "Nous venons chez vous pour remplacer votre batterie, afin que vous puissiez reprendre la route rapidement.",
+        "imageAlt": "Aide remplacement batterie à domicile",
+        "items": [
+          { "title": "Remplacement à domicile", "description": "Nous remplaçons votre batterie directement chez vous." },
+          { "title": "Diagnostic rapide", "description": "Nous vérifions votre batterie et les systèmes électriques sur place." },
+          { "title": "Démarrage si besoin", "description": "Nous démarrons votre voiture rapidement et en toute sécurité après remplacement." },
+          { "title": "Disponible 24/7", "description": "Aide à toute heure, où que vous habitiez." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et remplacer votre batterie chez vous.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'un remplacement de batterie à domicile ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour remplacement de batterie à domicile. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "autoAccuVervangen": {
+      "seo": {
+        "title": "Remplacement batterie voiture | Dépannage & remplacement 24/7",
+        "description": "Remplacement de la batterie de votre voiture ? Disponible 24/7 pour un remplacement rapide et une aide immédiate. Nous venons chez vous.",
+        "keywords": "remplacement batterie voiture, batterie voiture à plat, service batterie, aide batterie",
+        "imageAlt": "Remplacement batterie voiture"
+      },
+      "hero": {
+        "badge": "Remplacement batterie voiture",
+        "title": {
+          "part1": "Remplacement batterie voiture ?",
+          "part2": "Nous venons chez vous immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "En quoi consiste le remplacement de la batterie de votre voiture ?",
+        "subtitle": "Nous remplaçons votre batterie rapidement et professionnellement, pour que vous puissiez reprendre la route en toute sécurité.",
+        "imageAlt": "Aide remplacement batterie voiture",
+        "items": [
+          { "title": "Remplacement professionnel", "description": "Nous remplaçons votre batterie selon les spécifications du constructeur." },
+          { "title": "Service rapide", "description": "Nous intervenons rapidement, où que vous soyez." },
+          { "title": "Démarrage si besoin", "description": "Nous démarrons votre voiture en toute sécurité après remplacement." },
+          { "title": "Disponible 24/7", "description": "Aide à toute heure, partout en France." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et remplacer votre batterie où que vous soyez.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'un remplacement de batterie voiture ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour remplacement de batterie. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
+    },
+        "accuLatenVervangen": {
+      "seo": {
+        "title": "Remplacement batterie | Dépannage & remplacement 24/7",
+        "description": "Remplacement de la batterie ? Disponible 24/7 pour un remplacement rapide et une aide immédiate. Nous venons chez vous.",
+        "keywords": "remplacement batterie, batterie voiture à plat, service batterie, aide batterie",
+        "imageAlt": "Remplacement batterie"
+      },
+      "hero": {
+        "badge": "Remplacement batterie",
+        "title": {
+          "part1": "Remplacement batterie ?",
+          "part2": "Nous venons chez vous immédiatement"
+        },
+        "subtitle": "Besoin d'aide immédiate ? Disponible 24/7.",
+        "phone": "0852502928",
+        "cta": "Appelez maintenant : 085-250 29 28",
+        "whatsapp": "WhatsApp"
+      },
+      "tips": {
+        "title": "En quoi consiste le remplacement de la batterie ?",
+        "subtitle": "Nous remplaçons votre batterie rapidement et professionnellement, pour que vous puissiez reprendre la route en toute sécurité.",
+        "imageAlt": "Aide remplacement batterie",
+        "items": [
+          { "title": "Remplacement professionnel", "description": "Nous remplaçons votre batterie selon les spécifications du constructeur." },
+          { "title": "Service rapide", "description": "Nous intervenons rapidement, où que vous soyez." },
+          { "title": "Démarrage si besoin", "description": "Nous démarrons votre voiture en toute sécurité après remplacement." },
+          { "title": "Disponible 24/7", "description": "Aide à toute heure, partout en France." }
+        ]
+      },
+      "locatiesectie": {
+        "title": "Partagez votre position pour obtenir de l'aide",
+        "description": "Partagez votre position pour que nous puissions intervenir rapidement et remplacer votre batterie où que vous soyez.",
+        "imageAlt": "Partager la position pour obtenir de l'aide"
+      },
+      "locatiebutton": {
+        "sendLocation": "Partager la position",
+        "loading": "Chargement...",
+        "confirmSend": "Cliquez à nouveau pour envoyer",
+        "errors": {
+          "notSupported": "Le partage de position n'est pas supporté par votre navigateur.",
+          "failed": "Impossible d'obtenir votre position. Réessayez ou vérifiez vos paramètres."
+        }
+      },
+      "emergency": {
+        "title": "Besoin d'un remplacement de batterie ? Appelez maintenant !",
+        "subtitle": "Disponible 24/7 pour remplacement de batterie. Intervention rapide, aide toujours sécurisée.",
+        "phone": "085-250 29 28",
+        "phoneSubtitle": "En liaison directe avec notre service d'aide"
+      }
     }
 }
