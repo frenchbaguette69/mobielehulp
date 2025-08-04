@@ -170,6 +170,9 @@ export default async function LocaleLayout({
                   <span className="block mt-2">
                     © 2025 Pechhulp Nederland. Alle rechten voorbehouden.
                   </span>
+                  <a href="https://upseo.nl/website-laten-maken" target="_blank" rel="noopener noreferrer">
+  website laten maken 
+</a>
                 </div>
               </footer>
       </div>
