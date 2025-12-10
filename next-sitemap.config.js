@@ -352,6 +352,7 @@ module.exports = {
     ],
     additionalSitemaps: [
       'https://mobielehulp.nl/sitemap.xml',
+      'https://mobielehulp.nl/location-sitemap.xml',
     ],
     transformRobotsTxt: async (_, robotsTxt) => {
       return `${robotsTxt}
@@ -361,6 +362,7 @@ Crawl-delay: 1
 
 # Important pages
 Sitemap: https://mobielehulp.nl/sitemap.xml
+Sitemap: https://mobielehulp.nl/location-sitemap.xml
 
 # Contact information
 # 24/7 Pechhulp & Mobiele Hulp Nederland
