@@ -39,9 +39,16 @@ export function middleware(request: NextRequest) {
 
   if (pathnameHasLocale) return
 
-  // Redirect to locale-prefixed path
+  // Route requests without an explicit locale
   const locale = getLocale(request)
   const newUrl = new URL(`/${locale}${pathname}`, request.url)
+
+  // Keep the default locale on the root path without forcing /nl in the URL
+  if (locale === defaultLocale) {
+    return NextResponse.rewrite(newUrl)
+  }
+
+  // Non-default locales still get redirected to their prefixed path
   return NextResponse.redirect(newUrl)
 }
 
