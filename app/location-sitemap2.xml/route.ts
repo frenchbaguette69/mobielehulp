@@ -3,15 +3,17 @@ import { topics } from "@/app/data/topics";
 import { canonicalSlug, normalize } from "@/lib/slug";
 
 const SITE_URL = (process.env.SITE_URL || "https://mobielehulp.nl").replace(/\/$/, "");
+const defaultLocale = "nl";
 // Deze dynamic route is momenteel alleen voor NL (zie generateStaticParams in app/[locale]/[...slug]/page.tsx)
-const locales = ["nl"];
+const locales = [defaultLocale];
 export const revalidate = 86_400; // 1 dag
 
 function buildLocationPaths() {
   const paths = new Set<string>();
 
   locales.forEach((locale) => {
-    const prefix = `/${locale}`;
+    // Default locale should not include the locale prefix in the URL
+    const prefix = locale === defaultLocale ? "" : `/${locale}`;
 
     topics.forEach((topic) => {
       plaatsen.forEach((plaats) => {
