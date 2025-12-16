@@ -1,25 +1,31 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-  siteUrl: process.env.SITE_URL || 'https://mobielehulp.nl',
+  siteUrl: 'https://mobielehulp.nl',
   generateRobotsTxt: true,
   generateIndexSitemap: true,
-  sitemapSize: 7000, // Auto-split bij >7000 pages
+  sitemapSize: 5000,
   
-  // ✅ AUTO-DETECT ALLE STATIC ROUTES (incl. /nl/plaats/topic)
   transform: async (config, path) => {
-    // Exclude dynamische/unwanted paths
-    if (path.match(/\/_next|\/api|\/admin|\.json$/)) return null;
+    // ✅ KILL ALLE BROKEN/NIET-GEWENSTE PATHS
+    if (
+      path.includes('location-sitemap') ||      // ❌ Broken reference
+      path.match(/\/(de|en|fr)\//) ||           // ❌ Andere talen
+      path.match(/\/nl\/[^\/]+\/[^\/]+\/.+/) || // ❌ Te diepe nesting
+      path.match(/\/_next|\/api|\.json$/)       // ❌ Tech paths
+    ) {
+      return null;
+    }
     
-    // Hoog priority voor location pages
-    const isLocationPage = path.match(/\/nl\/[^\/]+\/[^\/]+$/);
-    const priority = isLocationPage ? 0.85 : 0.7;
+    // ✅ BOOST LOCATION PAGES: /plaats/topic of /nl/plaats/topic
+    const isLocationPage = path.match(/(\/[^\/]+\/[^\/]+\/?$)|\/nl\/[^\/]+\/[^\/]+\/?$/);
+    const priority = isLocationPage ? 0.9 : (path === '/' ? 1.0 : 0.8);
     const changefreq = isLocationPage ? 'weekly' : 'monthly';
     
     return {
       loc: path,
-      changefreq,
-      priority,
       lastmod: new Date().toISOString(),
+      changefreq,
+      priority
     };
   },
   
@@ -27,8 +33,13 @@ module.exports = {
     policies: [{
       userAgent: '*',
       allow: '/',
-      disallow: ['/api/*', '/_next/*']
+      disallow: [
+        '/api/*', 
+        '/_next/*', 
+        '/de/*', '/en/*', '/fr/*',      // ✅ NO ANDERE TALEN
+        'location-sitemap*'              // ✅ NO BROKEN FILES
+      ]
     }],
-    additionalSitemaps: ['https://mobielehulp.nl/sitemaps.xml']
+    additionalSitemaps: ['https://mobielehulp.nl/sitemap.xml'] // ✅ ALLEEN HOOFDMAP
   }
 };
